@@ -37,8 +37,8 @@ section_id: people
     </div>
 
     <div class='small-7 medium-9 columns'>
-      <h3>{{member.name}}</h3>
-      <p>{{member.position}}</p>
+      <h3 class='name'>{{member.name}}</h3>
+      <p class='pos'>{{member.position}}</p>
       <p>{{member.desc}}</p>
       <ul class='socials'>
         {% for social in member.socials %}
@@ -69,8 +69,8 @@ section_id: people
     </div>
 
     <div class='small-7 medium-9 columns'>
-      <h3>{{member.name}}</h3>
-      <p>{{member.position}}</p>
+      <h3 class='name'>{{member.name}}</h3>
+      <p class='pos'>{{member.position}}</p>
       <p>{{member.desc}}</p>
       <ul class='socials'>
         {% for social in member.socials %}
@@ -92,7 +92,7 @@ section_id: people
       <div class='small-5 medium-3 columns people'>
          <img class="avatar" alt="" src="{{ member.avatar }}" />
 
-         <h3>{{member.name}}</h3>
+         <h3 class='name small'>{{member.name}}</h3>
           <ul class='socials'>
             {% for social in member.socials %}
               <li>
@@ -106,3 +106,4 @@ section_id: people
     {% endfor %}
             </div>
           </div>
+          <div class='two spacing'></div>
