@@ -1,0 +1,38 @@
+- avatar: ../images/stock/member-1.jpg
+  name: Dr Duncan Menzies
+  position: Pipe bagger
+  socials:
+    - link: http://twitter.com/amcph
+      icon: twitter
+    - link: http://github.com/amcph
+      icon: github
+    - link: http://youtube.com/amcph
+      icon: youtube
+    - link: http://amcph.com
+      icon: link
+  desc:
+    Duncan is the master of the craic pipe.
+- avatar: ../images/stock/member-1.jpg
+  name: Dr Laurel Pardue
+  position: Astronaut violinist
+  socials:
+    - link: http://twitter.com
+      icon: twitter
+    - link: http://facebook.com
+      icon: facebook
+    - link: http://dribbble.com
+      icon: dribbble
+  desc:
+    Laurel is definitely better than you at electronics.
+- avatar: ../images/stock/member-1.jpg
+  name: Some Guy
+  position: Masters student (some point-some point)
+  socials:
+    - link: http://twitter.com
+      icon: twitter
+    - link: http://facebook.com
+      icon: facebook
+    - link: http://tumblr.com
+      icon: tumblr
+  desc:
+    This masters student did lots of work.

@@ -1,0 +1,108 @@
+---
+layout: default
+title: People
+section_id: people
+---
+
+<div class='full parallax' style='background-image: url(../images/stock/03.jpg); color: #fff;'>
+  <div class='row'>
+    <div class='twelve columns'>
+      {% include section-header.html title="People" color="#fff" tagline="Members and collaborators" class="big" %}
+    </div>
+  </div>
+  <div class='four spacing'></div>
+</div>
+
+<div class='full'>
+  <div class='row'>
+      <h1>About the lab</h1>
+      <p>Consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing.</p>
+      <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing.</p>
+  </div>
+</div>
+
+
+
+<div class='full'>
+  <div class='row'>
+    <h1>Members</h1>
+  </div>
+    {% for member in site.data.members %}
+ <div class='row'>
+    
+  
+    <div class='small-5 medium-3 columns people'>
+      <img class="avatar team-pic" alt="" src="{{ member.avatar }}" />
+      
+    </div>
+
+    <div class='small-7 medium-9 columns'>
+      <h2>{{member.name}}</h2>
+      <p>{{member.position}}</p>
+      <p>{{member.desc}}</p>
+      <ul class='socials'>
+        {% for social in member.socials %}
+        <li>
+          <a href='{{social.link}}'><i class='fa fa-{{social.icon}}'></i></a>
+        </li>
+        {% endfor %}
+      </ul>
+      
+    </div>
+  </div> <!-- end row -->
+    {% endfor %}
+</div> <!-- end full -->
+  
+
+
+<div class='full'>
+  <div class='row'>
+    <h1>Alumni</h1>
+  </div>
+    {% for member in site.data.alumni %}
+  <div class='row'>
+    
+  
+    <div class='small-5 medium-3 columns people'>
+      <img class="avatar team-pic" alt="" src="{{ member.avatar }}" />
+      
+    </div>
+
+    <div class='small-7 medium-9 columns'>
+      <h2>{{member.name}}</h2>
+      <p>{{member.position}}</p>
+      <p>{{member.desc}}</p>
+      <ul class='socials'>
+        {% for social in member.socials %}
+        <li>
+          <a href='{{social.link}}'><i class='fa fa-{{social.icon}}'></i></a>
+        </li>
+        {% endfor %}
+      </ul>
+      
+    </div>
+  </div> <!-- end row -->
+    {% endfor %}
+</div> <!-- end full -->
+
+<div class='full'>
+  <div class='row'>
+  <h1>Collaborators</h1>
+    {% for member in site.data.collabs %}
+      <div class='small-5 medium-3 columns people'>
+         <img class="avatar" alt="" src="{{ member.avatar }}" />
+
+         <h2>{{member.name}}</h2>
+          <ul class='socials'>
+            {% for social in member.socials %}
+              <li>
+                <a href='{{social.link}}'>
+                  <i class='fa fa-{{social.icon}}'></i>
+                </a>
+              </li>
+            {% endfor %}
+          </ul>
+              </div>
+    {% endfor %}
+            </div>
+          </div>

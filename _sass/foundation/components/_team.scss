@@ -1,0 +1,69 @@
+@import "global";
+
+// First, make a div to contain the picture with text beside it.
+// Developing for mobile first.
+
+
+
+// .socials {
+// 	> ul {
+// 		list-style: none;
+// 		margin: 10px 0 0 0;
+// 		>li {
+// 			display: inline;
+// 			> a {
+// 				width: 2.6rem;
+// 				height: 2.6rem;
+// 				background: #000;
+// 				font-color: #fff;
+// 				padding: 10px;
+// 				font-size: 2rem;
+// 				border-radius: 50%;
+// 				&:hover {
+// 					background: green;
+// 				}
+// 			}
+// 		}
+// 	}
+// }
+.position {
+	font-weight: bold;
+	font-size: 1.5rem;
+}
+
+.people {
+	padding: 0 !important;
+}
+
+ul.socials {
+	padding: 0;
+	margin: 0;
+	
+	> li {
+	display: inline-block;
+	margin-right: .1rem;
+	margin-bottom: .15rem;
+	
+		> a i {
+		  width: 2.5rem;
+		  height: 2.5rem;
+		  -moz-border-radius: 1.25rem;
+		  -webkit-border-radius: 1.25rem;
+		  border-radius: 1.25rem;
+		  background: #F9CE06;
+		  color: #fff;
+		  text-align: center;
+		  font-size: 1.25rem;
+		  line-height: 2.5rem;
+		}
+		> a:hover i {
+			-moz-transition: all 0.2s linear;
+			-o-transition: all 0.2s linear;
+			-webkit-transition: all 0.2s linear;
+			transition: all 0.2s linear;
+			background: #eee;
+			color: #333;
+			
+		}
+	}
+}

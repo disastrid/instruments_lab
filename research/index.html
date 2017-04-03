@@ -1,0 +1,68 @@
+---
+layout: default
+title: Portfolio
+section_id: portfolio
+
+---
+
+
+<div class='full parallax' style='background-image: url(../images/stock/02.jpg); color: #fff;'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      {% include section-header.html title="Research + Projects" color="#fff" class="big" %}
+    </div>
+  </div>
+  <div class='four spacing'></div>
+</div>
+
+
+<div class='full'>
+  <div class='row'>
+    <div class='mod modGallery'>
+      <div class='gallery-nav'>
+        <ul>
+          <li class='current'>
+            <a data-cat='all' href='#'>All</a>
+          </li>
+          <li>
+            <a data-cat='augmented-instruments' href='#'>Augmented Instruments</a>
+          </li>
+          <li>
+            <a data-cat='interface-design' href='#'>Interface Design</a>
+          </li>
+          <li>
+            <a data-cat='accessible-instruments' href='#'>Accessible Instruments</a>
+          </li>
+          <li>
+            <a data-cat='hardware' href='#'>Hardware</a>
+          </li>
+          <li>
+            <a data-cat='sound-design' href='#'>Sound Design</a>
+          </li>
+        </ul>
+      </div>
+
+      <ul class='gallery large-block-grid-4 medium-block-grid-3 small-block-grid-2'>
+
+        {% for project in site.research %}
+
+          <li class="{{ project.tag }}">
+            <a href='{{ project.url }}'>
+              <div class='overlay'>
+              <img alt="" src="{{ project.thumb }}" />
+                <div class='thumb-info'>
+                  <h3>{{ project.title }}</h3>
+                  <p>{{ project.desc }}</p>
+                </div>
+              </div>
+            </a>
+          </li>
+        {% endfor %}
+
+      </ul>
+
+    </div>
+  </div>
+
+  <div class='four spacing'></div>
+</div>

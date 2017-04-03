@@ -1,0 +1,78 @@
+- avatar: ../images/stock/member-1.jpg
+  name: Dr Andrew McPherson
+  position: Group leader
+  socials:
+    - link: http://twitter.com/amcph
+      icon: twitter
+    - link: http://github.com/amcph
+      icon: github
+    - link: http://youtube.com/amcph
+      icon: youtube
+    - link: http://amcph.com
+      icon: link
+  education: S.B. Music, S.B. Electrical Engineering, MIT; M.Eng. Electrical Engineering, MIT; Ph.D. Music Composition, U. Penn. 2009; Postdoc Drexel University MET-lab 2009-2011
+  interests: Composition, actuated instruments, viola, piano, embedded audio systems
+- avatar: ../images/stock/member-4.jpg
+  name: Fabio Morreale
+  position: Post doc
+  socials:
+    - link: http://twitter.com
+      icon: twitter
+    - link: http://facebook.com
+      icon: facebook
+  desc: 
+    Fabio is metal af.
+- avatar: ../images/stock/member-1.jpg
+  name: Liam Donovan
+  position: PhD student (2011-present)
+  socials:
+    - link: http://twitter.com
+      icon: twitter
+    - link: http://facebook.com
+      icon: facebook
+    - link: http://tumblr.com
+      icon: tumblr
+  desc:
+    Liam makes a string bounce up and down.
+- avatar: ../images/stock/member-1.jpg
+  name: Chris Heinrichs
+  position: PhD student (2011-present)
+  socials:
+    - link: http://twitter.com
+      icon: twitter
+    - link: http://facebook.com
+      icon: facebook
+    - link: http://tumblr.com
+      icon: tumblr
+  desc:
+    Chris is some guy.
+- avatar: ../images/stock/member-4.jpg
+  name: Robert Jack
+  position: PhD student (2014-present)
+  socials:
+    - link: http://twitter.com
+      icon: twitter
+    - link: http://facebook.com
+      icon: facebook
+  desc:
+    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
+- avatar: ../images/stock/member-4.jpg
+  name: Astrid Bin
+  position: PhD student (2014-present)
+  socials:
+    - link: http://twitter.com
+      icon: twitter
+    - link: http://facebook.com
+      icon: facebook
+  desc:
+    Astrid is a lifesized human person.
+- avatar: ../images/stock/member-4.jpg
+  name: Giulio Moro
+  position: PhD student (2014-present)
+  socials:
+    - link: http://twitter.com
+      icon: twitter
+    - link: http://facebook.com
+      icon: facebook
+  desc:
+    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.

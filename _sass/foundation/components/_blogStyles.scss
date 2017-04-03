@@ -1,0 +1,168 @@
+@import "global";
+
+.blogFeed {
+  background: #fff;
+  padding: 0 !important;
+  margin: 0 10px;
+  display: inline-block;
+  width: calc(100% - 20px);
+  > img {
+    padding: 0;
+  }
+  > .content {
+    // padding: 30px 20px;
+    font-size: 1.6rem;
+    > a {
+      color: #333;
+    }
+    > a:hover {
+        color: #f9ce06;
+      }
+    > a.read-more-button {
+      background: #f9ce06;
+      color: #fff;
+      padding: 10px;
+      font-size: 1.2rem;
+      width: 50%;
+      float: right;
+    
+      &:hover {
+        background: #aaa;
+        color: #fff;
+      }
+    }
+  }
+}
+
+.team-pic {
+  margin-top: 10px;
+}
+
+.news-back {
+  font-size: 1rem;
+  
+  &:hover {
+    color: #f9ce06;
+  }
+}
+
+.read-more-blog {
+  float: right;
+  font-size: 1rem;
+  font-weight: bold;
+  color: #333;
+  &:hover {
+    color: #f9ce06;
+  }
+}
+
+.lead-text {
+  color: #333;
+  font-size: 2em;
+}
+
+.info {
+  text-transform: capitalize;
+  font-size: 1.5rem;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  color: #aaa;
+}
+
+.modBlogPost {
+  margin-bottom: 40px;
+  background: #fff;
+}
+.modBlogPost .content {
+  padding: 30px 20px;
+}
+.modBlogPost h4 a {
+  color: #333;
+}
+.modBlogPost h4 a:hover {
+  color: #f9ce06;
+}
+.modBlogPost .date {
+  font-size: 0.78571rem;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  color: #ccc;
+  margin-bottom: 5px;
+}
+.modBlogPost .tags {
+  padding: 5px 0;
+}
+.modBlogPost .tags a {
+  font-style: italic;
+}
+.modBlogPost img {
+  width: 100%;
+}
+.modBlogPost a:hover img {
+  -moz-transition-duration: 0.5s;
+  -o-transition-duration: 0.5s;
+  -webkit-transition-duration: 0.5s;
+  transition-duration: 0.5s;
+  opacity: 0.5;
+}
+.modBlogPost .slick-slider {
+  margin-bottom: 0;
+}
+.modBlogPost .images .slick-dots {
+  margin: 0;
+}
+.modBlogPost .images .slick-dots li button:before {
+  font-size: 30px;
+  top: -65px;
+}
+
+.modBlogPost.big {
+  width: 97%;
+}
+.modBlogPost.big .content {
+  padding: 50px 40px;
+}
+
+.modBlogPost.big h3 {
+  font-size: 2.5rem;
+}
+.modBlogPost.big h3 a {
+  color: #333;
+}
+.modBlogPost.big h3 a:hover {
+  color: #f9ce06;
+}
+.modBlogPost.big h4 {
+  font-size: 1.7rem;
+}
+.modBlogPost.big h5 {
+  font-size: 1.15rem;
+}
+.modBlogPost.big a:hover img {
+  opacity: 1;
+}
+.modBlogPost.big blockquote {
+  color: #ccc;
+  font-style: italic;
+  letter-spacing: 1px;
+  font-size: 1.7rem;
+  padding: 0 20px;
+}
+
+.modBlogPost.masonry {
+  width: 343px;
+  height: auto;
+  overflow: hidden;
+}
+
+.modBlogPost.no_bg {
+  background: none;
+}
+.modBlogPost.no_bg .content {
+  padding: 30px 0 10px;
+  background: none;
+}
+
+.modBlogPost.no_bg.no-media .content {
+  padding: 0 0 10px;
+}

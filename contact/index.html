@@ -1,0 +1,53 @@
+---
+layout: default
+title: Contact
+section_id: contact
+---
+
+<div class='full parallax' style='background-image: url(../images/stock/03.jpg); color: #fff;'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      {% include section-header.html title="Contact Us" color="#fff" class="big" %}
+    </div>
+  </div>
+  <div class='four spacing'></div>
+</div>
+
+  <div class='full'>
+    <div class='row'>
+      <div class='medium-8 columns'>
+        <div class='form'>
+          <div class='row'>
+            <form id='contact_form' method='POST'>
+              <div class='large-12 columns'>
+                <p id='thanks' style='display: none;'>
+                  Drop us a line.
+                </p>
+              </div>
+              <div class='medium-12 columns'>
+                <input class='required' name='name' placeholder='NAME' type='text'>
+                <input class='required email' name='email' placeholder='EMAIL' type='text'>
+                <input class='required' name='subject' placeholder='SUBJECT' type='text'>
+                <textarea class='required' name='message' placeholder='MESSAGE'></textarea>
+                <input class='button white' type='submit'>
+              </div>
+            </form>
+          </div>
+        </div>
+        <div class='two spacing'></div>
+      </div>
+      <div class='medium-4 columns'>
+        <div class='contact-details'>
+          <h4>Our location:</h4>
+          <p>Queen Mary University of London
+          <br />Mile End Road
+          <br />London, UK 
+          <br />E1 4NS</p>
+          <h4>Our email:</h4>
+          <p>hello@instrumentslab.org</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class='four spacing'></div>
+</div>

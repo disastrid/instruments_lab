@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "NIME!"
+categories: events
+url: www.nime2017.org
+---
+
+NIME! it's nime time

@@ -1,0 +1,48 @@
+- avatar: ../images/stock/member-1.jpg
+  name: Drake Music
+  position: Group leader
+  socials:
+    - link: http://twitter.com/amcph
+      icon: twitter
+    - link: http://github.com/amcph
+      icon: github
+    - link: http://youtube.com/amcph
+      icon: youtube
+    - link: http://amcph.com
+      icon: link
+  desc:
+    Gawain is nice guy.
+- avatar: ../images/stock/member-1.jpg
+  name: Roli Instruments
+  position: 
+  socials:
+    - link: http://twitter.com
+      icon: twitter
+    - link: http://facebook.com
+      icon: facebook
+    - link: http://dribbble.com
+      icon: dribbble
+  desc:
+    Roli make things go boopboop.
+- avatar: ../images/stock/member-1.jpg
+  name: Music Hack Space
+  position: 
+  socials:
+    - link: http://twitter.com
+      icon: twitter
+    - link: http://facebook.com
+      icon: facebook
+    - link: http://dribbble.com
+      icon: dribbble
+- avatar: ../images/stock/member-1.jpg
+  name: One Handed Instrument Trust
+  position: 
+  socials:
+    - link: http://twitter.com
+      icon: twitter
+    - link: http://facebook.com
+      icon: facebook
+    - link: http://dribbble.com
+      icon: dribbble
+  desc:
+    Roli make things go boopboop.
