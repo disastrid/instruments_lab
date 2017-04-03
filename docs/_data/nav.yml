@@ -2,7 +2,7 @@
   path: index.html
   section_id: home
 - name: News
-  path: news/
+  path: {{site.url}}/news/
   section_id: blog
 - name: People
   path: people/
