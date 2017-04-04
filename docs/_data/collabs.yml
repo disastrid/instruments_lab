@@ -4,11 +4,7 @@
   socials:
     - link: http://twitter.com/amcph
       icon: twitter
-    - link: http://github.com/amcph
-      icon: github
-    - link: http://youtube.com/amcph
-      icon: youtube
-    - link: http://amcph.com
+    - link: http://#
       icon: link
   desc:
     Gawain is nice guy.
@@ -18,10 +14,8 @@
   socials:
     - link: http://twitter.com
       icon: twitter
-    - link: http://facebook.com
-      icon: facebook
-    - link: http://dribbble.com
-      icon: dribbble
+    - link: http://#
+      icon: link
   desc:
     Roli make things go boopboop.
 - avatar: ../images/stock/member-1.jpg
@@ -30,19 +24,13 @@
   socials:
     - link: http://twitter.com
       icon: twitter
-    - link: http://facebook.com
-      icon: facebook
-    - link: http://dribbble.com
-      icon: dribbble
+    - link: http://#
+      icon: link
 - avatar: ../images/stock/member-1.jpg
   name: One Handed Instrument Trust
   position: 
   socials:
-    - link: http://twitter.com
-      icon: twitter
-    - link: http://facebook.com
-      icon: facebook
-    - link: http://dribbble.com
-      icon: dribbble
+    - link: http://#
+      icon: link
   desc:
-    Roli make things go boopboop.
+    Look mum, one hand
