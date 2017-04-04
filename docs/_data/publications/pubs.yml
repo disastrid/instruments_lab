@@ -1,0 +1,34 @@
+_2017:
+  - title: A title
+    authors: S. Dude, T. Guy, T. Girl
+    venue: Computer Music Journal
+    vol: 12
+    issue: 1
+    link: http://www.this.com
+  - title: Another title
+    authors: S. Dude, T. Guy, T. Girl
+    venue: Computer Music Journal
+    vol: 12
+    issue: 1
+    link: http://www.this.com
+  - title: A last title
+    authors: S. Dude, T. Guy, T. Girl
+    venue: Computer Music Journal
+    vol: 12
+    issue: 1
+    link: http://www.this.com
+_2016:
+  - title: My Great Paper
+    authors: S. Dude, T. Guy, T. Girl
+    venue: NIME
+    link: http://www.this.com
+  - title: A not so great paper
+    authors: S. Dude, T. Guy, T. Girl
+    venue: NIME
+    link: http://www.this.com
+_2015:
+  - title: The Very Greatest Thing
+    authors: S. Dude, T. Guy, T. Girl
+    venue: TEI
+    city: Eindhoven
+    link: http://www.this.com

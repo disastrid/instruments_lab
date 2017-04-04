@@ -1,0 +1,21 @@
+- title: A title
+  authors: S. Dude, T. Guy, T. Girl
+  venue: Computer Music Journal
+  city: New York
+  link: http://www.this.com
+  pdf: http://here.com
+  year: 2017
+- title: Another title
+  authors: S. Dude, T. Guy, T. Girl
+  venue: Computer Music Journal
+  vol: 12
+  issue: 1
+  pdf: http://www.this.com
+  year: 2017
+- title: A last title
+  authors: S. Dude, T. Guy, T. Girl
+  venue: Computer Music Journal
+  vol: 12
+  issue: 1
+  pdf: http://www.this.com
+  year: 2017
