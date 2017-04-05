@@ -141,6 +141,7 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
           position: fixed;
           width: 100%;
           z-index: 99;
+
         }
         // Ensure you can scroll the menu on small screens
         .top-bar-section {
@@ -195,6 +196,7 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
       .title-area {
         position: relative;
         margin: 0;
+        margin-top: -20px;
       }
 
       .name {

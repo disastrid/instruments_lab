@@ -496,3 +496,15 @@ $cursor-text-value: text !default;
     margin-left: -20px;
   }
 }
+
+.team-section {
+  margin-bottom: 20px;
+}
+
+ul.event-list {
+  margin-left: 0;
+  list-style: none;
+  > li h3 {
+    font-size: 1.5em;
+  }
+}
