@@ -37,7 +37,9 @@
 
 
 .news-back {
-  font-size: 1rem;
+  font-size: 1.2rem;
+  font-weight: bolder;
+  margin-top: -1.2rem;
   
   &:hover {
     color: #f9ce06;
@@ -61,7 +63,7 @@
 
 .info {
   text-transform: capitalize;
-  font-size: 1.5rem;
+  font-size: 1rem;
   text-transform: uppercase;
   letter-spacing: 3px;
   color: #aaa;

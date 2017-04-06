@@ -17,8 +17,8 @@ $header-bottom-margin: .5rem !default;
 $header-text-rendering: optimizeLegibility !default;
 
 // We use these to control header font sizes
-$h1-font-size: rem-calc(44) !default;
-$h2-font-size: rem-calc(37) !default;
+$h1-font-size: rem-calc(40) !default;
+$h2-font-size: rem-calc(33) !default;
 $h3-font-size: rem-calc(27) !default;
 $h3-section-title: rem-calc(30);
 $h4-font-size: rem-calc(23) !default;
@@ -47,7 +47,7 @@ $small-font-color: scale-color($header-font-color, $lightness: 35%) !default;
 // We use these to style paragraphs
 $paragraph-font-family: inherit !default;
 $paragraph-font-weight: 300 !default;
-$paragraph-font-size: 1.2rem !default;
+$paragraph-font-size: 1rem !default;
 $paragraph-line-height: 1.6 !default;
 $paragraph-margin-bottom: rem-calc(20) !default;
 $paragraph-aside-font-size: rem-calc(14) !default;
