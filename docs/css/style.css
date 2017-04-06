@@ -931,7 +931,8 @@ ul.shortcode-list i {
   line-height: 60px;
 }
 .f-topbar-fixed.shrink .top-bar .title-area img, .f-topbar-fixed.shrink .top-bar .title-area li img, .f-topbar-fixed.shrink .top-bar .title-area a img {
-  width: 70%;
+  height: 121%;
+  width: auto;
 }
 
 .contain-to-grid.fullwidth .top-bar {
