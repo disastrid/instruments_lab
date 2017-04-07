@@ -134,7 +134,7 @@ slides:
             {% unless forloop.first %}
               {% break %}
             {% endunless %}
-            <img alt="" src="{{post.front-image}}" />
+            <img alt="" src="{{site.url}}{{post.front-image}}" />
           {% endfor %}
           <div class='content'>
             <p class='date'>{{post.date | date: "%B %d, %Y" }}</p>
