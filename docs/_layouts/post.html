@@ -2,8 +2,10 @@
 layout: blog
 section_id: blog
 ---
+{% if page.categories contains 'news' %}
+{% include news-nav.html %}
+{% endif %}
 
-<p><a class='news-back' href='/news'><< Back to news page</a></p>
 <div class='row'>
   <div class='large-12 columns'>
     <div class='mod modBlogPost big'>
