@@ -37,7 +37,7 @@ section_id: portfolio
         {% for post in site.research %}
 
           <li class="{{ post.tag }}">
-            <a href='{{site.url}}/research/{{ post.url }}'>
+            <a href='{{site.url}}{{ post.url }}'>
               <img src="{{ site.url }}/{{ post.thumb }}" />
               <div class='overlay'>
                 <div class='thumb-info'>
