@@ -1,12 +1,12 @@
 ---
 layout: research
 title:  "MOAI"
-tag: instrument-design
-desc: Instrument Design
+tag: "instrument-design studies"
+tagline: A percussion instrument.
 categories: research
-thumb: "../images/stock/work-2.jpg"
-author: Astrid
-main-image: ../images/06.jpg
+thumb: images/stock/work-2.jpg
+collaborators: "Astrid Bin"
+main-image: /images/stock/06.jpg
 ---
 
 MOAI! So cool!

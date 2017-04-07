@@ -2,7 +2,7 @@
 layout: research
 title:  "Tiles"
 tagline: A project about tiles.
-tag: instrument-design
+tag: [research-tools, instrument-design]
 desc: Research tools
 categories: research
 thumb: ../images/stock/work-2.jpg
