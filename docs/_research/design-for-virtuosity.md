@@ -4,8 +4,8 @@ title:  "Design for Virtuosity"
 tag: research-projects
 tagline: An ongoing body of research
 categories: research
-thumb: images/stock/work-2.jpg
-main-image: images/stock/06.jpg
+thumb: /images/stock/work-2.jpg
+main-image: /images/stock/06.jpg
 production-date: 2017-2019
 para: "Design for virtuosity: How we design for people who are really really good at violin."
 links: ["google.com", "facebook.com"]
