@@ -69,23 +69,23 @@ jQuery(document).foundation();
 
     });
 
-    $('form#contact_form').validate({
-      messages: { },
-      submitHandler: function(form) {
-        $.ajax({
-          type: 'POST',
-          url: 'send.php',
-          data: $(form).serialize(),
-          success: function(data) {
-            if(data.match(/success/)) {
-              $(form).trigger('reset');
-              $('#thanks').show().fadeOut(5000);
-            }
-          }
-        });
-        return false;
-      }
-    });
+    // $('form#contact_form').validate({
+    //   messages: { },
+    //   submitHandler: function(form) {
+    //     $.ajax({
+    //       type: 'POST',
+    //       url: 'send.php',
+    //       data: $(form).serialize(),
+    //       success: function(data) {
+    //         if(data.match(/success/)) {
+    //           $(form).trigger('reset');
+    //           $('#thanks').show().fadeOut(5000);
+    //         }
+    //       }
+    //     });
+    //     return false;
+    //   }
+    // });
 
     if($('.masonry-container').length > 0) {
 
