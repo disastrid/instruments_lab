@@ -1,11 +1,11 @@
 ---
 layout: research
 title:  "The Air Harp"
-tag: instrument-design
+tag: "instrument-design"
 tagline: Strum a harp by shaking it around.
 categories: research
 thumb: thumb.jpg
-author: Chris
+authors: "Chris Heinrichs"
 main-image: /images/stock/06.jpg
 ---
 

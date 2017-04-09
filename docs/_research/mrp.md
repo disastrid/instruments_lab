@@ -1,10 +1,10 @@
 ---
 layout: research
 title:  "Magnetic Resonator Piano"
-tag: instrument-design, augmented-instruments
+tag: "augmented instruments"
 tagline: The piano meets electromagnets.
 thumb: thumb.jpg
-author: "Andrew McPherson"
+authors: "Andrew McPherson"
 main-image: /images/stock/06.jpg
 collaborator: "Uncle Jimmy"
 production-date: 2009 - present
