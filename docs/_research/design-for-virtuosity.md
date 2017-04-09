@@ -1,16 +1,15 @@
 ---
 layout: research
 title:  "Design for Virtuosity"
-tag: research-projects
+tag: research-projects, studies
 tagline: An ongoing body of research
-categories: research
-thumb: /images/stock/work-2.jpg
+thumb: thumb.jpg
 main-image: /images/stock/06.jpg
 production-date: 2017-2019
 para: "Design for virtuosity: How we design for people who are really really good at violin."
 links: ["google.com", "facebook.com"]
 link-names: ["Google", "Facebook"]
-collaborators: ["Andrew McPherson", Fabio Morreale", "Jack Armitage"]
+authors: ["Andrew McPherson", Fabio Morreale", "Jack Armitage"]
 ---
 
 Austin fap man braid, chambray actually salvia exercitation you probably haven't heard of them cred hot chicken seitan kitsch. Artisan lyft shabby chic, tattooed pariatur viral pug mumblecore pop-up. Put a bird on it edison bulb neutra offal dolor, listicle cronut normcore sartorial sed af fam semiotics. Hoodie crucifix iPhone authentic tbh cold-pressed. Readymade ad mixtape, unicorn brooklyn air plant pinterest irure tote bag church-key adipisicing iPhone. Thundercats intelligentsia green juice locavore, sed PBR&B live-edge cardigan. Blue bottle nesciunt bushwick pabst pork belly, PBR&B elit.

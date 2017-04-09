@@ -1,16 +1,15 @@
 ---
 layout: research
 title:  "Magnetic Resonator Piano"
-tag: instrument-design
+tag: instrument-design, augmented-instruments
 tagline: The piano meets electromagnets.
-categories: research
-thumb: /images/stock/work-2.jpg
-author: Andrew
+thumb: thumb.jpg
+author: "Andrew McPherson"
 main-image: /images/stock/06.jpg
 collaborator: "Uncle Jimmy"
 production-date: 2009 - present
 para: The MRP is not safe for pianists with pacemakers.
-links: ["google.com", "facebook.com"]
+links: ["http://google.com", "http://facebook.com"]
 link-names: ["Google", "Facebook"]
 ---
 
