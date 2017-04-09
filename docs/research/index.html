@@ -6,7 +6,7 @@ section_id: portfolio
 ---
 
 
-<div class='full parallax' style='background-image: url(../images/stock/02.jpg); color: #fff;'>
+<div class='full parallax' style="background-image: url('{{ site.url }}/images/research/research-hero.jpg'); color: #fff;">
   <div class='row'>
     <div class='large-12 columns'>
       {% include section-header.html title="Research + Projects" color="#fff" class="big" %}
@@ -38,7 +38,7 @@ section_id: portfolio
 
           <li class="{{ post.tag }}">
             <a href='{{site.url}}{{ post.url }}'>
-              <img src="{{ site.url }}{{ post.thumb }}" />
+              <img src="{{ site.url }}/images/research/{{ post.thumb }}" />
               <div class='overlay'>
                 <div class='thumb-info'>
                   <h3>{{ post.title }}</h3>
