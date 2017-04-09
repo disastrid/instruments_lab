@@ -73,7 +73,6 @@ All research project files are kept in _research.
 
 Here's the fields at the top of a page:
 
----
 layout: research
 title:  "Design for Virtuosity"
 tagline: An ongoing body of research
@@ -85,7 +84,6 @@ production-date: 2017-2019
 links: ["http://google.com", "http://facebook.com"]
 link-names: ["Google", "Facebook"]
 para: "Design for virtuosity: How we design for people who are really really good at violin."
----
 
 ### layout
 
