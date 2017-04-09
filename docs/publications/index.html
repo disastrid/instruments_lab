@@ -36,7 +36,7 @@ section_id: publications
         </li>
     {% endfor %}
 
-      <h3 id="2016" class="pub-year">2016</h3>
+      <h3 class="pub-year">2016 <span id="2016" class="pub-section-header"></span></h3>
       {% for pub in site.data.publications._2016 %}
         <li>{{ pub.authors }}. {{ pub.title }}. 
         {% if pub.city %}
