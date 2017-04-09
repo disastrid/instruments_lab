@@ -20,7 +20,7 @@ section_id: research
       </div> -->
       <div class='content'>
 
-        <h3>{{page.title}}</h3>
+<!--         <h3>{{page.title}}</h3> -->
         <!-- <p class='info'> {{page.author}}</p> -->
 
         <p class='lead-text'>{{ page.para }}</p>
@@ -33,34 +33,39 @@ section_id: research
 <div class='medium-3 large-3 columns'>
 <div class='four spacing'></div>
       <ul class='info research-menu'>
-        {% if page.collaborator %}
+        
         <li>
-          <p><strong>Collaborators:</strong>
-          {% for collab in page.collaborators %}
-            <p>{{ collab }}</p>
+          <p><strong>By:</strong>
+          <br />
+          {% for auth in page.author %}
+          {{ auth }}
+          <br />
           {% endfor %}
           </p>
+          </p>
         </li>
-        {% endif %}
-        {% if page.date %}
+        
+        {% if page.production-date %}
         <li>
           <p><strong>Date:</strong>
           {{ page.production-date }}</p>
         </li>
         {% endif %}
+
         {% if page.links %}
         <li>
           <p><strong>Links:</strong>
           {% for link in page.links %}
-            <a href="http://{{ link }}">{{ link }}</a>
+            <a href="{{ link }}" target="_new">{{ page.link-names[forloop.index0] }}</a>
           {% endfor %}
           </p>
         </li>
         {% endif %}
+
         <li>
           <div class='spacing'></div>
-          <a href='{{ site.url }}/research' title='back to work list'>
-            Back to all projects
+          <a class='button small' href='{{ site.url }}/research' title='back to work list'>
+            < Back to all projects
           </a>
           
         </li>
