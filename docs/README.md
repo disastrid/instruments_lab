@@ -39,6 +39,7 @@ An entry in these files starts with a dash. All subsequent fields are indented b
 
 Here's an example:
 
+```
 - title: My Amazing article
   authors: J. J. J. Schmidt, G. Costanza
   year: 2024
@@ -48,6 +49,7 @@ Here's an example:
   issue: 2
   pdf: www.link.com
   link: www.otherlink.com
+```
 
 The following fields are *required*: title, authors, venue, year.
 
@@ -75,17 +77,19 @@ All research project files are kept in _research.
 
 Here's the fields at the top of a page:
 
-layout: research\
-title:  "Design for Virtuosity"\
-tagline: An ongoing body of research\
-main-image: 06.jpg\
-tag: research-projects, studies\
-thumb: thumb.jpg\
-authors: ["Andrew McPherson", Fabio Morreale", "Jack Armitage"]\
-production-date: 2017-2019\
-links: ["http://google.com", "http://facebook.com"]\
-link-names: ["Google", "Facebook"]\
-para: "Design for virtuosity: How we design for people who are really really good at violin."\
+```
+layout: research
+title:  "Design for Virtuosity"
+tagline: An ongoing body of research
+main-image: 06.jpg
+tag: research-projects, studies
+thumb: thumb.jpg
+authors: ["Andrew McPherson", Fabio Morreale", "Jack Armitage"]
+production-date: 2017-2019
+links: ["http://google.com", "http://facebook.com"]
+link-names: ["Google", "Facebook"]
+para: "Design for virtuosity: How we design for people who are really really good at violin."
+```
 
 ### layout
 
