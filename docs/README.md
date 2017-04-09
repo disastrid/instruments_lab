@@ -29,7 +29,7 @@ You can have as many or as few social links as you want, and these can include t
 
 ### Your photo
 
-All member photos are 250x250px. Please upload to images/people. 
+All member photos should be *250x250px*. Please upload to `images/people`. 
 
 ## How to add to the Publications page
 
@@ -71,7 +71,7 @@ Every entry in this section has three parts:
 
 It seems like a lot, but all of this is generated from the front matter (stuff at the top) of your project markdown files. You've probably written markdown, as this is what the Bela Blog runs on.
 
-All research project files are kept in _research.
+All research project files are kept in the directory `_research`.
 
 ### The front matter
 
@@ -93,7 +93,7 @@ para: "Design for virtuosity: How we design for people who are really really goo
 
 ### layout
 
-This tells Jekyll which page layout to use. For research posts we're using a custom layout which is in _layouts > research.html.
+This tells Jekyll which page layout to use. For research posts we're using a custom layout which is in `_layouts/research.html`.
 
 If you need changes, please create an issue.
 
@@ -112,19 +112,19 @@ This is the image that will appear at the top of the page.
 Two things to keep in mind: 
 - 1200x800 is a good rule of thumb for size, but make sure the resolution is good (on big displays it will be blown up really big, so the bigger the better).
 - The overlaying text is white, so make sure you choose an image that will support a light text overlay.
-- Put your image in images > research, and specify the file name and extension.
+- Put your image in `images/research`, and specify the file name and extension.
 
 ### tag
 
-Categorise your post with an available tag. If you want to see/edit avaialble tags, they're served from _data > research-catgeories.yml. Currently only one tag per post is supported. 
+Categorise your post with an available tag. If you want to see/edit avaialble tags, they're served from `_data/research-catgeories.yml`. Currently only one tag per post is supported. 
 
 ### thumb
 
-This is the image that will appear in the project menu. It should be 400x400px, and is served from images > research.
+This is the image that will appear in the project menu. It should be 400x400px, and is served from `images/research`.
 
 ### authors
 
-This can be one name ("John Smith"), or an array of names (["Ace Freely", "Peter Chris"]).
+This can be one name (`"John Smith"`), or an array of names (`["Ace Freely", "Peter Chris"]`).
 
 ### production-date
 
@@ -134,9 +134,9 @@ The field "date" is protected, so we're using this field name instead. This can 
 
 These are two separate yet related fields.
 
-'links' is an array of URLs that you want to link to - blog posts, press, etc.
+`links` is an array of URLs that you want to link to - blog posts, press, etc.
 
-'link-names' is the text of the anchor tag that you will click on to go to the URL at the same index.
+`link-names` is the text of the anchor tag that you will click on to go to the URL at the same index.
 
 ### para
 
@@ -144,14 +144,14 @@ This is the lead paragraph for the post, that will be in bigger font and introdu
 
 ## Posting your research
 
-Copy the front matter above, and fill in your own stuff. Then, write your post in markdown, and save in _research > mypost.md
+Copy the front matter above, and fill in your own stuff. Then, write your post in markdown, and save in `_research/mypost.md`
 
 This markdown has the same functionality as the Bela Blog - you can include an image wrapper with a caption:
 
-{% include single-image-research.html fileName="my-image.jpg" caption="Here is a caption." %}
+`{% include single-image-research.html fileName="my-image.jpg" caption="Here is a caption." %}`
 
-Bear in mind that this references the path images > research. To keep things neat, please make a directory for your post there, and reference that path like so: "my-project/my-image.jpg".
+Bear in mind that this references the path `images/research`. To keep things neat, please make a directory for your post there, and reference that path like so: `my-project/my-image.jpg`
 
-You can also include youtube videos, using the youtube.html include:
+You can also include youtube videos, using the `youtube.html` include:
 
-{% include youtube.html youtube="youtube-ref-here" %}
+`{% include youtube.html youtube="youtube-ref-here" %}`
