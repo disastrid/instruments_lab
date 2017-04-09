@@ -8,20 +8,22 @@ Here's how to work each section.
 
 This data is managed through _data > people. in this folder there are three files where bios can be added: members.yml, and alumni.yml (collaborators.yml is in there as well but that's for organisations). Here's the data you need to add to list yourself:
 
-/- avatar: ../images/people/mypic.jpg/
-  name: Dr Whoever/
-  position: Some position/
-  socials:/
-    /- link: http://twitter.com/
-      icon: twitter/
-    /- link: http://facebook.com/
-      icon: facebook/
-    /- link: http://github.com/
-      icon: github/
-    /- link: http://mysite.com/
-      icon: link/
-  desc:/ 
-  /  Your description paragraph goes here. 
+```
+- avatar: ../images/people/mypic.jpg
+  name: Dr Whoever
+  position: Some position
+  socials:
+    - link: http://twitter.com
+      icon: twitter
+    - link: http://facebook.com
+      icon: facebook
+    - link: http://github.com
+      icon: github
+    - link: http://mysite.com
+      icon: link
+  desc:
+    Your description paragraph goes here. 
+```
 
 You can have as many or as few social links as you want, and these can include twitter, facebook, github, youtube, dribbble, and tumblr. If there's one you want that doesn't appear here, let me know and I'll add it.
 
