@@ -39,7 +39,10 @@ section_id: people
     <div class='small-7 medium-9 columns'>
       <h3 class='name'>{{member.name}}</h3>
       <p class='pos'>{{member.position}}</p>
-      <p>{{member.desc}}</p>
+      <p><strong>Education:</strong> {{ member.education }}
+      <br />
+      <strong>Interests:</strong> {{member.desc}}
+      </p>
       <ul class='socials'>
         {% for social in member.socials %}
         <li>
