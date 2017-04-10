@@ -14,15 +14,15 @@
   interests: Composition, actuated instruments, viola, piano, embedded audio systems
 - avatar: ../images/stock/member-4.jpg
   name: Dr Fabio Morreale
-  position: Post doc
+  position: Postdoctoral Research Assistant
   socials:
-    - link: http://twitter.com
+    - link: https://twitter.com/fabiomorreale
       icon: twitter
-    - link: http://facebook.com
+    - link: https://www.facebook.com/phbphd
       icon: facebook
-  desc: 
-    Fabio is metal af.
-- avatar: ../images/stock/member-4.jpg
+  education: B.S. Computer Science, M.S. Computer Science, M.S. Biomedical Data Processing, University of Verona; Ph.D. Human-Computer Interaction, University of Trento 2015; Postdoc University of Trento 2015-2016
+  interests: Musical interface design and evaluation, generative art, algorithmic composition
+- avatar: ../images/stock/fabio.jpg
   name: The New Guy
   position: Post doc
   socials:
@@ -30,7 +30,7 @@
       icon: twitter
     - link: http://facebook.com
       icon: facebook
-  desc: 
+  desc:
     He just got here.
 - avatar: ../images/stock/member-1.jpg
   name: Liam Donovan
@@ -65,7 +65,7 @@
 - avatar: ../images/stock/member-4.jpg
   name: Astrid Bin
   position: PhD student (2014-present)
-  education: AOCAD (Hons.) Sculpture/Installation, 2003. MA Art In Public, University of Ulster, 2013. 
+  education: AOCAD (Hons.) Sculpture/Installation, 2003. MA Art In Public, University of Ulster, 2013.
   socials:
     - link: http://twitter.com
       icon: twitter
