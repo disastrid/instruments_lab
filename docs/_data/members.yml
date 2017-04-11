@@ -1,17 +1,19 @@
-- avatar: ../images/stock/member-1.jpg
+- avatar: ../images/people/andrew.jpg
   name: Dr Andrew McPherson
-  position: Group leader
+  position: Reader (Associate Professor) in Digital Media; EPSRC Early Career Fellow 2016-2020
   socials:
-    - link: http://twitter.com/amcph
+    - link: http://twitter.com/InstrumentsLab
       icon: twitter
-    - link: http://github.com/amcph
-      icon: github
-    - link: http://youtube.com/amcph
+    - link: http://youtube.com/user/apm414/videos
       icon: youtube
-    - link: http://amcph.com
+    - link: http://scholar.google.co.uk/citations?user=9Je-3c4AAAAJ
+      icon: link
+    - link: http://www.linkedin.com/pub/andrew-mcpherson/76/344/1b5
+      icon: link
+    - link: http://andrewmcpherson.org
       icon: link
   education: S.B. Music, S.B. Electrical Engineering, MIT; M.Eng. Electrical Engineering, MIT; Ph.D. Music Composition, U. Penn. 2009; Postdoc Drexel University MET-lab 2009-2011
-  interests: Composition, actuated instruments, viola, piano, embedded audio systems
+  desc: Composition, actuated instruments, viola, piano, embedded audio systems
 - avatar: ../images/stock/fabio.jpg
   name: Dr Fabio Morreale
   position: Postdoctoral Research Assistant
@@ -21,10 +23,10 @@
     - link: https://www.facebook.com/phbphd
       icon: facebook
   education: B.S. Computer Science, M.S. Computer Science, M.S. Biomedical Data Processing, University of Verona; Ph.D. Human-Computer Interaction, University of Trento 2015; Postdoc University of Trento 2015-2016
-  interests: Musical interface design and evaluation, generative art, algorithmic composition
+  desc: Musical interface design and evaluation, generative art, algorithmic composition
 - avatar: ../images/stock/member-4.jpg
-  name: The New Guy
-  position: Post doc
+  name: Kurijn Buys
+  position: Postdoctoral Research Assistant
   socials:
     - link: http://twitter.com
       icon: twitter
@@ -33,25 +35,25 @@
   desc:
     He just got here.
 - avatar: ../images/stock/member-1.jpg
-  name: Liam Donovan
-  position: PhD student (2011-present)
-  socials:
-    - link: http://twitter.com
-      icon: twitter
-    - link: http://facebook.com
-      icon: facebook
-  desc:
-    Liam makes a string bounce up and down.
-- avatar: ../images/stock/member-1.jpg
   name: Chris Heinrichs
-  position: PhD student (2011-present)
+  position: PhD student (2012-present)
   socials:
     - link: http://twitter.com
       icon: twitter
     - link: http://facebook.com
       icon: facebook
   desc:
-    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
+    procedural audio, sound design, immersive environments and games, violin, spatial audio
+- avatar: ../images/stock/member-1.jpg
+  name: Liam Donovan
+  position: PhD student (2013-present)
+  socials:
+    - link: http://twitter.com
+      icon: twitter
+    - link: http://facebook.com
+      icon: facebook
+  desc:
+    Developing and building new acoustic musical instruments
 - avatar: ../images/people/robert.jpg
   name: Robert Jack
   position: PhD student (2014-present) (co-supervised with Dr. Tony Stockman)
@@ -63,7 +65,7 @@
       icon: link
     - link: http://www.robertjack.org
       icon: link
-  interests: touch and musical instrument design, cross-modal perception, non-visual interfaces, sensorimotor feedback, haptics, percussion, strings and live electronics.
+  desc: touch and musical instrument design, cross-modal perception, non-visual interfaces, sensorimotor feedback, haptics, percussion, strings and live electronics.
 - avatar: ../images/stock/member-4.jpg
   name: Astrid Bin
   position: PhD student (2014-present)
@@ -81,11 +83,33 @@
     Putzfrau.
 - avatar: ../images/stock/member-4.jpg
   name: Giulio Moro
-  position: PhD student (2014-present)
+  position: PhD student (2015-present)
   socials:
     - link: http://twitter.com
       icon: twitter
     - link: http://facebook.com
       icon: facebook
   desc:
-    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
+    IoT (as in "instruments of things"), low latency audio and sensors, embedded devices, why-do-people-think-analog-is-better
+- avatar: ../images/stock/member-4.jpg
+  name: Jack Armitage
+  position: PhD student (2016-present)
+  education: BSc Music, Multimedia & Electronics, University of Leeds
+  socials:
+    - link: http://twitter.com
+      icon: twitter
+    - link: http://facebook.com
+      icon: facebook
+  desc:
+    musical instruments, composition systems, cognitive science, human-computer interaction
+- avatar: ../images/stock/member-4.jpg
+  name: Jacob Harrison
+  position: PhD student (2016-present)
+  education: BSc Music Technology, University of York; MSc by Research Electronic Engineering, University of York Audio Lab
+  socials:
+    - link: http://twitter.com
+      icon: twitter
+    - link: http://facebook.com
+      icon: facebook
+  desc:
+    interface and instrument design, neurologic music therapy, accessible music technology
