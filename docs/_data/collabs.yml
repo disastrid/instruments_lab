@@ -1,36 +1,58 @@
 - avatar: ../images/stock/member-1.jpg
+  name: The One-Handed Musical Instrument Trust
+  position: 
+  socials:
+    - link: http://twitter.com/TheOHMITrust
+      icon: twitter
+    - link: http://www.ohmi.org.uk/
+      icon: link
+  desc:
+    Look mum, one hand
+- avatar: ../images/stock/member-1.jpg
   name: Drake Music
   position: Group leader
   socials:
-    - link: http://twitter.com/amcph
+    - link: http://twitter.com/drake_music
       icon: twitter
-    - link: http://#
+    - link: http://drakemusic.org
       icon: link
   desc:
     Gawain is nice guy.
 - avatar: ../images/stock/member-1.jpg
-  name: Roli Instruments
+  name: Music Hackspace
   position: 
   socials:
-    - link: http://twitter.com
+    - link: http://twitter.com/musichackspace
       icon: twitter
-    - link: http://#
+    - link: http://musichackspace.org/
+      icon: link	
+- avatar: ../images/stock/member-1.jpg
+  name: ROLI
+  position: 
+  socials:
+    - link: http://twitter.com/WeAreROLI
+      icon: twitter
+    - link: http://roli.com
       icon: link
   desc:
     Roli make things go boopboop.
 - avatar: ../images/stock/member-1.jpg
-  name: Music Hack Space
+  name: ROLI
   position: 
   socials:
-    - link: http://twitter.com
+    - link: http://twitter.com/WeAreROLI
       icon: twitter
-    - link: http://#
-      icon: link
-- avatar: ../images/stock/member-1.jpg
-  name: One Handed Instrument Trust
-  position: 
-  socials:
-    - link: http://#
+    - link: http://roli.com
       icon: link
   desc:
-    Look mum, one hand
+    Roli make things go boopboop.
+- avatar: ../images/stock/member-1.jpg
+  name: Creative Technologies, Fachhochschule Kiel
+  position: 
+  socials:
+    - link: http://www.creative-technologies.de
+      icon: link
+    - link: https://www.facebook.com/groups/1424653351100753
+      icon: facebook
+  desc:
+    Henrik is visiting the lab.
