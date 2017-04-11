@@ -12,16 +12,16 @@
       icon: link
   education: S.B. Music, S.B. Electrical Engineering, MIT; M.Eng. Electrical Engineering, MIT; Ph.D. Music Composition, U. Penn. 2009; Postdoc Drexel University MET-lab 2009-2011
   interests: Composition, actuated instruments, viola, piano, embedded audio systems
-- avatar: ../images/stock/member-4.jpg
+- avatar: ../images/stock/fabio.jpg
   name: Dr Fabio Morreale
-  position: Post doc
+  position: Postdoctoral Research Assistant
   socials:
-    - link: http://twitter.com
+    - link: https://twitter.com/fabiomorreale
       icon: twitter
-    - link: http://facebook.com
+    - link: https://www.facebook.com/phbphd
       icon: facebook
-  desc: 
-    Fabio is metal af.
+  education: B.S. Computer Science, M.S. Computer Science, M.S. Biomedical Data Processing, University of Verona; Ph.D. Human-Computer Interaction, University of Trento 2015; Postdoc University of Trento 2015-2016
+  interests: Musical interface design and evaluation, generative art, algorithmic composition
 - avatar: ../images/stock/member-4.jpg
   name: The New Guy
   position: Post doc
@@ -30,7 +30,7 @@
       icon: twitter
     - link: http://facebook.com
       icon: facebook
-  desc: 
+  desc:
     He just got here.
 - avatar: ../images/stock/member-1.jpg
   name: Liam Donovan
@@ -52,20 +52,26 @@
       icon: facebook
   desc:
     Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
-- avatar: ../images/stock/member-4.jpg
+- avatar: ../images/people/robert.jpg
   name: Robert Jack
-  position: PhD student (2014-present)
+  position: PhD student (2014-present) (co-supervised with Dr. Tony Stockman)
+  education: M.A.(hons) Applied Mathematics and Music, University of Glasgow; MMus Studio Composition, Goldsmiths, University of London.
   socials:
-    - link: http://twitter.com
+    - link: http://twitter.com/rjack0101
       icon: twitter
-    - link: http://facebook.com
-      icon: facebook
-  desc:
-    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
+    - link: https://qmul.academia.edu/RJack
+      icon: link
+    - link: http://www.robertjack.org
+      icon: link
+  interests: touch and musical instrument design, cross-modal perception, non-visual interfaces, sensorimotor feedback, haptics, percussion, strings and live electronics.
 - avatar: ../images/stock/member-4.jpg
   name: Astrid Bin
   position: PhD student (2014-present)
+<<<<<<< HEAD
   education: AOCAD (Hons.) Sculpture/Installation, 2003; MA Art In Public, University of Ulster, 2013. 
+=======
+  education: AOCAD (Hons.) Sculpture/Installation, 2003. MA Art In Public, University of Ulster, 2013.
+>>>>>>> f29d6cb427c614c21e399a04f2e03a32cc4494fc
   socials:
     - link: http://twitter.com/disastrid
       icon: twitter
