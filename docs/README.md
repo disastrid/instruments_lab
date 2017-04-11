@@ -30,6 +30,8 @@ Here's the data you need to add to list yourself:
 
 You can have as many or as few social links as you want, and these can include twitter, facebook, github, youtube, dribbble, and tumblr - just add the link and list the type of icon it needs. If there's one you want that doesn't appear here, let me know and I'll add it.
 
+To add a link in your description, just use HTML tags - the text is inserted into the DOM and therefore it will render your tags. For example: "This guy spends his time listening to <a href="https://www.youtube.com/watch?v=fWNaR-rxAic">classical music</a>."
+
 ### Your photo
 
 All member photos should be *250x250px*. Please upload to `images/people`. 
