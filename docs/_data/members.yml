@@ -1,14 +1,16 @@
 - avatar: ../images/stock/member-1.jpg
   name: Dr Andrew McPherson
-  position: Group leader
+  position: Reader (Associate Professor) in Digital Media; EPSRC Early Career Fellow 2016-2020
   socials:
-    - link: http://twitter.com/amcph
+    - link: http://twitter.com/InstrumentsLab
       icon: twitter
-    - link: http://github.com/amcph
-      icon: github
-    - link: http://youtube.com/amcph
+    - link: http://youtube.com/user/apm414/videos
       icon: youtube
-    - link: http://amcph.com
+    - link: http://scholar.google.co.uk/citations?user=9Je-3c4AAAAJ
+      icon: link
+    - link: http://www.linkedin.com/pub/andrew-mcpherson/76/344/1b5
+      icon: link
+    - link: http://andrewmcpherson.org
       icon: link
   education: S.B. Music, S.B. Electrical Engineering, MIT; M.Eng. Electrical Engineering, MIT; Ph.D. Music Composition, U. Penn. 2009; Postdoc Drexel University MET-lab 2009-2011
   interests: Composition, actuated instruments, viola, piano, embedded audio systems
@@ -23,8 +25,8 @@
   education: B.S. Computer Science, M.S. Computer Science, M.S. Biomedical Data Processing, University of Verona; Ph.D. Human-Computer Interaction, University of Trento 2015; Postdoc University of Trento 2015-2016
   desc: Musical interface design and evaluation, generative art, algorithmic composition
 - avatar: ../images/stock/member-4.jpg
-  name: The New Guy
-  position: Post doc
+  name: Kurijn Buys
+  position: Postdoctoral Research Assistant
   socials:
     - link: http://twitter.com
       icon: twitter
@@ -33,18 +35,8 @@
   desc:
     He just got here.
 - avatar: ../images/stock/member-1.jpg
-  name: Liam Donovan
-  position: PhD student (2011-present)
-  socials:
-    - link: http://twitter.com
-      icon: twitter
-    - link: http://facebook.com
-      icon: facebook
-  desc:
-    Liam makes a string bounce up and down.
-- avatar: ../images/stock/member-1.jpg
   name: Chris Heinrichs
-  position: PhD student (2011-present)
+  position: PhD student (2012-present)
   socials:
     - link: http://twitter.com
       icon: twitter
@@ -52,6 +44,16 @@
       icon: facebook
   desc:
     Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
+- avatar: ../images/stock/member-1.jpg
+  name: Liam Donovan
+  position: PhD student (2013-present)
+  socials:
+    - link: http://twitter.com
+      icon: twitter
+    - link: http://facebook.com
+      icon: facebook
+  desc:
+    Liam makes a string bounce up and down.	
 - avatar: ../images/people/robert.jpg
   name: Robert Jack
   position: PhD student (2014-present) (co-supervised with Dr. Tony Stockman)
@@ -80,6 +82,26 @@
 - avatar: ../images/stock/member-4.jpg
   name: Giulio Moro
   position: PhD student (2014-present)
+  socials:
+    - link: http://twitter.com
+      icon: twitter
+    - link: http://facebook.com
+      icon: facebook
+  desc:
+    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
+- avatar: ../images/stock/member-4.jpg
+  name: Jack Armitage
+  position: PhD student (2016-present)
+  socials:
+    - link: http://twitter.com
+      icon: twitter
+    - link: http://facebook.com
+      icon: facebook
+  desc:
+    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
+- avatar: ../images/stock/member-4.jpg
+  name: Jacob Harrison
+  position: PhD student (2016-present)
   socials:
     - link: http://twitter.com
       icon: twitter
