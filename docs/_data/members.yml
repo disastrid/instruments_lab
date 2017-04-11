@@ -69,18 +69,14 @@
 - avatar: ../images/stock/member-4.jpg
   name: Astrid Bin
   position: PhD student (2014-present)
-<<<<<<< HEAD
-  education: AOCAD (Hons.) Sculpture/Installation, 2003; MA Art In Public, University of Ulster, 2013. 
-=======
   education: AOCAD (Hons.) Sculpture/Installation, 2003. MA Art In Public, University of Ulster, 2013.
->>>>>>> f29d6cb427c614c21e399a04f2e03a32cc4494fc
   socials:
     - link: http://twitter.com/disastrid
       icon: twitter
     - link: http://github.com/disastrid
       icon: github
   desc:
-    Putzfrau.
+    <a href='#'>Putzfrau</a>.
 - avatar: ../images/stock/member-4.jpg
   name: Giulio Moro
   position: PhD student (2015-present)
