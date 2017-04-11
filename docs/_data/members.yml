@@ -13,7 +13,7 @@
     - link: http://andrewmcpherson.org
       icon: link
   education: S.B. Music, S.B. Electrical Engineering, MIT; M.Eng. Electrical Engineering, MIT; Ph.D. Music Composition, U. Penn. 2009; Postdoc Drexel University MET-lab 2009-2011
-  interests: Composition, actuated instruments, viola, piano, embedded audio systems
+  desc: Composition, actuated instruments, viola, piano, embedded audio systems
 - avatar: ../images/stock/fabio.jpg
   name: Dr Fabio Morreale
   position: Postdoctoral Research Assistant
@@ -43,7 +43,7 @@
     - link: http://facebook.com
       icon: facebook
   desc:
-    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
+    procedural audio, sound design, immersive environments and games, violin, spatial audio
 - avatar: ../images/stock/member-1.jpg
   name: Liam Donovan
   position: PhD student (2013-present)
@@ -53,7 +53,7 @@
     - link: http://facebook.com
       icon: facebook
   desc:
-    Liam makes a string bounce up and down.	
+    Developing and building new acoustic musical instruments
 - avatar: ../images/people/robert.jpg
   name: Robert Jack
   position: PhD student (2014-present) (co-supervised with Dr. Tony Stockman)
@@ -81,31 +81,33 @@
     Putzfrau.
 - avatar: ../images/stock/member-4.jpg
   name: Giulio Moro
-  position: PhD student (2014-present)
+  position: PhD student (2015-present)
   socials:
     - link: http://twitter.com
       icon: twitter
     - link: http://facebook.com
       icon: facebook
   desc:
-    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
+    IoT (as in "instruments of things"), low latency audio and sensors, embedded devices, why-do-people-think-analog-is-better
 - avatar: ../images/stock/member-4.jpg
   name: Jack Armitage
   position: PhD student (2016-present)
+  education: BSc Music, Multimedia & Electronics, University of Leeds
   socials:
     - link: http://twitter.com
       icon: twitter
     - link: http://facebook.com
       icon: facebook
   desc:
-    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
+    musical instruments, composition systems, cognitive science, human-computer interaction
 - avatar: ../images/stock/member-4.jpg
   name: Jacob Harrison
   position: PhD student (2016-present)
+  education: BSc Music Technology, University of York; MSc by Research Electronic Engineering, University of York Audio Lab
   socials:
     - link: http://twitter.com
       icon: twitter
     - link: http://facebook.com
       icon: facebook
   desc:
-    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
+    interface and instrument design, neurologic music therapy, accessible music technology

@@ -1,3 +1,11 @@
+- avatar: ../images/people/victor.jpg
+  name: Dr Victor Zappi
+  position: Postdoctoral Researcher, 2013-14
+  socials:
+    - link: http://toomuchidle.com
+      icon: link
+  desc:
+    Victor was a postdoc on the Hackable Instruments project, 2013-14. He now holds a Marie Curie Fellowship at the Istituto Italiano di Tecnologia (Genova) and the University of British Columbia. Victor is the co-creator of the D-Box hackable instrument.
 - avatar: ../images/stock/member-1.jpg
   name: Dr Duncan Menzies
   position: Pipe bagger
