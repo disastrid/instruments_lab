@@ -22,6 +22,8 @@
       icon: twitter
     - link: https://www.facebook.com/phbphd
       icon: facebook
+    - link: https://scholar.google.it/citations?user=cMZilz4AAAAJ&hl=en
+      icon: graduation-cap
   education: B.S. Computer Science, M.S. Computer Science, M.S. Biomedical Data Processing, University of Verona; Ph.D. Human-Computer Interaction, University of Trento 2015; Postdoc University of Trento 2015-2016
   desc: Musical interface design and evaluation, generative art, algorithmic composition
 - avatar: ../images/stock/member-4.jpg
