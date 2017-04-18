@@ -26,7 +26,7 @@
       icon: graduation-cap
   education: B.S. Computer Science, M.S. Computer Science, M.S. Biomedical Data Processing, University of Verona; Ph.D. Human-Computer Interaction, University of Trento 2015; Postdoc University of Trento 2015-2016
   desc: Musical interface design and evaluation, generative art, algorithmic composition
-- avatar: ../images/stock/member-4.jpg
+- avatar: ../images/people/kurijn.jpg
   name: Kurijn Buys
   position: Postdoctoral Research Assistant
   socials:
@@ -36,7 +36,7 @@
       icon: facebook
   desc:
     He just got here.
-- avatar: ../images/stock/member-1.jpg
+- avatar: ../images/people/chris.jpg
   name: Chris Heinrichs
   position: PhD student (2012-present)
   socials:
@@ -79,7 +79,7 @@
       icon: github
   desc:
     <a href='#'>Putzfrau</a>.
-- avatar: ../images/stock/member-4.jpg
+- avatar: ../images/people/giulio.jpg
   name: Giulio Moro
   position: PhD student (2015-present)
   socials:
@@ -89,7 +89,7 @@
       icon: facebook
   desc:
     IoT (as in "instruments of things"), low latency audio and sensors, embedded devices, why-do-people-think-analog-is-better
-- avatar: ../images/stock/member-4.jpg
+- avatar: ../images/people/jack.jpg
   name: Jack Armitage
   position: PhD student (2016-present)
   education: BSc Music, Multimedia & Electronics, University of Leeds
@@ -100,7 +100,7 @@
       icon: facebook
   desc:
     musical instruments, composition systems, cognitive science, human-computer interaction
-- avatar: ../images/stock/member-4.jpg
+- avatar: ../images/people/jacob.jpg
   name: Jacob Harrison
   position: PhD student (2016-present)
   education: BSc Music Technology, University of York; MSc by Research Electronic Engineering, University of York Audio Lab
