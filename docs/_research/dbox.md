@@ -12,7 +12,7 @@ para: This project ran 2013-14, with support from the UK Engineering and Physica
 
 ---
 
-(YouTube link: The D-Box: A Hackable Digital Musical Instrument)
+{% include youtube.html youtube="JOAO-EUtrGQ" %}
 
 This project ran 2013-14, with support from the UK Engineering and Physical Sciences Research Council (grant EP/K032046/1).
 
@@ -26,7 +26,7 @@ By contrast, the "black-box" design of many digital musical instruments (DMIs) c
 
 The Hackable Instruments project undertook a series of studies, inspired by the practice of circuit bending and by the HCI literature on appropriation, examining how performers use and modify musical instruments.
 
-Constraints and Creativity: the Cube Instrument Study
+# Constraints and Creativity: the Cube Instrument Study
 
 [photo of cube instrument]
 
@@ -43,7 +43,7 @@ Our finding, though limited in size, suggests that adding more degrees of freedo
 
 Read the paper:  V. Zappi and A. McPherson. Dimensionality and appropriation in digital musical instrument design. Proc. New Interfaces for Musical Expression, London, UK, 2014. [http://www.eecs.qmul.ac.uk/~andrewm/zappi_nime2014.pdf]
 
-Designing for Appropriation and Modification: the D-Box
+# Designing for Appropriation and Modification: the D-Box
 
 [image: D-Box closed]
 
@@ -67,7 +67,7 @@ You can find code and design materials for the D-Box here: https://github.com/Be
 
 For further details on building your own D-Box, please contact us!
 
-Bela: an Embedded Platform for Ultra-Low-Latency Interactive Audio
+# Bela: an Embedded Platform for Ultra-Low-Latency Interactive Audio
 
 [Link to main Bela page here, and picture]
 
