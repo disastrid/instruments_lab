@@ -36,7 +36,7 @@
       icon: facebook
   desc:
     He just got here.
-- avatar: ../images/people/chris.jpg
+- avatar: ../images/people/chris.jpeg
   name: Chris Heinrichs
   position: PhD student (2012-present)
   socials:
@@ -79,7 +79,7 @@
       icon: github
   desc:
     <a href='#'>Putzfrau</a>.
-- avatar: ../images/people/giulio.jpg
+- avatar: ../images/people/giulio.jpeg
   name: Giulio Moro
   position: PhD student (2015-present)
   socials:
