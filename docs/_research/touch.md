@@ -1,7 +1,7 @@
 ---
 layout: research
 title:  "Tactility in the Design of Digital Musical Instruments"
-tagline:
+tagline: PhD research: Robert Jack
 tag: "instrument-design"
 desc: Research tools
 categories: research

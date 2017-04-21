@@ -1,7 +1,7 @@
 ---
 layout: research
 title:  "Human Expressivity in the Design and Implementation of Procedural Sound Effects"
-tagline:
+tagline: PhD research: Christian Heinrichs
 tag: "instrument-design"
 desc: Research tools
 categories: research

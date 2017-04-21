@@ -1,7 +1,7 @@
 ---
 layout: research
 title:  "Bela"
-tagline:
+tagline: An embedded platform for ultra-low latency interactive audio
 tag: "instrument-design"
 desc: Research tools
 categories: research

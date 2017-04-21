@@ -1,7 +1,7 @@
 ---
 layout: research
 title:  "New Acoustic Stringed Musical Instruments"
-tagline:
+tagline: PhD research: Liam Donovan
 tag: "instrument-design"
 desc: Research tools
 categories: research
