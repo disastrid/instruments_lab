@@ -5,9 +5,9 @@ tagline:
 tag: "instrument-design"
 desc: Research tools
 categories: research
-thumb: thumb.jpg
+thumb: /images/research/hackable/d-box-thumb.jpg
 authors: "Andrew McPherson, Victor Zappi"
-main-image: /images/stock/06.jpg
+main-image: /images/research/hackable/d-box_open_cover_photo.jpg
 para: This project ran 2013-14, with support from the UK Engineering and Physical Sciences Research Council (grant EP/K032046/1).
 
 ---
@@ -26,13 +26,13 @@ By contrast, the "black-box" design of many digital musical instruments (DMIs) c
 
 The Hackable Instruments project undertook a series of studies, inspired by the practice of circuit bending and by the HCI literature on appropriation, examining how performers use and modify musical instruments.
 
-# Constraints and Creativity: the Cube Instrument Study
+## Constraints and Creativity: the Cube Instrument Study
 
-[photo of cube instrument]
+{% include single-image-research.html fileName="hackable/cube_inst2.jpg" %}
 
 Many digital musical instrument designs seek to give the performer as much control as possible. But could giving them less control actually be a creative benefit?
 
-That constraints can be a source of creative inspiration has long been known. Building on earlier work by Gurevich et al. [http://www.nime.org/proceedings/2010/nime2010_106.pdf], we created a highly constrained, self-contained musical instrument with a touch sensor and speaker in a wooden cube. We made 10 copies of the instrument with identical hardware and two different versions of the software:
+That constraints can be a source of creative inspiration has long been known. Building on earlier work by [Gurevich et al.](http://www.nime.org/proceedings/2010/nime2010_106.pdf), we created a highly constrained, self-contained musical instrument with a touch sensor and speaker in a wooden cube. We made 10 copies of the instrument with identical hardware and two different versions of the software:
 
 Two degrees of freedom: pressure changes timbre, touch position changes pitch
 One degree of freedom: pressure changes timbre, but no pitch control
@@ -41,33 +41,33 @@ We gave the instruments to 10 musicians and asked them to prepare a performance,
 
 Our finding, though limited in size, suggests that adding more degrees of freedom does not necessarily improve the creative value of an instrument, and that in certain cases the opposite may be true.
 
-Read the paper:  V. Zappi and A. McPherson. Dimensionality and appropriation in digital musical instrument design. Proc. New Interfaces for Musical Expression, London, UK, 2014. [http://www.eecs.qmul.ac.uk/~andrewm/zappi_nime2014.pdf]
+Read the paper:  [V. Zappi and A. McPherson. Dimensionality and appropriation in digital musical instrument design. Proc. New Interfaces for Musical Expression, London, UK, 2014.](http://www.eecs.qmul.ac.uk/~andrewm/zappi_nime2014.pdf)
 
-# Designing for Appropriation and Modification: the D-Box
+## Designing for Appropriation and Modification: the D-Box
 
-[image: D-Box closed]
+{% include single-image-research.html fileName="hackable/d-box_closed.jpg" %}
 
 The D-Box is a digital musical instrument designed to be modified and hacked by the performer. Like the earlier cube instrument, it is a self-contained instrument with touch sensors and a wooden cube, which initially presents a simple, limited interface to the performer (though not as tightly constrained as the original cube instrument). But uniquely, the side of the box can be opened, revealing an electronic breadboard:
 
-[image: D-Box with side open]
+{% include single-image-research.html fileName="hackable/dbox-interior.jpg" %}
 
 By rewiring circuits on the breadboard, the performer can discover new and unusual sounds. Unlike more familiar modular synthesisers, the behaviour of the instrument is governed by feedback loops between hardware and software, so changes in the wiring can have chaotic and unpredictable (but still repeatable) effects.
 
 The D-Box was used in a study with 10 performers examining how they played and modified the instrument. We found that performers discovered sounds and techniques that went beyond our original design, and that experienced circuit benders could deploy their skills on the instrument. 
 
-Read about the D-Box design and performance here: V. Zappi and A. McPherson. Design and use of a hackable digital instrument. Proc. Live Interfaces, Lisbon, Portugal, 2014.
+Read about the D-Box design and performance here: [V. Zappi and A. McPherson. Design and use of a hackable digital instrument. Proc. Live Interfaces, Lisbon, Portugal, 2014.](https://www.eecs.qmul.ac.uk/~andrewm/zappi_icli14.pdf)
 
-Read about using feedback between hardware and software as a musical design tool: A. McPherson and V. Zappi. Exposing the scaffolding of digital instruments with hardware-software feedback loops. Proc. New Interfaces for Musical Expression, Baton Rouge, LA, USA, 2015. 
+Read about using feedback between hardware and software as a musical design tool: [A. McPherson and V. Zappi. Exposing the scaffolding of digital instruments with hardware-software feedback loops. Proc. New Interfaces for Musical Expression, Baton Rouge, LA, USA, 2015.](https://nime2015.lsu.edu/proceedings/258/0258-paper.pdf) 
 
 We also used the D-Box in hacking workshops with the general public, where we observed patterns of exploration and playful interaction which differ from how people interact with software tools or other musical instruments. We examine the outcomes in the context of Gaver’s work on ludic design, and offer suggestions for interactive system designers.
 
 Read about the D-Box workshops and their implications for design: A. McPherson, A. Chamberlain, A. Hazzard, S. McGrath and S. Benford. Designing for exploratory play with a hackable digital musical instrument. Proc. DIS, Brisbane, Australia, 2016.
 
-You can find code and design materials for the D-Box here: https://github.com/BelaPlatform/d-box 
+You can find code and design materials for the D-Box here: [https://github.com/BelaPlatform/d-box](https://github.com/BelaPlatform/d-box)
 
 For further details on building your own D-Box, please contact us!
 
-# Bela: an Embedded Platform for Ultra-Low-Latency Interactive Audio
+## Bela: an Embedded Platform for Ultra-Low-Latency Interactive Audio
 
 [Link to main Bela page here, and picture]
 
