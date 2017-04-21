@@ -5,7 +5,7 @@ tagline:
 tag: "instrument-design"
 desc: Research tools
 categories: research
-thumb: bagpipes/thumb.jpg
+thumb: bagpipes/thumb.png
 authors: "Duncan Menzies"
 main-image: /images/research/bagpipes/duncan-pipes-front.jpg
 para: This project ran 2013-14, with support from the UK Engineering and Physical Sciences Research Council (grant EP/K032046/1).
