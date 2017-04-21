@@ -1,7 +1,7 @@
 ---
 layout: research
 title:  "Hackable Instruments"
-tagline:
+tagline: Exposing the scaffolding of digital musical instruments
 tag: "instrument-design"
 desc: Research tools
 categories: research

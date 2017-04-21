@@ -2,7 +2,7 @@
 layout: research
 title:  "Touch on Keyboard Instruments"
 tag: "augmented instruments"
-tagline: PhD research: Giulio Moro
+tagline: PhD research Giulio Moro
 thumb: touch-on-keyboard/hammond-thumb.jpg
 authors: "Giulio Moro"
 main-image: /images/research/touch-on-keyboard/hammond-back.jpg
