@@ -3,7 +3,7 @@ layout: research
 title:  "Touch on Keyboard Instruments"
 tag: "augmented instruments"
 tagline:
-thumb: touch-on-keyboard/thumb.jpg
+thumb: touch-on-keyboard/hammond-thumb.jpg
 authors: "Giulio Moro"
 main-image: /images/research/touch-on-keyboard/hammond-back.jpg
 collaborator: "Uncle Jimmy"
