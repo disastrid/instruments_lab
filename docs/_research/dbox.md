@@ -5,7 +5,7 @@ tagline:
 tag: "instrument-design"
 desc: Research tools
 categories: research
-thumb: /images/research/hackable/d-box-thumb.jpg
+thumb: hackable/d-box-thumb.jpg
 authors: "Andrew McPherson, Victor Zappi"
 main-image: /images/research/hackable/d-box_open_cover_photo.jpg
 para: This project ran 2013-14, with support from the UK Engineering and Physical Sciences Research Council (grant EP/K032046/1).
