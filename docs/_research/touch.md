@@ -1,13 +1,13 @@
 ---
 layout: research
 title:  "Tactility in the Design of Digital Musical Instruments"
-tagline: Touch and embodied control in musical performance.
+tagline:
 tag: "instrument-design"
 desc: Research tools
 categories: research
 thumb: tactility/tactile-thumb.jpg
 authors: "Robert Jack"
-main-image: /images/research/tactility/hands-tactile.jpg
+main-image: /images/research/tactility/tiles-2.jpg
 para: Maintaining and Constraining Performer Touch.
 
 ---

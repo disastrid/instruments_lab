@@ -1,9 +1,9 @@
 ---
 layout: research
-title:  "Magnetic Resonator Piano"
+title:  "Touchkeys"
 tag: "augmented instruments"
 tagline: Touchkeys.
-thumb: tk-thumb.jpg
+thumb: touchkeys/tk-thumb.jpg
 authors: "Andrew McPherson"
 main-image: /images/stock/06.jpg
 collaborator: "Uncle Jimmy"
