@@ -1,10 +1,10 @@
 ---
 layout: research
-title:  "MOAI"
+title:  "Error in musical performance"
 tag: "instrument-design"
-tagline: A percussion instrument.
+tagline: PhD research Astrid Bin
 categories: research
-thumb: thumb.jpg
+thumb: error-in-performance/thumb.jpg
 authors: "Astrid Bin"
 main-image: /images/stock/06.jpg
 ---
