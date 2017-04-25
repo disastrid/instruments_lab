@@ -94,12 +94,14 @@
   position: PhD student (2016-present)
   education: BSc Music, Multimedia & Electronics, University of Leeds
   socials:
-    - link: http://twitter.com
-      icon: twitter
-    - link: http://facebook.com
-      icon: facebook
+    - link: http://jackarmitage.com
+      icon: link
+    - link: http://scholar.google.com/citations?user=APvoBhUAAAAJ
+      icon: graduation-cap
+    - link: http://github.com/jarmitage
+      icon: link
   desc:
-    musical instruments, composition systems, cognitive science, human-computer interaction
+    musical instruments, composition systems, cognitive science, (post) human-computer interaction
 - avatar: ../images/people/jacob.jpg
   name: Jacob Harrison
   position: PhD student (2016-present)
