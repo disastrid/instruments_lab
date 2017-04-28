@@ -63,8 +63,8 @@
   socials:
     - link: http://twitter.com/rjack0101
       icon: twitter
-    - link: https://qmul.academia.edu/RJack
-      icon: link
+    - link: https://scholar.google.co.uk/citations?user=4UnLTw0AAAAJ&hl=en&oi=sra
+      icon: graduation-cap
     - link: http://www.robertjack.org
       icon: link
   desc: touch and musical instrument design, cross-modal perception, non-visual interfaces, sensorimotor feedback, haptics, percussion, strings and live electronics.
@@ -107,9 +107,7 @@
   position: PhD student (2016-present)
   education: BSc Music Technology, University of York; MSc by Research Electronic Engineering, University of York Audio Lab
   socials:
-    - link: http://twitter.com
+    - link: http://twitter.com/Jcb_H
       icon: twitter
-    - link: http://facebook.com
-      icon: facebook
   desc:
-    interface and instrument design, neurologic music therapy, accessible music technology
+    interface and instrument design, accessible music technology
