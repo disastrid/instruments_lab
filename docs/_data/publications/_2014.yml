@@ -1,0 +1,49 @@
+- title: 'Audio Effects: Theory, Implementation and Application'
+  authors: J. Reiss and A. McPherson
+  venue: CRC Press
+  link: http://www.crcpress.com/product/isbn/9781466560284
+  year: 2014
+- title: Design and use of a hackable digital instrument
+  authors: V. Zappi and A. McPherson
+  venue: Proc. Live Interfaces
+  city: Lisbon, Portugal
+  year: 2014
+- title: Dimensionality and appropriation in digital musical instrument design
+  authors: V. Zappi and A. McPherson
+  venue: Proc. New Interfaces for Musical Expression
+  city: London, United Kingdom
+  year: 2014
+- title: 'Low-latency audio pitch tracking: a multi-modal sensor-assisted approach'
+  authors: L. Pardue, D. Nian, C. Harte and A. McPherson
+  venue: Proc. New Interfaces for Musical Expression
+  city: London, United Kingdom
+  year: 2014
+- title: Optical measurement of acoustic drum strike locations
+  authors: J. Sokolovskis and A. McPherson
+  venue: Proc. New Interfaces for Musical Expression
+  city: London, United Kingdom
+  year: 2014
+- title: 'The talking guitar: headstock tracking and mapping strategies'
+  authors: L. Donovan and A. McPherson
+  venue: Proc. New Interfaces for Musical Expression
+  city: London, United Kingdom
+  year: 2014
+- title: 'Radear: a tangible spinning music sequencer'
+  authors: D. Gábana Arellano and A. McPherson
+  venue: Proc. New Interfaces for Musical Expression
+  city: London, United Kingdom
+  year: 2014
+- title: Human performance of computational sound models for immersive environments
+  authors: C. Heinrichs, A. McPherson and A. Farnell
+  venue: The New Soundtrack Journal
+  year: 2014
+- title: Mapping and interaction strategies for performing environmental sound
+  authors: C. Heinrichs and A. McPherson
+  venue: IEEE VR Workshop on Sonic Interactions for Virtual Environments
+  city: Minneapolis, USA
+  year: 2014
+- title: Latency performance for real-time audio on BeagleBone Black
+  authors: J. Topliss, V. Zappi and A. McPherson
+  venue: Linux Audio Conference
+  city: Karlsruhe, Germany
+  year: 2014

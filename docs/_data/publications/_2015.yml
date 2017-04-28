@@ -1,5 +1,57 @@
-- title: The Very Greatest Thing
-  authors: S. Dude, T. Guy, T. Girl
-  venue: TEI
-  city: Eindhoven
-  link: http://www.this.com
+- title: 'The D-Box: how to rethink a digital musical instrument'
+  authors: V. Zappi and A. McPherson
+  venue: Proc. Digital Audio Effects (DAFx)
+  city: Trondheim, Norway
+  year: 2015
+- title: A low-cost real-time tracking system for violin
+  authors: L. Pardue, C. Harte and A. McPherson
+  venue: Journal of New Music Research
+  year: 2015
+- title: Approximating non-linear inductors using time-variant linear filters
+  authors: G. Moro and A. McPherson
+  venue: Proc. Digital Audio Effects (DAFx)
+  city: Trondheim, Norway
+  year: 2015
+- title: Technological support for Highland piping tuition and practice
+  authors: D. W. H. Menzies
+  venue: PhD Thesis, Queen Mary University of London
+  city: London, United Kingdom
+  year: 2015
+- title: The design of tactile musical devices for the deaf
+  authors: R. Jack, A. McPherson and T. Stockman
+  venue: Proc. International Conference on the Multimodal Experience of Music
+  city: Sheffield, United Kingdom
+  year: 2015
+- title: 'Buttons, handles, and keys: advances in continuous-control keyboard instruments'
+  authors: A. McPherson
+  venue: Computer Music Journal
+  vol: 39
+  issue: 2
+  year: 2015
+- title: Integrating optical finger motion tracking with surface touch events
+  authors: J. MacRitchie and A. McPherson
+  venue: Frontiers in Psychology
+  vol: 6
+  issue: 702
+  year: 2015
+- title: Exposing the scaffolding of digital instruments with hardware-software feedback loops
+  authors: A. McPherson and V. Zappi
+  venue: Proc. New Interfaces for Musical Expression
+  city: Baton Rouge, LA, USA
+  year: 2015
+- title: Highland piping ornament recognition using Dynamic Time Warping
+  authors: D. W. H. Menzies and A. McPherson
+  venue: Proc. New Interfaces for Musical Expression
+  city: Baton Rouge, LA, USA
+  year: 2015
+- title: Active control of a string instrument bridge using the Posicast technique
+  authors: L. Donovan and A. McPherson
+  venue: Proc. AES 138th Convention
+  city: Warsaw, Poland
+  year: 2015
+- title: An environment for submillisecond-latency audio and sensor processing on BeagleBone Black
+  authors: A. McPherson and V. Zappi
+  venue: Proc. AES 138th Convention
+  city: Warsaw, Poland
+  year: 2015
+  

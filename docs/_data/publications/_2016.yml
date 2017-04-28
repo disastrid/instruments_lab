@@ -1,11 +1,39 @@
-- title: My Great Paper
-  authors: S. Dude, T. Guy, T. Girl
-  venue: NIME
+- title: Effect of latency on performer interaction and subjective quality assessment of a digital musical instrument
+  authors: R. H. Jack, A. McPherson and T. Stockman
+  venue: Proc. Audio Mostly
+  city: Norrköping, Sweden
   year: 2016
-  pdf: http://www.this.com
-- title: A not so great paper
-  authors: S. Dude, T. Guy, T. Girl
-  venue: A Conference
-  city: Sometown
+- title: 'Action-Sound Latency: Are Our Tools Fast Enough?'
+  authors: A. McPherson, R. Jack and G. Moro
+  venue: Proc. New Interfaces for Musical Expression
+  city: Brisbane, Australia
   year: 2016
-  pdf: http://www.this.com
+- title: 'Skip the pre-concert demo: how technical familiarity and musical style affect audience response'
+  authors: S. A. Bin and A. McPherson
+  venue: Proc. New Interfaces for Musical Expression
+  city: Brisbane, Australia
+  year: 2016
+- title: Making high-performance embedded instruments with Bela and Pure Data
+  authors: G. Moro, S. A. Bin, R. H. Jack, C. Heinrichs and A. McPherson
+  venue: Proc. ICLI
+  city: Brighton, United Kingdom
+  year: 2016
+- title: Evolving the process of a virtual composer
+  authors: C. Sulyok, A. McPherson and C. Harte
+  venue: Natural Computing
+  year: 2016
+- title: Designing for exploratory play with a hackable digital musical instrument
+  authors: A. McPherson, A. Chamberlain, A. Hazzard, S. McGrath and S. Benford
+  venue: Proc. Desiging Interactive Systems
+  city: Brisbane, Australia
+  year: 2016
+- title: 'Workshop: Music and HCI'
+  authors: S. Holland, A. McPherson et al.
+  venue: CHI Extended Abstracts
+  city: San Jose, CA, USA
+  year: 2016
+- title: Navigation of pitch space on a digital musical instrument with dynamic tactile feedback
+  authors: R. Jack, T. Stockman and A. McPherson
+  venue: Proc. Tangible and Embodied Interaction
+  city: Eindhoven, Netherlands
+  year: 2016
