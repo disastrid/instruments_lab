@@ -29,13 +29,13 @@
 - avatar: ../images/people/kurijn.jpg
   name: Kurijn Buys
   position: Postdoctoral Research Assistant
+  education: M.A. Audio Design, Utrecht School of Music and Technology, 2008; M.S. Science and Technology, Université Pierre et Marie Curie, 2010; PhD in Musical Acoustics, The Open University, 2017.
+  desc: Acoustic/electronic/digital instrument development, in particular experienced with hybrid (electro-acoustic) wind instruments.
   socials:
-    - link: http://twitter.com
+    - link: http://twitter.com/KurijnBuys
       icon: twitter
-    - link: http://facebook.com
+    - link: http://facebook.com/kurijn
       icon: facebook
-  desc:
-    He just got here.
 - avatar: ../images/people/chris.jpeg
   name: Chris Heinrichs
   position: PhD student (2012-present)
