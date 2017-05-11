@@ -6,20 +6,16 @@
       icon: link
   desc:
     Victor was a postdoc on the Hackable Instruments project, 2013-14. He now holds a Marie Curie Fellowship at the Istituto Italiano di Tecnologia (Genova) and the University of British Columbia. Victor is the co-creator of the D-Box hackable instrument.
-- avatar: ../images/stock/member-1.jpg
+- avatar: ../images/people/duncan.jpg
   name: Dr Duncan Menzies
   position: PhD student, 2011-15
   socials:
-    - link: http://twitter.com/amcph
+    - link: http://twitter.com/duncan_menzies
       icon: twitter
-    - link: http://github.com/amcph
-      icon: github
-    - link: http://youtube.com/amcph
-      icon: youtube
-    - link: http://amcph.com
+    - link: http://www.duncanmenzies.com/
       icon: link
   desc:
-    Duncan is the master of the craic pipe.
+    Duncan was a PhD student at the Augmented Instruments Lab between 2011-2015. During this time he developed a digital bagpipe chanter hardware and software system to assist in the process of teaching and learning the Great Highland Bagpipe. Read Duncan's thesis: [Technological Support for Highland Piping Tuition and Practice](http://www.eecs.qmul.ac.uk/~andrewm/menzies_thesis.pdf)
 - avatar: ../images/stock/member-1.jpg
   name: Dr Laurel Pardue
   position: PhD student, 2012-17
@@ -32,15 +28,3 @@
       icon: dribbble
   desc:
     Laurel is definitely better than you at electronics.
-- avatar: ../images/stock/member-1.jpg
-  name: Some Guy
-  position: Masters student (some point-some point)
-  socials:
-    - link: http://twitter.com
-      icon: twitter
-    - link: http://facebook.com
-      icon: facebook
-    - link: http://tumblr.com
-      icon: tumblr
-  desc:
-    This masters student did lots of work.
