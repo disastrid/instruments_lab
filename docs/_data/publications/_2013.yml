@@ -14,6 +14,7 @@
   venue: Proc. Sound and Music Computing
   city: Stockholm, Sweden
   year: 2013
+  pdf: http://server.smcnetwork.org/system/files/3D%20GESTURAL%20INTERACTION%20WITH%20HARMONIC%20PITCH%20SPACE.pdf
 - title: Piano technique as a case study in expressive gestural interaction
   authors: A. McPherson and Y. Kim
   venue: Music and Human-Computer Interaction; Holland, S., Wilkie, K., Mulholland, P. and Seago, A., Ed.; Springer, C7, pp.123-138
@@ -24,16 +25,19 @@
   venue: Proc. New Interfaces for Musical Expression (NIME 2013 Best Paper)
   city: Seoul, South Korea
   year: 2013
+  pdf: http://www.eecs.qmul.ac.uk/~andrewm/mcpherson_nime2013.pdf
 - title: Near-field optical reflectance sensing for violin bow tracking
   authors: L. Pardue and A. McPherson
   venue: Proc. New Interfaces for Musical Expression
   city: Seoul, South Korea
   year: 2013
+  pdf: http://nime2013.kaist.ac.kr/program/papers/day3/paper8/247/247_Paper.pdf
 - title: 'The space between the notes: adding expressive pitch control to the piano keyboard'
   authors: A. McPherson, A. Gierakowski and A. Stark
   venue: Proc. ACM Conference on Human Factors in Computing Systems (CHI)
   city: Paris, France
   year: 2013
+  pdf: http://dl.acm.org/authorize?6813830
 - title: Estimation of overdrive in music signals
   authors: L. Vetter, M. Terrell, A. Simpson and A. McPherson
   venue: Audio Engineering Society 134th Convention

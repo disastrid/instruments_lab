@@ -3,21 +3,25 @@
   venue: Proc. Audio Mostly
   city: Norrköping, Sweden
   year: 2016
+  pdf: http://www.eecs.qmul.ac.uk/~andrewm/jack_am2016.pdf
 - title: 'Action-Sound Latency: Are Our Tools Fast Enough?'
   authors: A. McPherson, R. Jack and G. Moro
   venue: Proc. New Interfaces for Musical Expression
   city: Brisbane, Australia
   year: 2016
+  pdf: http://www.eecs.qmul.ac.uk/~andrewm/mcpherson_nime2016.pdf
 - title: 'Skip the pre-concert demo: how technical familiarity and musical style affect audience response'
   authors: S. A. Bin and A. McPherson
   venue: Proc. New Interfaces for Musical Expression
   city: Brisbane, Australia
   year: 2016
+  pdf: http://www.eecs.qmul.ac.uk/~andrewm/bin_nime2016.pdf
 - title: Making high-performance embedded instruments with Bela and Pure Data
   authors: G. Moro, S. A. Bin, R. H. Jack, C. Heinrichs and A. McPherson
   venue: Proc. ICLI
   city: Brighton, United Kingdom
   year: 2016
+  pdf: http://www.eecs.qmul.ac.uk/~andrewm/moro_icli2016.pdf
 - title: Evolving the process of a virtual composer
   authors: C. Sulyok, A. McPherson and C. Harte
   venue: Natural Computing
@@ -27,6 +31,7 @@
   venue: Proc. Desiging Interactive Systems
   city: Brisbane, Australia
   year: 2016
+  pdf: http://eprints.nottingham.ac.uk/33165/1/dbox_rev.pdf
 - title: 'Workshop: Music and HCI'
   authors: S. Holland, A. McPherson et al.
   venue: CHI Extended Abstracts

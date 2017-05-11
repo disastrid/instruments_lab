@@ -8,42 +8,51 @@
   venue: Proc. Live Interfaces
   city: Lisbon, Portugal
   year: 2014
+  pdf: http://www.eecs.qmul.ac.uk/~andrewm/zappi_icli14.pdf
 - title: Dimensionality and appropriation in digital musical instrument design
   authors: V. Zappi and A. McPherson
   venue: Proc. New Interfaces for Musical Expression
   city: London, United Kingdom
   year: 2014
+  pdf: http://www.eecs.qmul.ac.uk/~andrewm/zappi_nime2014.pdf
 - title: 'Low-latency audio pitch tracking: a multi-modal sensor-assisted approach'
   authors: L. Pardue, D. Nian, C. Harte and A. McPherson
   venue: Proc. New Interfaces for Musical Expression
   city: London, United Kingdom
   year: 2014
+  pdf: http://www.eecs.qmul.ac.uk/~andrewm/pardue_nime2014.pdf
 - title: Optical measurement of acoustic drum strike locations
   authors: J. Sokolovskis and A. McPherson
   venue: Proc. New Interfaces for Musical Expression
   city: London, United Kingdom
   year: 2014
+  pdf: http://nime2014.org/proceedings/papers/436_paper.pdf
 - title: 'The talking guitar: headstock tracking and mapping strategies'
   authors: L. Donovan and A. McPherson
   venue: Proc. New Interfaces for Musical Expression
   city: London, United Kingdom
   year: 2014
+  pdf: http://nime2014.org/proceedings/papers/407_paper.pdf
 - title: 'Radear: a tangible spinning music sequencer'
   authors: D. Gábana Arellano and A. McPherson
   venue: Proc. New Interfaces for Musical Expression
   city: London, United Kingdom
   year: 2014
+  pdf: http://nime2014.org/proceedings/papers/324_paper.pdf
 - title: Human performance of computational sound models for immersive environments
   authors: C. Heinrichs, A. McPherson and A. Farnell
   venue: The New Soundtrack Journal
   year: 2014
+  pdf: http://www.eecs.qmul.ac.uk/~andrewm/heinrichs-mcpherson-farnell-tns.pdf
 - title: Mapping and interaction strategies for performing environmental sound
   authors: C. Heinrichs and A. McPherson
   venue: IEEE VR Workshop on Sonic Interactions for Virtual Environments
   city: Minneapolis, USA
   year: 2014
+  pdf: http://www.eecs.qmul.ac.uk/~andrewm/heinrichs-mcpherson-sive.pdf
 - title: Latency performance for real-time audio on BeagleBone Black
   authors: J. Topliss, V. Zappi and A. McPherson
   venue: Linux Audio Conference
   city: Karlsruhe, Germany
   year: 2014
+  pdf: http://www.eecs.qmul.ac.uk/~andrewm/lac2014.pdf
