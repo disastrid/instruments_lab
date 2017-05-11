@@ -5,7 +5,7 @@ tag: "augmented instruments"
 tagline: Electromagnetically-augmented acoustic piano
 thumb: mrp/mrp-thumb.jpg
 authors: "Andrew McPherson"
-main-image: /images/mrp/mrp-cover.jpg
+main-image: /images/research/mrp/mrp-cover.jpg
 production-date: 2009 - present
 para: Continuous note shaping on the acoustic piano.
 ---
@@ -18,7 +18,7 @@ The MRP installs in any grand piano and has been used in compositions, performan
 
 ## Motivation
 
-# Extending the Piano
+### Extending the Piano
 
 The piano is a percussion instrument whose design has remained essentially unchanged over a century. Sound is produced by hammers striking strings, and once a note is struck, the performer has no means to alter its sound before it is released. For example, the following gesture is impossible on the acoustic piano:
 
@@ -26,7 +26,7 @@ The piano is a percussion instrument whose design has remained essentially uncha
 
 The MRP was initially designed as an extension of the piano, allowing the player to continuously shape each note in dynamics, pitch and timbre, while retaining the richness and nuance of the acoustic grand piano.
 
-# New Acoustic Sounds
+### New Acoustic Sounds
 
 The MRP also unlocks a sound world far removed from the traditional piano. When the keys are played lightly and no hammers strike the strings, the electromagnets elicit sustained, subtly evolving tones which have many of the acoustic qualities of the piano, including the sympathetic resonance between strings, but without the familiar percussion. It is also possible to explore the space "between the notes" by bending notes away from where the strings are tuned and exploring the harmonics of each string. The results of this mode of playing have been explored in compositions and gallery installations.
 
@@ -35,13 +35,13 @@ The MRP also unlocks a sound world far removed from the traditional piano. When 
 {% include single-image-research.html fileName="mrp/mrp-magnets1.jpg" %}
 {% include single-image-research.html fileName="mrp/mrp-magnets2.jpg" caption = "Electromagnets are placed just above the piano strings on adjustable brackets." %}
 
-# Principle of Operation
+### Principle of Operation
 
 {% include single-image-research.html fileName="mrp/mrp-magnet-principle.png" %}
 
 Piano strings are made of steel, which is a ferromagnetic material, meaning it can be attracted by a magnetic field. The MRP uses 88 electromagnetic actuators to cover the complete range of the piano (one actuator per note, though a note may include 2 or 3 identically-tuned strings). When current is passed through an actuator, the string is pulled upward; when the current is turned off, the string returns to its original position. By modulating the current at the frequency of the string or one of its harmonics, the string is made to vibrate sympathetically without ever having been struck by the hammer.
 
-# Amplifier System
+### Amplifier System
 
 {% include single-image-research.html fileName="mrp/mrp-amplifier.jpg" caption="Amplifier board for 18 notes. 5 boards cover the complete range of the piano." %}
 
@@ -49,7 +49,7 @@ Audio signals for the electromagnets ultimately come from a computer, controlled
 
 The instrument covers 88 strings, but requiring 88 audio channels would be prohibitive. The amplifier circuitry therefore includes a signal routing system where audio channels are dynamically allocated to each string as needed. A standard audio interface can be used, with the number of audio channels (up to 16) determining the maximum polyphony of the instrument. In practice, the instrument is often run with 6-to-10-note polyphony.
 
-# Accounting for Tuning
+### Accounting for Tuning
 
 The tuning of each piano varies slightly, and the best performance is obtained when the actuator frequencies exactly match the tuning of the strings, with the bass notes being particularly sensitive to tuning accuracy. To adjust to the tuning of the specific piano, a pickup can be placed on the soundboard and a phased-locked loop (PLL) system used to lock the actuators into the existing vibrations of the strings. More detail on this process can be found in [this paper](http://www.tandfonline.com/doi/abs/10.1080/09298211003695587).
 
@@ -63,7 +63,7 @@ A. McPherson. [Techniques and circuits for electromagnetic instrument actuation]
 
 {% include single-image-research.html fileName="mrp/mrp-aberystwyth.jpg" caption="The MRP in an art gallery in Aberystwyth as part of the show Beyond the Moon by printmaker Wuon-Gean Ho. The scanner bar with multicoloured LED feedback can be seen on the keyboard." %}
 
-# Scanner Hardware
+### Scanner Hardware
 
 Continuous control of every note is a primary goal of the MRP, whether it is used to subtly extend the sounds of the traditional piano or to create novel and unusual effects. MIDI keyboards represent notes solely by onset and release, and even where aftertouch is used, the degree of control is insufficient for the continuously-evolving MRP sounds. Instead, a custom optical scanner bar is placed on the piano keyboard which records the continuous angle of each key.
 
@@ -71,7 +71,7 @@ Originally, a modified Moog Piano Bar was used for this purpose but a new dedica
 
 {% include single-image-research.html fileName="mrp/mrp-scanner.jpg" caption="Close-up of scanner on keyboard. Optical reflectance sensors use LED and phototransistor in a single package." %}
 
-# Data Mapping and Performance
+### Data Mapping and Performance
 
 Continuous key data can be used to capture the subtle details of how a key has been pressed, including dimensions beyond velocity. More information on these measurements can be found in [this paper](http://dl.acm.org/authorize?406423). Continuous key angle also allows new techniques including partial key presses, light taps on the surface, vibrato and aFtertouch on the acoustic piano (since the keybed is lined in felt, which compresses under pressure).
 
@@ -98,7 +98,7 @@ Two major projects have expanded the repertoire for MRP. A 2011 collaboration wi
 
 {% include youtube.html youtube="WDTaH_d8s8c" %}
 
-# Classical Compositions
+### Classical Compositions
 
 * Andrew McPherson, *Secrets of Antiykthera* (2009), 35'. Performances by Steve Beck, Sandra Gu and Ryan MacEvoy McCullough. Commercially released on Innova Recordings: link
 * Andrew McPherson, *d'Amore* (2009), 11', for viola and MRP. Performances by Nadia Sirota, Bridget Carey and Rachel Ku. Commercially released on Innova Recordings: link
@@ -123,7 +123,7 @@ Two major projects have expanded the repertoire for MRP. A 2011 collaboration wi
 * Elise Roy, *Sonatine* (2015), for magnetic resonator piano. Premiered by Richard Valitutto ([People Inside Electronics](http://peopleinsideelectronics.com)), Neighborhood Unitarian Universalist Church of Pasadena, CA, 18 April 2015.
 * Oded Ben-Tal, *Sonata (Scarlatti, Schubert, Scriabin)* (2016), for magnetic resonator piano and live electronics. [Premiered by Elaine Chew](http://elainechew-piano.blogspot.com/2016/06/withwithout-excerpts.html), Schott Music London, 24 June 2016.
 
-# Other Recordings
+### Other Recordings
 
 The magnetic resonator piano is featured in the new album "Field of Reeds" by [These New Puritans](http://thesenewpuritans.com/), released April 2013. The recording took place December 2012 on a Boesendorfer 225 piano at [Snap Studios](http://snapstudios.co.uk/) in north London.
 
