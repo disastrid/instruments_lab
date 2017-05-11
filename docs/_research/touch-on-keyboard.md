@@ -7,10 +7,9 @@ thumb: touch-on-keyboard/hammond-thumb.jpg
 authors: "Giulio Moro"
 main-image: /images/research/touch-on-keyboard/hammond-back.jpg
 collaborator: "Andrew McPherson"
-production-date:
-para:
+production-date: 2015 - present
 links: ["http://eecs.qmul.ac.uk"]
-link-names:["Online survey on the effect of touch on the Hammond organ"]
+link-names: ["Online survey on the effect of touch on the Hammond organ"]
 ---
 
 When a keyboard player strikes a note, the temporal evolution of the key position is much more complicated than we may expect and is influenced by a number of factors. If the finger was touching the key before pressing it (pressed touch), you would probably see a progressive increase in the key velocity. If the key was already moving as it engaged the key (struck touch), the velocity would spike at the beginning and then slightly decrease during the remainder of the key onset. Looking at a keyboard player playing one key with one of the two types of touch above will immediately tell you that they are different, the body and hand movement can be drastically different. Your piano teacher would stress on the importance of using the appropriate type of touch for the piece or the note you are playing.
