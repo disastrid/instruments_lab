@@ -8,7 +8,6 @@ categories: research
 thumb: violin/violin-thumb.jpg
 authors: "Laurel Pardue"
 main-image: /images/research/violin/violin2.jpg
-para: This project ran 2013-14, with support from the UK Engineering and Physical Sciences Research Council (grant EP/K032046/1).
 
 ---
 
@@ -20,7 +19,8 @@ Violin gesture analysis is an active area of study in many research groups. This
 
 {% include single-image-research.html fileName="violin/bowsensor2.jpg" %}
 
+L. Pardue, C. Harte and A. McPherson. [A low-cost real-time tracking system for violin](http://www.tandfonline.com/doi/abs/10.1080/09298215.2015.1087575#aHR0cDovL3d3dy50YW5kZm9ubGluZS5jb20vZG9pL3BkZi8xMC4xMDgwLzA5Mjk4MjE1LjIwMTUuMTA4NzU3NUBAQDA=). Journal of New Music Research, 2015.
 
-[L. Pardue, D. Nian, C. Harte and A. McPherson. Low-latency audio pitch tracking: a multi-modal sensor-assisted approach. Proc. New Interfaces for Musical Expression, London, UK, 2014.]()
+L. Pardue, D. Nian, C. Harte and A. McPherson. [Low-latency audio pitch tracking: a multi-modal sensor-assisted approach](http://www.eecs.qmul.ac.uk/~andrewm/pardue_nime2014.pdf). Proc. New Interfaces for Musical Expression, London, UK, 2014.
 
-[L. Pardue and A. McPherson. Near-field optical reflectance sensing for violin bow tracking. Proc. New Interfaces for Musical Expression, Seoul, South Korea, 2013.]()
+L. Pardue and A. McPherson. [Near-field optical reflectance sensing for violin bow tracking](http://nime2013.kaist.ac.kr/program/papers/day3/paper8/247/247_Paper.pdf). Proc. New Interfaces for Musical Expression, Seoul, South Korea, 2013.
