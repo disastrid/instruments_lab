@@ -81,14 +81,10 @@
     <a href='#'>Putzfrau</a>.
 - avatar: ../images/people/giulio.jpeg
   name: Giulio Moro
-  position: PhD student (2015-present)
+  education: Bachelors in sound recording (Conservatory of Padua), MSc in Digital Music Processing (QMUL)
+  position: PhD student (2015-present), Research Assistant (2017)
   socials:
-    - link: http://twitter.com
-      icon: twitter
-    - link: http://facebook.com
-      icon: facebook
-  desc:
-    IoT (as in "instruments of things"), low latency audio and sensors, embedded devices, why-do-people-think-analog-is-better
+  desc: touch on keyboard instruments, low latency audio and sensors, embedded devices, why-do-people-think-analog-is-better
 - avatar: ../images/people/jack.jpg
   name: Jack Armitage
   position: PhD student (2016-present)
