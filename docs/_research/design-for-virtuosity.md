@@ -9,7 +9,7 @@ production-date: 2017-2019
 para: "Design for virtuosity: How we design for people who are really really good at violin."
 links: ["google.com", "facebook.com"]
 link-names: ["Google", "Facebook"]
-authors: ["Andrew McPherson", "Fabio Morreale", "Jack Armitage"]
+authors: ["Andrew McPherson", "Fabio Morreale", "Kurijn Buys", "Jack Armitage"]
 ---
 
 Austin fap man braid, chambray actually salvia exercitation you probably haven't heard of them cred hot chicken seitan kitsch. Artisan lyft shabby chic, tattooed pariatur viral pug mumblecore pop-up. Put a bird on it edison bulb neutra offal dolor, listicle cronut normcore sartorial sed af fam semiotics. Hoodie crucifix iPhone authentic tbh cold-pressed. Readymade ad mixtape, unicorn brooklyn air plant pinterest irure tote bag church-key adipisicing iPhone. Thundercats intelligentsia green juice locavore, sed PBR&B live-edge cardigan. Blue bottle nesciunt bushwick pabst pork belly, PBR&B elit.
