@@ -22,19 +22,21 @@
       icon: twitter
     - link: https://www.facebook.com/phbphd
       icon: facebook
+    - link: https://scholar.google.it/citations?user=cMZilz4AAAAJ&hl=en
+      icon: graduation-cap
   education: B.S. Computer Science, M.S. Computer Science, M.S. Biomedical Data Processing, University of Verona; Ph.D. Human-Computer Interaction, University of Trento 2015; Postdoc University of Trento 2015-2016
   desc: Musical interface design and evaluation, generative art, algorithmic composition
-- avatar: ../images/stock/member-4.jpg
+- avatar: ../images/people/kurijn.jpg
   name: Kurijn Buys
   position: Postdoctoral Research Assistant
+  education: M.A. Audio Design, Utrecht School of Music and Technology, 2008; M.S. Science and Technology, Université Pierre et Marie Curie, 2010; PhD in Musical Acoustics, The Open University, 2017.
+  desc: Acoustic/electronic/digital instrument development, in particular experienced with hybrid (electro-acoustic) wind instruments.
   socials:
-    - link: http://twitter.com
+    - link: http://twitter.com/KurijnBuys
       icon: twitter
-    - link: http://facebook.com
+    - link: http://facebook.com/kurijn
       icon: facebook
-  desc:
-    He just got here.
-- avatar: ../images/stock/member-1.jpg
+- avatar: ../images/people/chris.jpeg
   name: Chris Heinrichs
   position: PhD student (2012-present)
   socials:
@@ -44,7 +46,7 @@
       icon: facebook
   desc:
     procedural audio, sound design, immersive environments and games, violin, spatial audio
-- avatar: ../images/stock/member-1.jpg
+- avatar: ../images/people/liam.jpg
   name: Liam Donovan
   position: PhD student (2013-present)
   socials:
@@ -61,8 +63,8 @@
   socials:
     - link: http://twitter.com/rjack0101
       icon: twitter
-    - link: https://qmul.academia.edu/RJack
-      icon: link
+    - link: https://scholar.google.co.uk/citations?user=4UnLTw0AAAAJ&hl=en&oi=sra
+      icon: graduation-cap
     - link: http://www.robertjack.org
       icon: link
   desc: touch and musical instrument design, cross-modal perception, non-visual interfaces, sensorimotor feedback, haptics, percussion, strings and live electronics.
@@ -71,15 +73,13 @@
   position: PhD student (2014-present)
   education: AOCAD (Hons.) Sculpture/Installation, 2003. MA Art In Public, University of Ulster, 2013.
   socials:
-    - link: http://twitter.com
+    - link: http://twitter.com/disastrid
       icon: twitter
-    - link: http://facebook.com
-      icon: facebook
-    - link: http://github.com
+    - link: http://github.com/disastrid
       icon: github
   desc:
-    Putzfrau.
-- avatar: ../images/stock/member-4.jpg
+    <a href='#'>Putzfrau</a>.
+- avatar: ../images/people/giulio.jpeg
   name: Giulio Moro
   position: PhD student (2015-present)
   socials:
@@ -89,25 +89,25 @@
       icon: facebook
   desc:
     IoT (as in "instruments of things"), low latency audio and sensors, embedded devices, why-do-people-think-analog-is-better
-- avatar: ../images/stock/member-4.jpg
+- avatar: ../images/people/jack.jpg
   name: Jack Armitage
   position: PhD student (2016-present)
   education: BSc Music, Multimedia & Electronics, University of Leeds
   socials:
-    - link: http://twitter.com
-      icon: twitter
-    - link: http://facebook.com
-      icon: facebook
+    - link: http://jackarmitage.com
+      icon: link
+    - link: http://scholar.google.com/citations?user=APvoBhUAAAAJ
+      icon: graduation-cap
+    - link: http://github.com/jarmitage
+      icon: link
   desc:
-    musical instruments, composition systems, cognitive science, human-computer interaction
-- avatar: ../images/stock/member-4.jpg
+    musical instruments, composition systems, cognitive science, (post) human-computer interaction
+- avatar: ../images/people/jacob.jpg
   name: Jacob Harrison
   position: PhD student (2016-present)
   education: BSc Music Technology, University of York; MSc by Research Electronic Engineering, University of York Audio Lab
   socials:
-    - link: http://twitter.com
+    - link: http://twitter.com/Jcb_H
       icon: twitter
-    - link: http://facebook.com
-      icon: facebook
   desc:
-    interface and instrument design, neurologic music therapy, accessible music technology
+    interface and instrument design, accessible music technology
