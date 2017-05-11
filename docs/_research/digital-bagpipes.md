@@ -25,8 +25,9 @@ To address the specific challenge of learning the wide variety of ornaments that
 
 This work is an example of a digital interface designed to connect to a long established and highly formalised musical style. Through careful consideration of the specific challenges faced in teaching and learning the bagpipes, this project demonstrates how digital technologies can provide a meaningful contribution to even the most conservative cultural traditions.
 
-{% include single-image-research.html fileName="bagpipes/InstructorScreen.png" %}
+{% include single-image-research.html fileName="bagpipes/InstructorScreen.jpg" %}
 
+{% include youtube.html youtube="-oxT8GQ7Uuc" %}
 {% include youtube.html youtube="7Q0sA7a6E2k" %}
 {% include youtube.html youtube="urqjewHR-GQ" %}
 
