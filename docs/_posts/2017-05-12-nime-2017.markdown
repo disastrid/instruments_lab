@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "NIME 2017"
+categories: [news, events]
+images: /images/news/nime2017.png
+front-image: /images/news/nime2017.png
+event_date: May 11-16, 2017
+excerpt: The Augmented Instruments Lab will be at NIME 2017, in Copenhagen.
+url: www.nime2017.org
+---
+
+The Augmented Instruments Lab are excited to be attending the New Instruments for Musical Expression Conference 2017 at Aalborg University Copenhagen, Denmark. The program can be viewed [here](http://www.nime2017.org/program).
+
+#### Monday 15 May
+- Morning: NIMEcraft Workshop: Exploring the Subtleties of Digital Lutherie. Andrew McPherson, Jack Armitage, Astrid Bin, Fabio Morreale, Robert Jack, Jacob Harrison.
+- Afternoon: Skill Learning and Interactive Music Technology. Andrew McPherson.
+
+#### Wednesday 17 May
+- Papers 6: Design for Longevity: Ongoing Use of Instruments from NIME 2010-14. Fabio Morreale, Andrew McPherson
+- Demos 2: An Adapted Bass Guitar for One-Handed playing. Jacob Harrison.
+
+#### Thursday 18 May
+- Posters 3: "The finer the musician, the smaller the details": NIMEcraft under the microscope. Jack Armitage, Fabio Morreale, Andrew McPherson
+
+#### Friday 19 May
+- Unconference. [Bela](http://bela.io) Embedded Instruments Workshop.

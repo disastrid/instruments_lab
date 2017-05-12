@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "New website launch"
+categories: [news]
+images: /images/ail-light-bg.png
+front-image: /images/ail-light-bg.png
+excerpt: The Augmented Instruments Lab has a new home on the web!
+url: www.instrumentslab.org
+---
+
+Welcome to our new website, designed by lab member [Astrid Bin](http://twitter.com/disastrid)!

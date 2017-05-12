@@ -16,15 +16,11 @@
       icon: link
   desc:
     Duncan was a PhD student at the Augmented Instruments Lab between 2011-2015. During this time he developed a digital bagpipe chanter hardware and software system to assist in the process of teaching and learning the Great Highland Bagpipe.
-- avatar: ../images/stock/member-1.jpg
+- avatar: ../images/people/laurel.jpg
   name: Dr Laurel Pardue
   position: PhD student, 2012-17
   socials:
-    - link: http://twitter.com
-      icon: twitter
-    - link: http://facebook.com
-      icon: facebook
-    - link: http://dribbble.com
-      icon: dribbble
+    - link: https://scholar.google.com/citations?user=UXWpcQ4AAAAJ
+      icon: link
   desc:
-    Laurel is definitely better than you at electronics.
+    Laurel was a PhD student at the Augmented Instruments Lab between 2012-2017.

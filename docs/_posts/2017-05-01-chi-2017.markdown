@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "CHI 2017"
+categories: [news, events]
+images: /images/news/chi2017.jpg
+front-image: /images/news/chi2017.jpg
+excerpt: The Augmented Instruments Lab will be at CHI 2017, in Colorado.
+url: chi2017.acm.org
+---
+
+The Augmented Instruments Lab are excited to be attending CHI 2017 at Denver, Colorado. The program can be viewed [here](http://chi2017.acm.org).
+
+Our paper is to be presented during the session on on Sharing, People and Communities.
+
+Fabio Morreale, Giulio Moro, Alan Chamberlain, Steve Benford, Andrew P. McPherson. Building a Maker Community Around an Open Hardware Platform. Proc. CHI 2017. [Download](https://dl.acm.org/authorize?N36934)
+
