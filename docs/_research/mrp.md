@@ -59,7 +59,7 @@ A. McPherson. [The magnetic resonator piano: electronic augmentation of an acous
 
 A. McPherson. [Techniques and circuits for electromagnetic instrument actuation](http://www.eecs.umich.edu/nime2012/Proceedings/papers/117_Final_Manuscript.pdf). Proc. New Interfaces for Musical Expression, Ann Arbor, MI, USA, 2012. [Design Materials](http://c4dm.eecs.qmul.ac.uk/rdr/handle/123456789/25)
 
-## Continuous Key Position
+## Continuous Key Position
 
 {% include single-image-research.html fileName="mrp/mrp-aberystwyth.jpg" caption="The MRP in an art gallery in Aberystwyth as part of the show Beyond the Moon by printmaker Wuon-Gean Ho. The scanner bar with multicoloured LED feedback can be seen on the keyboard." %}
 
@@ -90,7 +90,7 @@ A. McPherson. [Portable measurement and mapping of continuous piano gesture](htt
 A. McPherson. [Buttons, handles, and keys: advances in continuous-control keyboard instruments](http://www.mitpressjournals.org/doi/pdf/10.1162/COMJ_a_00297). Computer Music Journal 29(2), 2015.
 
 
-## Repertoire
+## Repertoire
 
 The MRP has been used in new pieces and recordings by a growing number of composers and performers. Since it can be set up in any grand piano and fits in travel-sized cases, new pieces can be performed anywhere. Scores and recordings are available from the composers in most cases; [contact Andrew McPherson](mailto:a.mcpherson@qmul.ac.uk) if you are interested.
 
@@ -131,7 +131,7 @@ The magnetic resonator piano is featured in the new album "Field of Reeds" by [T
 
 A. McPherson and Y. Kim. [The problem of the second performer: building a community around an augmented piano](http://www.eecs.qmul.ac.uk/~andrewm/mcpherson-cmj2012.pdf). Computer Music Journal 2012, 36 (4), 10-27. (PDF &copy; 2013 Massachusetts Institute of Technology; archived with permission from [Computer Music Journal](http://www.mitpressjournals.org/cmj))
 
-## References (collected)
+## References (collected)
 
 A. McPherson. [The magnetic resonator piano: electronic augmentation of an acoustic grand piano](http://www.tandfonline.com/doi/abs/10.1080/09298211003695587). Journal of New Music Research 2010, 39 (3), 189-202.
 

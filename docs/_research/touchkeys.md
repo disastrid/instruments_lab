@@ -43,7 +43,7 @@ A. McPherson, A. Gierakowski and A. Stark. [The space between the notes: adding 
 
 A. McPherson. [Buttons, handles, and keys: advances in continuous-control keyboard instruments](http://www.mitpressjournals.org/doi/pdf/10.1162/COMJ_a_00297). Computer Music Journal 29(2), 2015.
 
-## Features
+## Features
 
 {% include single-image-research.html fileName="touchkeys/touchkeys_classic_with_logo.jpg" %}
 
@@ -57,7 +57,7 @@ The TouchKeys are sensor overlays that attach to any standard-size keyboard, aco
 * Configurable keyboard size: the sensors can install on anything from a 2-octave portable keyboard to a 97-key Boesendorfer Imperial Grand piano.
 * OSC and MIDI support for a wide range of mappings from touch data to sound.
 
-## Videos
+## Videos
 
 During the [Kickstarter campaign](https://www.kickstarter.com/projects/instrumentslab/touchkeys-multi-touch-musical-keyboard), we created over 10 videos demonstrating different applications of TouchKeys which are available on the [YouTube channel](http://youtube.com/user/apm414/videos). Here is a selection of those videos:
 
@@ -65,7 +65,7 @@ During the [Kickstarter campaign](https://www.kickstarter.com/projects/instrumen
 {% include youtube.html youtube="InNZkNz4NMc" %}
 {% include youtube.html youtube="jt8Eb0ZalWQ" %}
 
-## TouchKeys in the Press
+## TouchKeys in the Press
 
 During the Kickstarter campaign and its subsequent [commercial launch](http://touchkeys.co.uk), TouchKeys was the subject of over 25 press articles. A full list can be found [here](http://touchkeys.co.uk/press/); a selection is below:
 
