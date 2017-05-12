@@ -18,7 +18,7 @@ TouchKeys is a new musical instrument transforming the piano-style keyboard into
 
 The project was launched on the crowd-funding website [Kickstarter](https://www.kickstarter.com/projects/instrumentslab/touchkeys-multi-touch-musical-keyboard) on 29 July 2013 and successfully finished its campaign on 2 September 2013. The campaign raised funding to build sets of TouchKeys that any musician can install on their own keyboard. They shipped by the end of January 2014, and a second production run completed in 2015. In 2016, the project spun out into an independent company, [TouchKeys Instruments Ltd](http://touchkeys.co.uk), which sells kits and instruments to musicians worldwide.
 
-## How it Works
+## How it Works
 
 {% include youtube.html youtube="BmRYuDOzTqU" %}
 
