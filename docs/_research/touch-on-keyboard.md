@@ -8,7 +8,7 @@ authors: "Giulio Moro"
 main-image: /images/research/touch-on-keyboard/hammond-back.jpg
 collaborator: "Andrew McPherson"
 production-date: 2015 - present
-links: ["http://eecs.qmul.ac.uk"]
+links: ["http://php-giulio.apps.devcloud.eecs.qmul.ac.uk/waet/test_base.php"]
 link-names: ["Online survey on the effect of touch on the Hammond organ"]
 ---
 
