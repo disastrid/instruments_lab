@@ -12,7 +12,6 @@ main-image: /images/research/bela/belaboard.jpg
 links: ["http://bela.io", "https://www.kickstarter.com/projects/423153472/bela-an-embedded-platform-for-low-latency-interact", "http://twitter.com/belaPlatform", "http://facebook.com/belaPlatform"]
 link-names: ["Bela website", "Kickstarter page", "Twitter", "Facebook"]
 para: "Bela: An embedded platform for ultra-low latency interactive audio"
-
 ---
 
 Bela is an open-source embedded computing platform developed for high quality, ultra-low latency interactive audio. Bela was initially funded on [Kickstarter](https://www.kickstarter.com/projects/423153472/bela-an-embedded-platform-for-low-latency-interact) in April 2016, and has been growing ever since. Bela provides stereo audio, analogue and digital I/O in a single self-contained package. It combines the processing power of the [BeagleBone Black](https://beagleboard.org/black) embedded computer with the timing precision and connectivity of a microcontroller.
