@@ -4,7 +4,7 @@ title:  "Bela"
 tagline: Open source embedded platform for ultra-low latency interactive audio
 tag: "instrument-design"
 desc: Research tools
-categories: research
+categories: research-projects
 thumb: bela/bela-thumb.jpg
 production-date: 2014 - present
 authors: ["Andrew McPherson", "Liam Donovan", "Giulio Moro", "Astrid Bin", "Robert Jack", "Chris Heinrichs", "Laurel Pardue", "Jack Armitage"]

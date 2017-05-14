@@ -7,6 +7,7 @@ categories: research
 thumb: error-in-performance/thumb.jpg
 authors: "Astrid Bin"
 main-image: /images/stock/06.jpg
+published: false
 ---
 
 MOAI! So cool!

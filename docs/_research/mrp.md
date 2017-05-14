@@ -1,7 +1,7 @@
 ---
 layout: research
 title:  "Magnetic Resonator Piano"
-tag: "augmented instruments"
+tag: "augmented-instruments"
 tagline: Electromagnetically-augmented acoustic piano
 thumb: mrp/mrp-thumb.jpg
 authors: "Andrew McPherson"
