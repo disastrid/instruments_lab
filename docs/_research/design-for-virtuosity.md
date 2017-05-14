@@ -7,8 +7,6 @@ thumb: virtuosity/virtuosity-thumb.jpg
 main-image: /images/stock/06.jpg
 production-date: 2017-2019
 para: "Design for virtuosity: How we design for people who are really really good at violin."
-links: ["google.com", "facebook.com"]
-link-names: ["Google", "Facebook"]
 authors: ["Andrew McPherson", "Fabio Morreale", "Kurijn Buys", "Jack Armitage"]
 ---
 
