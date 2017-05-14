@@ -44,7 +44,7 @@
     - link: http://enzienaudio.com
       icon: link
   desc:
-    procedural audio, sound design, immersive environments and games, violin, spatial audio
+    Procedural audio, sound design, immersive environments and games, violin, spatial audio
 - avatar: ../images/people/liam.jpg
   name: Liam Donovan
   education: University of Oxford
@@ -56,7 +56,7 @@
     Developing and building new acoustic musical instruments
 - avatar: ../images/people/robert.jpg
   name: Robert Jack
-  position: PhD student (2014-present) (co-supervised with Dr. Tony Stockman)
+  position: PhD student (2014-present, co-supervised with <a href='http://www.eecs.qmul.ac.uk/people/view/3026/dr-tony-stockman'>Dr Tony Stockman</a>)
   education: M.A.(hons) Applied Mathematics and Music, University of Glasgow; MMus Studio Composition, Goldsmiths, University of London.
   socials:
     - link: http://twitter.com/rjack0101
@@ -68,7 +68,7 @@
   desc: touch and musical instrument design, cross-modal perception, non-visual interfaces, sensorimotor feedback, haptics, percussion, strings and live electronics.
 - avatar: ../images/stock/member-4.jpg
   name: Astrid Bin
-  position: PhD student (2014-present)
+  position: PhD student (2014-present, co-supervised with <a href='http://www.eecs.qmul.ac.uk/~nickbk/>Dr Nick Bryan-Kinns</a>)
   education: AOCAD (Hons.) Sculpture/Installation, 2003. MA Art In Public, University of Ulster, 2013.
   socials:
     - link: http://twitter.com/disastrid
@@ -76,13 +76,13 @@
     - link: http://github.com/disastrid
       icon: github
   desc:
-    <a href='#'>Putzfrau</a>.
+    Eletronics, making things, physical objects, audiences, human-computer interaction, drone.
 - avatar: ../images/people/giulio.jpeg
   name: Giulio Moro
   education: Bachelors in sound recording (Conservatory of Padua), MSc in Digital Music Processing (QMUL)
   position: PhD student (2015-present), Research Assistant (2017)
   socials:
-  desc: touch on keyboard instruments, low latency audio and sensors, embedded devices, why-do-people-think-analog-is-better
+  desc: Touch on keyboard instruments, low latency audio and sensors, embedded devices, why-do-people-think-analog-is-better
 - avatar: ../images/people/jack.jpg
   name: Jack Armitage
   position: PhD student (2016-present)
@@ -95,7 +95,7 @@
     - link: http://github.com/jarmitage
       icon: link
   desc:
-    musical instruments, composition systems, cognitive science, (post) human-computer interaction
+    Musical instruments, composition systems, cognitive science, (post) human-computer interaction
 - avatar: ../images/people/jacob.jpg
   name: Jacob Harrison
   position: PhD student (2016-present)
@@ -104,4 +104,4 @@
     - link: http://twitter.com/Jcb_H
       icon: twitter
   desc:
-    interface and instrument design, accessible music technology
+    Interface and instrument design, accessible music technology
