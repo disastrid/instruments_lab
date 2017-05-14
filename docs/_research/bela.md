@@ -7,10 +7,10 @@ desc: Research tools
 categories: research
 thumb: bela/bela-thumb.jpg
 production-date: 2014 - present
-authors: ""
+authors: ["Andrew McPherson", "Liam Donovan", "Giulio Moro", "Astrid Bin", "Robert Jack", "Chris Heinrichs", "Laurel Pardue", "Jack Armitage"]
 main-image: /images/research/bela/belaboard.jpg
-links: ["http://bela.io", "https://www.kickstarter.com/projects/423153472/bela-an-embedded-platform-for-low-latency-interact", "http://twitter.com/belaPlatform", "http://facebook.com/belaPlatform"]
-link-names: ["Bela website", "Kickstarter page", "Twitter", "Facebook"]
+links: ["http://bela.io", "https://www.kickstarter.com/projects/423153472/bela-an-embedded-platform-for-low-latency-interact", "http://twitter.com/belaPlatform", "http://facebook.com/belaPlatform", "https://www.youtube.com/channel/UCgWd1Q2dcWdqCGNl5BijFsA/videos"]
+link-names: ["Bela.io", "Kickstarter page", "Twitter", "Facebook", "YouTube"]
 para: "Bela: An embedded platform for ultra-low latency interactive audio"
 ---
 
