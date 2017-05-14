@@ -6,11 +6,12 @@ tag: "instrument-design"
 desc: Research tools
 categories: research
 thumb: bela/bela-thumb.jpg
+production-date: 2014 - present
 authors: ""
 main-image: /images/research/bela/belaboard.jpg
-links: ["http://bela.io", "https://www.kickstarter.com/projects/423153472/bela-an-embedded-platform-for-low-latency-interact", "http://twitter.com/belaPlatform"]
-link-names: ["Bela website", "Kickstarter page", "Bela twitter account"]
-para: Bela: An embedded platform for ultra-low latency interactive audio
+links: ["http://bela.io", "https://www.kickstarter.com/projects/423153472/bela-an-embedded-platform-for-low-latency-interact", "http://twitter.com/belaPlatform", "http://facebook.com/belaPlatform"]
+link-names: ["Bela website", "Kickstarter page", "Twitter", "Facebook"]
+para: "Bela: An embedded platform for ultra-low latency interactive audio"
 
 ---
 
