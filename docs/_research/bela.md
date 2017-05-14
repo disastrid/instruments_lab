@@ -8,6 +8,8 @@ categories: research
 thumb: bela/bela-thumb.jpg
 authors: ""
 main-image: /images/research/bela/belaboard.jpg
+links: ["http://bela.io", "https://www.kickstarter.com/projects/423153472/bela-an-embedded-platform-for-low-latency-interact", "http://twitter.com/belaPlatform"]
+link-names: ["Bela website", "Kickstarter page", "Bela twitter account"]
 para: 
 
 ---
