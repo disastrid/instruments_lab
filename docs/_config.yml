@@ -2,9 +2,8 @@
 title: Augmented Instruments Laboratory
 email: hello@augmentedinstruments.org
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The Augmented Instruments Laboratory is based at Centre For Digital Music 
+  at Queen Mary University of London.
 baseurl: "" # the subpath of your site, e.g. /blog/
 # url: "localhost:4000"
 url: "https://disastrid.github.io/instruments_lab" # the base hostname & protocol for your site
