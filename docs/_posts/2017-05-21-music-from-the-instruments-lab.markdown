@@ -6,6 +6,7 @@ images: /images/news/perf.jpg
 front-image: /images/news/perf.jpg
 excerpt: Concert event: Music from the Augmented Instruments Lab
 para: "On Wednesday, May 24 at 7pm is a free concert of music from the members of the Augmented Instruments Laboratory."
+event_date: May 24, 2017
 ---
 
 This concert will feature:
