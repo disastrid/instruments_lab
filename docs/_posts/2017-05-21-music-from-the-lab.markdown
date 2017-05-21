@@ -5,7 +5,7 @@ categories: [news, events]
 images: /images/news/perf.jpg
 front-image: /images/news/perf.jpg
 event_date: May 24, 2017
-excerpt: Concert event: Music from the Augmented Instruments Laboratory
+excerpt: Concert event - Music from the Augmented Instruments Laboratory
 url: www.facebook.com/events/1981924915369410/
 ---
 
