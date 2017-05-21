@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Music from the Augmented Instruments Laboratory"
-categories: [news]
+categories: [news, events]
 images: /images/news/perf.jpg
 front-image: /images/news/perf.jpg
 excerpt: Concert event: Music from the Augmented Instruments Lab
