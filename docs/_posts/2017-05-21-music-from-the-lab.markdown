@@ -9,7 +9,7 @@ excerpt: Evening concert of music from the Augmented Instruments Laboratory
 url: www.facebook.com/events/1981924915369410/
 ---
 
-### On Wednesday, May 24 at 7pm is a free concert of music from the members of the Augmented Instruments Lab.
+#### On Wednesday, May 24 at 7pm is a free concert of music from the members of the Augmented Instruments Lab.
 
 This concert will feature:
 
