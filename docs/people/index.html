@@ -94,8 +94,6 @@ section_id: people
     {% for member in site.data.collabs %}
       <div class='small-5 medium-3 columns people'>
          <img class="avatar" alt="" src="{{ member.avatar }}" />
-
-         <h3 class='name small'>{{member.name}}</h3>
           <ul class='socials'>
             {% for social in member.socials %}
               <li>
@@ -105,6 +103,8 @@ section_id: people
               </li>
             {% endfor %}
           </ul>
+
+         <h3 class='name small' style="min-height: 120px">{{member.name}}</h3>
               </div>
     {% endfor %}
             </div>
