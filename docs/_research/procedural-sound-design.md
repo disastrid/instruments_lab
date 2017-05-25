@@ -7,11 +7,10 @@ desc: Research tools
 categories: research
 thumb: sound-design/thumb.png
 authors: "Christian Heinrichs"
-main-image: /images/research/sound-design/squeakydoor-thumb.png
+main-image: /images/research/sound-design/still5.png
 
 ---
 
-{% include single-image-research.html fileName="sound-design/squeakydoor-thumb.png" %}
 
 ## What is procedural audio?
 
@@ -21,6 +20,8 @@ Interactive environments and games still largely depend on the use of pre-record
 
 Currently, the use of procedural audio in commercial products is limited to a small set of sounds such as impacts and static ambiences. On one hand this is because they are easy to model using established physically-informed methods. On the other hand they are easy to implement in a virtual environment as they use a very small set of static parameters that don't vary in time. Computational generation of more complex and interactive sounds (for example water splashes, car engines and door creaks) present unprecedented challenges to the sound designer.
 Such sound models are typically controlled by a multitude of time-varying parameters and the visual part of the environment will often not provide enough information to drive each one of these in a physically coherent way. Furthermore, perfect correlation between what is seen and what is heard is often not desirable from an aesthetic point of view – this is signified in the routine use of Foley artists in the film industry to synchronize sounds to the image (the same paradigm applies to field recording techniques and choice of samples in game audio design). It is possible to design individual sounds by programming sequences of parameter changes over time, however the immediacy that is central to performance is lost when taking this approach. Therefore a new means of interaction is investigated in this research project, centred around the exploration and performance of synthetic environmental sound.
+
+{% include single-image-research.html fileName="sound-design/squeakydoor-thumb.png" %}
 
 ## Research areas
 
