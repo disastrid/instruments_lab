@@ -1,3 +1,35 @@
+- avatar: ../images/collaborators/bela.png
+  name: Bela
+  position: 
+  socials:
+    - link: http://www.bela.io/
+      icon: link
+    - link: https://twitter.com/belaplatform
+      icon: twitter
+- avatar: ../images/collaborators/touchkeys.png
+  name: TouchKeys
+  position: 
+  socials:
+    - link: http://touchkeys.co.uk/
+      icon: link
+    - link: https://twitter.com/instrumentslab
+      icon: twitter
+- avatar: ../images/collaborators/CTFK.jpg
+  name: Creative Technologies, Fachhochschule Kiel
+  position: 
+  socials:
+    - link: http://www.creative-technologies.de
+      icon: link
+    - link: https://www.facebook.com/groups/1424653351100753
+      icon: facebook
+- avatar: ../images/collaborators/conductive-music.jpg
+  name: Conductive Music
+  position: 
+  socials:
+    - link: http://www.conductivemusic.uk/
+      icon: link
+    - link: https://twitter.com/conductivemusic
+      icon: twitter
 - avatar: ../images/collaborators/ohmi-hand.png
   name: The One-Handed Musical Instrument Trust
   position: 
@@ -6,8 +38,6 @@
       icon: link
     - link: http://twitter.com/TheOHMITrust
       icon: twitter
-  desc:
-    Look mum, one hand
 - avatar: ../images/collaborators/drake.jpeg
   name: Drake Music
   position: Group leader
@@ -16,8 +46,6 @@
       icon: link
     - link: http://twitter.com/drake_music
       icon: twitter
-  desc:
-    Gawain is nice guy.
 - avatar: ../images/collaborators/music-hackspace.jpg
   name: Music Hackspace
   position: 
@@ -34,25 +62,3 @@
       icon: link
     - link: http://twitter.com/WeAreROLI
       icon: twitter
-  desc:
-    Roli make things go boopboop.
-- avatar: ../images/collaborators/CTFK.jpg
-  name: Creative Technologies, Fachhochschule Kiel
-  position: 
-  socials:
-    - link: http://www.creative-technologies.de
-      icon: link
-    - link: https://www.facebook.com/groups/1424653351100753
-      icon: facebook
-  desc:
-    Henrik is visiting the lab.
-- avatar: ../images/collaborators/conductive-music.jpg
-  name: Conductive Music
-  position: 
-  socials:
-    - link: http://www.conductivemusic.uk/
-      icon: link
-    - link: https://twitter.com/conductivemusic
-      icon: twitter
-  desc:
-    Making insturments with kids!
