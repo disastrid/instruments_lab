@@ -2,13 +2,12 @@
 layout: research
 title:  "Human Expressivity in the Design and Implementation of Procedural Sound Effects"
 tagline: PhD research Christian Heinrichs
-tag: "research-projects"xw
+tag: "research-projects"
 desc: Research tools
 categories: research
 thumb: sound-design/thumb.png
 authors: "Christian Heinrichs"
 main-image: /images/research/sound-design/squeakydoor-thumb.png
-para:
 
 ---
 
