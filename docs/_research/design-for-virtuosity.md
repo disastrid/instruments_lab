@@ -15,11 +15,11 @@ Musical performers spend many years achieving proficiency on their instruments. 
 The Design for Virtuosity project aims to model and repurpose the existing expertise of trained musicians, so that new creative possibilities are offered without requiring thousands of hours of retraining.
 
 
-### Understanding skills through performer-instrument models
+# Understanding skills through performer-instrument models
 
 A first focus of the project concerns the understanding of the interaction between performer and instrument leading to the development of models. Instrumental performance can be considered a special case of human-machine interaction which is interesting both for its complexity and for the common experience that the musical instrument becomes an extension of the body: while playing, the performer is often not consciously thinking about the instrument, particularly in a virtuosic performance. Controlled experiments and participatory design exercises will establish how an instrument's design affects the development of expertise, and how existing expertise can be transferred to newly-created instruments.
 
-### Designing new DMIs informed by the performer-instrument models
+# Designing new DMIs informed by the performer-instrument models
 
 Secondly, the resulting models will inform the DMI creation process, taking a holistic approach unifying hardware design, digital signal processing, human-computer interaction (HCI) and artistic considerations. Existing DMIs often implicitly prioritise the convenience of the computer over the experience of the human player. On acoustic instruments, the entire physical object contributes to the sound, however subtly, but the choice of sensors in a DMI typically reduces the performer's actions to just a few machine-tractable dimensions. This fellowship will create instruments which deliberately oversample the interaction, using more sensors and higher sampling rates than apparently necessary, not to create a more complicated instrument, but rather to capture the subtle nuances that experts prize. Evaluation of the new DMIs will help refine the original models of performer-instrument interaction.
 
