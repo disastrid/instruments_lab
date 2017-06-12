@@ -39,7 +39,7 @@
 - avatar: ../images/people/chris.jpeg
   name: Chris Heinrichs
   position: PhD student (2012-present)
-  education: University of Life
+  education: University of Glasgow
   socials:
     - link: http://enzienaudio.com
       icon: link
@@ -80,7 +80,7 @@
     - link: https://www.linkedin.com/in/astridbin/
       icon: linkedin
   desc:
-    Eletronics, making things, physical objects, audiences, human-computer interaction, drone.
+    Electronics, making things, physical objects, audiences, human-computer interaction, drone.
 - avatar: ../images/people/giulio.jpeg
   name: Giulio Moro
   education: Bachelors in sound recording (Conservatory of Padua), MSc in Digital Music Processing (QMUL)
