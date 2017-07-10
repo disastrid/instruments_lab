@@ -1,8 +1,6 @@
 # The Instruments Lab website
 
-Welcome to the AIL website! Finally.
-
-Here's how to work each section.
+This is the how-to for the Augmented Instruments Lab site. This document details how to work with each section.
 
 ## People
 
@@ -62,7 +60,40 @@ Everything else is optional, so leave it out if it doesn't apply and the system 
 
 The PDF link is meant to be a direct download. "link" appears as the text Project page, so we can link the papers to specific pages in the Research section. 
 
-## News items
+## News and events
+
+News and events are markdown posts, located in the `_posts` file. 
+
+The news frontmatter looks like this:
+
+```
+---
+layout: post
+title:  "NIME 2017"
+categories: [news, events]
+images: /images/news/nime2017.png
+front-image: /images/news/nime2017.png
+event_date: May 11-16, 2017
+excerpt: The Augmented Instruments Lab will be at NIME 2017, in Copenhagen.
+url: www.nime2017.org
+---
+```
+
+This example post would be cartegorised under news, which means it will appear in the news feed, as well as events. See below for info on both.
+
+### News 
+
+News posts will appear on the front page of the site, as well as on the news page, in descending order. 
+
+Each news post requires an image. This is non-negotiable - posting news without a picture is pointless on a website, and so the layout has not been designed to ingest photoless posts. Find a picture and add it to the directory `images/news/`, so we keep all our images tidy.
+
+The `excerpt` field is what appears on the front page and the news page, before the reader clicks on the post to read the whole thing.
+
+### Events
+
+News posts can also be put in the events feed. This feed appears as a sidebar on the News page, and gets the three most recent events and posts them there.
+
+Because they are ordered by date, the `event_date` field is important here. Otherwise, the event won't be included into the feed.
 
 ## Research + Projects
 
@@ -160,3 +191,31 @@ Bear in mind that this references the path `images/research`. To keep things nea
 You can also include youtube videos, using the `youtube.html` include:
 
 `{% include youtube.html youtube="youtube-ref-here" %}`
+
+## Ordering the projects for display
+
+Formerly the projects were ordered alphabetically, but that's no longer the case. In order for your work to be listed, you will have to log its title in `_data/research.yml`.
+
+This is a data file that dictates the order of display. You can change it at any time to re-order the research projects, by simply changing the order of the titles in this file. (This means there's no parameter to change in each post.)
+
+The only thing this file needs is the title of your research, exactly as it appears in the post. Therefore, if your post's frontmatter looks like this:
+
+```
+layout: research
+title:  "Design for Virtuosity"
+tagline: An ongoing body of research
+main-image: 06.jpg
+tag: research-projects, studies
+thumb: thumb.jpg
+authors: ["Andrew McPherson", Fabio Morreale", "Jack Armitage"]
+production-date: 2017-2019
+links: ["http://google.com", "http://facebook.com"]
+link-names: ["Google", "Facebook"]
+para: "Design for virtuosity: How we design for people who are really really good at violin."
+```
+
+... then you should enter it in the `_data/research.yml` file like this:
+
+`- project-name: "Design for Virtuosity"`
+
+
