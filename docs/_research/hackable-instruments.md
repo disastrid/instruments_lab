@@ -2,7 +2,7 @@
 layout: research
 title:  "Hackable Instruments"
 tagline: Exposing the scaffolding of digital musical instruments
-tag: ["new-interfaces", "musician-studies", "platforms"]
+tag: "new-interfaces"
 desc: Research tools
 categories: research
 thumb: hackable/d-box-thumb.jpg

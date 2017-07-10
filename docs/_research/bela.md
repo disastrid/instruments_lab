@@ -2,7 +2,7 @@
 layout: research
 title:  "Bela"
 tagline: Open source embedded platform for ultra-low latency interactive audio
-tag: ["new-interfaces", "platforms"]
+tag: "platforms"
 desc: Research tools
 categories: research-projects
 thumb: bela/bela-thumb.jpg

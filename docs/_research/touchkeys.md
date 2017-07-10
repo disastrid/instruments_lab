@@ -1,7 +1,7 @@
 ---
 layout: research
 title:  "TouchKeys"
-tag: ["augmented-instruments", "musician-studies"]
+tag: "augmented-instruments"
 tagline: Expressive multi-touch sensing on the piano keyboard.
 thumb: touchkeys/tk-thumb.jpg
 authors: "Andrew McPherson"
