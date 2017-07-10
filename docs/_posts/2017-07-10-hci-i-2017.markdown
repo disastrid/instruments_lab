@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "HCI International 2017"
+categories: [news, events]
+images: /images/news/hcii2017.png
+front-image: /images/news/hcii2017.png
+event_date: July 10-15, 2017
+excerpt: Robert Jack presents research on latency in digital musical instruments at HCI International 2017 in Vancouver
+url: http://2017.hci.international/
+---
+
+Robert Jack from the Augmented Instruments Lab will be presenting his recent research on the effects of latency in digital musical instrument design at HCI International 2017 in Vancouver. The full program for the conference can be viewed [here](http://2017.hci.international/)
+
+His work will be presented as part of the session 'The Psychological Effects of System Latency' on Wednesday 12th July at 13.30, Room 101.
+
+For more information about this reserach see [here](http://instrumentslab.org/research/touch.html).
