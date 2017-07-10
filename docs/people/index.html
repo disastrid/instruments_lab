@@ -92,8 +92,10 @@ section_id: people
   <div class='row'>
   <h2>Collaborators</h2>
     {% for member in site.data.collabs %}
-      <div class='small-5 medium-3 columns people'>
-         <img class="avatar" alt="" src="{{ member.avatar }}" />
+      <div class='small-6 medium-3 columns people'>
+        <span class='collab-container'>
+         <img class="avatar collab-avatar" alt="" src="{{ member.avatar }}" />
+        </span>
           <ul class='socials'>
             {% for social in member.socials %}
               <li>
