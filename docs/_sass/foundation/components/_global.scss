@@ -572,11 +572,15 @@ div.contain-to-grid.sticky.fixed nav.top-bar ul.title-area li.name a div.top-log
 //   -webkit-transition-duration: 0.2s;
 //   transition-duration: 0.2s;
 // }
-
+.a
 .footer-logo {
   height: 200px;
   width: 200px;
   // background-color: pink;
   background: url('../../images/ail-dark-text.svg') no-repeat;
   background-size: 150px auto;
+}
+
+h3.name, h3.small {
+   min-height: 120px;
 }
