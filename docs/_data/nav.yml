@@ -13,6 +13,9 @@
 - name: News
   path: news/
   section_id: blog
+- name: Press
+  path: press/
+  section_id: press
 - name: Contact
   path: contact/
   section_id: contact
