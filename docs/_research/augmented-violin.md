@@ -2,7 +2,7 @@
 layout: research
 title:  "Violin Gesture Sensing"
 tagline: PhD research Laurel Pardue
-tag: "instrument-design"
+tag: ["augmented-instruments", "teaching-and-learning"]
 desc: Research tools
 categories: research
 thumb: violin/violin-thumb.jpg
