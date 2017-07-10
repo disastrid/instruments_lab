@@ -34,7 +34,11 @@ section_id: portfolio
 
       <ul class='gallery large-block-grid-4 medium-block-grid-3 small-block-grid-2'>
 
-        {% for post in site.research %}
+        {% for item in site.data.research %} 
+        <!-- This is looping through all entries in the research manifest -->
+
+          {% for post in site.research %}
+          {% if post.title contains item.project-name %}
 
           <li class="{{ post.tag }}">
             <a href='{{site.url}}{{ post.url }}'>
@@ -47,6 +51,8 @@ section_id: portfolio
               </div>
             </a>
           </li>
+          {% endif %}
+        {% endfor %}
         {% endfor %}
 
       </ul>
