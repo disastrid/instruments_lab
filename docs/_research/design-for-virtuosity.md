@@ -1,7 +1,7 @@
 ---
 layout: research
 title:  "Design for Virtuosity"
-tag: "research-projects"
+tag: ["augmented-instruments", "musician-studies"]
 tagline: An ongoing body of research
 thumb: virtuosity/virtuosity-thumb.jpg
 main-image: /images/stock/06.jpg

@@ -2,7 +2,7 @@
 layout: research
 title:  "Tactility in the Design of Digital Musical Instruments"
 tagline: PhD research Robert Jack
-tag: "instrument-design"
+tag: ["new-interfaces", "musician-studies"]
 desc: Research tools
 categories: research
 thumb: tactility/tactile-thumb.jpg

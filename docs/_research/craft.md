@@ -2,7 +2,7 @@
 layout: research
 title:  "Supporting craft in digital musical instrument design"
 tagline: PhD research Jack Armitage
-tag: "instrument-design"
+tag: ["new-interfaces", "musician-studies"]
 desc: Research tools
 categories: research
 thumb: craft/luthier.jpg

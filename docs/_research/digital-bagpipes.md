@@ -2,7 +2,11 @@
 layout: research
 title:  "Digital Bagpipes"
 tagline: PhD research Duncan Menzies
+<<<<<<< HEAD
 tag: ["instrument-design"]
+=======
+tag: ["new-interfaces", "teaching-and-learning"]
+>>>>>>> db267da425d3d9435b1eb0b070bec13b4bc7b8d4
 desc: Research tools
 categories: research
 thumb: bagpipes/thumb.png
