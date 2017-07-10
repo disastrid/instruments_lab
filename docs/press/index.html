@@ -1,0 +1,244 @@
+---
+layout: press
+title: Press
+section_id: press
+---
+<div class='row'>
+    <h2>In the Press</h2>
+    <p>This page contais articles on projects from the Augmented Instruments Lab.</p>
+
+
+        <span id="general_lab" class="internal-link-positioner"></span>
+        <h3 class="press-header">General Lab Articles</h3>
+        <ul class="press-list">
+    {% for press_item in site.data.press._lab %}
+            <li><b>{{ press_item.publication }}</b> ({{ press_item.year }}). <a href="{{ press_item.url }}">{{ press_item.title }}</a></li>
+    {% endfor %}
+        </ul>
+
+    <span id="bela_news" class="internal-link-positioner"></span>
+    <h3 class="press-header">Bela news</h3>
+    <ul class="press-list">
+    {% for press_item in site.data.press._bela %}
+        <li><b>{{ press_item.publication }}</b> ({{ press_item.year }}). <a href="{{ press_item.url }}">{{ press_item.title }}</a></li>
+    {% endfor %}
+    </ul>
+
+    <span id="hackable_instruments_news" class="internal-link-positioner"></span>
+    <h3 class="press-header">Hackable Instruments</h3>
+    <ul class="press-list">
+    {% for press_item in site.data.press._hackable-instruments %}
+        <li><b>{{ press_item.publication }}</b> ({{ press_item.year }}). <a href="{{ press_item.url }}">{{ press_item.title }}</a></li>
+    {% endfor %}
+    </ul>
+
+    <span id="mrp_news" class="internal-link-positioner"></span>
+    <h3 class="press-header">Magnetic Resonator Piano</h3>
+    <ul class="press-list">
+    {% for press_item in site.data.press._mrp %}
+        <li><b>{{ press_item.publication }}</b> ({{ press_item.year }}). <a href="{{ press_item.url }}">{{ press_item.title }}</a></li>
+    {% endfor %}
+    </ul>
+
+    <span id="touchkeys_news" class="internal-link-positioner"></span>
+    <h3 class="press-header">TouchKeys</h3>
+    <ul class="press-list">
+    {% for press_item in site.data.press._touchkeys %}
+        <li><b>{{ press_item.publication }}</b> ({{ press_item.year }}). <a href="{{ press_item.url }}">{{ press_item.title }}</a></li>
+    {% endfor %}
+    </ul>
+<!-- 
+      <h3 class="pub-year">2016 <span id="2016" class="pub-section-header"></span></h3>
+      {% for pub in site.data.publications._2016 %}
+        <li>{{ pub.authors }}. {{ pub.title }}. 
+        {% if pub.city %}
+            {{ pub.venue }}, {{ pub.city }}.
+        {% else %}
+            {{ pub.venue }}.
+        
+
+        {% if pub.vol %}
+            Vol. {{ pub.vol }},
+        {% endif}
+        {% if pub.issue %}
+            Issue {{ pub.issue }},
+        {% endif %}
+        {{ pub.year }}.
+
+        {% if pub.link and pub.pdf %}
+            <br /><a href="{{ pub.link }}">Go to project page</a>
+        {% endif %}
+        
+        {% if pub.pdf %}
+            <br /><a href="{{ pub.pdf }}">Download PDF</a>
+        {% endif %}
+        </li>
+    {% endfor %}
+
+
+
+      <h3 id="2015" class="pub-year">2015</h3>
+      {% for pub in site.data.publications._2015 %}
+        <li>{{ pub.authors }}. {{ pub.title }}. 
+        {% if pub.city %}
+            {{ pub.venue }}, {{ pub.city }}.
+        {% else %}
+            {{ pub.venue }}.
+        
+
+        {% if pub.vol %}
+            Vol. {{ pub.vol }},
+        {% endif}
+        {% if pub.issue %}
+            Issue {{ pub.issue }},
+        {% endif %}
+        {{ pub.year }}.
+
+        {% if pub.link and pub.pdf %}
+            <br /><a href="{{ pub.link }}">Go to project page</a>
+        {% endif %}
+        
+        {% if pub.pdf %}
+            <br /><a href="{{ pub.pdf }}">Download PDF</a>
+        {% endif %}
+        </li>
+    {% endfor %}
+
+      <h3 id="2014" class="pub-year">2014</h3>
+      {% for pub in site.data.publications._2014 %}
+        <li>{{ pub.authors }}. {{ pub.title }}. 
+        {% if pub.city %}
+            {{ pub.venue }}, {{ pub.city }}.
+        {% else %}
+            {{ pub.venue }}.
+        
+
+        {% if pub.vol %}
+            Vol. {{ pub.vol }},
+        {% endif}
+        {% if pub.issue %}
+            Issue {{ pub.issue }},
+        {% endif %}
+        {{ pub.year }}.
+
+        {% if pub.link and pub.pdf %}
+            <br /><a href="{{ pub.link }}">Go to project page</a>
+        {% endif %}
+        
+        {% if pub.pdf %}
+            <br /><a href="{{ pub.pdf }}">Download PDF</a>
+        {% endif %}
+        </li>
+    {% endfor %}
+
+      <h3 id="2013" class="pub-year">2013</h3>
+      {% for pub in site.data.publications._2013 %}
+        <li>{{ pub.authors }}. {{ pub.title }}. 
+        {% if pub.city %}
+            {{ pub.venue }}, {{ pub.city }}.
+        {% else %}
+            {{ pub.venue }}.
+        
+
+        {% if pub.vol %}
+            Vol. {{ pub.vol }},
+        {% endif}
+        {% if pub.issue %}
+            Issue {{ pub.issue }},
+        {% endif %}
+        {{ pub.year }}.
+
+        {% if pub.link and pub.pdf %}
+            <br /><a href="{{ pub.link }}">Go to project page</a>
+        {% endif %}
+        
+        {% if pub.pdf %}
+            <br /><a href="{{ pub.pdf }}">Download PDF</a>
+        {% endif %}
+        </li>
+    {% endfor %}	  
+	  
+      <h3 id="2012" class="pub-year">2012</h3>
+      {% for pub in site.data.publications._2012 %}
+        <li>{{ pub.authors }}. {{ pub.title }}. 
+        {% if pub.city %}
+            {{ pub.venue }}, {{ pub.city }}.
+        {% else %}
+            {{ pub.venue }}.
+        
+
+        {% if pub.vol %}
+            Vol. {{ pub.vol }},
+        {% endif}
+        {% if pub.issue %}
+            Issue {{ pub.issue }},
+        {% endif %}
+        {{ pub.year }}.
+
+        {% if pub.link and pub.pdf %}
+            <br /><a href="{{ pub.link }}">Go to project page</a>
+        {% endif %}
+        
+        {% if pub.pdf %}
+            <br /><a href="{{ pub.pdf }}">Download PDF</a>
+        {% endif %}
+        </li>
+    {% endfor %}	  
+      <h3 id="2011" class="pub-year">2011</h3>
+      {% for pub in site.data.publications._2011 %}
+        <li>{{ pub.authors }}. {{ pub.title }}. 
+        {% if pub.city %}
+            {{ pub.venue }}, {{ pub.city }}.
+        {% else %}
+            {{ pub.venue }}.
+        
+
+        {% if pub.vol %}
+            Vol. {{ pub.vol }},
+        {% endif}
+        {% if pub.issue %}
+            Issue {{ pub.issue }},
+        {% endif %}
+        {{ pub.year }}.
+
+        {% if pub.link and pub.pdf %}
+            <br /><a href="{{ pub.link }}">Go to project page</a>
+        {% endif %}
+        
+        {% if pub.pdf %}
+            <br /><a href="{{ pub.pdf }}">Download PDF</a>
+        {% endif %}
+        </li>
+    {% endfor %}	  
+      <h3 id="2010" class="pub-year">2010</h3>
+      {% for pub in site.data.publications._2010 %}
+        <li>{{ pub.authors }}. {{ pub.title }}. 
+        {% if pub.city %}
+            {{ pub.venue }}, {{ pub.city }}.
+        {% else %}
+            {{ pub.venue }}.
+        
+
+        {% if pub.vol %}
+            Vol. {{ pub.vol }},
+        {% endif}
+        {% if pub.issue %}
+            Issue {{ pub.issue }},
+        {% endif %}
+        {{ pub.year }}.
+
+        {% if pub.link and pub.pdf %}
+            <br /><a href="{{ pub.link }}">Go to project page</a>
+        {% endif %}
+        
+        {% if pub.pdf %}
+            <br /><a href="{{ pub.pdf }}">Download PDF</a>
+        {% endif %}
+        </li>
+    {% endfor %}	  
+
+ 
+      </ol> -->
+
+  </div>
+<!-- </div> -->
