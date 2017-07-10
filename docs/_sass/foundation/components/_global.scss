@@ -526,6 +526,10 @@ ul.press-list {
   list-style: none;
 }
 
+.header-logo {
+  height: 7em;
+}
+
 // .collab-avatar {
 //   max-width: 75%;
 //   margin: 0 auto;
@@ -534,3 +538,45 @@ ul.press-list {
 // .collab-container {
 //   max-width: 50%;
 // }
+
+.top-logo {
+  height: 100px;
+  width: 300px;
+  // background-color: green;
+  background: url('../../images/ail-logo.svg') no-repeat;
+  background-size: 300px auto;
+      -moz-transition-property: all;
+  -o-transition-property: all;
+  -webkit-transition-property: all;
+  transition-property: all;
+  -moz-transition-duration: 0.2s;
+  -o-transition-duration: 0.2s;
+  -webkit-transition-duration: 0.2s;
+  transition-duration: 0.2s;
+  float: left;
+}
+
+div.contain-to-grid.sticky.fixed nav.top-bar ul.title-area li.name a div.top-logo {
+  float: left;
+  background-size: auto 60px;
+}
+
+// .f-topbar-fixed.shrink .top-bar .title-area div, .f-topbar-fixed.shrink .top-bar .title-area li div, .f-topbar-fixed.shrink .top-bar .title-area a div {
+//   background-size: 4.7em 15em; 
+//     -moz-transition-property: all;
+//   -o-transition-property: all;
+//   -webkit-transition-property: all;
+//   transition-property: all;
+//   -moz-transition-duration: 0.2s;
+//   -o-transition-duration: 0.2s;
+//   -webkit-transition-duration: 0.2s;
+//   transition-duration: 0.2s;
+// }
+
+.footer-logo {
+  height: 200px;
+  width: 200px;
+  // background-color: pink;
+  background: url('../../images/ail-dark-text.svg') no-repeat;
+  background-size: 150px auto;
+}

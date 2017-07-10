@@ -873,8 +873,9 @@ ul.shortcode-list i {
   top: 3.57143rem;
 }
 .contain-to-grid .title-area, .contain-to-grid .title-area li, .contain-to-grid .title-area a {
-  height: 100px;
-  line-height: 100px;
+  height: 3em;
+  line-height: 3em;
+  // ^ CHANGED THESE TO DEAL WITH SVG - AB
   -moz-transition-property: all;
   -o-transition-property: all;
   -webkit-transition-property: all;
@@ -885,7 +886,8 @@ ul.shortcode-list i {
   transition-duration: 0.2s;
 }
 .contain-to-grid .title-area img, .contain-to-grid .title-area li img, .contain-to-grid .title-area a img {
-  width: 100%;
+  max-width: 60%;
+  // ^ TURNED THIS OFF TO ALIGN SVG - AB
   -moz-transition-property: all;
   -o-transition-property: all;
   -webkit-transition-property: all;
@@ -923,20 +925,28 @@ ul.shortcode-list i {
   top: 2.14286rem;
 }
 .f-topbar-fixed.shrink .top-bar .top-bar-section .dropdown li:not(.has-form) a:not(.button) {
-  height: 60px;
-  line-height: 60px;
+  height: 2em;
+  line-height: 2em;
+
+
+  // height: 60px;
+  // line-height: 60px;
 }
 .f-topbar-fixed.shrink .top-bar .title-area, .f-topbar-fixed.shrink .top-bar .title-area li, .f-topbar-fixed.shrink .top-bar .title-area a {
   height: 60px;
   line-height: 60px;
+
 }
 .f-topbar-fixed.shrink .top-bar .title-area img, .f-topbar-fixed.shrink .top-bar .title-area li img, .f-topbar-fixed.shrink .top-bar .title-area a img {
   height: 121%;
   width: auto;
 }
 
+
+
+
 .contain-to-grid.fullwidth .top-bar {
-  max-width: 100%;
+  // max-width: 100%;
 }
 
 .contain-to-grid.alt .top-bar-section ul li > a {
