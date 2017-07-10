@@ -2,8 +2,8 @@
 layout: post
 title:  "HCI International 2017"
 categories: [news, events]
-images: /images/news/hcii2017.png
-front-image: /images/news/hcii2017.png
+images: /images/news/hcii2017-2.JPG
+front-image: /images/news/hcii2017-2.JPG
 event_date: July 10-15, 2017
 excerpt: Robert Jack presents research on latency in digital musical instruments at HCI International 2017 in Vancouver
 url: http://2017.hci.international/
