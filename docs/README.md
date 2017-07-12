@@ -192,6 +192,34 @@ You can also include youtube videos, using the `youtube.html` include:
 
 `{% include youtube.html youtube="youtube-ref-here" %}`
 
+## Project categories
+
+### About category filters, and adding new ones
+
+Above the project grid on the site are links for categories, that, when clicked, highlight projects belonging to that category. Neat!
+
+These categories are included from a data file which can be found here:
+
+`_data/research-categories.yml`
+
+The reason they're not hard-coded into the layout is because bringing them in from an external file makes them really easy to edit later (and we don't want lots of people having to edit the layout - this is how things get broken).
+
+If you want to add a new category, add it to the array in the data file. Note that you should add it as a string, as you want it to be displayed: "Augmented Instruments", for example, and not augmented-instruments.
+
+### Tagging your project to include it in a project category
+
+In your project post frontmatter there is the following line:
+
+`tag: "categories-go-here"`
+
+This is where you assign your post to an existing category filter. 
+
+Add the categories separated by spaces in quotes. This is because this whole line is imported and assigned to a CSS class attribute, and the classes have to be valid. For example, `class="augmented-instruments, studies"` isn't a valid listing of multiple classes, while `class="augmented-instruments studies" is.
+
+Note that the tags you add have to be slugified versions of the categories in the data file - ie, all lower case, with hyphens instead of spaces.
+
+(This is the shortest route to functionality atm but we can work out a more straightforward way to do this later with some text handling - no time right now though!)
+
 ## Ordering the projects for display
 
 Formerly the projects were ordered alphabetically, but that's no longer the case. In order for your work to be listed, you will have to log its title in `_data/research.yml`.
@@ -205,7 +233,7 @@ layout: research
 title:  "Design for Virtuosity"
 tagline: An ongoing body of research
 main-image: 06.jpg
-tag: research-projects, studies
+tag: "research-projects studies"
 thumb: thumb.jpg
 authors: ["Andrew McPherson", Fabio Morreale", "Jack Armitage"]
 production-date: 2017-2019
