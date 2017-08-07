@@ -182,15 +182,51 @@ This is the lead paragraph for the post, that will be in bigger font and introdu
 
 Copy the front matter above, and fill in your own stuff. Then, write your post in markdown, and save in `_research/mypost.md`
 
-This markdown has the same functionality as the Bela Blog - you can include an image wrapper with a caption:
-
-`{% include single-image-research.html fileName="my-image.jpg" caption="Here is a caption." %}`
-
-Bear in mind that this references the path `images/research`. To keep things neat, please make a directory for your post there, and reference that path like so: `my-project/my-image.jpg`
+### Including videos
 
 You can also include youtube videos, using the `youtube.html` include:
 
 `{% include youtube.html youtube="youtube-ref-here" %}`
+
+### Including images
+
+The html include files for image handling are in the `_includes` directory.
+
+If you want to see a `single-image-research` include, check a post in the `research` directory.
+
+If you want to see the single, double and triple image includes, check out the image tester post that I made demonstrating this. It's got the field of `published: false` in the frontmatter so it won't be rolled into the live site. If you want to see it in action, get rid of the published status and start the local build - you'll see it in the news feed. Don't forget to restore its unpublished state before pushing everything back to the live repo though. I'm counting on you.
+
+This example's images are stored in `images/tester` so don't blow those away please. Thanks, you're the best.
+
+#### Single images
+
+This markdown has the same functionality as the Bela Blog - you can include an image wrapper with a caption.
+
+There's an include for images in the `research/` image directory, called `single-image-research`:
+
+`{% include single-image-research.html fileName="my-image.jpg" caption="Here is a caption." %}`
+
+To keep things neat, please make a directory for your post there, and reference that path like so: `research/my-project/my-image.jpg`
+
+Now, there's also an image include for images that may be in another subfolder:
+
+`{% include single-image-research.html fileName="my-image.jpg" image_subfolder="nameOfSubfolder" caption="Here is a caption." %}`
+
+You can specify the subfolder in the images directory with the field `image_subfolder`.
+
+#### Double images
+
+There is also now support for including two side by side images.
+
+CAVEAT: If your images aren't the same proportion they might not look good. If necessary you could add a white or transparent matte around them in Photoshop or similar in order to pad them out to the same size and make sure they always look lovely. Don't forget to add your subfolder and caption!
+
+`{% include two-image-include.html left_image="left-image-nane.png" right_image="right-image-name.png" image_subfolder="nameOfSubfolder" caption="Here is a caption." %}`
+
+#### TRIPLE IMAGES (where will it stop)
+
+There's also now support for three-in-a-row! By now you're probably noticing a pattern. (Again: Specify your subfolder and caption!)
+
+`{% include two-image-include.html left_image="left-image-nane.png" middle_image="middle-image.png" right_image="right-image-name.png" image_subfolder="nameOfSubfolder" caption="Here is a caption." %}`
 
 ## Project categories
 
