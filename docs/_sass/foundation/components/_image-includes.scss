@@ -1,0 +1,34 @@
+@import "global";
+
+.image-include {
+	&.two {
+		>.image {
+			width: 49%;
+			display: inline-block;
+			vertical-align: top;
+			&.left {
+				margin-right: 0.8em;
+				float: left;
+			}
+			> img {
+				width: 100%;
+				height: auto;
+			}
+		}
+	}
+	&.three {
+		>.image {
+			width: 33%;
+			display: inline-block;
+			vertical-align: top;
+			&.left, .middle {
+				float: left;
+				margin-right: 0.5%;
+			}
+			> img {
+				width: 100%;
+				height: auto;
+			}
+		}
+	}
+}
