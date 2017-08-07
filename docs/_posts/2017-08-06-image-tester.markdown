@@ -5,6 +5,7 @@ categories: [news]
 date:   2017-08-06 08:19:12
 images: /images/tester/left.png
 front-image: /images/tester/right.png
+published: false
 ---
 This is to test a double image include. 
 
