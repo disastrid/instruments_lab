@@ -20,7 +20,6 @@
   venue: Proc. New Instruments for Musical Expression
   city: Copenhagen, Denmark
   pdf: https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/23493/Morreale%20Design%20for%20Longevity%202017%20Published.pdf?sequence=1
-  link: http://www.nime2017.org
   year: 2017
 - title: 'The finer the musician, the smaller the details: NIMEcraft under the microscope'
   authors: J. Armitage, F. Morreale and A. McPherson
@@ -32,14 +31,12 @@
   authors: A. McPherson, J. Armitage, A. Bin, F. Morreale, R. Jack
   venue: Proc. New Instruments for Musical Expression
   city: Copenhagen, Denmark
-  link: http://www.nime2017.org
   year: 2017
 - title: 'Rich gesture, reduced control: the influence of constrained mappings on performance technique'
   authors: R. Jack and A. McPherson
   venue: 4th International Conference on Movement Computing
   city: London, United Kingdom
   pdf: http://robertjack.org/publications/2017-MOCO-RHJack-rich-gesture-reduced.pdf
-  link: http://moco17.movementcomputing.org/
   year: 2017
 - title: 'Building a maker community around an open hardware platform'
   authors: F. Morreale, G. Moro, A. Chamberlain, S. Benford and A. McPherson
@@ -64,4 +61,3 @@
   venue: Proc. INTERACT
   city: Mumbai, India
   year: 2017 
-  pdf: (Link coming in October 2017)
