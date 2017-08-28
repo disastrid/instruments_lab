@@ -32,8 +32,7 @@ The MRP also unlocks a sound world far removed from the traditional piano. When 
 
 ## Electromagnetic Actuation
 
-{% include single-image-research.html fileName="mrp/mrp-magnets1.jpg" %}
-{% include single-image-research.html fileName="mrp/mrp-magnets2.jpg" caption = "Electromagnets are placed just above the piano strings on adjustable brackets." %}
+{% include two-image-include.html left_image="mrp-magnets1.jpg" right_image="mrp-magnets2.jpg" image_subfolder="mrp" caption="Electromagnets are placed just above the piano strings on adjustable brackets." %}
 
 ### Principle of Operation
 
