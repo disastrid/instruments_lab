@@ -24,8 +24,7 @@ The project was launched on the crowd-funding website [Kickstarter](https://www.
 
 TouchKeys adds capacitive multi-touch sensing to the surface of any piano-style keyboard. Sensor overlays measure the location and contact area of the player's fingers on the key surfaces, and the data can be used to create a wide range of expressive effects including vibrato, pitch bends, timbre changes and improved emulations of non-keyboard instruments. The keyboard is traditionally a discrete interface, measuring notes by onset and release. The TouchKeys let the player continuously shape each note through the subtle expressive details of their finger motion.
 
-{% include single-image-research.html fileName="touchkeys/touchkeys_finger_simulation.png" %}
-{% include single-image-research.html fileName="touchkeys/touchkeys_graph_simulation.png" caption="Simulation of touch location calculation in a single axis" %}
+{% include two-image-include.html left_image="touchkeys_finger_simulation.png" right_image="touchkeys_graph_simulation.png" image_subfolder="research/touchkeys" caption="Simulation of touch location calculation in a single axis" %}
 
 The sensors work by measuring the capacitance of a collection of small conductive pads on the surface. Touching the key causes several adjacent pads to increase in capacitance. A microcontroller on the key interpolates between the values to arrive at a precise estimate of the contact location. Contact area can be sensed by observing the overall magnitude of change in capacitance.
 
