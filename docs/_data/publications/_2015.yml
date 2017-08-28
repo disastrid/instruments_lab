@@ -7,6 +7,8 @@
 - title: A low-cost real-time tracking system for violin
   authors: L. Pardue, C. Harte and A. McPherson
   venue: Journal of New Music Research
+  vol: 44
+  issue: 4
   year: 2015
   pdf: http://www.tandfonline.com/doi/abs/10.1080/09298215.2015.1087575#aHR0cDovL3d3dy50YW5kZm9ubGluZS5jb20vZG9pL3BkZi8xMC4xMDgwLzA5Mjk4MjE1LjIwMTUuMTA4NzU3NUBAQDA=
 - title: Approximating non-linear inductors using time-variant linear filters
