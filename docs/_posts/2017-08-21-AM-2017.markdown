@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Audio Mostly 2017 Workshop"
+categories: [news, events]
+images: /images/news/audiomostly.jpeg
+front-image: /images/news/audiomostly.jpeg
+event_date: August 25, 2017
+excerpt: Bela workshop at Audio Mostly 2017 in London
+url: http://audiomostly.com/
+---
+
+Giulio Moro and Robert Jack will be hosting a Bela workshop at the Audio Mostly 2017 conference at Queen Mary University of London. The workshop will cover an introduction to the platform, building basic music producing circuits and using Pure Data to patch on the board. For more information click [here](http://audiomostly.com/).
