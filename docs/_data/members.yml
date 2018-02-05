@@ -109,3 +109,14 @@
       icon: twitter
   desc:
     Interface and instrument design, accessible music technology
+- avatar: ../images/people/giacomo.jpg
+  name: Giacomo Lepri
+  position: PhD student (2017-present)
+  education: BMus Electronic Music, Conservatorio N. Paganini - Genoa; MMus by Research "Instruments & Interfaces", Institute of Sonology - STEIM (Royal Conservatoire in The Hague)
+  socials:
+    - link: http://www.giacomolepri.com/
+      icon: link
+    - link: https://www.youtube.com/channel/UC2YJEDkzCuZYZnUsQXpIg7w?view_as=subscriber
+      icon: youtube
+  desc:
+    Instruments design, media archaeology, cultural factors in music technology development, audio-visual interactive installtions, electroacoustic composition and improvisation
