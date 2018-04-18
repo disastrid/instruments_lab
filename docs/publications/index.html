@@ -8,15 +8,15 @@ section_id: publications
       <h2>Publications</h2>
       <p>This page contains papers from the Augmented Instruments Laboratory, organised by date. Also see the latest news and events and press articles.</p>
 
-      <h3 id="2017" class="pub-year">2017 and forthcoming</h3>
+      <h3 id="2018" class="pub-year">2018 and forthcoming</h3>
       <ol class="pubs-list" reversed>
       {% for pub in site.data.publications._2017 %}
-        <li>{{ pub.authors }}. {{ pub.title }}. 
+        <li>{{ pub.authors }}. {{ pub.title }}.
         {% if pub.city %}
             {{ pub.venue }}, {{ pub.city }}.
         {% else %}
             {{ pub.venue }}.
-        
+
 
         {% if pub.vol %}
             Vol. {{ pub.vol }},
@@ -29,7 +29,35 @@ section_id: publications
         {% if pub.link %}
             <br /><a href="{{ pub.link }}">More Info</a>
         {% endif %}
-        
+
+        {% if pub.pdf %}
+            <br /><a href="{{ pub.pdf }}">Download PDF</a>
+        {% endif %}
+        </li>
+    {% endfor %}
+
+      <h3 id="2017" class="pub-year">2017 </h3>
+      <ol class="pubs-list" reversed>
+      {% for pub in site.data.publications._2017 %}
+        <li>{{ pub.authors }}. {{ pub.title }}.
+        {% if pub.city %}
+            {{ pub.venue }}, {{ pub.city }}.
+        {% else %}
+            {{ pub.venue }}.
+
+
+        {% if pub.vol %}
+            Vol. {{ pub.vol }},
+        {% endif}
+        {% if pub.issue %}
+            Issue {{ pub.issue }},
+        {% endif %}
+        {{ pub.year }}.
+
+        {% if pub.link %}
+            <br /><a href="{{ pub.link }}">More Info</a>
+        {% endif %}
+
         {% if pub.pdf %}
             <br /><a href="{{ pub.pdf }}">Download PDF</a>
         {% endif %}
@@ -38,12 +66,12 @@ section_id: publications
 
       <h3 class="pub-year">2016 <span id="2016" class="pub-section-header"></span></h3>
       {% for pub in site.data.publications._2016 %}
-        <li>{{ pub.authors }}. {{ pub.title }}. 
+        <li>{{ pub.authors }}. {{ pub.title }}.
         {% if pub.city %}
             {{ pub.venue }}, {{ pub.city }}.
         {% else %}
             {{ pub.venue }}.
-        
+
 
         {% if pub.vol %}
             Vol. {{ pub.vol }},
@@ -56,7 +84,7 @@ section_id: publications
         {% if pub.link %}
             <br /><a href="{{ pub.link }}">More Info</a>
         {% endif %}
-        
+
         {% if pub.pdf %}
             <br /><a href="{{ pub.pdf }}">Download PDF</a>
         {% endif %}
@@ -67,12 +95,12 @@ section_id: publications
 
       <h3 id="2015" class="pub-year">2015</h3>
       {% for pub in site.data.publications._2015 %}
-        <li>{{ pub.authors }}. {{ pub.title }}. 
+        <li>{{ pub.authors }}. {{ pub.title }}.
         {% if pub.city %}
             {{ pub.venue }}, {{ pub.city }}.
         {% else %}
             {{ pub.venue }}.
-        
+
 
         {% if pub.vol %}
             Vol. {{ pub.vol }},
@@ -85,7 +113,7 @@ section_id: publications
         {% if pub.link %}
             <br /><a href="{{ pub.link }}">More Info</a>
         {% endif %}
-        
+
         {% if pub.pdf %}
             <br /><a href="{{ pub.pdf }}">Download PDF</a>
         {% endif %}
@@ -94,12 +122,12 @@ section_id: publications
 
       <h3 id="2014" class="pub-year">2014</h3>
       {% for pub in site.data.publications._2014 %}
-        <li>{{ pub.authors }}. {{ pub.title }}. 
+        <li>{{ pub.authors }}. {{ pub.title }}.
         {% if pub.city %}
             {{ pub.venue }}, {{ pub.city }}.
         {% else %}
             {{ pub.venue }}.
-        
+
 
         {% if pub.vol %}
             Vol. {{ pub.vol }},
@@ -112,7 +140,7 @@ section_id: publications
         {% if pub.link %}
             <br /><a href="{{ pub.link }}">More Info</a>
         {% endif %}
-        
+
         {% if pub.pdf %}
             <br /><a href="{{ pub.pdf }}">Download PDF</a>
         {% endif %}
@@ -121,12 +149,12 @@ section_id: publications
 
       <h3 id="2013" class="pub-year">2013</h3>
       {% for pub in site.data.publications._2013 %}
-        <li>{{ pub.authors }}. {{ pub.title }}. 
+        <li>{{ pub.authors }}. {{ pub.title }}.
         {% if pub.city %}
             {{ pub.venue }}, {{ pub.city }}.
         {% else %}
             {{ pub.venue }}.
-        
+
 
         {% if pub.vol %}
             Vol. {{ pub.vol }},
@@ -139,21 +167,21 @@ section_id: publications
         {% if pub.link %}
             <br /><a href="{{ pub.link }}">More Info</a>
         {% endif %}
-        
+
         {% if pub.pdf %}
             <br /><a href="{{ pub.pdf }}">Download PDF</a>
         {% endif %}
         </li>
-    {% endfor %}	  
-	  
+    {% endfor %}
+
       <h3 id="2012" class="pub-year">2012</h3>
       {% for pub in site.data.publications._2012 %}
-        <li>{{ pub.authors }}. {{ pub.title }}. 
+        <li>{{ pub.authors }}. {{ pub.title }}.
         {% if pub.city %}
             {{ pub.venue }}, {{ pub.city }}.
         {% else %}
             {{ pub.venue }}.
-        
+
 
         {% if pub.vol %}
             Vol. {{ pub.vol }},
@@ -166,20 +194,20 @@ section_id: publications
         {% if pub.link %}
             <br /><a href="{{ pub.link }}">More Info</a>
         {% endif %}
-        
+
         {% if pub.pdf %}
             <br /><a href="{{ pub.pdf }}">Download PDF</a>
         {% endif %}
         </li>
-    {% endfor %}	  
+    {% endfor %}
       <h3 id="2011" class="pub-year">2011</h3>
       {% for pub in site.data.publications._2011 %}
-        <li>{{ pub.authors }}. {{ pub.title }}. 
+        <li>{{ pub.authors }}. {{ pub.title }}.
         {% if pub.city %}
             {{ pub.venue }}, {{ pub.city }}.
         {% else %}
             {{ pub.venue }}.
-        
+
 
         {% if pub.vol %}
             Vol. {{ pub.vol }},
@@ -192,20 +220,20 @@ section_id: publications
         {% if pub.link %}
             <br /><a href="{{ pub.link }}">More Info</a>
         {% endif %}
-        
+
         {% if pub.pdf %}
             <br /><a href="{{ pub.pdf }}">Download PDF</a>
         {% endif %}
         </li>
-    {% endfor %}	  
+    {% endfor %}
       <h3 id="2010" class="pub-year">2010</h3>
       {% for pub in site.data.publications._2010 %}
-        <li>{{ pub.authors }}. {{ pub.title }}. 
+        <li>{{ pub.authors }}. {{ pub.title }}.
         {% if pub.city %}
             {{ pub.venue }}, {{ pub.city }}.
         {% else %}
             {{ pub.venue }}.
-        
+
 
         {% if pub.vol %}
             Vol. {{ pub.vol }},
@@ -218,14 +246,14 @@ section_id: publications
         {% if pub.link %}
             <br /><a href="{{ pub.link }}">More Info</a>
         {% endif %}
-        
+
         {% if pub.pdf %}
             <br /><a href="{{ pub.pdf }}">Download PDF</a>
         {% endif %}
         </li>
-    {% endfor %}	  
+    {% endfor %}
 
- 
+
       </ol>
 
   </div>
