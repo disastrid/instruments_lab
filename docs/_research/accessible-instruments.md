@@ -5,7 +5,7 @@ tagline: PhD research Jacob Harrison
 tag: "accessible-instruments"
 desc: Research tools
 categories: research
-thumb: accessible/strings-guitar.jpg
+thumb: accessible/strings-guitar-thumb.jpg
 authors: "Jacob Harrison"
 main-image: /images/research/accessible/strings-guitar.jpg
 
