@@ -8,14 +8,14 @@ categories: research
 thumb: accessible/strings-guitar-thumb.jpg
 authors: "Jacob Harrison"
 main-image: /images/research/accessible/strings-guitar.jpg
-
+published: false
 ---
 
 Some text about Jacob's research
 
 {% include single-image-research.html fileName="accessible/strings-guitar.jpg" %}
 
-<!-- published: false -->
+
 
 <!-- {% include single-image-research.html fileName="violin/violin.jpg" %}
 
