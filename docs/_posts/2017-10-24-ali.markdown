@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Ali Momeni Seminar"
+categories: [news, events]
+images: /images/news/ali.jpg
+front-image: /images/news/ali.jpg
+event_date: November 9, 2018
+excerpt: Ali Momeni guest speaker at C4DM hosted by the Augmented Instruments Laboratory
+<!-- url: http://hackoustic.org/hackoustic-village-at-we-are-robots/ -->
+<!-- published: false -->
+---
+
+ Ali Momeni of Carnegie Mellon University will give a brief overview of his work at the intersection of art, design, and technology; and two current projects, 1) a multi-agent interactive sound instrument that combines a real-time signal processing engine implemented with PureData on an embedded Linux platform, with gestural interaction implemented via a variety of analog and digital sensors.  2) a study of the mind-gut connection through audio-analysis of gut sounds. More info on Ali's work can be found at [http://alimomeni.net/](http://alimomeni.net/)
+
+-----
+
+Ali was born in Isfahan (Iran) and emigrated to the United States at the age of twelve. He studied physics and music at Swarthmore College and completed his doctoral degree in music composition, improvisation and performance with computers from the Center for New Music and Audio Technologies at UC Berkeley. He spent three years in Paris where he collaborated with performers and researchers from La Kitchen, IRCAM, Sony CSL and CIRM. Between 2007 and 2011, Momeni was an assistant professor in the Department of Art at the University of Minnesota in Minneapolis, where he directed the Spark Festival of Electronic Music and Art, and founded the urban projection collective called the MAW. Momeni is currently an associate professor in the School of Art at Carnegie Mellon University and directs CMU ArtFab, teaches in CMU’s IDEATE, Music Technology and Masters in Tangible Interaction Design degrees.   Ali’s current research interests include performative applications of robotics, playful urban interventions, interactive projection performance, machine learning for artists and designers, interactive tools for storytelling and experiential learning, mobile and hybrid musical instruments, and the intersection of sound, music and health.  In addition to his academic research and teaching, Ali is also co-founder of IRL Labs, an educational technology start-up focused on transforming everyday situations into interactive learning opportunities, using every technologies.
