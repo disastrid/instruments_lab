@@ -2,17 +2,54 @@
 layout: research
 title:  "Accessible Instruments"
 tagline: PhD research Jacob Harrison
-tag: "accessible-instruments"
+tag: "augmented-instruments"
 desc: Research tools
 categories: research
 thumb: accessible/strings-guitar-thumb.jpg
 authors: "Jacob Harrison"
-main-image: /images/research/accessible/strings-guitar.jpg
+main-image: /images/research/accessible/BBC-bass.jpg
 published: false
 ---
 
-Some text about Jacob's research
+The health, social and psychological benefits of music making have long been recognised, and well researched in the fields of music therapy, neuroscience, psychology, sociology and other disciplines.
+For disabled people, there is a lack of access to music making that often prevents them from a full participation in music performance.
+There exist a number of musical instruments designed specifically to accommodate the access needs of disabled people, referred to here as 'Accessible Instruments'.
+Jacob Harrison's PhD research at the Augmented Instruments Lab is focused on the design of new accessible instruments, and aiming to understand ways in which instrument design can play a role in enabling full access to musical performance for disabled people.
 
+Within the contexts of academia, commercial products and DIY projects, there exist a vast range of approaches to accessible instrument design.
+
+
+
+
+## Instruments
+
+### One-Handed Bass guitar
+
+<!-- Image or gif of one-handed bass -->
+
+### Acoustically-Excited Virtual String Instruments
+
+<!-- Image or gif of strummy thing -->
+
+## Research
+
+### Performance-Focused Accessible Instruments
+
+### Enabling Access to Existing Musical Cultures
+
+## Publications
+
+One-Handed Bass JNMR Article
+
+One-Handed Bass NIME DEMO
+
+Strummy Thing NIME Articles
+
+Book Chapter
+
+OHMI Conference Paper (forthcoming)
+
+<!-- Make a nice image for this -->
 {% include single-image-research.html fileName="accessible/strings-guitar.jpg" %}
 
 
