@@ -2,9 +2,9 @@
 layout: post
 title:  "NIME 2018"
 categories: [news, events]
-images: /images/news/nime-2018.jpg
-front-image: /images/news/nime-2018.jpg
-event_date: May 3-6, 2018
+images: /images/news/nime-2018.png
+front-image: /images/news/nime-2018.png
+event_date: June 3-6, 2018
 excerpt: The Augmented Instruments Lab will be at NIME 2018, in Blacksburg, VA.
 url: www.nime2018.org
 ---
