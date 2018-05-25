@@ -19,8 +19,8 @@ This is to demonstrate how to use image includes.
 
 ## Two images
 
-{% include two-image-include.html left_image="left.png" right_image="right.png" image_subfolder="tester" caption="Here is a caption." %} 
+{% include two-image-include.html left_image="left.png" right_image="right.png" image_subfolder="tester" caption="Here is a caption." %}
 
 ## Three images
 
-{% include three-image-include.html left_image="left.png" middle_image="left.png" right_image="right.png" image_subfolder="tester" caption="Here is another caption." %} 
+{% include three-image-include.html left_image="left.png" middle_image="left.png" right_image="right.png" image_subfolder="tester" caption="Here is another caption." %}

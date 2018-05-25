@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cripping the Muse Music & Disability Studies Summit"
-categories: [news, events]
+categories: [events]
 images: /images/news/ctm.png
 front-image: /images/news/ctm.png
 event_date: July 4-5, 2018

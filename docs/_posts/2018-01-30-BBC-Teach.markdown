@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "BBC Teach at the Augmented Instruments Lab"
+categories: [news]
+images: /images/news/bbcteach.jpg
+front-image: /images/news/bbcteach.jpg
+event_date: July 4-5, 2018
+excerpt: BBC Teach came to visit the Augmented Instruments Lab to film a segment on Jacob Harrison's One-Handed Bass project
+url: https://www.youtube.com/watch?v=0lA4Oppg4UM
+<!-- published: false -->
+---
+
+In October 2017, a team from BBC Teach came to visit us to film a segment on Jacob Harrison's One-Handed Bass project. The episode was released in January for use in the classroom as part of their 'problem solved' series, which is aimed at teaching young computer science students computational thinking.
+
+Click below to watch the video!
+
+{% include youtube.html youtube="0lA4Oppg4UM" %}
