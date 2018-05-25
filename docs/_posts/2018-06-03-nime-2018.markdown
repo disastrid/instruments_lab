@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "NIME 2018"
+categories: [news, events]
+images: /images/news/nime-2018.jpg
+front-image: /images/news/nime-2018.jpg
+event_date: May 3-6, 2018
+excerpt: The Augmented Instruments Lab will be at NIME 2018, in Blacksburg, VA.
+url: www.nime2018.org
+---
+
+The Augmented Instruments Lab will be at NIME 2018! This year we will participate with a great variety of contributions: workshops, paper and poster presentations and music performances! See you at the New Instruments for Musical Expression Conference 2018, Blacksburg, Virginia Tech & University of Virginia, USA. For more info click [here](http://nime2018.icat.vt.edu/schedule/).
+
+#### Sunday 3 June
+- Workshop: Making Embedded Instruments with [Bela](http://bela.io) by Augmented Instruments Laboratory
+- Workshop: Gender Diversity at NIME by S. M. Astrid Bin, S. Schoemann & A. Weisling
+- Music performance: "Language Embodiment ¿?"" by E. Betancur & J. Armitage
+
+#### Monday 4 June
+- Poster: Risky business: Disfluency as a design strategy by S. M. Astrid Bin, Nick Bryan-Kinns & Andrew P. McPherson
+
+#### Tuesday 5 June
+- Paper: NIME Identity from the Performer's Perspective by Fabio Morreale, Andrew P. McPherson & Marcelo Wanderley
+- Paper: Crafting Digital Musical Instruments: An Exploratory Workshop Study by Jack Armitage & Andrew P. McPherson
+- Paper: When is a Guitar not a Guitar? Cultural Form, Input Modality and Expertise by Jacob Harrison, Robert H Jack, Fabio Morreale & Andrew P. McPherson
+- Paper: When is a Guitar not a Guitar? Cultural Form, Input Modality and Expertise by Jacob Harrison, Robert H Jack, Fabio Morreale & Andrew P. McPherson
+
+#### Wednesday 6 May
+- Paper: Mirroring the past, from typewriting to interactive art: an approach to the re-design of a vintage technology by Giacomo Lepri & Andrew P. McPherson
