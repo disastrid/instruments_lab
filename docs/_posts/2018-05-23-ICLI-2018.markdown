@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Keynote Speech and Presentation at ICLI 2018"
+categories: [news, events]
+images: /images/news/ICLI2018.png
+front-image: /images/news/ICLI2018.png
+event_date: June 14-16, 2018
+excerpt: Andrew McPherson will be delivering a keynote speech, and Jack Armitage will be presenting at International Conference of Live Interfaces 2018, in Porto, Portugal
+url: http://www.liveinterfaces.org
+---
+
+In June, Andrew McPherson and Jack Armitage will present their work at ICLI 2018, taking place at the [Casa da Música](http://www.casadamusica.com/en/) in Porto, Portugal.
+
+Andrew McPherson will be delivering a keynote speech on comparative musical instrument design:
+
+>The design of digital musical instruments (DMIs) serves many simultaneous goals, both aesthetic and technical. While most instruments are first and foremost artistic products, their creation and use can also yield insight on how musicians creatively interact with technology, and DMIs can even inform human-computer interaction research beyond the musical domain. This talk discusses a comparative approach to musical instrument design, in which two or more variations on the same instrument are created and compared in a performance context. Several case studies will be presented, drawing on the work of members of the Augmented Instruments Laboratory at Queen Mary University of London. In our lab, comparative instrument design has been used to investigate themes including accessibility to novices, skill transfer for experts, perception of the audience, hackability and appropriation. The talk will present the specific instruments and what we learned from them, concluding with a general reflection on how individual DMI designs can simultaneously serve goals of research and artistic practice.
+
+Jack Armitage will be presenting his research *Supporting Live Craft Process in Digital Musical Instrument Design* at the Doctoral Symposium:
+
+>Despite digital lutherie’s goal of enabling liveness in performance, digital lutherie as a process often lacks liveness. The tools of digital lutherie, adapted from domains where liveness was neither feasible or important, can make craft process feel dull, blind and isolated. Understanding and supporting live craft process in digital lutherie is important for advancing and disseminating the art, and for improving digital luthiers’ control over the liveness of their instruments. This requires a shift in focus from declarative and explicit knowledge of instruments, to the study of liveness, craft process and tacit knowledge in digital lutherie. This research aims to provide a foundation for this shift through integration of traditional and digital lutherie, and detailed comparison of digital luthier behaviour in different live crafting environments.
+
+Click [here](http://instrumentslab.org/research/craft.html) for more information on Jack's research on Craft in DMI Design.
