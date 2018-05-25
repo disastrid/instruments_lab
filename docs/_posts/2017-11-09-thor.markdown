@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Thor Magnusson Seminar"
+categories: [news, events]
+images: /images/news/thor.png
+front-image: /images/news/thor.png
+event_date: November 9, 2018
+excerpt: Thor Magnusson guest speaker at C4DM hosted by the Augmented Instruments Laboratory
+url: http://hackoustic.org/hackoustic-village-at-we-are-robots/
+<!-- published: false -->
+---
+
+Thor Magnusson (University of Sussex) will be presenting a seminar on digital musical instruments and their classification, entitled "Musical Organics: A Heterarchical Approach to Digital Organology". See details below.
+
+-----
+
+Musical Organics: A Heterarchical Approach to Digital Organology
+
+An important pursuit of organology is the classification of musical instruments. The tree-metaphor has traditionally been the key organisational principle, most prominently applied by Hornbostel and Sachs in their classification from 1914. As Nietzsche, Foucault, and Eco demonstrated, the classification of a domain is an epistemic act; indeed, we find epistemic time periods, where cultures throw different "conceptual nets" over the "rabble of reality" (as Nietzsche put it).
+
+Hornbostel and Sachs acknowledged the problems of division in their classification, stating that instruments are alive and dynamic, whereas systems are static and delineating. This is even more true with new digital instruments, as their complex nature renders them hard to place into classificatory categories. A new analytical approach is required that engages with the repository of digital instruments from a multiplicity of perspectives: materials (e.g., plastic, metal, glass, fibre, cloth); sensors (e.g., ultrasound, bend, potentiometers); sound (e.g., physical models, subtractive, granular, sampling); mapping (e.g., one-to-one, one- to-many, many-to-one, convergent, learned, evolutionary); gestures (e.g., hit, stroke, pluck, shake, bow, blow); reuse of proprioceptive skills (such as the trained playing of keyboard, strings, wind, and percussion); manufacturer (e.g., of sensors, chips, motors), and many more, including cultural context, musical style, and other areas that have been, or indeed will be, called for as extensions to existing organological classifications.    
+
+This presentation will discuss the necessity of shifting our classificatory metaphors from the tree to the rhizome, from hierarchy to heterarchy, pointing to the digital as something that is essentially hard to define due to the lack of tradition, legacy, and institutional framework. The paper discusses the problems of classification of digital instruments and introduce some of the organological work done in the field, leading up to the author’s proposal of Musical Organics. As a theoretical method that applies modern search, machine information retrieval, and representation technologies, musical organics enable researchers to create ad-hoc classifications of instrumental spaces as a collaborative organological research.
+
+-----
+
+Thor Magnusson is a senior lecturer in Music at the University of Sussex. His work focuses on the impact digital technologies have on musical creativity and practice, explored through software development, composition, and performance. He is the co-founder of ixi audio ([www.ixi-audio.net](www.ixi-audio.net)), and has developed audio software, systems of generative music composition, written computer music tutorials, and created two musical live coding environments. As part of ixi, he has taught workshops in creative music coding and sound installations, and given presentations, performances, and visiting lectures at diverse art institutions, conservatories, and universities internationally. Thor is currently working on an AHRC-funded research project called Sonic Writing ([www.sonicwriting.org](www.sonicwriting.org)) which will result in a monograph published by Bloomsbury in 2018. Further information here: [http://thormagnusson.github.io](http://thormagnusson.github.io)
