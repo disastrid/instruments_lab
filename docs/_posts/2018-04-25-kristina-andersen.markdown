@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kristina Andersen Seminar"
-categories: [news, events]
+categories: [events]
 images: /images/news/kristina-andersen.png
 front-image: /images/news/kristina-andersen.png
 event_date: May 10, 2018

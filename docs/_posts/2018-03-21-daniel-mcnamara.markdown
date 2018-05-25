@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Daniel McNamara visit"
-categories: [news, events]
+categories: [news]
 images: /images/news/daniel-mcnamara-pd.jpg
 front-image: /images/news/daniel-mcnamara-pd.jpg
 event_date: March 22, 2018

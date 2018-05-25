@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Thor Magnusson Seminar"
-categories: [news, events]
+categories: [events]
 images: /images/news/thor.png
 front-image: /images/news/thor.png
 event_date: November 9, 2018

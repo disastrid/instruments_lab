@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Paul Stapleton seminar"
-categories: [news, events]
+categories: [events]
 images: /images/news/paul-stapleton.jpg
 front-image: /images/news/paul-stapleton.jpg
 event_date: March 21, 2018

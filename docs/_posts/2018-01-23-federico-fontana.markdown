@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Federico Fontana seminar"
-categories: [news, events]
+categories: [events]
 images: /images/news/piano-key-distr.jpg
 front-image: /images/news/piano-key-distr.jpg
 event_date: January 24, 2018
