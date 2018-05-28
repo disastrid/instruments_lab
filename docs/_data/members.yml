@@ -36,6 +36,15 @@
       icon: twitter
     - link: http://facebook.com/kurijn
       icon: facebook
+- avatar: ../images/people/liam.jpg
+  name: Liam Donovan
+  education: University of Oxford
+  position: PhD student (2013-present)
+  socials:
+    - link: http://bela.io
+      icon: link
+  desc:
+    Developing and building new acoustic musical instruments
 - avatar: ../images/people/robert.jpg
   name: Robert Jack
   position: PhD student (2014-present, co-supervised with <a href='http://www.eecs.qmul.ac.uk/people/view/3026/dr-tony-stockman'>Dr Tony Stockman</a>)
