@@ -3,27 +3,30 @@ layout: post
 title:  "NIME 2018"
 categories: [news, events]
 images: /images/news/nime-2018.png
-front-image: /images/news/nime-2018.png
+front-image: /images/news/nime-2018.1.jpg
 event_date: June 3-6, 2018
 excerpt: The Augmented Instruments Lab will be at NIME 2018, in Blacksburg, VA.
 url: www.nime2018.org
 ---
 
-The Augmented Instruments Lab will be at NIME 2018! This year we will participate with a great variety of contributions: workshops, paper and poster presentations and music performances! See you at the New Instruments for Musical Expression Conference 2018, Blacksburg, Virginia Tech & University of Virginia, USA. For more info click [here](http://nime2018.icat.vt.edu/schedule/).
+The Augmented Instruments Lab will be at NIME 2018! This year we will participate with a great variety of contributions: workshops, paper and poster presentations and music performances! See you at the [New Instruments for Musical Expression Conference 2018](http://nime2018.icat.vt.edu/schedule/), Blacksburg, Virginia Tech & University of Virginia, USA.
 
-#### Sunday 3 June
-- Workshop: Making Embedded Instruments with [Bela](http://bela.io) by Augmented Instruments Laboratory
-- Workshop: Gender Diversity at NIME by S. M. Astrid Bin, S. Schoemann & A. Weisling
-- Music performance: "Language Embodiment ¿?"" by E. Betancur & J. Armitage
+##### Sunday 3 June
+- [Workshop](https://nime2018.sched.com/event/EiuV/making-embedded-instruments-with-bela): ***Making Embedded Instruments with [Bela](http://bela.io)*** by Augmented Instruments Laboratory
+- [Workshop](https://nime2018.sched.com/event/EBmE/gender-diversity-at-nime): ***Gender Diversity at NIME*** by S. M. Astrid Bin, S. Schoemann & A. Weisling
+- [Workshop](https://embodiedlivecoding.github.io/nime2018-workshop/): ***Re-Engaging the Body and Gesture in Live Coding*** by S. Salazar and J. Armitage
+- Music performance: ***Language Embodiment ¿?*** by E. Betancur & J. Armitage
 
-#### Monday 4 June
-- Poster: Risky business: Disfluency as a design strategy by S. M. Astrid Bin, Nick Bryan-Kinns & Andrew P. McPherson
+##### Monday 4 June
+- Poster: ***Risky business: Disfluency as a design strategy*** by S. M. Astrid Bin, Nick Bryan-Kinns & Andrew P. McPherson
 
-#### Tuesday 5 June
-- Paper: NIME Identity from the Performer's Perspective by Fabio Morreale, Andrew P. McPherson & Marcelo Wanderley
-- Paper: Crafting Digital Musical Instruments: An Exploratory Workshop Study by Jack Armitage & Andrew P. McPherson
-- Paper: When is a Guitar not a Guitar? Cultural Form, Input Modality and Expertise by Jacob Harrison, Robert H Jack, Fabio Morreale & Andrew P. McPherson
-- Paper: When is a Guitar not a Guitar? Cultural Form, Input Modality and Expertise by Jacob Harrison, Robert H Jack, Fabio Morreale & Andrew P. McPherson
+##### Tuesday 5 June
+- Paper: ***NIME Identity from the Performer's Perspective*** by Fabio Morreale, Andrew P. McPherson & Marcelo Wanderley
+- [Paper](https://www.researchgate.net/publication/324783048_Crafting_Digital_Musical_Instruments_An_Exploratory_Workshop_Study): ***Crafting Digital Musical Instruments: An Exploratory Workshop Study*** by Jack Armitage & Andrew P. McPherson
+- Paper: ***When is a Guitar not a Guitar? Cultural Form, Input Modality and Expertise*** by Jacob Harrison, Robert H Jack, Fabio Morreale & Andrew P. McPherson
+- Paper: ***When is a Guitar not a Guitar? Cultural Form, Input Modality and Expertise*** by Jacob Harrison, Robert H Jack, Fabio Morreale & Andrew P. McPherson
 
-#### Wednesday 6 May
-- Paper: Mirroring the past, from typewriting to interactive art: an approach to the re-design of a vintage technology by Giacomo Lepri & Andrew P. McPherson
+##### Wednesday 6 May
+- Poster: ***Do We Speak Sensor? Cultural Constraints of Embodied Interaction*** by Jon Pigrem & Andrew P. McPherson
+- Poster: ***Performance Systems for Live Coders and Non-Coders*** by A. Sarwaate, R. Rose, J. Armitage and J. Freeman.
+- [Paper](http://files.spazioweb.it/b7/54/b7545375-3f50-4030-925c-ec1a4061d486.pdf): ***Mirroring the past, from typewriting to interactive art: an approach to the re-design of a vintage technology*** by Giacomo Lepri & Andrew P. McPherson
