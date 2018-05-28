@@ -2,7 +2,7 @@
 <h2>Latest events</h2>
 
   <ul class="event-list">
-    {% for post in site.categories.events %}
+    {% for post in site.categories.events | limit: 5 %}
     <li>
       <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
       <p>{{ post.event_date }}</p>
