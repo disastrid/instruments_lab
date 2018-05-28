@@ -66,21 +66,6 @@
     - link: http://www.robertjack.org
       icon: link
   desc: Touch and musical instrument design, cross-modal perception, non-visual interfaces, sensorimotor feedback, haptics, percussion, strings and live electronics.
-- avatar: ../images/people/astrid.jpg
-  name: Astrid Bin
-  position: PhD student (2014-present, co-supervised with <a href='http://www.eecs.qmul.ac.uk/~nickbk/'>Dr Nick Bryan-Kinns</a>)
-  education: AOCAD (Hons.) Sculpture/Installation, 2003. MA Art In Public, University of Ulster, 2013.
-  socials:
-    - link: http://twitter.com/disastrid
-      icon: twitter
-    - link: http://github.com/disastrid
-      icon: github
-    - link: http://astridbin.com
-      icon: link
-    - link: https://www.linkedin.com/in/astridbin/
-      icon: linkedin
-  desc:
-    Electronics, making things, physical objects, audiences, human-computer interaction, drone.
 - avatar: ../images/people/giulio.jpeg
   name: Giulio Moro
   education: Bachelors in sound recording (Conservatory of Padua), MSc in Digital Music Processing (QMUL)
