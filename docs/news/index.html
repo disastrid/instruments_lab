@@ -5,8 +5,6 @@ section_id: news
 ---
 
 {% for post in site.categories.news %}
-<!-- {% if post.categories contains "news" or post.categories contains "event" %} -->
-<!-- Comment line 7 and uncomment line 8 if you want to include both News and Event posts in the feed! -->
   <div class='big mod modBlogPost'>
     <div class='images'>
       {% for image in post.images %}
