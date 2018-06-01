@@ -1,9 +1,12 @@
+- title:  'Action-sound Latency and the Perceived Quality of Digital Musical Instruments: Comparing Professional Percussionists and Amateur Musicians'
+  authors: R. H. Jack, A. Mehrabi, T. Stockman and A. McPherson
+  venue: Music Perception
+  year: '2018 (in press)'
 - title: 'Risky business: Disfluency as a design strategy'
   authors: S. M. A. Bin, N. Bryan-Kinns, A. P. McPherson
   venue: Proc. New Interfaces for Musical Expression
   city: Blacksburg, Virginia, USA
   year: 2018
-  pdf: http://nime.org
 - title: 'Mirroring the past, from typewriting to interactive art: an approach to the re-design of a vintage technology'
   authors: G. Lepri, A. P. McPherson
   venue: Proc. New Interfaces for Musical Expression
@@ -15,7 +18,7 @@
   venue: Proc. New Interfaces for Musical Expression
   city: Blacksburg, Virginia, USA
   year: 2018
-  pdf: http://nime.org
+  pdf: https://www.researchgate.net/publication/324783048_Crafting_Digital_Musical_Instruments_An_Exploratory_Workshop_Study
 - title: 'Re-Engaging the Body and Gesture in Live Coding'
   authors: S. Salazar and J. Armitage
   venue: Proc. New Interfaces for Musical Expression
@@ -27,16 +30,30 @@
   venue: Proc. New Interfaces for Musical Expression
   city: Blacksburg, Virginia, USA
   year: 2018
-  pdf: http://nime.org
 - title: 'When is a Guitar not a Guitar? Cultural Form, Input Modality and Expertise'
   authors: J. Harrison, R. Jack, F. Morreale and A. McPherson
   venue: Proc. New Interfaces for Musical Expression
   city: Blacksburg, Virginia, USA
   year: 2018
-  pdf: http://nime.org
 - title: 'Democratising DMIs: the relationship of expertise and control intimacy'
   authors: R. Jack, J.Harrison, F. Morreale and A. McPherson
   venue: Proc. New Interfaces for Musical Expression
   city: Blacksburg, Virginia, USA
   year: 2018
-  pdf: http://nime.org
+  pdf: https://www.researchgate.net/profile/Robert_Jack4/publication/324390561_Democratising_DMIs_the_relationship_of_expertise_and_control_intimacy/links/5acc92b4a6fdcc8bfc87e9cc/Democratising-DMIs-the-relationship-of-expertise-and-control-intimacy.pdf
+- title: 'Do We Speak Sensor? Cultural Constraints of Embodied Interaction'
+  authors: J. Pigrem and A. McPherson
+  venue: Proc. New Interfaces for Musical Expression
+  city: Blacksburg, Virginia, USA
+  year: 2018 
+- title: 'Real-time bowed string feature extraction for performance applications'
+  author: K. Buys and A. McPherson
+  venue: Proc. Sound and Music Computing
+  city: Limassol, Cyprus
+  year: 2018
+- title: 'Improving the Instrumental Learning Experience through Complexity Management'
+  author: L. Pardue, A. McPherson and D. Overholt
+  venue: Proc. Sound and Music Computing
+  city: Limassol, Cyprus
+  year: 2018
+  
