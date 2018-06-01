@@ -18,7 +18,7 @@ The Augmented Instruments Lab will be at NIME 2018! This year we will participat
 - Music performance: ***Language Embodiment ¿?*** by E. Betancur & J. Armitage
 
 ##### Monday 4 June
-- Poster: ***Risky business: Disfluency as a design strategy*** by S. M. Astrid Bin, Nick Bryan-Kinns & Andrew P. McPherson
+- [Poster](http://www.eecs.qmul.ac.uk/~andrewm/abin_nime2018.pdf): ***Risky business: Disfluency as a design strategy*** by S. M. Astrid Bin, Nick Bryan-Kinns & Andrew P. McPherson
 
 ##### Tuesday 5 June
 - [Paper](https://www.researchgate.net/profile/Fabio_Morreale/publication/324561906_NIME_Identity_from_the_Performer%27s_Perspective/links/5ad5b49caca272fdaf7c6365/NIME-Identity-from-the-Performers-Perspective.pdf): ***NIME Identity from the Performer's Perspective*** by Fabio Morreale, Andrew P. McPherson & Marcelo Wanderley
@@ -27,6 +27,6 @@ The Augmented Instruments Lab will be at NIME 2018! This year we will participat
 - Paper: ***When is a Guitar not a Guitar? Cultural Form, Input Modality and Expertise*** by Jacob Harrison, Robert H Jack, Fabio Morreale & Andrew P. McPherson
 
 ##### Wednesday 6 May
-- Poster: ***Do We Speak Sensor? Cultural Constraints of Embodied Interaction*** by Jon Pigrem & Andrew P. McPherson
+- [Poster](http://www.eecs.qmul.ac.uk/~andrewm/jpigrem_nime2018.pdf): ***Do We Speak Sensor? Cultural Constraints of Embodied Interaction*** by Jon Pigrem & Andrew P. McPherson
 - Poster: ***Performance Systems for Live Coders and Non-Coders*** by A. Sarwaate, R. Rose, J. Armitage and J. Freeman.
 - [Paper](http://files.spazioweb.it/b7/54/b7545375-3f50-4030-925c-ec1a4061d486.pdf): ***Mirroring the past, from typewriting to interactive art: an approach to the re-design of a vintage technology*** by Giacomo Lepri & Andrew P. McPherson
