@@ -26,7 +26,7 @@ The Augmented Instruments Lab will be at NIME 2018! This year we will participat
 - [Paper](https://www.researchgate.net/profile/Robert_Jack4/publication/324390561_Democratising_DMIs_the_relationship_of_expertise_and_control_intimacy/links/5acc92b4a6fdcc8bfc87e9cc/Democratising-DMIs-the-relationship-of-expertise-and-control-intimacy.pdf): ***Democratising DMIs: the Relationship of Expertise and Control Intimacy*** by Robert H Jack, Jacob Harrison, Fabio Morreale & Andrew P. McPherson
 - Paper: ***When is a Guitar not a Guitar? Cultural Form, Input Modality and Expertise*** by Jacob Harrison, Robert H Jack, Fabio Morreale & Andrew P. McPherson
 
-##### Wednesday 6 May
+##### Wednesday 6 June
 - [Poster](http://www.eecs.qmul.ac.uk/~andrewm/jpigrem_nime2018.pdf): ***Do We Speak Sensor? Cultural Constraints of Embodied Interaction*** by Jon Pigrem & Andrew P. McPherson
 - Poster: ***Performance Systems for Live Coders and Non-Coders*** by A. Sarwaate, R. Rose, J. Armitage and J. Freeman.
 - [Paper](http://files.spazioweb.it/b7/54/b7545375-3f50-4030-925c-ec1a4061d486.pdf): ***Mirroring the past, from typewriting to interactive art: an approach to the re-design of a vintage technology*** by Giacomo Lepri & Andrew P. McPherson
