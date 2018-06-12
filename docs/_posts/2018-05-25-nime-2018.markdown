@@ -28,5 +28,5 @@ The Augmented Instruments Lab will be at NIME 2018! This year we will participat
 
 ##### Wednesday 6 June
 - [Poster](http://www.eecs.qmul.ac.uk/~andrewm/jpigrem_nime2018.pdf): ***Do We Speak Sensor? Cultural Constraints of Embodied Interaction*** by Jon Pigrem & Andrew P. McPherson
-- Poster: ***Performance Systems for Live Coders and Non-Coders*** by A. Sarwaate, R. Rose, J. Armitage and J. Freeman.
+- Poster: ***Performance Systems for Live Coders and Non-Coders*** by A. Sarwate, R. Rose, J. Armitage and J. Freeman.
 - [Paper](http://files.spazioweb.it/b7/54/b7545375-3f50-4030-925c-ec1a4061d486.pdf): ***Mirroring the past, from typewriting to interactive art: an approach to the re-design of a vintage technology*** by Giacomo Lepri & Andrew P. McPherson
