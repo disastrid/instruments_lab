@@ -24,14 +24,6 @@
       icon: link
   desc:
     Chris was a PhD student at the Augmented Instruments Lab from 2012-2017. His research focused on procedural audio and digital foley, and he now works at Enzien Audio in Brighton, UK.
-- avatar: ../images/people/laurel.jpg
-  name: Dr Laurel Pardue
-  position: PhD student, 2012-17
-  socials:
-    - link: https://scholar.google.com/citations?user=UXWpcQ4AAAAJ
-      icon: graduation-cap
-  desc:
-    Laurel was a PhD student at the Augmented Instruments Lab between 2012-2017 working on the augmented violin.
 - avatar: ../images/people/astrid.jpg
   name: Dr Astrid Bin
   position: PhD student, 2014-2017

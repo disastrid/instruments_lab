@@ -27,7 +27,7 @@
   education: B.S. Computer Science, M.S. Computer Science, M.S. Biomedical Data Processing, University of Verona; Ph.D. Human-Computer Interaction, University of Trento 2015; Postdoc University of Trento 2015-2016
   desc: Musical interface design and evaluation, generative art, algorithmic composition
 - avatar: ../images/people/kurijn.jpg
-  name: Kurijn Buys
+  name: Dr Kurijn Buys
   position: Postdoctoral Research Assistant
   education: M.A. Audio Design, Utrecht School of Music and Technology, 2008; M.S. Science and Technology, Université Pierre et Marie Curie, 2010; PhD in Musical Acoustics, The Open University, 2017.
   desc: Acoustic/electronic/digital instrument development, in particular experienced with hybrid (electro-acoustic) wind instruments.
@@ -36,15 +36,23 @@
       icon: twitter
     - link: http://facebook.com/kurijn
       icon: facebook
+- avatar: ../images/people/laurel.jpg
+  name: Dr Laurel Pardue
+  position: Postdoctoral Research Assisant
+  education: S.B. Music, S.B. Electrical Engineering, MIT; M.Eng. Electrical Engineering, MIT; M.Sc. Media Arts & Sciences, MIT 2011; PhD, QMUL Augmented Instruments Laboratory, 2017
+  desc: Interface & instrument design, prototyping, expressive performance, instrument learning, violin, viola, Balinese gamelan.
+  socials:
+    - link: https://scholar.google.com/citations?user=UXWpcQ4AAAAJ
+      icon: graduation-cap
 - avatar: ../images/people/liam.jpg
-  name: Liam Donovan
-  education: University of Oxford
-  position: PhD student (2013-present)
+  name: Dr Liam Donovan
+  education: M.Eng. Engineering Science, University of Oxford 2011; PhD, QMUL Augmented Instruments Laboratory, 2018
+  position: RAEng Enterprise Fellow
   socials:
     - link: http://bela.io
       icon: link
   desc:
-    Developing and building new acoustic musical instruments
+    Bela embedded audio platform; developing and building new acoustic musical instruments
 - avatar: ../images/people/robert.jpg
   name: Robert Jack
   position: PhD student (2014-present, co-supervised with <a href='http://www.eecs.qmul.ac.uk/people/view/3026/dr-tony-stockman'>Dr Tony Stockman</a>)
@@ -60,7 +68,7 @@
 - avatar: ../images/people/giulio.jpeg
   name: Giulio Moro
   education: Bachelors in sound recording (Conservatory of Padua), MSc in Digital Music Processing (QMUL)
-  position: PhD student (2015-present), Research Assistant (2017)
+  position: PhD student (2015-present, co-supervised with Mark Sandler), Research Assistant (2017)
   socials:
   desc: Touch on keyboard instruments, low latency audio and sensors, embedded devices, why-do-people-think-analog-is-better
 - avatar: ../images/people/jack.jpg
