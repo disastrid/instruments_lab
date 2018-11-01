@@ -102,5 +102,11 @@
       icon: link
     - link: https://www.youtube.com/channel/UC2YJEDkzCuZYZnUsQXpIg7w?view_as=subscriber
       icon: youtube
+    - link: https://scholar.google.com/citations?user=gKocuOMAAAAJ&hl=it
+      icon: graduation-cap
+    - link: https://twitter.com/g_lepri
+      icon: twitter
+    - link: https://www.linkedin.com/in/giacomo-lepri-957b10149/
+      icon: linkedin
   desc:
     Instruments design, media archaeology, cultural factors in music technology development, audio-visual interactive installtions, electroacoustic composition and improvisation
