@@ -3,7 +3,7 @@ layout: post
 title:  "Ars Electronica 2018"
 categories: [news, events]
 images: /images/news/ArsElectronica.jpg
-front-image: /images/news/LiaArsElectronica.jpg
+front-image: /images/news/ArsElectronica.jpg
 event_date: September 5, 2018
 excerpt: Augmented Instruments Laboratory @ Ars Electronica 2018
 url: https://ars.electronica.art/error/en/explorations-of-interactions/
