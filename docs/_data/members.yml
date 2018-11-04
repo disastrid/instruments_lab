@@ -110,3 +110,12 @@
       icon: linkedin
   desc:
     Instruments design, media archaeology, cultural factors in music technology development, audio-visual interactive installtions, electroacoustic composition and improvisation
+- avatar: ../images/people/andrea.jpg
+  name: Andrea Guidi
+  position: PhD student (2018-present)
+  education: BSc Science & Technology of Musical Communication, University of Milan - Milan; MMus Electronic Music & Sound Technology, G.Verdi Conservatory of Music - Milan
+  socials:
+    - link: https://twitter.com/An_Hello_World
+      icon: twitter
+  desc:
+   new interfaces for musical expression, interactive art, augmented instruments
