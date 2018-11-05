@@ -9,7 +9,7 @@ excerpt: Augmented Instruments Laboratory @ Intersections 2018
 url: https://therawandthecooked.intersections.io/
 ---
 
-The [RAW and The COOKED](https://therawandthecooked.intersections.io/) is a two day ‘happening’ of new approaches to musical creation and creativity. Fostering an open source ethos to sharing and developing new (and existing) skills, the event brings together the best of today's pioneering musical movements. The Augmented Instruments lab joined the event with two performances and one talk and one workshop!  
+The [RAW and The COOKED](https://therawandthecooked.intersections.io/) is a two day ‘happening’ of new approaches to musical creation and creativity. Fostering an open source ethos to sharing and developing new (and existing) skills, the event brings together the best of today's pioneering musical movements. The Augmented Instruments lab joined the event with two performances, one talk and one workshop!  
 
 ---------------------
 
