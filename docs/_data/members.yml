@@ -110,7 +110,6 @@
       icon: linkedin
   desc:
     Instruments design, media archaeology, cultural factors in music technology development, audio-visual interactive installtions, electroacoustic composition and improvisation
-<<<<<<< HEAD
 
 - avatar: ../images/people/LiaMice.jpg
   name: Lia Mice
@@ -123,7 +122,7 @@
       icon: twitter
   desc:
     large instruments, instruments design, live performance and composition with digital musical instruments
-=======
+
 - avatar: ../images/people/andrea.jpg
   name: Andrea Guidi
   position: PhD student (2018-present)
@@ -133,4 +132,3 @@
       icon: twitter
   desc:
    new interfaces for musical expression, interactive art, augmented instruments
->>>>>>> 1da4dd0634803472e24d2c7fcdf9a840e89c261b
