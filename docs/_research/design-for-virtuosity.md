@@ -23,6 +23,12 @@ A first focus of the project concerns the understanding of the interaction betwe
 
 Secondly, the resulting models will inform the DMI creation process, taking a holistic approach unifying hardware design, digital signal processing, human-computer interaction (HCI) and artistic considerations. Existing DMIs often implicitly prioritise the convenience of the computer over the experience of the human player. On acoustic instruments, the entire physical object contributes to the sound, however subtly, but the choice of sensors in a DMI typically reduces the performer's actions to just a few machine-tractable dimensions. This fellowship will create instruments which deliberately oversample the interaction, using more sensors and higher sampling rates than apparently necessary, not to create a more complicated instrument, but rather to capture the subtle nuances that experts prize. Evaluation of the new DMIs will help refine the original models of performer-instrument interaction.
 
+## References
+
+F. Morreale, J. Morreale and A. McPherson. [Effect of Instrument Structure Alterations on Violin Performance](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02436/full). Frontiers in Psychology 9 (2436), 2018.
+
+K. Buys and A. McPherson. [Real-time bowed string feature extraction for performance applications](http://www.eecs.qmul.ac.uk/~andrewm/buys_smc2018.pdf). Proc. Sound and Music Computing, Limassol, Cyprus, 2018.
+
 
 <!---
 {% include single-image.html fileName="stock/blog-4.jpg" caption="Detailed picture of something." %}

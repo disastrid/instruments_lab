@@ -93,7 +93,7 @@ A. McPherson. [Buttons, handles, and keys: advances in continuous-control keyboa
 
 The MRP has been used in new pieces and recordings by a growing number of composers and performers. Since it can be set up in any grand piano and fits in travel-sized cases, new pieces can be performed anywhere. Scores and recordings are available from the composers in most cases; [contact Andrew McPherson](mailto:a.mcpherson@qmul.ac.uk) if you are interested.
 
-Two major projects have expanded the repertoire for MRP. A 2011 collaboration with Philadelphia composers and performers is described in [this article](http://www.eecs.qmul.ac.uk/~andrewm/mcpherson-cmj2012.pdf) in Computer Music Journal. In 2013, the MRP has been featured by the [London Chamber Orchestra](http://www.lco.co.uk) as part of the project "LCO New: Inspired by Digital".
+The repertoire for the MRP has grown steadily since the instrument was first created in 2009. A 2011 collaboration with Philadelphia composers and performers is described in [this article](http://www.eecs.qmul.ac.uk/~andrewm/mcpherson-cmj2012.pdf) in Computer Music Journal. In 2013, the MRP has been featured by the [London Chamber Orchestra](http://www.lco.co.uk) as part of the project "LCO New: Inspired by Digital". Many other composers and pianists have since used it in projects including classical compositions, jazz and rock albums, film scores and free improvisations.
 
 {% include youtube.html youtube="WDTaH_d8s8c" %}
 
@@ -121,8 +121,18 @@ Two major projects have expanded the repertoire for MRP. A 2011 collaboration wi
 * [Alexander Elliot Miller](http://www.alexanderemiller.com), *88 MPH* (2015), for magnetic resonator piano. Premiered by Nic Gerpe ([People Inside Electronics](http://peopleinsideelectronics.com)), Neighborhood Unitarian Universalist Church of Pasadena, CA, 18 April 2015. [Video](https://www.youtube.com/watch?v=D3MMg_cF66o)
 * [Elise Roy](http://www.eliseroy.com), *Sonatine* (2015), for magnetic resonator piano. Premiered by Richard Valitutto ([People Inside Electronics](http://peopleinsideelectronics.com)), Neighborhood Unitarian Universalist Church of Pasadena, CA, 18 April 2015. [Video](https://www.youtube.com/watch?v=LkCP615cB-Q)
 * [Oded Ben-Tal](http://obental.wixsite.com/main), *Sonata (Scarlatti, Schubert, Scriabin)* (2016), for magnetic resonator piano and live electronics. [Premiered by Elaine Chew](http://elainechew-piano.blogspot.com/2016/06/withwithout-excerpts.html), Schott Music London, 24 June 2016.
+* [Jonathan Pitkin](http://www.jpitkin.co.uk), *l.v.* (2017), for magnetic resonator piano. Premiered by [Kate Ryder](http://www.kateryder.co.uk/kate_ryder/home.html) at the Royal College of Music on 23 November 2017.
+* [Xenia Pestova](http://xeniapestova.com), *Glowing Radioactive Elements* (2018), for magnetic resonator piano. Premiered by Xenia Pestova at Royal Birmingham Conservatoire, 20 February 2018. Video from performance at [Cafe Oto](https://www.cafeoto.co.uk), April 2018: [Mvt. I](https://www.youtube.com/watch?v=GAb8RRKg8oo); [Mvt. II] (https://www.youtube.com/watch?v=2328Q39mX84); [Mvt. IV](https://www.youtube.com/watch?v=aDnB4dlrjlw)
+* [John Young](https://www.dmu.ac.uk/about-dmu/academic-staff/technology/john-young/john-young.aspx), *Magnetic Resonance* (2017), for magnetic resonator piano and live electronics. Premiered by [Xenia Pestova](http://xeniapestova.com) at Royal Birmingham Conservatoire, 20 February 2018. [Audio excerpt](https://soundcloud.com/user-130433473/magnetic-resonance_clip)
+* [Rolf Hind](http://www.rolfhind.com), *Other Avatars* (2018), for magnetic resonator piano. Premiered by Rolf Hind at [St. John's Smith Square](https://www.sjss.org.uk/) on 20 April 2018. [Video](https://www.youtube.com/watch?v=XIHdmVJ_TiI)
+* [Paul Max Edlin](http://paulmaxedlin.com), *...and the Body of Transformations* (2018), for magnetic resonator piano. Premiered by [Rolf Hind](http://www.rolfhind.com) at Queen Mary University of London on 20 November 2018. [Recording](https://soundcloud.com/paulmaxedlin/and-the-body-of-transformations)
+
 
 ### Other Recordings
+
+The magnetic resonator piano was used in the soundtrack to the Disney film [Christopher Robin](https://www.imdb.com/title/tt4575576/?ref_=nv_sr_1) (2018), with a score by [Jon Brion](https://www.imdb.com/name/nm0109726/?ref_=nv_sr_2). The recording took place May 2018 on a Steinway D piano at [Metropolis Studios](https://www.thisismetropolis.com) in west London.
+
+The magnetic resonator piano will be featured in an upcoming album by the jazz pianist [Kuba Pluzek](http://www.kubapluzek.com) to be released in 2019.
 
 The magnetic resonator piano is featured in the new album "Field of Reeds" by [These New Puritans](http://thesenewpuritans.com/), released April 2013. The recording took place December 2012 on a Boesendorfer 225 piano at [Snap Studios](http://snapstudios.co.uk/) in north London.
 
