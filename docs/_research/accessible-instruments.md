@@ -46,6 +46,8 @@ Our final prototype design had some technical and usability demonstrations, but 
 Despite a large portion of bass playing technique becoming mechanised, the adapted bass remained recognisable as a *bass guitar*.
 This lead us to think about the ways that an instrument's overall aesthetic qualities (*global form*) and the more micro-level details of interaction (*interaction modality*) affect a player's perception of the instrument's  musical acceptability.
 
+*Read more about the adapted bass guitar on the [Bela Blog](https://blog.bela.io/2017/02/01/making-the-one-handed-bass-with-bela/) or watch the [BBC Teach youtube episode](https://www.youtube.com/watch?v=0lA4Oppg4UM)*
+
 {% include single-image-research.html fileName="accessible/BBC-bass.jpg" %}
 
 ### The Strummi
