@@ -5,7 +5,7 @@ categories: [news]
 images: /images/news/ChowningGroup01.png
 front-image: /images/news/ChowningGroup01.png
 event_date: November 28-29, 2018
-excerpt: Distinguished lecture + concerte by Jhon Chowning
+excerpt: Distinguished lecture + concerte by John Chowning
 url: http://mupae.blogspot.com/2018/09/john-chowning-distinguished-lecture.html
 ---
 
