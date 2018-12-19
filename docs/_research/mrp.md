@@ -158,3 +158,5 @@ A. McPherson. [Portable measurement and mapping of continuous piano gesture](htt
 
 A. McPherson. [Buttons, handles, and keys: advances in continuous-control keyboard instruments](http://www.mitpressjournals.org/doi/pdf/10.1162/COMJ_a_00297). Computer Music Journal 29(2), 2015.
 
+E. I. Dolan. [Portrait: Andrew McPherson and the Magnetic Resonator Piano](https://scholar.harvard.edu/files/eidolan/files/kp8_-_dolan_-_portrait-_andrew_mcpherson_and_the_magnetic_resonator_piano.pdf). Keyboard Perspectives VIII, 2015.
+
