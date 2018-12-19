@@ -3,13 +3,17 @@
   year: 2018
   url: 'http://www.synthtopia.com/content/2018/02/22/bela-mini-an-open-hardware-platform-for-audio-now-available/'
 - publication: 'Create Digital Music'
-  title: 'http://cdm.link/2018/02/bela-mini-gives-you-1ms-sound-anywhere-to-turn-into-anything-for-120/'
+  title: 'Bela Mini gives you 1ms sound anywhere, to turn into anything, for £120'
   year: 2018
   url: 'http://cdm.link/2018/02/bela-mini-gives-you-1ms-sound-anywhere-to-turn-into-anything-for-120/'
 - publication: Makery (FR)
   title: 'Bela, just a few milliseconds away from a Raspberry Pi'
   year: 2018
   url: 'http://www.makery.info/en/2018/02/06/bela-un-raspberry-pi-a-quelques-milliemes-de-seconde-pres/'
+- publication: Hackster.io
+  title: 'The New Bela Mini, Low-Latency Audio in a Smaller Package'
+  year: 2018
+  url: 'https://blog.hackster.io/the-new-bela-mini-low-latency-audio-in-a-smaller-package-f41eeccc88cf'
 - publication: 'Synthtopia'
   title: 'New Ultra-Low-Latency Interactive Audio Platform, Bela'
   year: 2016
