@@ -108,11 +108,11 @@ The repertoire for the MRP has grown steadily since the instrument was first cre
 * [Daniel Shapiro](https://www.atlanticmusicfestival.org/artists/daniel-shapiro/), *The Masons of Heidelberg* (2011), 14'. Performances by Katya Popova, Elaine Chew and Nic Gerpe. Video: [Mvt. I](https://www.youtube.com/watch?v=xhkQ8ammO-c); [Mvt. II](https://www.youtube.com/watch?v=p1Rtfbk9lLY); [Mvt. III](https://www.youtube.com/watch?v=bk-A5C17SVo)
 * [Jeff Snyder](http://www.scattershot.org/news.htm), *Fantasy* (2011), 10'. Performances by Eric Wubbels and Lola Perrin.
 * [Tony Solitro](http://www.tonysolitro.com), *Spectra of Morning* (2011), 10'. Premiere by Feifei Zhang. [Video](https://www.youtube.com/watch?v=IAnPN7busYE)
-* [William Dougherty](http://www.williamdougherty.org), *Emanations* (2013), for violin, viola, cello, bass and MRP. To be premiered by members of London Chamber Orchestra.
-* [Pedro Faria Gomes](http://www.pedrofariagomes.com), *tereza's dreams* (2013), for 8-piece ensemble including MRP. To be premiered by members of London Chamber Orchestra.
-* [James Moriarty](http://jamesmoriarty.net), *Untempered by the Hand of Man* (2013), for 5-piece ensemble including MRP. To be premiered by members of London Chamber Orchestra.
-* [Nick Morrish Rarity](https://soundcloud.com/nicholasmorrishrarity) and [Tim Morrish](https://soundcloud.com/timothy-morrish), *Impulse.Pulse.Parted* (2013), for 8-piece ensemble including MRP. To be premiered by members of London Chamber Orchestra.
-* [Andrew Thomas](https://soundcloud.com/at385), *Till Human Voices Wake Us* (2013), for 6-piece ensemble including MRP. To be premiered by members of London Chamber Orchestra.
+* [William Dougherty](http://www.williamdougherty.org), *Emanations* (2013), for violin, viola, cello, bass and MRP. Premiered by members of London Chamber Orchestra at Cadogan Hall, 17 May 2013.
+* [Pedro Faria Gomes](http://www.pedrofariagomes.com), *tereza's dreams* (2013), for 8-piece ensemble including MRP. Premiered by members of London Chamber Orchestra at Cadogan Hall, 17 May 2013.
+* [James Moriarty](http://jamesmoriarty.net), *Untempered by the Hand of Man* (2013), for 5-piece ensemble including MRP. Premiered by members of London Chamber Orchestra at Cadogan Hall, 17 May 2013.
+* [Nick Morrish Rarity](https://soundcloud.com/nicholasmorrishrarity) and [Tim Morrish](https://soundcloud.com/timothy-morrish), *Impulse.Pulse.Parted* (2013), for 8-piece ensemble including MRP. Premiered by members of London Chamber Orchestra at Cadogan Hall, 17 May 2013.
+* [Andrew Thomas](https://soundcloud.com/at385), *Till Human Voices Wake Us* (2013), for 6-piece ensemble including MRP. Premiered by members of London Chamber Orchestra at Cadogan Hall, 17 May 2013.
 * [Richard Peat](http://www.richardpeat.com), *You leave it with me* (2014), for magnetic resonator piano. Premiered by Neil Georgeson, QMUL, 25 October 2014.
 * [Ben Parker](http://www.benparkercomposer.com/biography), *Time Stopped and Snow Fell* (2015). for magnetic resonator piano. Premiered by Ben Powell, Royal Northern College of Music (UK), 22 March 2015.
 * [Sergio Cote](http://www.sergiocote.com), piece for magnetic resonator piano (2015). Premiered by Leanne Cody, Royal Northern College of Music (UK), 22 March 2015.
@@ -132,13 +132,15 @@ The repertoire for the MRP has grown steadily since the instrument was first cre
 
 The magnetic resonator piano was used in the soundtrack to the Disney film [Christopher Robin](https://www.imdb.com/title/tt4575576/?ref_=nv_sr_1) (2018), with a score by [Jon Brion](https://www.imdb.com/name/nm0109726/?ref_=nv_sr_2). The recording took place May 2018 on a Steinway D piano at [Metropolis Studios](https://www.thisismetropolis.com) in west London. [Excerpt](https://www.youtube.com/watch?v=pb0Yx2P3HVY)
 
-The magnetic resonator piano will be featured in an upcoming album by the jazz pianist [Kuba Pluzek](http://www.kubapluzek.com) to be released in 2019.
+The magnetic resonator piano will be featured in an upcoming album by the jazz pianist [Kuba Pluzek](http://www.kubapluzek.com) to be released in 2019. The recording took place December 2018 on a Boesendorfer 225 piano at [Snap Studios](http://snapstudios.co.uk/) in north London.
 
-The magnetic resonator piano is featured in the new album "Field of Reeds" by [These New Puritans](http://thesenewpuritans.com/), released April 2013. The recording took place December 2012 on a Boesendorfer 225 piano at [Snap Studios](http://snapstudios.co.uk/) in north London.
+The magnetic resonator piano is featured in the album [Field of Reeds](http://www.thesenewpuritans.com/field-of-reeds/) by [These New Puritans](http://thesenewpuritans.com/), released April 2013. The recording took place December 2012 on a Boesendorfer 225 piano at [Snap Studios](http://snapstudios.co.uk/) in north London.
 
 **References for Musician Collaboration**
 
 A. McPherson and Y. Kim. [The problem of the second performer: building a community around an augmented piano](http://www.eecs.qmul.ac.uk/~andrewm/mcpherson-cmj2012.pdf). Computer Music Journal 2012, 36 (4), 10-27. (PDF &copy; 2013 Massachusetts Institute of Technology; archived with permission from [Computer Music Journal](http://www.mitpressjournals.org/cmj))
+
+E. I. Dolan. [Portrait: Andrew McPherson and the Magnetic Resonator Piano](https://scholar.harvard.edu/files/eidolan/files/kp8_-_dolan_-_portrait-_andrew_mcpherson_and_the_magnetic_resonator_piano.pdf). Keyboard Perspectives VIII, 2015.
 
 ## References (collected)
 
