@@ -1,8 +1,8 @@
 ---
 layout: research
 title:  "Craft in digital lutherie: practice, process, method"
-tagline: PhD research by Jack Armitage
-tag: "new-interfaces"
+tagline: PhD research Jack Armitage
+tag: "digital-lutherie new-interfaces augmented-instruments"
 desc: Research tools
 categories: research
 thumb: craft/luthier.jpg
@@ -10,6 +10,8 @@ authors: "Jack Armitage"
 main-image: /images/research/craft/table.jpeg
 production-date: 2015 - present
 para: How can craft practice in digital lutherie be supported and augmented?
+links: ["http://www.jackarmitage.com/"]
+link-names: ["Research homepage"]
 ---
 
 This PhD, being investigated by [Jack Armitage](http://jackarmitage.com), aims to contribute to understanding the impact of digital lutherie tools, methods and materials on craft practice, and to propose different approaches that support the development of craft practice.
