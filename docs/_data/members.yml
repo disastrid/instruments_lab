@@ -38,7 +38,7 @@
       icon: facebook
 - avatar: ../images/people/laurel.jpg
   name: Dr Laurel Pardue
-  position: Postdoctoral Research Assisant
+  position: Postdoctoral Research Assistant
   education: S.B. Music, S.B. Electrical Engineering, MIT; M.Eng. Electrical Engineering, MIT; M.Sc. Media Arts & Sciences, MIT 2011; PhD, QMUL Augmented Instruments Laboratory, 2017
   desc: Interface & instrument design, prototyping, expressive performance, instrument learning, violin, viola, Balinese gamelan.
   socials:
@@ -54,8 +54,8 @@
   desc:
     Bela embedded audio platform; developing and building new acoustic musical instruments
 - avatar: ../images/people/robert.jpg
-  name: Robert Jack
-  position: PhD student (2014-present, co-supervised with <a href='http://www.eecs.qmul.ac.uk/people/view/3026/dr-tony-stockman'>Dr Tony Stockman</a>)
+  name: Dr Robert Jack
+  position: Postdoctoral Research Assistant
   education: M.A.(hons) Applied Mathematics and Music, University of Glasgow; MMus Studio Composition, Goldsmiths, University of London.
   socials:
     - link: http://twitter.com/rjack0101
