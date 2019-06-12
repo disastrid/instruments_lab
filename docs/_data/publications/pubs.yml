@@ -1,3 +1,22 @@
+_2019:
+  - title: A title
+    authors: S. Dude, T. Guy, T. Girl
+    venue: Computer Music Journal
+    vol: 12
+    issue: 1
+    link: http://www.this.com
+  - title: Another title
+    authors: S. Dude, T. Guy, T. Girl
+    venue: Computer Music Journal
+    vol: 12
+    issue: 1
+    link: http://www.this.com
+  - title: A last title
+    authors: S. Dude, T. Guy, T. Girl
+    venue: Computer Music Journal
+    vol: 12
+    issue: 1
+    link: http://www.this.com
 _2018:
   - title: A title
     authors: S. Dude, T. Guy, T. Girl
