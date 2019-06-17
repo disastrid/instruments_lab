@@ -13,7 +13,7 @@ Another great concert featuring some shocking music from the Augmented Instrumen
 
 ---------------------
 
-More details [here](https://iklectikartlab.com/augmented-instruments-lab-live-music-installations/) -- full program [here](https://www.facebook.com/events/2266998866876801/)
+More details [here](https://iklectikartlab.com/augmented-instruments-lab-live-music-installations/) -- full program [here](/images/news/AIL_Programme_June14.pdf)
 
 ---------------------
 
