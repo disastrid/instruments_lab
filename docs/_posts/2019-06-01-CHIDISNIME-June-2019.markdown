@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "~~~CHI~~NIME~~DIS~~~"
-categories: [news]
+categories: [news, events]
 images: /images/news/CHIDISNIME2019.png
 front-image: /images/news/CHIDISNIME2019.png
 event_date: June 8, 2019
