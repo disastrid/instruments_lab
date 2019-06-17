@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Welcoming Halldór Úlfarsson"
+categories: [news]
+images: /images/news/HighResHorizontal.jpeg
+front-image: /images/news/HighResHorizontal.jpeg
+event_date: March 8, 2019
+excerpt: Halldór showcased the halldorophone to the lab, super inspiring!
+url: https://blog.bela.io/2019/03/14/halldorophone-feedback-and-bela/
+---
+
+We had the plasure to welcome [Halldór Úlfarsson](http://halldor.gr/BIO.html) to the lab for an exciting day of demos and conversations. We were lucky enough to play  the halldorophone while discussiong about the possible futures of the instrument. Halldór is indeed exploring new design spaces which include the use of digital processing. Halldór is working on a new version of his wonderful instrument through an intense collaboration with a the Bela team. For more info have a look to this nice [Bela blog post](https://blog.bela.io/2019/03/14/halldorophone-feedback-and-bela/).

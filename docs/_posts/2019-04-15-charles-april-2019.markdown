@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Charles Matthews on Accessibility and Instrument Design"
+categories: [news]
+images: /images/news/kellycaster.jpg
+front-image: /images/news/kellycaster.jpg
+event_date: April 3, 2019
+excerpt: Charles Matthews sharing some inclusive music tech practices  
+url: http://ardisson.net/a/
+---
+
+[Charles Matthews](https://twitter.com/matthewscharles) is an electronic musician, gamelan player, and workshop facilitator based in London.  Charles developed an interest in new ways to make sound through his studies in sonic arts, and is passionate about using technology for equal access to music-making. As a programmer, he has developed a variety of software tools, interactive installations, and augmented instruments. Charles' work include collaborations with [Drake Music](https://www.drakemusic.org/team/charles-matthews/) and [Hackoustic](https://hackoustic.org/). He was kind enough to share with us one of his workshop approaches. This triggered an engaging discussion around the importance of intuitive hands-on activities for backing the use of music technology.

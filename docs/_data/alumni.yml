@@ -1,3 +1,25 @@
+- avatar: ../images/stock/fabio.jpg
+  name: Dr Fabio Morreale
+  position: Postdoctoral Research Assistan 2015-2018
+  socials:
+    - link: https://twitter.com/fabiomorreale
+      icon: twitter
+    - link: https://www.facebook.com/phbphd
+      icon: facebook
+    - link: https://scholar.google.it/citations?user=cMZilz4AAAAJ&hl=en
+      icon: graduation-cap
+  education: B.S. Computer Science, M.S. Computer Science, M.S. Biomedical Data Processing, University of Verona; Ph.D. Human-Computer Interaction, University of Trento 2015; Postdoc University of Trento 2015-2016
+  desc: Fabio was a postdoctoral research assistant focusing on musical interface design and evaluation within the scopes of generative art and philosophy of technology. Fabio is currently Lecturer and Coordinator of Music Technology at the School of Music of the University of Auckland
+- avatar: ../images/people/kurijn.jpg
+  name: Dr Kurijn Buys
+  position: Postdoctoral Research Assistant 2016-2018
+  education: M.A. Audio Design, Utrecht School of Music and Technology, 2008; M.S. Science and Technology, Université Pierre et Marie Curie, 2010; PhD in Musical Acoustics, The Open University, 2017.
+  desc: Kurijn was a postdoctoral research assistant focusing on acoustic/electronic/digital instrument development, in particular he developed techniques for violin performace analysis based on sound source separation through electrodynamic pickups.
+  socials:
+    - link: http://twitter.com/KurijnBuys
+      icon: twitter
+    - link: http://facebook.com/kurijn
+      icon: facebook
 - avatar: ../images/people/victor.jpg
   name: Dr Victor Zappi
   position: Postdoctoral Researcher, 2013-14

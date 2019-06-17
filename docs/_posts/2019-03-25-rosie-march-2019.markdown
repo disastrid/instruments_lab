@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Rosie Wakely from Rusty Squid was here!"
+categories: [news]
+images: /images/news/rusty-squid-lab.jpg
+front-image: /images/news/rusty-squid-lab.jpg
+event_date: March 21, 2019
+excerpt: Thanks to Rosie Wakely for hanging around with us for a day!
+url: http://rustysquid.org.uk/
+---
+
+Interaction designer and maker Rosie Wakely from Rusty Squid visited the lab on Thursday 21st March. [Rusty Squid](http://rustysquid.org.uk/) are a studio combining design, engineering and art based on Bristol, and are worth checking out for their amazing robots, installations and public engagement projects.
+Rosie is currently studying for a Masters in Design Products at the Royal College of Art.

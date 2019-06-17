@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Sam Aaron introducing Sonic Pi"
+categories: [news]
+images: /images/news/additive-synthesis.png
+front-image: /images/news/additive-synthesis.png
+event_date: April 21, 2019
+excerpt: An inspiring talk-demo on how can we teach coding through music?
+url: https://sonic-pi.net/
+---
+
+[Sam Aaron](https://twitter.com/samaaron) is a brilliant musician, programmer and educator founder of the [Sonic Pi](https://sonic-pi.net/) project. Sam introduced
+the most salient features of Sonic Pi to the Lab through an engaging talk/demo. The project exploit music making as a powerful means to teach the basics of coding.
+We had the pleasure to discuss with Sam on the topics of accessible music tools and music technology teaching, documentation and dissemination. Thanks Sam!
