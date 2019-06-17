@@ -5,7 +5,7 @@ categories: [news]
 images: /images/news/kellycaster.jpg
 front-image: /images/news/kellycaster.jpg
 event_date: April 3, 2019
-excerpt: Charles Matthews sharing some inclusive music tech practices  
+excerpt: Charles Matthews shared some of his inclusive music tech approaches  
 url: http://ardisson.net/a/
 ---
 
