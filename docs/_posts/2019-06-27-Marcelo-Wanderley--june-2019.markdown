@@ -4,7 +4,7 @@ title:  "Marcelo Wanderley visit and seminar on Multidisciplinary Research in Mu
 categories: [news]
 images: /images/news/marceloWanderley.png
 front-image: /images/news/marceloWanderley.png
-event_date: June 27-28, 2019
+event_date: June 27, 2019
 excerpt: Marcelo Wanderley will visit the lab on 27 June and will give a seminar on 28 June
 url: http://www.idmil.org
 ---
