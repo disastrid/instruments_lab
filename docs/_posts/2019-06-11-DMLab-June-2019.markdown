@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Drake Music DMLab London Relaunch"
+categories: [news]
+images: /images/news/DM.jpg
+front-image: /images/news/DM.jpg
+event_date: June 11, 2019
+excerpt: Jacob Harrison demonstrated the Strummi at the relaunch of DMLab London
+url: https://www.drakemusic.org/blog/becky-morris-knight/dmlab-london-relaunch/
+---
+
+Lab member Jacob Harrison demonstrated his Strummi instruments at the [Drake Music DMLab London relaunch](https://www.drakemusic.org/blog/becky-morris-knight/dmlab-london-relaunch/), hosted by Graeae theatre in East London.
+Drake Music are a leading national organisation working music, disability and technology.
+Their London-based research and development programme DMLab are friends of the Augmented Instruments Lab, having previously co-hosted an accessible music technology hackathon in 2016.
+The DMLab programme is relaunching this year under new leadership from Tim Yates (who also runs [Hackoustic](https://hackoustic.org/).
+As well as the Strummis, [Charles Matthews](http://ardisson.net/a/) was there to show his latest accessible maker projects, and there were performances from John Kelly on the Kellycaster, DJ Arthro, and two brand new Drake Music commissions from associate artists.
