@@ -66,12 +66,21 @@ These four variations give us two pairings of instrument: a *congruent* pairing,
 
 #### The Strummi as an Accessible Instrument
 
+{% include single-image-research.html fileName="accessible/Strummi_DYOT.jpg" %}
+
 The Strummi in both tabletop and guitar form has been used during sessions with [Heart n Soul](http://www.heartnsoul.co.uk/), a creative arts charity for people with learning disabilities.
 This is a long term study, designed to explore the role of instrument design in removing barriers to music making for people with learning disabilities, and how to preseve the *social role* of existing instruments such as the guitar in this context.
+
+{% include single-image-research.html fileName="accessible/Strummi-all-versions.png" %}
+
+We updated the Strummi's design to include eight silicon buttons, and built two new versions: including another guitar-shaped design, based on a Les Paul body and built with the same materials as the tabletop version, and the "GibStrum", which is a modified Les Paul copy, with buttons installed at the top of the neck and the Strummi hardware in the body.
 
 ## Publications + Media
 
 {% include youtube.html youtube="0lA4Oppg4UM" %}
+
+J. Harrison, A. Chamberlain, A. P. McPherson. Accessible Instruments in the Wild: Engaging with a Community of Learning-Disabled Musicians. Conference for Human Computer Interaction (CHI) 2019, Glasgow, Scotland, UK. 2019.
+[Download PDF](https://dl.acm.org/citation.cfm?id=3313037)
 
 J. Harrison, R. Jack, F. Morreale and A. McPherson. When is a Guitar not a Guitar? Cultural Form, Input Modality and Expertise. Proc. New Interfaces for Musical Expression, Blacksburg, Virginia, USA. 2018.
 [Download PDF](http://www.eecs.qmul.ac.uk/~andrewm/jharrison_nime2018.pdf)
