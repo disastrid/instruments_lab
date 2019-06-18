@@ -19,20 +19,38 @@ More details [here](https://iklectikartlab.com/augmented-instruments-lab-live-mu
 
 Below the artists involved in the evening:
 
-##### Robyn Steward – Augmented trumpet
+##### Robyn Steward
 
-##### Jacob Harrison – Strummi - inclusive music instruments showcase
+Augmented trumpet
 
-##### Andrea Guidi - Live electronics
+##### Jacob Harrison
 
-##### Laurel S. Pardue and Jack Armitage - augmented violin + live coding
+Strummi - inclusive music instruments showcase
 
-##### Lia Mice - live sampling + new percussive digital instrument
+##### Andrea Guidi
 
-##### Kurijn Buys - Saxophone + electronics
+Live electronics
 
-##### Giacomo Lepri - clarinet + electronics
+##### Laurel S. Pardue and Jack Armitage
 
-##### Luis Garin - Granulator
+augmented violin + live coding
 
-##### Adan Benito - Magpick
+##### Lia Mice
+
+live sampling + new percussive digital instrument
+
+##### Kurijn Buys
+
+Saxophone + electronics
+
+##### Giacomo Lepri
+
+clarinet + electronics
+
+##### Luis Garin
+
+Granulator
+
+##### Adan Benito
+
+Magpick
