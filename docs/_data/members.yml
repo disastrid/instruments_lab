@@ -113,8 +113,8 @@
   position: PhD student (2018-present)
   education: Ba(Hons) Costume for the Performing Arts, London College of Fashion; MA Material Futures, Central Saint Martins 
   socials:
-    - link: htp://www.cnordmoen.com
-	  icon: link
+    - link: http://www.cnordmoen.com
+      icon: link
 
 - avatar: ../images/people/courtney.jpg
   name: Courtney Nicole Reed
