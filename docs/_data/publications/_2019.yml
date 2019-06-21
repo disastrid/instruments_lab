@@ -1,11 +1,30 @@
+- title: 'Real-Time Aural and Visual Feedback for Improving Violin Intonation'
+  authors: L. S. Pardue and A. McPherson
+  venue: Frontiers in Psychology
+  vol: 10
+  issue: 627
+  year: 2019
+  pdf: https://www.frontiersin.org/articles/10.3389/fpsyg.2019.00627
+- title: 'Separating sound from source: sonic transformation of the violin through electrodynamic pickups and acoustic actuation'
+  authors: L. S. Pardue, K. Buys, M. Edinger, D. Overholt, A. McPherson
+  venue: Proc. New Interfaces for Musical Expression
+  city: Porto Alegre, Rio Grande do Sul, Brazil
+  year: 2019  
+  pdf: http://instrumentslab.org/data/laurel/sound-from-source.pdf
+- title: 'Making Sense of Sensors: Discovery through Craft Practice with an Open-Ended Sensor Material'
+  authors: C. Nordmoen, J. Armitage, F. Morreale, R. Stewart, A. McPherson
+  venue: Proc. ACM Designing Interactive Systems (DIS) 
+  city: San Diego, Californis, USA
+  year: 2019
+  pdf: http://instrumentslab.org/data/charlotte/NordmoenDIS2019.pdf
 - title: 'Making Up Instruments: Design Fiction for Value Discovery in Communities of Musical Practice'
-  authors: G. Lepri, A. P. McPherson
-  venue: Proc. Designing Interactive Systems (DIS) 2019
+  authors: G. Lepri and A. P. McPherson
+  venue: Proc. ACM Designing Interactive Systems (DIS) 
   city: San Diego, Californis, USA
   year: 2019
   pdf: http://instrumentslab.org/data/giacomo/2019DISFinal.pdf
 - title: 'Fictional Instruments, Real Values: Discovering Musical Backgrounds with Non-Functional Prototypes'
-  authors: G. Lepri, A. P. McPherson
+  authors: G. Lepri and A. P. McPherson
   venue: Proc. New Interfaces for Musical Expression
   city: Porto Alegre,  Rio Grande do Sul, Brazil
   year: 2019
@@ -34,3 +53,23 @@
   city: Glasgow, Scotland, UK
   year: 2019
   pdf: https://dl.acm.org/citation.cfm?id=3313037
+- title: 'Musical instruments for novices: comparing NIME, HCI and Crowdfunding approaches'
+  authors: A. McPherson, F. Morreale, J. Harrison
+  venue: New Directions Music and Human-Computer Interaction; Holland, S., Mudd, T., Wilkie-McKenna, K., McPherson, A., Wanderley, M. M. (eds.); Springer
+  year: 2019
+  link: https://link.springer.com/chapter/10.1007/978-3-319-92069-6_12
+- title: 'Music, design and ethnography: an interview with Steve Benford'
+  authors: A. McPherson, S. Benford
+  venue: New Directions Music and Human-Computer Interaction; Holland, S., Mudd, T., Wilkie-McKenna, K., McPherson, A., Wanderley, M. M. (eds.); Springer
+  year: 2019
+  link: https://link.springer.com/chapter/10.1007/978-3-319-92069-6_13
+- title: 'The poetry of strange connections: an interview with Bill Verplank'
+  authors: A. McPherson, B. Verplank
+  venue: New Directions Music and Human-Computer Interaction; Holland, S., Mudd, T., Wilkie-McKenna, K., McPherson, A., Wanderley, M. M. (eds.); Springer
+  year: 2019
+  link: https://link.springer.com/chapter/10.1007/978-3-319-92069-6_4    
+- title: 'Understanding Music Interaction, and Why It Matters'
+  authors: S. Holland, T. Mudd, K. Wilkie-McKenna, A. McPherson, M. M. Wanderley
+  venue: New Directions Music and Human-Computer Interaction; Holland, S., Mudd, T., Wilkie-McKenna, K., McPherson, A., Wanderley, M. M. (eds.); Springer
+  year: 2019
+  link: https://link.springer.com/chapter/10.1007/978-3-319-92069-6_1  
