@@ -9,17 +9,17 @@
   authors: L. S. Pardue, K. Buys, M. Edinger, D. Overholt, A. McPherson
   venue: Proc. New Interfaces for Musical Expression
   city: Porto Alegre, Rio Grande do Sul, Brazil
-  year: 2019  
+  year: 2019
   pdf: http://instrumentslab.org/data/laurel/sound-from-source.pdf
 - title: 'Making Sense of Sensors: Discovery through Craft Practice with an Open-Ended Sensor Material'
   authors: C. Nordmoen, J. Armitage, F. Morreale, R. Stewart, A. McPherson
-  venue: Proc. ACM Designing Interactive Systems (DIS) 
+  venue: Proc. ACM Designing Interactive Systems (DIS)
   city: San Diego, Californis, USA
   year: 2019
   pdf: http://instrumentslab.org/data/charlotte/NordmoenDIS2019.pdf
 - title: 'Making Up Instruments: Design Fiction for Value Discovery in Communities of Musical Practice'
   authors: G. Lepri and A. P. McPherson
-  venue: Proc. ACM Designing Interactive Systems (DIS) 
+  venue: Proc. ACM Designing Interactive Systems (DIS)
   city: San Diego, Californis, USA
   year: 2019
   pdf: http://instrumentslab.org/data/giacomo/2019DISFinal.pdf
@@ -29,6 +29,12 @@
   city: Porto Alegre,  Rio Grande do Sul, Brazil
   year: 2019
   pdf: http://instrumentslab.org/data/giacomo/2019NIMEFinal.pdf
+- title: 'First-person Research in the Arts: Exploring the Values Behind New Music Technology'
+  authors: G. Lepri and A. P. McPherson
+  venue: Proc. ACM Designing Interactive Systems (DIS)
+  city: San Diego, Californis, USA
+  year: 2019
+  pdf: http://instrumentslab.org/data/giacomo/lepri_updated2.pdf
 - title: 'Designing Creative Tensions between Concept and Embodied Practice'
   authors: A. P. McPherson, F. Morreale, A. Guidi
   venue: Conference for Human Computer Interaction (CHI) 2019, "Doing Research Through Design" workshop
@@ -67,9 +73,9 @@
   authors: A. McPherson, B. Verplank
   venue: New Directions Music and Human-Computer Interaction; Holland, S., Mudd, T., Wilkie-McKenna, K., McPherson, A., Wanderley, M. M. (eds.); Springer
   year: 2019
-  link: https://link.springer.com/chapter/10.1007/978-3-319-92069-6_4    
+  link: https://link.springer.com/chapter/10.1007/978-3-319-92069-6_4
 - title: 'Understanding Music Interaction, and Why It Matters'
   authors: S. Holland, T. Mudd, K. Wilkie-McKenna, A. McPherson, M. M. Wanderley
   venue: New Directions Music and Human-Computer Interaction; Holland, S., Mudd, T., Wilkie-McKenna, K., McPherson, A., Wanderley, M. M. (eds.); Springer
   year: 2019
-  link: https://link.springer.com/chapter/10.1007/978-3-319-92069-6_1  
+  link: https://link.springer.com/chapter/10.1007/978-3-319-92069-6_1
