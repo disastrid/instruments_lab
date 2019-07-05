@@ -8,7 +8,7 @@ categories: research
 thumb: tactility/tactile-thumb.jpg
 authors: "Robert Jack"
 main-image: /images/research/tactility/tiles-2.jpg
-para:
+para: Touching Musical Instruments
 
 ---
 
