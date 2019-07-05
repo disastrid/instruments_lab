@@ -8,7 +8,7 @@ categories: research
 thumb: tactility/tactile-thumb.jpg
 authors: "Robert Jack"
 main-image: /images/research/tactility/tiles-2.jpg
-para: 
+para:
 
 ---
 
@@ -18,10 +18,9 @@ para:
 
 The sense of touch plays a fundamental role in musical performance: alongside hearing, it is the primary sensory modality used when interacting with musical instruments. Learning to play a musical instrument is one of the most developed haptic cultural practices, and within acoustic musical practice at large, the importance of touch and its close relationship to virtuosity and expression is well recognised.
 
+{% include single-image-research.html fileName="tactility/hands-tactile-white-4.jpg" %}
+
 With digital musical instruments (DMIs) – instruments involving a combination of sensors and a digital sound engine – touch-mediated interaction remains the foremost means of control, but the interfaces of such instruments do not yet engage with the full spectrum of sensorimotor capabilities of a performer. This poses compelling questions for digital instrument design: how does the nuance and richness of physical interaction with an instrument manifest itself in the digital domain? Which design parameters are most important for haptic experience, and how do these parameters affect musical performance? Built around three practical studies which utilise DMIs as technology probes, this thesis addresses these questions from the point of view of design, of empirical musicology, and of tangible computing.
-
-{% include single-image-research.html fileName="tactility/hands-tactile.jpg" %}
-
 
 ## Tactile exploration and instrument navigation
 
@@ -31,11 +30,11 @@ In the first study of this PhD musicians played a DMI with continuous pitch cont
 
 {% include single-image-research.html fileName="tactility/box-study-1.jpg" %}
 
-{% include single-image-research.html fileName="tactility/box-study-2.jpg" %}
-
 ## Auditory-haptic latency and instrument quality
 
 The second study examines the influence of asynchronies between audio and haptic feedback. Two groups of musicians, amateurs and professional percussionists, were tasked with performing on a percus- sive DMI with variable action-sound latency. Differences between the two groups in terms of temporal accuracy and quality judgements illustrate the complex effects of asynchronous multimodal feedback.
+
+{% include single-image-research.html fileName="tactility/tiles-2.jpg" %}
 
 [R. H. Jack, A. Mehrabi, T. Stockman and A. McPherson. Action-sound Latency and the Perceived Quality of Digital Musical Instruments: Comparing Professional Percussionists and Amateur Musicians. Music Perception. Vol. 36, Issue 1, 2018.](https://www.researchgate.net/publication/327287000_Action-sound_Latency_and_the_Perceived_Quality_of_Digital_Musical_Instruments_Comparing_Professional_Percussionists_and_Amateur_Musicians)
 
@@ -43,17 +42,16 @@ The second study examines the influence of asynchronies between audio and haptic
 
 [A. McPherson, R. Jack and G. Moro. Action-Sound Latency: Are Our Tools Fast Enough?Proc. NIME, Brisbane, Australia, 2016.](https://www.researchgate.net/publication/315379106_Action-Sound_Latency_Are_Our_Tools_Fast_Enough?_sg=yf3QMBTGw5woL2MFAF5fDnDQz-q5uCbEjMNJ9JpdfXqNqQT8FFTzU1eM03YNf1uQEPiBYgLvGmK8WecQkhCqL98Abnagqutr85h3yfNH.hbE2M9AZBJiO6MGE48EEBRPoQr_fPySEAZjdb6sP_paPyVA1sIbdnJNfoAmlMCqXFlzJjq3pw3eCwC0m5Hk4PA)
 
-{% include single-image-research.html fileName="tactility/tiles-1.jpg" %}
-
-{% include single-image-research.html fileName="tactility/tiles-2.jpg" %}
 
 ## Control Intimacy, Richness and Physical Supports
 
 In the third study guitar-derivative DMIs with variable levels of control richness were observed with non-musicians and guitarists. The results from this study help clarify the relationship between tangible design factors, sensorimotor expertise and instrument behaviour.
 
-{% include single-image-research.html fileName="tactility/tiles-2.jpg" %}
+{% include single-image-research.html fileName="tactility/instrument_pairings.jpg" %}
 
 This thesis introduces a descriptive model of performer-instrument interaction, the projection model, which unites the design investigations from each study and provides a series of reflections and suggestions on the role of touch in DMI design.
+
+{% include single-image-research.html fileName="tactility/projection-simple-fb.jpg" %}
 
 [R. Jack, J.Harrison, F. Morreale and A. McPherson. Democratising DMIs: the relationship of expertise and control intimacy. Proc. New Interfaces for Musical Expression, Blacksburg, Virginia, USA. 2018.](https://www.researchgate.net/publication/324390561_Democratising_DMIs_the_relationship_of_expertise_and_control_intimacy)**(Winner of best paper award)**
 
