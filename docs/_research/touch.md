@@ -9,7 +9,6 @@ thumb: tactility/tactile-thumb.jpg
 authors: "Robert Jack"
 main-image: /images/research/tactility/tiles-2.jpg
 para: Touching Musical Instruments
-
 ---
 
 *This PhD research project ran from 2013-2018 and was funded by the Engineering and Physical Sciences Research Council (EPSRC) as part of the Doctoral Training Centre in Media and Arts Technology at Queen Mary University of London (EP/G03723X/1). The full thesis document can be found [here](https://www.researchgate.net/publication/334250671_Tangibility_and_Richness_in_Digital_Musical_Instrument_Design).*
