@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Lab's recent work @ The Guardian!"
+title:  "The Guardian!"
 categories: [news]
 images: /images/news/GuardianLia.jpg
 front-image: /images/news/GuardianLia.jpg
