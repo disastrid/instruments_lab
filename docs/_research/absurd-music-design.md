@@ -16,7 +16,7 @@ published: true
 
 The event is part of Inter/sections 2019 and it will be held at QMUL [Mile End campus](https://www.qmul.ac.uk/about/howtofindus/mileend/), London.
 
-##### Application Deadline: 25 September 2019
+##### Application Deadline: 8 September 2019
 
 ***Please send the form below to g.lepri[at]qmul.ac.uk***
 
@@ -36,7 +36,7 @@ Max 25 participants will be accepted. The selection criteria include:
 
 - quality of the idea: originality, silliness, unuselessness, style and achievability
 - candidates background (aiming to balance a multidisciplinary convergence of people)
-- age: 18+
+- age: 18 +
 
 The following approaches are suggested (but not required) for the proposal of absurd musical interfaces:
 
@@ -138,18 +138,27 @@ From the initial gathering of ideas to the final presentation of artefacts, a co
 
 -	Ormerod Tom, et al. "HCI and creative problem-solving at Lancaster."  21st British HCI Group Annual Conference on People and Computers: HCI... but not as we know it 2007. See the [Chindogu Challenge - Lancaster University](http://thepooch.com/Events/chindogu/index2.htm)
 
-***Instruments***
+***Musical Instruments & Installations***
+
+-	Bowers John, et al. ["One knob to rule them all: reductionist interfaces for expansionist research."](https://pdfs.semanticscholar.org/9bb5/ff1a4c09d167b4bcdfdcf145503d477da426.pdf) NIME 2016.
+
+- [Darsha Hewitt](http://darsha.org/artwork/)
+
+- [Ben Gaulon](http://www.recyclism.com/refunctmedia.php)
+
+- [Gijs Gieskes](http://gieskes.nl)
+
+- [Casper Electronics](https://web.archive.org/web/20170306140856/https://casperelectronics.com/) (Peter Edwards)
+
+- [::VTOL::](http://vtol.cc/)
 
 -	Hankins Thomas and Robert Silverman. “Instruments and the Imagination”. Princeton University Press 1999
 
 - [Museum of Imaginary Musical Instruments](http://imaginaryinstruments.org/)
 
--	Bowers John, et al. ["One knob to rule them all: reductionist interfaces for expansionist research."](https://pdfs.semanticscholar.org/9bb5/ff1a4c09d167b4bcdfdcf145503d477da426.pdf) NIME 2016.
+***Absurd Hackathon***
 
-***Others***
-
--	[Stupid S**t No One Needs](https://stupidhackathon.com/)
-- [Bruce Gray](http://www.brucegray.com/htmlfolder/VariousWallSculptures.html)
+-	[Stupid Shit No One Needs](https://stupidhackathon.com/)
 
 <br>
 <br>
