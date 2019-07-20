@@ -3,29 +3,40 @@ layout: research
 title:  "Unuseless Music Designs"
 tag: "Workshop"
 tagline: A Seriously Absurd Hackathon
-thumb: absurd-music-design/leonardo.jpg
+thumb: absurd-music-design/guitardistort.jpg
 authors: "Giacomo Lepri"
-main-image: /images/research/absurd-music-design/leonardo.jpg
+main-image: /images/research/absurd-music-design/Blackmidi03.jpg
 para: Call for Absurd Musical Interfaces
 published: false
 ---
-{% include single-image-research.html fileName="absurd-music-design/aerofono.jpg" %}
 
-##### 22-23 November 2019 / Queen Mary University of London
+#### 8-9 November 2019 / QMUL
 
-***Musicians, artists, technologists and designers are invited to take part to a music design workshop around the themes of absurd musical interfaces, questionable sonic interactions and unworkable music designs.***
+***Artists, technologists and makers are invited to take part to a hackathon around the themes of absurd musical interfaces, questionable sonic interactions and unworkable music designs.***
 
-- ***Application Deadline: September 25 - submit to g(dot)lepri(at)qmul(dot)ac(dot)uk***
+The event is part of Inter/sections 2019 and it will be held at QMUL [Mile End campus](https://www.qmul.ac.uk/about/howtofindus/mileend/), London.
 
-The event is part of Inter/sections 2019 and it will be held at QMUL over two days. Interested candidates will be required to submit a short document proposal (max one page) outlining an unusless music design to be developed during the hack lab. Proposals should also include a short summary of candidates’ musical/artistic background and technical skills (max 200 words).
+##### Application Deadline: 25 September 2019
 
-Workshop proposals would be selected by a small committee of external reviewers in  organising committee. Already existing designs and projects might be accepted only if significant “advancements” will be outlined in the submitted proposal.
+***Please send the form below to g.lepri[at]qmul.ac.uk***
 
-The selection criteria include:
+***---> [Absurd Music Design Form](http://instrumentslab.org/data/giacomo/AbsForm.docx) <---***
+
+{% include single-image-research.html fileName="absurd-music-design/carelman-objet-introuvable.jpg" %}
+
+>**Making absurd, surreal and silly musical propositions.**<br>
+>**Composing unconventional artefacts challenging current music technology.**<br>
+>**Subverting the ways we use musical tools to reveal unstated assumptions and explore alternatives.**<br>
+>
+>**Does this sound fun to you? Please, join us!**
+
+Interested candidates are required to sketch an unusless music design ideas to be developed during the hack lab. The various proposals will offer the basis for discussion and further ideas generation during the course of the event. Proposals should also include a short summary of candidates’ musical/artistic background and technical skills (see Absurd Music Design Form link above).
+
+Max 25 participants will be accepted. The selection criteria include:
 
 - quality of the idea: originality, silliness, unuselessness, style and achievability
 - candidates background (aiming to balance a multidisciplinary convergence of people)
-- age: 18 +
+- age: 18+
 
 The following approaches are suggested (but not required) for the proposal of absurd musical interfaces:
 
@@ -39,53 +50,85 @@ The following approaches are suggested (but not required) for the proposal of ab
 - almost completely useless interfaces for music performance
 - musical interventions beyond realistic technological premises
 
-Group submissions focusing on the realisation of a single musical design are welcomed. In particular, teams characterised by strong multidisciplinary skills and backgrounds will be encouraged to apply. Once accepted, during the workshop candidates should address the submitted design idea, however individuals might join other accepted projects.
+<br>
 
-Two invited artists with significant experience in music technology will be on site during the workshop in order to support and challenge participants: ***Pinco & Pallino***
+##### Silly, playful and subversive design
 
-#### Workshop structure and resources
+There is a long tradition in design of making provocative proposals and objects. A well-known reference of absurd design ideas is Jaques Carelman‘s Objets Introuvable (unfindable objects) which include the teapot with the handle on the same side as the spout which has illustrated the front cover of many editions of Don Norman‘s Psychology of Everyday Things. The discipline of imagining and building illogical, silly and overcomplicated machines has been practiced by both artists and inventors (see [Simone Giertz](https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ), [Joseph Herscher](https://www.josephsmachines.com/videos) and [Dominic Wilcox](http://dominicwilcox.com/ ) to name a few). Within the western culture, these design hazards clearly pay a tribute to Dada and Surrealist movement(s).
 
-The project is to create absurd musical propositions using a constrained set of tools and materials. The event could be held at Queen Mary using the Media & Art Technology facilities. The tools provided to the participants would include:
+Another example of such practices is the Japanese art of [Chindogu](https://www.chindogu.com/?page_id=336), where a designer produce “un-useless” objects. Unlike other absurd designs Chindogu must exist (i.e. a concept should be translated into an artefact) and they must be, from a practical point of view, (almost) completely useless. Often Chindogu solve one problem while creating other, larger problems. In this sense the design is not useless, but neither is it useful: it is “un-useless”.
+
+Within the domain of HCI and musical interaction, it is possible to identify a small but growing body of work that challenges technology ideation and development through absurd and playful artefacts. These include the work of Kristina Andersen on the [Magic Machine](https://dl.acm.org/citation.cfm?id=3300342) workshops in which the making of silly fictional instruments allows participants to generate design ideas that are beyond the paradigms imposed by current music tools.
+
+John Bowers and Owen Green instead exploited the notion of [hijacking](http://www.nime.org/proceedings/2018/nime2018_paper0026.pdf) as a way to question existing music technologies, their customary range of application and the implicit norms of musicality codified into the artefacts. As a means to critically engage with current machine listening techniques, Bowers and Green build provocative music designs such as disagreeing pitch trackers, re-de-reverberators and eternal resonance machines. These were collected in the form of annotated portfolio to outline the critiques and upshots emerging while designing and using the various makings.
+
+The workshop’s outcomes might illustrate future visions, uses of new materials, and potential ideas. The designed artefacts and the considerations around them might contribute to generate guidelines, methodological intuitions or provocative statements to be shared with broader design research communities. The project outcomes, ranging from methods and design processes, will be therefore disseminated through academic publications characterised by a strong multidisciplinary outreach.
+
+<br>
+
+##### Invited Mentors
+
+In order to support participants two external mentors have been invited to join the event. These guests have significant experience in the fileds of music technology, research through design, DIY, absurd making and other related fields. The mentors will be on site for the all duration of the workshop, guiding and challenging participants from both technical and theoretical viewpoints.
+
+***John Bowers***
+
+[John Bowers](http://www.jmbowers.net/index.html) works with home-brew electronics, self-made instruments and reconstructions of antique image and sound-making devices, alongside contemporary digital technology. He is concerned with making performance environments, which combine sound, vision and human gesture at a fundamental material level. Former researcher at the [Interaction Research Studio](https://www.gold.ac.uk/interaction/) - Goldsmiths University of London he is currently professor of Creative Digital Practice and director of [Culture Lab](https://www.ncl.ac.uk/culturelab/about/#digitalculturesstudio) at Newcastle University.
+
+***Hannah Perner-Wilson***
+
+[Hannah Perner-Wilson](https://www.plusea.at) explores the electrical properties of materials and traditional and contemporary craft techniques, developing new techniques for building electronics that emphasize materiality and process. She believes that this will allow us to build electronics that are more diverse, understandable and expressive than electronics currently are. She is part of the collective [KOBAKANT](https://www.kobakant.at/?category_name=work) which, amongst many commissions and art projects, published an online database [How To Get What You Want](https://www.kobakant.at/DIY/) for sharing DIY wearable technology approach.
+
+<br>
+
+##### Workshop structure and resources
+
+***Unuseless Music Design Hackathon Fee: £20***
+
+Instructions will follows on the money transfer methods. The money collected will be used to buy materials to be used during the workshop. The tools provided to the participants would include:
 
 - digital fabrication tools (2D design tools - laser cutter)
 - traditional workshop tools
-- Bela Mini - one per accepted project (to be returned at the end of the workshop)
+- Bela maker platform (to be returned at the end of the workshop)
 - basic circuitry and sensors
 
-The following materials will be provided
+The following materials will be provided:
 
 - basic laser cutter materials (i.e. MDF, acrylic, cardboard)
 - textile materials (conductive wires, fabrics, leather)
 
-If needed, participants will be encouraged to bring any particular tools or materials (previous communication with the organising committee) and use any free or open-source resource (e.g. programming languages such as Pure Data, Supercollider, Processing, etc). During the workshop, the organising committee (MAT and Bela members) will coordinate and facilitate the various activities. Below is a first draft of the workshop schedule (to be discussed) – proposed dates: November 2019, Friday 15th and Saturday16th or Friday 22nd and Saturday 23rd (to be discussed).
+The realised projects will be presented to broader audience during a public event at the end of the second day of activities. Below a first draft of the event schedule.
 
-#### Nonsense as a critical framework for design
+{% include single-image-research.html fileName="absurd-music-design/Schedule.png" %}
 
-There is a long tradition in design of making provocative proposals and objects. A well-known reference of absurd design ideas is Jaques Carelman‘s Objets Introuvable (unfindable objects) which include the teapot with the handle on the same side as the spout which has illustrated the front cover of many editions of Don Norman‘s Psychology of Everyday Things.
+If needed, participants are encouraged to bring any particular tools or materials (previous communication with the organising committee - see Absurd Music Design Form link above) and use any free or open-source resource. During the workshop, the organising committee - [MAT](http://www.mat.qmul.ac.uk/) and [Bela](https://bela.io/) members - will coordinate and facilitate the various activities. Lunches and Coffee breaks will be provided.
 
-The Italian Anti Design and Radical Design are often mentioned as early movements aiming to subvert the way people thought about objects. Anti-Design artefacts were often tools of social criticism: challenging designs that, by exploiting tools such as kitsch, irony and distortion, would encourage people to think about objects’ purposes and functionalities.
+From the initial gathering of ideas to the final presentation of artefacts, a core element of the event will be the collaboration and mutual support. The organising committee will try its best to welcome and make everyone comfortable. Cordiality and sharing are therefore as well expected.
 
-The discipline of imagining and building illogical, silly and overcomplicated machines has been practiced by both artists and inventors (see Rube Goldberg, Heath Robinson and Rowland Emett to name a few). Within the western culture, these design hazards clearly pay a tribute to Dada and Surrealist movement(s).
+{% include single-image-research.html fileName="absurd-music-design/advanced-volume05.jpg" %}
 
-Another example of such practices is the Japanese art of Chindogu, where a designer produce “un-useless” objects. Unlike other absurd designs Chindogu must exist (i.e. a concept should be translated into an artefact) and they must be, from a practical point of view, (almost) completely useless. Often Chindogu solve one problem while creating other, larger problems. In this sense the design is not useless, but neither is it useful: it is “un-useless”.
+##### Other References & Unuseful Links
 
-#### Silly, playful and subversive musical interfaces
+***Early examples***
 
-Within the domain of HCI and musical interaction, it is possible to identify a small but growing body of work that challenges technology ideation and development through absurd and playful artefacts. These include the work of Kristina Andersen on the Magic Machine workshops in which the making of silly fictional instruments allows participants to generate design ideas that are beyond the paradigms imposed by current music tools.
+-	[Rube Goldberg](https://en.wikipedia.org/wiki/Rube_Goldberg)
 
-John Bowers and Owen Green instead exploited the notion of “hijacking” as a way to question existing music technologies, their customary range of application and the implicit norms of musicality codified into the artefacts. As a means to critically engage with current machine listening techniques, Bowers and Green build provocative music designs such as disagreeing pitch trackers, re-de-reverberators and eternal resonance machines. These were collected in the form of annotated portfolio to outline the critiques and upshots emerging while designing and using the various makings.
+- [Heath Robinson](https://en.wikipedia.org/wiki/W._Heath_Robinson)
 
-The workshop will offer a valuable framework for critical discussions on the use and development of musical interfaces, sonic interaction paradigms and design tools. This will be facilitated by playful and insightful devices such as irony, paradox, contradiction and nonsense. While revealing musical values and technological assumptions it will be possible to open up design spaces which might be unlikely to be explored with more traditional HCI perspectives.
+-	[Rowland Emett](https://en.wikipedia.org/wiki/Rowland_Emett)
 
-#### References & unuseful links
+***Design***
 
--	Andersen Kristina and Ron Wakkary "The Magic Machine Workshops: Making Personal Design Knowledge." CHI 2019.
+- [Yuri Suzuki](http://yurisuzuki.com/artist/)
 
--	Bowers John, and Owen Green. "All the Noises: Hijacking Listening Machines for Performative Research." NIME 2018
+-	[Jaques Carelman‘s Objets Introuvable](https://www.laboiteverte.fr/les-objets-introuvables-de-jacques-carelman/)
+
+-	[Italian Anti-Design movement](http://www.arthistoryarchive.com/arthistory/antidesign/)
+
+-	Kawakami Kenji “99 More Unuseless Japanese Inventions: the Japanese Art of Chindogu.” Harper Collins, London, 1997.
+
+***Academic work***
 
 -	Blythe, Mark, et al. "Anti-solutionist strategies: Seriously silly design fiction."  CHI 2016
-
--	Bowers John, et al. "One knob to rule them all: reductionist interfaces for expansionist research." NIME 2016.
 
 -	Bowers John. "The logic of annotated portfolios: communicating the value of 'research through design'." DIS 2012.
 
@@ -95,20 +138,24 @@ The workshop will offer a valuable framework for critical discussions on the use
 
 -	Ormerod Tom, et al. "HCI and creative problem-solving at Lancaster."  21st British HCI Group Annual Conference on People and Computers: HCI... but not as we know it 2007. See the [Chindogu Challenge - Lancaster University](http://thepooch.com/Events/chindogu/index2.htm)
 
+***Instruments***
+
 -	Hankins Thomas and Robert Silverman. “Instruments and the Imagination”. Princeton University Press 1999
 
--	Kawakami Kenji “99 More Unuseless Japanese Inventions: the Japanese Art of Chindogu.” Harper Collins, London, 1997.
+- [Museum of Imaginary Musical Instruments](http://imaginaryinstruments.org/)
 
--	[Museum of Imaginary Musical Instruments](http://imaginaryinstruments.org/)
+-	Bowers John, et al. ["One knob to rule them all: reductionist interfaces for expansionist research."](https://pdfs.semanticscholar.org/9bb5/ff1a4c09d167b4bcdfdcf145503d477da426.pdf) NIME 2016.
 
--	[International Chindogu Society](https://www.chindogu.com/)
+***Others***
 
 -	[Stupid S**t No One Needs](https://stupidhackathon.com/)
+- [Bruce Gray](http://www.brucegray.com/htmlfolder/VariousWallSculptures.html)
 
--	[Jaques Carelman‘s Objets Introuvable](https://www.laboiteverte.fr/les-objets-introuvables-de-jacques-carelman/)
+<br>
+<br>
+<br>
+<br>
 
--	[Italian Anti-Design movement](http://www.arthistoryarchive.com/arthistory/antidesign/)
+Inter/sections is supported by:
 
--	[Heath Robinson](https://en.wikipedia.org/wiki/W._Heath_Robinson)
-
--	[Rowland Emett](https://en.wikipedia.org/wiki/Rowland_Emett)
+{% include single-image-research.html fileName="absurd-music-design/LogosAll.png" %}
