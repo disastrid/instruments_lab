@@ -84,7 +84,7 @@ In order to support participants two external mentors have been invited to join 
 
 ***Unuseless Music Design Hackathon Fee: £20***
 
-Instructions will follows on the money transfer methods. The money collected will be used to buy materials to be used during the workshop. The tools provided to the participants would include:
+Instructions will follows on the money transfer methods. The money collected will be used to buy materials to be used during the workshop. The tools provided to the participants will include:
 
 - digital fabrication tools (2D design tools - laser cutter)
 - traditional workshop tools
