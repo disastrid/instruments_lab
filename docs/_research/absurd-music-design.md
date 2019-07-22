@@ -30,7 +30,7 @@ published: true
 
 **Notification of Acceptance: 22 September 2019**
 
-***Unuseless Music Design Hackathon Fee: £20***
+**Unuseless Music Design Hackathon Fee: £20**
 
 The event is part of Inter/sections 2019 and it will be held at Queen Mary University of London - [Mile End campus](https://www.qmul.ac.uk/about/howtofindus/mileend/), London.
 
@@ -111,16 +111,16 @@ The Unuseless Music Design Hackathon partecipation fee is £20. Instructions wil
 
 The following materials will be provided:
 
-- basic laser cutter materials (i.e. MDF, acrylic, cardboard)
-- textile materials (conductive wires, fabrics, leather)
+- basic laser cutter materials (e.g. MDF, acrylic, cardboard)
+- textile materials (e.g. conductive wires, fabrics, leather)
 
-The realised projects will be presented to broader audience during a public event at the end of the second day of activities. Below a first draft of the event schedule.
+The realised projects will be presented to during a public event at the end of the second hackathon day. Below a first draft of the event schedule.
 
 {% include single-image-research.html fileName="absurd-music-design/Schedule.png" %}
 
-If needed, participants are encouraged to bring any particular tools or materials (previous communication with the organising committee - see Absurd Music Design Form link above) and use any free or open-source resource. During the workshop, the organising committee - [MAT](http://www.mat.qmul.ac.uk/) and [Bela](https://bela.io/) members - will coordinate and facilitate the various activities. Lunches and Coffee breaks will be provided.
+If needed, participants are encouraged to bring any particular tool or material (previous communication with the organising committee - see Absurd Music Design Form link above) and use any open-source or free resource. During the event, the organising committee - [MAT](http://www.mat.qmul.ac.uk/) and [Bela](https://bela.io/) members - will coordinate and facilitate the various activities. Lunches will be provided.
 
-From the initial gathering of ideas to the final presentation of artefacts, a core element of the event will be the collaboration and mutual support. The organising committee will try its best to welcome and make everyone comfortable. Cordiality and sharing are therefore as well expected.
+From the initial gathering of ideas to the final presentation of artefacts, a core element of the event will be collaboration and mutual support. The organising committee will try its best to welcome and make everyone comfortable. Cordiality and sharing are therefore expected from all participants.
 
 {% include single-image-research.html fileName="absurd-music-design/advanced-volume06.jpg" %}
 
