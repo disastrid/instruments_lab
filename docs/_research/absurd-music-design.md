@@ -158,7 +158,7 @@ From the initial gathering of ideas to the final presentation of artefacts, core
 
 -	Vines John et al. "Questionable concepts: critique as resource for designing with eighty somethings." CHI 2012
 
-***Musical Instruments, Installations and Interfaces***
+***Musical instruments, installations and interfaces***
 
 -	Bowers John et al. ["One knob to rule them all: reductionist interfaces for expansionist research."](https://pdfs.semanticscholar.org/9bb5/ff1a4c09d167b4bcdfdcf145503d477da426.pdf) NIME 2016
 
