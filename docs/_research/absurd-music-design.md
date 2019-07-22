@@ -12,7 +12,7 @@ published: true
 
 #### 8-9 November 2019
 
-***Artists, technologists and makers are invited to take part to a hackathon around the themes of absurd musical interfaces, questionable sonic interactions and unworkable music designs.***
+***Artists, technologists and makers are invited to take part in a hackathon around the themes of absurd musical interfaces, questionable sonic interactions and unworkable music designs.***
 
 {% include single-image-research.html fileName="absurd-music-design/carelman-objet-introuvable.jpg" %}
 
@@ -118,7 +118,7 @@ The realised projects will be presented to during a public event at the end of t
 
 {% include single-image-research.html fileName="absurd-music-design/Schedule.png" %}
 
-If needed, participants are encouraged to bring any particular tool or material (previous communication with the organising committee - see Absurd Music Design Form link above) and use any open-source or free resource. During the event, the organising committee - [MAT](http://www.mat.qmul.ac.uk/) and [Bela](https://bela.io/) members - will coordinate and facilitate the various activities. Lunches and coffee breaks will be provided.
+If needed, participants are encouraged to bring any particular tool or material (subject to communication with the organising committee - see Absurd Music Design Form link above) and use any open-source or free resource. During the event, the organising committee - [MAT](http://www.mat.qmul.ac.uk/) and [Bela](https://bela.io/) members - will coordinate and facilitate the various activities. Lunches and coffee breaks will be provided.
 
 From the initial gathering of ideas to the final presentation of artefacts, core elements of the event will be collaboration and mutual support. The organising committee will try its best to welcome and make everyone comfortable. Cordiality and sharing are therefore expected from all participants as well :)
 
