@@ -22,9 +22,6 @@ published: true
 >
 >**Does this sound fun to you? Please, join us!**
 
-___
-___
-
 ##### Application Deadline: 8 September 2019
 
 ***Please send the form below to g.lepri[at]qmul.ac.uk***
@@ -65,13 +62,13 @@ ___
 
 ##### Go absurd
 
-Interested candidates are required to sketch an unusless music design ideas to be developed during the hack lab. The various proposals will offer the basis for discussion and further ideas generation during the course of the event. Proposals should also include a short summary of candidates’ musical/artistic background and technical skills (see Absurd Music Design Form link above).
+Interested candidates are required to sketch an unusless music design idea to be developed during the hack lab. The various proposals will offer the basis for further brainstorming during the course of the event. You might therefore work on a team or individually to develop the submitted idea, a variation it or a fresh silly concept. Proposals should also include a short summary of candidates’ musical/artistic background and technical skills (see Absurd Music Design Form link above).
 
 Max 25 participants will be accepted. The selection criteria include:
 
 - quality of the idea: originality, silliness, unuselessness, style and achievability
 - candidates background (aiming to balance a multidisciplinary convergence of people)
-- age: 18 +
+- age: 18+
 
 The following approaches are suggested (but not required) for the proposal of absurd musical interfaces:
 
@@ -105,9 +102,7 @@ ___
 
 ##### Workshop structure and resources
 
-***Unuseless Music Design Hackathon Fee: £20***
-
-Instructions will follows on the money transfer methods. The money collected will be used to buy materials to be used during the workshop. The tools provided to the participants will include:
+The Unuseless Music Design Hackathon partecipation fee is £20. Instructions will follows on the money transfer methods. The money collected will be used to buy materials to be used during the workshop. The tools provided to the participants will include:
 
 - digital fabrication tools (2D design tools - laser cutter)
 - traditional workshop tools
@@ -127,9 +122,7 @@ If needed, participants are encouraged to bring any particular tools or material
 
 From the initial gathering of ideas to the final presentation of artefacts, a core element of the event will be the collaboration and mutual support. The organising committee will try its best to welcome and make everyone comfortable. Cordiality and sharing are therefore as well expected.
 
-___
-___
-
+{% include single-image-research.html fileName="absurd-music-design/advanced-volume06.jpg" %}
 
 ##### Other References & Unuseful Links
 
@@ -149,23 +142,27 @@ ___
 
 -	[Italian Anti-Design movement](http://www.arthistoryarchive.com/arthistory/antidesign/)
 
--	Kawakami Kenji “99 More Unuseless Japanese Inventions: the Japanese Art of Chindogu.” Harper Collins, London, 1997.
+-	Kawakami Kenji “99 More Unuseless Japanese Inventions: the Japanese Art of Chindogu.” Harper Collins, London, 1997
 
 ***Academic work***
 
--	Blythe, Mark, et al. "Anti-solutionist strategies: Seriously silly design fiction."  CHI 2016
+- Andersen Kristina, and Ron Wakkary "The Magic Machine Workshops: Making Personal Design Knowledge." CHI 2019
 
--	Bowers John. "The logic of annotated portfolios: communicating the value of 'research through design'." DIS 2012.
+-	Blythe Mark et al. "Anti-solutionist strategies: Seriously silly design fiction."  CHI 2016
 
--	Vines John, et al. "Questionable concepts: critique as resource for designing with eighty somethings." CHI 2012.
+-	Bowers John "The logic of annotated portfolios: communicating the value of 'research through design'." DIS 2012
 
--	Gaver William. "What should we expect from research through design?" CHI 2012.
+-	Gaver William "What should we expect from research through design?" CHI 2012
 
--	Ormerod Tom, et al. "HCI and creative problem-solving at Lancaster."  21st British HCI Group Annual Conference on People and Computers: HCI... but not as we know it 2007. See the [Chindogu Challenge - Lancaster University](http://thepooch.com/Events/chindogu/index2.htm)
+-	Ormerod Tom et al. "HCI and creative problem-solving at Lancaster."  21st British HCI Group Annual Conference on People and Computers: HCI... but not as we know it 2007. See the [Chindogu Challenge - Lancaster University](http://thepooch.com/Events/chindogu/index2.htm)
 
-***Musical Instruments & Installations***
+-	Vines John et al. "Questionable concepts: critique as resource for designing with eighty somethings." CHI 2012
 
--	Bowers John, et al. ["One knob to rule them all: reductionist interfaces for expansionist research."](https://pdfs.semanticscholar.org/9bb5/ff1a4c09d167b4bcdfdcf145503d477da426.pdf) NIME 2016.
+***Musical Instruments, Installations and Interfaces***
+
+-	Bowers John et al. ["One knob to rule them all: reductionist interfaces for expansionist research."](https://pdfs.semanticscholar.org/9bb5/ff1a4c09d167b4bcdfdcf145503d477da426.pdf) NIME 2016
+
+- Reddit - ProgrammerHumor - [Volume Control](https://www.reddit.com/r/ProgrammerHumor/search?q=volume&restrict_sr=on&source=post_page---------------------------)
 
 - [Darsha Hewitt](http://darsha.org/artwork/)
 
@@ -185,7 +182,14 @@ ___
 
 -	[Stupid Shit No One Needs](https://stupidhackathon.com/)
 
-{% include single-image-research.html fileName="absurd-music-design/advanced-volume05.jpg" %}
+<br>
+<br>
+
+Images credits:
+
+- Jaques Carelman - Bicyclette-Harmonium
+- AuthorFilms - Reddit - ProgrammerHumor - Advanced Volume Control
+- Bruce Gray - Jimi's Nightmare - Distorted Electric Guitar Sculpture
 
 <br>
 <br>
