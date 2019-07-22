@@ -6,21 +6,13 @@ tagline: A Seriously Absurd Hackathon
 thumb: absurd-music-design/guitardistort.jpg
 authors: "Giacomo Lepri"
 main-image: /images/research/absurd-music-design/Blackmidi03.jpg
-para: Call for Absurd Musical Interfaces
+para: Call for Participation - Absurd Musical Interfaces
 published: true
 ---
 
-#### 8-9 November 2019 / QMUL
+#### 8-9 November 2019
 
 ***Artists, technologists and makers are invited to take part to a hackathon around the themes of absurd musical interfaces, questionable sonic interactions and unworkable music designs.***
-
-The event is part of Inter/sections 2019 and it will be held at QMUL [Mile End campus](https://www.qmul.ac.uk/about/howtofindus/mileend/), London.
-
-##### Application Deadline: 8 September 2019
-
-***Please send the form below to g.lepri[at]qmul.ac.uk***
-
-***---> [Absurd Music Design Form](http://instrumentslab.org/data/giacomo/AbsForm.docx) <---***
 
 {% include single-image-research.html fileName="absurd-music-design/carelman-objet-introuvable.jpg" %}
 
@@ -29,6 +21,49 @@ The event is part of Inter/sections 2019 and it will be held at QMUL [Mile End c
 >**Subverting the ways we use musical tools to reveal unstated assumptions and explore alternatives.**<br>
 >
 >**Does this sound fun to you? Please, join us!**
+
+___
+___
+
+##### Application Deadline: 8 September 2019
+
+***Please send the form below to g.lepri[at]qmul.ac.uk***
+
+***---> [Absurd Music Design Form](http://instrumentslab.org/data/giacomo/AbsForm.docx) <---***
+
+**Notification of Acceptance: 22 September 2019**
+
+***Unuseless Music Design Hackathon Fee: £20***
+
+The event is part of Inter/sections 2019 and it will be held at Queen Mary University of London - [Mile End campus](https://www.qmul.ac.uk/about/howtofindus/mileend/), London.
+
+___
+___
+
+##### Featured Mentors
+
+- [John Bowers](http://www.jmbowers.net/index.html)
+- [Hannah Perner-Wilson](https://www.plusea.at)
+
+___
+___
+
+##### Silly, playful and subversive design
+
+There is a long tradition in design of making provocative proposals and objects. A well-known reference of absurd design ideas is Jaques Carelman‘s Objets Introuvable (unfindable objects) which include the teapot with the handle on the same side as the spout which has illustrated the front cover of many editions of Don Norman‘s Psychology of Everyday Things. The discipline of imagining and building illogical, silly and overcomplicated machines has been practiced by both artists and inventors (see [Simone Giertz](https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ), [Joseph Herscher](https://www.josephsmachines.com/videos) and [Dominic Wilcox](http://dominicwilcox.com/ ) to name a few). Within the western culture, these design hazards clearly pay a tribute to Dada and Surrealist movement(s).
+
+Another example of such practices is the Japanese art of [Chindogu](https://www.chindogu.com/?page_id=336), where a designer produce “un-useless” objects. Unlike other absurd designs Chindogu must exist (i.e. a concept should be translated into an artefact) and they must be, from a practical point of view, (almost) completely useless. Often Chindogu solve one problem while creating other, larger problems. In this sense the design is not useless, but neither is it useful: it is “un-useless”.
+
+Within the domain of HCI and musical interaction, it is possible to identify a small but growing body of work that challenges technology ideation and development through absurd and playful artefacts. These include the work of Kristina Andersen on the [Magic Machine](https://dl.acm.org/citation.cfm?id=3300342) workshops in which the making of silly fictional instruments allows participants to generate design ideas that are beyond the paradigms imposed by current music tools.
+
+John Bowers and Owen Green instead exploited the notion of [hijacking](http://www.nime.org/proceedings/2018/nime2018_paper0026.pdf) as a way to question existing music technologies, their customary range of application and the implicit norms of musicality codified into the artefacts. As a means to critically engage with current machine listening techniques, Bowers and Green build provocative music designs such as disagreeing pitch trackers, re-de-reverberators and eternal resonance machines. These were collected in the form of annotated portfolio to outline the critiques and upshots emerging while designing and using the various makings.
+
+The workshop’s outcomes might illustrate future visions, uses of new materials, and potential ideas. The designed artefacts and the considerations around them might contribute to generate guidelines, methodological intuitions or provocative statements to be shared with broader design research communities. The project outcomes, ranging from methods and design processes, will be therefore disseminated through academic publications characterised by a strong multidisciplinary outreach.
+
+___
+___
+
+##### Go absurd
 
 Interested candidates are required to sketch an unusless music design ideas to be developed during the hack lab. The various proposals will offer the basis for discussion and further ideas generation during the course of the event. Proposals should also include a short summary of candidates’ musical/artistic background and technical skills (see Absurd Music Design Form link above).
 
@@ -50,23 +85,10 @@ The following approaches are suggested (but not required) for the proposal of ab
 - almost completely useless interfaces for music performance
 - musical interventions beyond realistic technological premises
 
-<br>
+___
+___
 
-##### Silly, playful and subversive design
-
-There is a long tradition in design of making provocative proposals and objects. A well-known reference of absurd design ideas is Jaques Carelman‘s Objets Introuvable (unfindable objects) which include the teapot with the handle on the same side as the spout which has illustrated the front cover of many editions of Don Norman‘s Psychology of Everyday Things. The discipline of imagining and building illogical, silly and overcomplicated machines has been practiced by both artists and inventors (see [Simone Giertz](https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ), [Joseph Herscher](https://www.josephsmachines.com/videos) and [Dominic Wilcox](http://dominicwilcox.com/ ) to name a few). Within the western culture, these design hazards clearly pay a tribute to Dada and Surrealist movement(s).
-
-Another example of such practices is the Japanese art of [Chindogu](https://www.chindogu.com/?page_id=336), where a designer produce “un-useless” objects. Unlike other absurd designs Chindogu must exist (i.e. a concept should be translated into an artefact) and they must be, from a practical point of view, (almost) completely useless. Often Chindogu solve one problem while creating other, larger problems. In this sense the design is not useless, but neither is it useful: it is “un-useless”.
-
-Within the domain of HCI and musical interaction, it is possible to identify a small but growing body of work that challenges technology ideation and development through absurd and playful artefacts. These include the work of Kristina Andersen on the [Magic Machine](https://dl.acm.org/citation.cfm?id=3300342) workshops in which the making of silly fictional instruments allows participants to generate design ideas that are beyond the paradigms imposed by current music tools.
-
-John Bowers and Owen Green instead exploited the notion of [hijacking](http://www.nime.org/proceedings/2018/nime2018_paper0026.pdf) as a way to question existing music technologies, their customary range of application and the implicit norms of musicality codified into the artefacts. As a means to critically engage with current machine listening techniques, Bowers and Green build provocative music designs such as disagreeing pitch trackers, re-de-reverberators and eternal resonance machines. These were collected in the form of annotated portfolio to outline the critiques and upshots emerging while designing and using the various makings.
-
-The workshop’s outcomes might illustrate future visions, uses of new materials, and potential ideas. The designed artefacts and the considerations around them might contribute to generate guidelines, methodological intuitions or provocative statements to be shared with broader design research communities. The project outcomes, ranging from methods and design processes, will be therefore disseminated through academic publications characterised by a strong multidisciplinary outreach.
-
-<br>
-
-##### Invited Mentors
+##### Mentors
 
 In order to support participants two external mentors have been invited to join the event. These guests have significant experience in the fileds of music technology, research through design, DIY, absurd making and other related fields. The mentors will be on site for the all duration of the workshop, guiding and challenging participants from both technical and theoretical viewpoints.
 
@@ -78,7 +100,8 @@ In order to support participants two external mentors have been invited to join 
 
 [Hannah Perner-Wilson](https://www.plusea.at) explores the electrical properties of materials and traditional and contemporary craft techniques, developing new techniques for building electronics that emphasize materiality and process. She believes that this will allow us to build electronics that are more diverse, understandable and expressive than electronics currently are. She is part of the collective [KOBAKANT](https://www.kobakant.at/?category_name=work) which, amongst many commissions and art projects, published an online database [How To Get What You Want](https://www.kobakant.at/DIY/) for sharing DIY wearable technology approach.
 
-<br>
+___
+___
 
 ##### Workshop structure and resources
 
@@ -104,7 +127,9 @@ If needed, participants are encouraged to bring any particular tools or material
 
 From the initial gathering of ideas to the final presentation of artefacts, a core element of the event will be the collaboration and mutual support. The organising committee will try its best to welcome and make everyone comfortable. Cordiality and sharing are therefore as well expected.
 
-{% include single-image-research.html fileName="absurd-music-design/advanced-volume05.jpg" %}
+___
+___
+
 
 ##### Other References & Unuseful Links
 
@@ -148,7 +173,7 @@ From the initial gathering of ideas to the final presentation of artefacts, a co
 
 - [Gijs Gieskes](http://gieskes.nl)
 
-- [Casper Electronics](https://web.archive.org/web/20170306140856/https://casperelectronics.com/) (Peter Edwards)
+- [Casper Electronics](https://web.archive.org/web/20170306140856/https://casperelectronics.com/)
 
 - [::VTOL::](http://vtol.cc/)
 
@@ -160,8 +185,8 @@ From the initial gathering of ideas to the final presentation of artefacts, a co
 
 -	[Stupid Shit No One Needs](https://stupidhackathon.com/)
 
-<br>
-<br>
+{% include single-image-research.html fileName="absurd-music-design/advanced-volume05.jpg" %}
+
 <br>
 <br>
 
