@@ -39,7 +39,7 @@ ___
 
 ##### Featured Mentors
 
-- [John Bowers](http://www.jmbowers.net/index.html)
+- [John Bowers](https://www.ncl.ac.uk/sacs/staff/profile/johnbowers.html)
 - [Hannah Perner-Wilson](https://www.plusea.at)
 
 ___
