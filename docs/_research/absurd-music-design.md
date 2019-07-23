@@ -91,11 +91,12 @@ In order to support participants two external mentors have been invited to join 
 
 ***John Bowers***
 
-[John Bowers](http://www.jmbowers.net/index.html) works with home-brew electronics, self-made instruments and reconstructions of antique image and sound-making devices, alongside contemporary digital technology. He is concerned with making performance environments, which combine sound, vision and human gesture at a fundamental material level. Former researcher at the [Interaction Research Studio](https://www.gold.ac.uk/interaction/) - Goldsmiths University of London he is currently professor of Creative Digital Practice and director of [Culture Lab](https://www.ncl.ac.uk/culturelab/about/#digitalculturesstudio) at Newcastle University.
+[John Bowers](https://www.ncl.ac.uk/sacs/staff/profile/johnbowers.html) (UK) works with modular synthesisers, home-brew electronics, reconstructions of antique image and sound-making devices, self-made software, field recordings and esoteric sensor systems. He makes performance environments which mix sound, image and gesture at a fundamental material level, sometimes accompanied by spoken text. Former researcher in the [Interaction Research Studio](https://www.gold.ac.uk/interaction/) - Goldsmiths University of London, he is currently Professor of Creative Digital Practice in Culture Lab and Fine Art, Newcastle University, and helps coordinate the label Onoma Research.
+
 
 ***Hannah Perner-Wilson***
 
-[Hannah Perner-Wilson](https://www.plusea.at) explores the electrical properties of materials and traditional and contemporary craft techniques, developing new techniques for building electronics that emphasize materiality and process. She believes that this will allow us to build electronics that are more diverse, understandable and expressive than electronics currently are. She is part of the collective [KOBAKANT](https://www.kobakant.at/?category_name=work) which, amongst many commissions and art projects, published an online database [How To Get What You Want](https://www.kobakant.at/DIY/) for sharing DIY wearable technology approach.
+[Hannah Perner-Wilson](https://www.plusea.at) (AT) explores the electrical properties of materials and traditional and contemporary craft techniques, developing new techniques for building electronics that emphasize materiality and process. She believes that this will allow us to build electronics that are more diverse, understandable and expressive than electronics currently are. She is part of the collective [KOBAKANT](https://www.kobakant.at/?category_name=work) which, amongst many commissions and art projects, published an online database [How To Get What You Want](https://www.kobakant.at/DIY/) for sharing DIY wearable technology approach.
 
 ___
 ___
@@ -146,21 +147,23 @@ From the initial gathering of ideas to the final presentation of artefacts, core
 
 ***Academic work***
 
-- Andersen Kristina, and Ron Wakkary "The Magic Machine Workshops: Making Personal Design Knowledge." CHI 2019
+- Andersen and Wakkary "The Magic Machine Workshops: Making Personal Design Knowledge." CHI 2019
 
--	Blythe Mark et al. "Anti-solutionist strategies: Seriously silly design fiction."  CHI 2016
+-	Blythe et al. "Anti-solutionist strategies: Seriously silly design fiction."  CHI 2016
 
--	Bowers John "The logic of annotated portfolios: communicating the value of 'research through design'." DIS 2012
+- Bowers and Archer. ["Not Hyper, not meta, not cyber but infra- instruments."](http://www.nime.org/proceedings/2005/nime2005_005.pdf) NIME 2005
 
--	Gaver William "What should we expect from research through design?" CHI 2012
+-	Bowers "The logic of annotated portfolios: communicating the value of 'research through design'." DIS 2012
 
--	Ormerod Tom et al. "HCI and creative problem-solving at Lancaster."  21st British HCI Group Annual Conference on People and Computers: HCI... but not as we know it 2007. See the [Chindogu Challenge - Lancaster University](http://thepooch.com/Events/chindogu/index2.htm)
+-	Gaver "What should we expect from research through design?" CHI 2012
 
--	Vines John et al. "Questionable concepts: critique as resource for designing with eighty somethings." CHI 2012
+-	Ormerod et al. "HCI and creative problem-solving at Lancaster."  21st British HCI Group Annual Conference on People and Computers: HCI... but not as we know it 2007. See the [Chindogu Challenge - Lancaster University](http://thepooch.com/Events/chindogu/index2.htm)
+
+-	Vines et al. "Questionable concepts: critique as resource for designing with eighty somethings." CHI 2012
 
 ***Musical instruments, installations and interfaces***
 
--	Bowers John et al. ["One knob to rule them all: reductionist interfaces for expansionist research."](https://pdfs.semanticscholar.org/9bb5/ff1a4c09d167b4bcdfdcf145503d477da426.pdf) NIME 2016
+-	Bowers et al. ["One knob to rule them all: reductionist interfaces for expansionist research."](https://pdfs.semanticscholar.org/9bb5/ff1a4c09d167b4bcdfdcf145503d477da426.pdf) NIME 2016
 
 - Reddit - ProgrammerHumor - [Volume Control](https://www.reddit.com/r/ProgrammerHumor/search?q=volume&restrict_sr=on&source=post_page---------------------------)
 
