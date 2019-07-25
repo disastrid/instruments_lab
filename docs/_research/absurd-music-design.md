@@ -30,7 +30,7 @@ published: true
 
 **Notification of Acceptance: 26 September 2019**
 
-**Unuseless Music Design Hackathon Fee: £20**
+**Unuseless Music Design Hackathon Fee: £15**
 
 The event is part of Inter/sections 2019 and it will be held at Queen Mary University of London - [Mile End campus](https://www.qmul.ac.uk/about/howtofindus/mileend/), London.
 
@@ -103,7 +103,7 @@ ___
 
 ##### Workshop structure and resources
 
-The Unuseless Music Design Hackathon partecipation fee is £20. Instructions will follows on the money transfer methods. The money collected will be used to buy materials to be used during the workshop. The tools provided to the participants will include:
+The Unuseless Music Design Hackathon partecipation fee is £15. Instructions will follows on the money transfer methods. The money collected will be used to buy materials to be used during the workshop. The tools provided to the participants will include:
 
 - digital fabrication tools (2D design tools - laser cutter)
 - traditional workshop tools
