@@ -20,6 +20,7 @@ The notion of Remediation has been sketched by McLuhan in his theory of Media an
 Considering the genesis of new musical instruments through the perspective of mediation it is possible to argue that new design often remediate physical properties and cultural paradigms already associated to existing devices. Magnusson argues that "what new instruments translate from earlier technologies are not simply the simulation of an interface, but a whole constellation of embodied contexts". Within this constellation we include the values, imaginaries and concerns inherited from communities of practice.
 
 ___
+___
 
 ##### On the influences of communities and musical backgrounds
 
@@ -43,6 +44,7 @@ and generate manifestations of unknown technologies. Our workshop is therefore b
 {% include single-image-research.html fileName="culture/Machine02.png" caption="From left to right: (1) Orchestra - the conductor interacting with a musician of the orchestra. In this artefact the instrument disappears (transparent mediation technology) and the ideas of communication and interplay are privileged. (2) CorpoSuono - An organ like instrument with tubes filtering the air and a stopper to close them. The artefact focuses on the notion of timbre manipulation."%}
 
 - G. Lepri and A. P. McPherson. [Making Up Instruments: Design Fiction for Value Discovery in Communities of Musical Practice.](http://instrumentslab.org/data/giacomo/2019DISFinal.pdf) Proc. ACM Designing Interactive Systems (DIS), San Diego, Californis, USA. 2019.
+
 ___
 
 ***Fictional artefacts - real values***
@@ -57,7 +59,7 @@ Overall, our participants were rather successful in guessing the genre/style of 
 - G. Lepri and A. P. McPherson. [Fictional Instruments, Real Values: Discovering Musical Backgrounds with Non-Functional Prototypes.](http://www.nime.org/proceedings/2019/nime2019_024.pdf) Proc. New Interfaces for Musical Expression, Porto Alegre, Rio Grande do Sul, Brazil. 2019.
 
 ___
-
+___
 
 ##### A practice based account
 
