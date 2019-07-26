@@ -42,6 +42,7 @@ and generate manifestations of unknown technologies. Our workshop is therefore b
 
 {% include single-image-research.html fileName="culture/Machine02.png" caption="From left to right: (1) Orchestra - the conductor interacting with a musician of the orchestra. In this artefact the instrument disappears (transparent mediation technology) and the ideas of communication and interplay are privileged. (2) CorpoSuono - An organ like instrument with tubes filtering the air and a stopper to close them. The artefact focuses on the notion of timbre manipulation."%}
 
+- G. Lepri and A. P. McPherson. [Making Up Instruments: Design Fiction for Value Discovery in Communities of Musical Practice.](http://instrumentslab.org/data/giacomo/2019DISFinal.pdf) Proc. ACM Designing Interactive Systems (DIS), San Diego, Californis, USA. 2019.
 ___
 
 ***Fictional artefacts - real values***
@@ -52,6 +53,8 @@ We then ran an online survey targeting musicians and technologists with experien
 >What instrument(s) do you think this musician plays? Why?
 
 Overall, our participants were rather successful in guessing the genre/style of the artefacts' creators: 44% of answers were correct, and a further 27% partly correct. In particular we were impressed by the overall ability of the survey respondents to discover the multiplicity of cultural sources and musical practices in the designer's background. Besides technical expertise, the design of a music technology entails the materialisation of purposes, assumptions and values. These are situated factors, emerging from specific communities, contexts and cultures. This research provides us the possibility to engage with this type of knowledge: context-dependent values emerging from situated practices.
+
+- G. Lepri and A. P. McPherson. [Fictional Instruments, Real Values: Discovering Musical Backgrounds with Non-Functional Prototypes.](http://www.nime.org/proceedings/2019/nime2019_024.pdf) Proc. New Interfaces for Musical Expression, Porto Alegre, Rio Grande do Sul, Brazil. 2019.
 
 ___
 
@@ -77,6 +80,10 @@ Cembalo Scrivano: an interactive audio-visual installation based on an augmented
 The piece aims to mirror this process: a typewriter is converted into an interactive art installation (from typewriting to art technology). Oscillating between two domains (musical and literary), the same technology travels across history, carrying knowledge, behaviours and meanings. In media theory, the practice to understand new and emerging technologies by taking into account the history and evolution of past new media often relate to media archaeology studies. These cultural studies focus on the critical scrutiny of forgotten technologies, observing that new media often renovate old interactive paradigms and communication techniques. Media Archaeology is also a methodology for contemporary artistic practice introducing the concept of 'zombie media': a media that is not only out of use, but resurrected to new uses, contexts and adaptations.
 
 {% include youtube.html youtube="o9BE7N6ER5w" %}
+
+-  G. Lepri and A. P. McPherson. [First-person Research in the Arts: Exploring the Values Behind New Music Technology.](http://instrumentslab.org/data/giacomo/lepri_updated2.pdf) Proc. ACM Designing Interactive Systems (DIS), San Diego, Californis, USA. 2019.
+
+- G. Lepri, A. P. McPherson. [Mirroring the past, from typewriting to interactive art: an approach to the re-design of a vintage technology.](http://www.nime.org/proceedings/2018/nime2018_paper0069.pdf). Proc. New Interfaces for Musical Expression, Blacksburg, Virginia, USA. 2018.
 
 <!--
 
@@ -111,14 +118,3 @@ This research is grounded on the idea that new media re-mediates old media. The 
 In media theory, the attempts to understand new and emerging technologies by taking into account the history and evolution of past new media is dened as media archaeology These cultural studies focus on the critical scrutiny of forgotten technologies, observing that new media often renovate old interactive paradigms and communication techniques. Media Archaeology is also a methodology for contemporary artistic practice introducing the concept of 'zombie media': a media that is not only out of use, but resurrected to new uses, contexts and adaptations.
 
 -->
-
-
-#### References
-
-- G. Lepri and A. P. McPherson. [Fictional Instruments, Real Values: Discovering Musical Backgrounds with Non-Functional Prototypes.](http://www.nime.org/proceedings/2019/nime2019_024.pdf) Proc. New Interfaces for Musical Expression, Porto Alegre, Rio Grande do Sul, Brazil. 2019.
-
--  G. Lepri and A. P. McPherson. [First-person Research in the Arts: Exploring the Values Behind New Music Technology.](http://instrumentslab.org/data/giacomo/lepri_updated2.pdf) Proc. ACM Designing Interactive Systems (DIS), San Diego, Californis, USA. 2019.
-
-- G. Lepri and A. P. McPherson. [Making Up Instruments: Design Fiction for Value Discovery in Communities of Musical Practice.](http://instrumentslab.org/data/giacomo/2019DISFinal.pdf) Proc. ACM Designing Interactive Systems (DIS), San Diego, Californis, USA. 2019.
-
-- G. Lepri, A. P. McPherson. [Mirroring the past, from typewriting to interactive art: an approach to the re-design of a vintage technology.](http://www.nime.org/proceedings/2018/nime2018_paper0069.pdf). Proc. New Interfaces for Musical Expression, Blacksburg, Virginia, USA. 2018.
