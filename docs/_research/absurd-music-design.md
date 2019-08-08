@@ -147,19 +147,21 @@ From the initial gathering of ideas to the final presentation of artefacts, core
 
 ***Academic work***
 
-- Andersen and Wakkary "The Magic Machine Workshops: Making Personal Design Knowledge." CHI 2019
-
--	Blythe et al. "Anti-solutionist strategies: Seriously silly design fiction."  CHI 2016
+- [.:thePooch:. - Chindogu Challenge](http://thepooch.com/Events/chindogu.htm) 2005
 
 - Bowers and Archer. ["Not Hyper, not meta, not cyber but infra- instruments."](http://www.nime.org/proceedings/2005/nime2005_005.pdf) NIME 2005
+
+-	Vines et al. "Questionable concepts: critique as resource for designing with eighty somethings." CHI 2012
 
 -	Bowers "The logic of annotated portfolios: communicating the value of 'research through design'." DIS 2012
 
 -	Gaver "What should we expect from research through design?" CHI 2012
 
--	Ormerod et al. "HCI and creative problem-solving at Lancaster."  21st British HCI Group Annual Conference on People and Computers: HCI... but not as we know it 2007. See the [Chindogu Challenge - Lancaster University](http://thepooch.com/Events/chindogu/index2.htm)
+- Sheridan "Digital Arts Entrepreneurship: Evaluating Performative Interaction." Interactive Experience in the Digital Age 2014
 
--	Vines et al. "Questionable concepts: critique as resource for designing with eighty somethings." CHI 2012
+-	Blythe et al. "Anti-solutionist strategies: Seriously silly design fiction."  CHI 2016
+
+- Andersen and Wakkary "The Magic Machine Workshops: Making Personal Design Knowledge." CHI 2019
 
 ***Musical instruments, installations and interfaces***
 
