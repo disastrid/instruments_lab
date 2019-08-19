@@ -115,7 +115,7 @@ The following materials will be provided:
 - basic laser cutter materials (e.g. MDF, acrylic, cardboard)
 - textile materials (e.g. conductive wires, fabrics, leather)
 
-The realised projects will be presented to during a public event at the end of the second hackathon day. Below a first draft of the event schedule.
+The realised projects will be presented during a public event at the end of the second hackathon day. Below a first draft of the event schedule.
 
 {% include single-image-research.html fileName="absurd-music-design/Schedule.png" %}
 
