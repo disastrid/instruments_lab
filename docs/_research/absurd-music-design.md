@@ -22,7 +22,7 @@ published: true
 >
 >**Does this sound fun to you? Please, join us!**
 
-##### Application Deadline: 8 September 2019
+##### Application Deadline EXTENDED: 15 September 2019
 
 ***Please send the form below to g.lepri[at]qmul.ac.uk***
 
