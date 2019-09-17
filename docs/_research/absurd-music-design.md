@@ -62,7 +62,7 @@ ___
 
 ##### Go absurd
 
-Interested candidates are required to sketch an unusless music design idea to be developed during the hack lab. The various proposals will offer the basis for further brainstorming during the course of the event. You might therefore work on a team or individually to develop the submitted idea, a variation it or a fresh silly concept. Proposals should also include a short summary of candidates’ musical/artistic background and technical skills (see Absurd Music Design Form link above).
+Interested candidates are required to sketch an unusless music design idea to be developed during the hack lab. The various proposals will offer the basis for further brainstorming during the course of the event. You might therefore work on a team or individually to develop the submitted idea, a variation it or a fresh silly concept. Proposals should also include a short summary of candidates’ musical/artistic background and technical skills. <!-- (see Absurd Music Design Form link above).-->
 
 Max 25 participants will be accepted. The selection criteria include:
 
