@@ -22,11 +22,11 @@ published: true
 >
 >**Does this sound fun to you? Please, join us!**
 
-##### Application Deadline EXTENDED: 15 September 2019
+##### Application Deadline Expired
 
-***Please send the form below to g.lepri[at]qmul.ac.uk***
+<!-- ***Please send the form below to g.lepri[at]qmul.ac.uk***
 
-***---> [Absurd Music Design Form](http://instrumentslab.org/data/giacomo/AbsForm.docx) <---***
+*** [Absurd Music Design Form](http://instrumentslab.org/data/giacomo/AbsForm.docx)*** -->
 
 **Notification of Acceptance: 26 September 2019**
 
