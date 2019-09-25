@@ -28,7 +28,7 @@ published: true
 
 *** [Absurd Music Design Form](http://instrumentslab.org/data/giacomo/AbsForm.docx)*** -->
 
-**Notification of Acceptance: 26 September 2019**
+**Notification of Acceptance: 27 September 2019**
 
 **Unuseless Music Design Hackathon Fee: £15**
 
