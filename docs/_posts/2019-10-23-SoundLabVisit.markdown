@@ -6,7 +6,7 @@ images: /images/news/SoundLab-visit-dan.jpg
 front-image: /images/news/SoundLab-visit-dan.jpg
 event_date: October 23, 2019
 excerpt: Visitors from Heart n Soul's SoundLab project came to the Augmented Instruments Lab
-url: https://dl.acm.org/citation.cfm?id=3313037
+url: https://www.heartnsoulsoundlab.com/shareblog/2019/10/24/soundlab-roadtrip
 ---
 
 We were very happy to host a visit from Heart n Soul's [SoundLab](https://www.heartnsoulsoundlab.com/) project.
@@ -15,6 +15,6 @@ We were very happy to host a visit from Heart n Soul's [SoundLab](https://www.he
 
 Lab member Jacob Harrison has been working with members of Heart n Soul as research collaborators on a project involving the use of Accessible Digital Musical Instruments in group music making sessions. You can read about the first part of this project in the Late-Breaking Work paper from CHI 2019 here: [download pdf](https://dl.acm.org/citation.cfm?id=3313037).
 
-Read Heart n Soul's write up and see more pictures of the visit [here](https://dl.acm.org/citation.cfm?id=3313037)
+Read Heart n Soul's write up and see more pictures of the visit [here](https://www.heartnsoulsoundlab.com/shareblog/2019/10/24/soundlab-roadtrip)
 
 We can't wait to work with them more in the future. Watch this space!
