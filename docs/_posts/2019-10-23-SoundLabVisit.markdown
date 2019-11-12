@@ -2,8 +2,8 @@
 layout: post
 title:  "Visit from Heart n Soul SoundLab"
 categories: [news]
-images: /images/news/SoundLab-visit-dan.jpg
-front-image: /images/news/SoundLab-visit-dan.jpg
+images: /images/news/SoundLab-visit-dan.JPG
+front-image: /images/news/SoundLab-visit-dan.JPG
 event_date: October 23, 2019
 excerpt: Visitors from Heart n Soul's SoundLab project came to the Augmented Instruments Lab
 url: https://www.heartnsoulsoundlab.com/shareblog/2019/10/24/soundlab-roadtrip
