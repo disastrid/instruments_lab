@@ -9,7 +9,7 @@
     - link: https://scholar.google.it/citations?user=cMZilz4AAAAJ&hl=en
       icon: graduation-cap
   education: B.S. Computer Science, M.S. Computer Science, M.S. Biomedical Data Processing, University of Verona; Ph.D. Human-Computer Interaction, University of Trento 2015; Postdoc University of Trento 2015-2016
-  desc: Fabio was a postdoctoral research assistant focusing on musical interface design and evaluation within the scopes of generative art and philosophy of technology. Fabio is currently Lecturer and Coordinator of Music Technology at the School of Music of the University of Auckland
+  desc: Fabio was a postdoctoral research assistant focusing on musical interface design and evaluation within the scopes of generative art and philosophy of technology. Fabio is currently Lecturer and Coordinator of Music Technology at the School of Music of the University of Auckland.
 - avatar: ../images/people/kurijn.jpg
   name: Dr Kurijn Buys
   position: Postdoctoral Research Assistant 2016-2018
@@ -45,7 +45,7 @@
     - link: http://enzienaudio.com
       icon: link
   desc:
-    Chris was a PhD student at the Augmented Instruments Lab from 2012-2017. His research focused on procedural audio and digital foley, and he now works at Enzien Audio in Brighton, UK.
+    Chris was a PhD student at the Augmented Instruments Lab from 2012-2017. His research focused on procedural audio and digital foley. He is now working as a sound designer in Malta.
 - avatar: ../images/people/astrid.jpg
   name: Dr Astrid Bin
   position: PhD student, 2014-2017
@@ -60,3 +60,11 @@
       icon: linkedin
   desc:
     Astrid was a PhD student in the Augmented Instruments Lab from 2014-17, where her research focused on the audience perception of error in DMI performance. She's now a postdoctoral fellow in the Center for Music Technology and Expressive Machinery Lab at Georgia Tech in Atlanta, GA.
+- avatar: ../images/people/liam.jpg
+  name: Dr Liam Donovan
+  position: PhD student 2013-18; RAEng Enterprise Fellow 2018-19
+  socials:
+    - link: http://www.liamdonovan.co.uk
+      icon: link
+  desc:
+    Liam was a PhD student in the Augmented Instruments Lab from 2013-18, where he developed new techniques for vibration control of stringed musical instruments. During his PhD and a subsequent fellowship, he also contributed to the Bela low-latency audio platform.

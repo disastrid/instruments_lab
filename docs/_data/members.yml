@@ -14,6 +14,7 @@
       icon: link
   education: S.B. Music, S.B. Electrical Engineering, MIT; M.Eng. Electrical Engineering, MIT; Ph.D. Music Composition, U. Penn. 2009; Postdoc Drexel University MET-lab 2009-2011
   desc: Composition, actuated instruments, viola, piano, embedded audio systems
+
 - avatar: ../images/people/laurel.jpg
   name: Dr Laurel Pardue
   position: Postdoctoral Research Assistant
@@ -22,15 +23,7 @@
   socials:
     - link: https://scholar.google.com/citations?user=UXWpcQ4AAAAJ
       icon: graduation-cap
-- avatar: ../images/people/liam.jpg
-  name: Dr Liam Donovan
-  education: M.Eng. Engineering Science, University of Oxford 2011; PhD, QMUL Augmented Instruments Laboratory, 2018
-  position: RAEng Enterprise Fellow
-  socials:
-    - link: http://bela.io
-      icon: link
-  desc:
-    Bela embedded audio platform; developing and building new acoustic musical instruments
+
 - avatar: ../images/people/robert.jpg
   name: Dr Robert Jack
   position: Postdoctoral Research Assistant
@@ -43,12 +36,14 @@
     - link: http://www.robertjack.org
       icon: link
   desc: Touch and musical instrument design, cross-modal perception, non-visual interfaces, sensorimotor feedback, haptics, percussion, strings and live electronics.
+
 - avatar: ../images/people/giulio.jpeg
   name: Giulio Moro
   education: Bachelors in sound recording (Conservatory of Padua), MSc in Digital Music Processing (QMUL)
   position: PhD student (2015-present, co-supervised with Mark Sandler), Research Assistant (2017)
   socials:
   desc: Touch on keyboard instruments, low latency audio and sensors, embedded devices, why-do-people-think-analog-is-better
+
 - avatar: ../images/people/jack.jpg
   name: Jack Armitage
   position: PhD student (2016-present)
@@ -62,6 +57,7 @@
       icon: github
   desc:
     Musical instruments, composition systems, cognitive science, (post) human-computer interaction
+
 - avatar: ../images/people/jacob.jpg
   name: Jacob Harrison
   position: PhD student (2016-present)
@@ -71,6 +67,7 @@
       icon: twitter
   desc:
     Interface and instrument design, accessible music technology
+
 - avatar: ../images/people/giacomo.jpg
   name: Giacomo Lepri
   position: PhD student (2017-present)
@@ -110,3 +107,25 @@
       icon: twitter
   desc:
    new interfaces for musical expression, interactive art, augmented instruments
+
+- avatar: ../images/people/charlotte.jpg
+  name: Charlotte Nordmoen
+  position: PhD student (2018-present)
+  education: Ba(Hons) Costume for the Performing Arts, London College of Fashion; MA Material Futures, Central Saint Martins
+  socials:
+    - link: http://www.cnordmoen.com
+      icon: link
+  desc: materiality, tacit knowledge, embodiment, digital fabrication, craft practice
+
+- avatar: ../images/people/courtney.jpg
+  name: Courtney Nicole Reed
+  position: PhD student (2019-present)
+  socials:
+    - link: https://courtneynreed.wordpress.com
+      icon: link
+    - link: https://twitter.com/courtneynreed1
+      icon: twitter
+    - link: https://www.linkedin.com/in/courtneynreed
+      icon: linkedin
+  education: BMus Electronic Production & Design, Berklee College of Music; MSc Computer Science, Queen Mary University of London
+  desc: Musical expression, singing voice and voice physiology, music cognition, music education, expressive interfaces

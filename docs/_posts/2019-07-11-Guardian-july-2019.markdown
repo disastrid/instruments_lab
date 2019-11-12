@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "The Guardian!"
+categories: [news]
+images: /images/news/GuardianLia.jpeg
+front-image: /images/news/GuardianLia.jpeg
+event_date: July 11, 2019
+excerpt: An article featuring some of the latests Augmented Instrument Lab activities  
+url: https://www.theguardian.com/careers/2019/jul/10/we-need-to-put-inclusion-at-the-start-of-the-process-the-disabled-musicians-making-their-own-instruments
+---
+
+We are pleased to share a fabulous [Guarding article](https://www.theguardian.com/careers/2019/jul/10/we-need-to-put-inclusion-at-the-start-of-the-process-the-disabled-musicians-making-their-own-instruments) about musical instrument design and inclusion. The piece features some of the latests Lab research and our recent concert at IKLECTIK. Amongst other, the piece discuss the work of our colleagues Lia Mice, Laurel Pardue and the Bela platform initiative!
