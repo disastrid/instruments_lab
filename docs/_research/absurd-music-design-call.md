@@ -28,8 +28,6 @@ published: true
 
 *** [Absurd Music Design Form](http://instrumentslab.org/data/giacomo/AbsForm.docx)*** -->
 
-[Absurd Music Design Call](http://instrumentslab.org/research/absurd-music-design-call.html)
-
 **Notification of Acceptance: 27 September 2019**
 
 **Unuseless Music Design Hackathon Fee: £15**
