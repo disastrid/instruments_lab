@@ -7,7 +7,7 @@ thumb: absurd-music-design/guitardistort.jpg
 authors: "Giacomo Lepri"
 main-image: /images/research/absurd-music-design/Blackmidi03.jpg
 para: Call for Participation - Absurd Musical Interfaces
-published: true
+published: false
 ---
 
 #### 8-9 November 2019
@@ -24,9 +24,9 @@ published: true
 
 ##### Application Deadline Expired
 
-<!-- ***Please send the form below to g.lepri[at]qmul.ac.uk***
+<!-- ***Please send the form below to g.lepri[at]qmul.ac.uk*** -->
 
-*** [Absurd Music Design Form](http://instrumentslab.org/data/giacomo/AbsForm.docx)*** -->
+*** [Absurd Music Design Form](http://instrumentslab.org/data/giacomo/AbsForm.docx)***
 
 **Notification of Acceptance: 27 September 2019**
 
@@ -62,7 +62,7 @@ ___
 
 ##### Go absurd
 
-Interested candidates are required to sketch an unusless music design idea to be developed during the hack lab. The various proposals will offer the basis for further brainstorming during the course of the event. You might therefore work on a team or individually to develop the submitted idea, a variation it or a fresh silly concept. Proposals should also include a short summary of candidates’ musical/artistic background and technical skills. <!-- (see Absurd Music Design Form link above).-->
+Interested candidates are required to sketch an unusless music design idea to be developed during the hack lab. The various proposals will offer the basis for further brainstorming during the course of the event. You might therefore work on a team or individually to develop the submitted idea, a variation it or a fresh silly concept. Proposals should also include a short summary of candidates’ musical/artistic background and technical skills (see Absurd Music Design Form link above).
 
 Max 25 participants will be accepted. The selection criteria include:
 
