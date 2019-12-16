@@ -1,6 +1,6 @@
 ---
 layout: research
-title:  "Unuseless Music Designs"
+title:  "Unuseless Music Designs Call"
 tag: "Workshop"
 tagline: A Seriously Absurd Hackathon
 thumb: absurd-music-design/guitardistort.jpg
