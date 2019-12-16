@@ -7,7 +7,7 @@ thumb: absurd-music-design/guitardistort.jpg
 authors: "Giacomo Lepri"
 main-image: /images/research/absurd-music-design/Blackmidi03.jpg
 para: Call for Participation - Absurd Musical Interfaces
-published: false
+published: true 
 ---
 
 #### 8-9 November 2019
