@@ -24,13 +24,13 @@ published: false
 
 ##### Application Deadline Expired
 
-<!-- ***Please send the form below to g.lepri[at]qmul.ac.uk*** -->
+<!-- ***Please send the form below to g.lepri[at]qmul.ac.uk***
 
-*** [Absurd Music Design Form](http://instrumentslab.org/data/giacomo/AbsForm.docx)***
+***[Absurd Music Design Form](http://instrumentslab.org/data/giacomo/AbsForm.docx)***
 
 **Notification of Acceptance: 27 September 2019**
 
-**Unuseless Music Design Hackathon Fee: £15**
+**Unuseless Music Design Hackathon Fee: £15** -->
 
 The event is part of Inter/sections 2019 and it will be held at Queen Mary University of London - [Mile End campus](https://www.qmul.ac.uk/about/howtofindus/mileend/), London.
 
