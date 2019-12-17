@@ -28,7 +28,7 @@ published: true
 
 *** [Absurd Music Design Form](http://instrumentslab.org/data/giacomo/AbsForm.docx)*** -->
 
-[Absurd Music Design Call](http://instrumentslab.org/research/absurd-music-design-call.html)
+[Absurd Music Design Call](http://instrumentslab.org/news/events/2019/08/08/absurd-november-2019.html)
 
 **Notification of Acceptance: 27 September 2019**
 
