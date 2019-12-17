@@ -13,7 +13,7 @@ url: http://instrumentslab.org/research/absurd-music-design.html
 
 ***Artists, technologists and makers are invited to take part in a hackathon around the themes of absurd musical interfaces, questionable sonic interactions and unworkable music designs.***
 
-{% include single-image-research.html fileName="absurd-music-design/carelman-objet-introuvable.jpg" %}
+<!-- {% include single-image-research.html fileName="absurd-music-design/carelman-objet-introuvable.jpg" %} -->
 
 >**Making absurd, surreal and silly musical propositions.**<br>
 >**Composing unconventional artefacts challenging current music technology.**<br>
