@@ -15,9 +15,9 @@ para: Making absurd and silly musical interfaces
 
 The event was part of [Inter/sections](https://intersections.io/) 2019 supported by the [Media and Arts Technology](http://www.mat.qmul.ac.uk/) (MAT) doctoral training centre - Queen Mary University of London.
 
-<!-- {% include two-image-include.html left_image="All05.png" right_image="All04.png" image_subfolder="research/absurd-music-design" %} -->
+{% include two-image-include.html left_image="All05.png" right_image="All04.png" image_subfolder="research/absurd-music-design" %}
 
-{% include three-image-include.html left_image="All05.png" middle_image="All04.png" right_image="All06.png" image_subfolder="research/absurd-music-design" %}
+<!-- {% include three-image-include.html left_image="All05.png" middle_image="All04.png" right_image="All06.png" image_subfolder="research/absurd-music-design" %} -->
 
 ##### Featured Mentors
 
@@ -26,11 +26,47 @@ The event was part of [Inter/sections](https://intersections.io/) 2019 supported
 
 Hannah and John supported the hackthon in a sublime fashion. These guests have both significant experience in the fields of music technology, craft, research through design and DIY. They were on site for the all duration of the event, guiding and challenging participants from both technical and theoretical viewpoints.
 
-{% include two-image-include.html left_image="John.png" right_image="Hannah.png" image_subfolder="research/absurd-music-design" %}
+<!--{% include two-image-include.html left_image="John.png" right_image="Hannah.png" image_subfolder="research/absurd-music-design" %}-->
 
+{% include single-image-research.html fileName="absurd-music-design/Hannah.png"%}
+___
+
+{% include single-image-research.html fileName="absurd-music-design/John.png"%}
 ___
 
 ##### Useless (but not worthless) music designs
+
+{% include youtube.html youtube="gUy3HX3mTlA" %}
+
+{% include youtube.html youtube="gUy3HX3mTlA" %}
+
+{% include youtube.html youtube="gUy3HX3mTlA" %}
+
+{% include youtube.html youtube="gUy3HX3mTlA" %}
+
+{% include youtube.html youtube="gUy3HX3mTlA" %}
+
+{% include youtube.html youtube="gUy3HX3mTlA" %}
+
+{% include youtube.html youtube="gUy3HX3mTlA" %}
+
+{% include youtube.html youtube="gUy3HX3mTlA" %}
+
+{% include youtube.html youtube="gUy3HX3mTlA" %}
+
+{% include youtube.html youtube="gUy3HX3mTlA" %}
+
+{% include youtube.html youtube="gUy3HX3mTlA" %}
+
+{% include youtube.html youtube="gUy3HX3mTlA" %}
+
+{% include youtube.html youtube="gUy3HX3mTlA" %}
+
+{% include youtube.html youtube="gUy3HX3mTlA" %}
+
+{% include youtube.html youtube="gUy3HX3mTlA" %}
+
+{% include youtube.html youtube="gUy3HX3mTlA" %}
 
 {% include youtube.html youtube="gUy3HX3mTlA" %}
 
