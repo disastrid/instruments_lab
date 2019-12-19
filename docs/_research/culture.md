@@ -24,7 +24,7 @@ ___
 
 ##### On the influences of communities and musical backgrounds
 
-{% include single-image-research.html fileName="culture/WorkshopLab01.jpg" caption="Musicians making fictional musical instruments - As if by Magic workshop, Genoa, Italy, March 2018" %}
+{% include single-image-include.html fileName="culture/WorkshopLab01.jpg" caption="Musicians making fictional musical instruments - As if by Magic workshop, Genoa, Italy, March 2018" %}
 
 To explore how diverse musical backgrounds might influence the understanding of music technology we ran a value discovery exercise exploring the breadth of perspectives different communities might have in relation to the values inscribed in fictional technologies for musical interaction. We conducted a hands-on activity in which musicians active in different contexts were invited to envision not-yet-existent musical instruments. The outcomes revealed several sources of influence on participants’ artefacts, including cultural background, instrumental training, and prior experience with music technology. Overall the research highlighted the importance of cultural awareness and value rationality for the design of interactive systems within and beyond the musical domain.
 
@@ -41,7 +41,7 @@ and generate manifestations of unknown technologies. Our workshop is therefore b
 
 {% include two-image-include.html left_image="Machine01.png" right_image="Machine03.png" image_subfolder="research/culture" caption=" From left to right: (1) AntennaLele - an ukulele like instrument with a bendable neck. The designer focused on the alteration of a specific element (guitar neck) in order to accurately “shape harmonies and melodies”. (2) SonicAlarm - a wire based instrument with attachments to be loosely hooked to both upper and lower limbs. The artefacts emphasises the notions of low control and stochastic behaviour. (3) No name - A string instrument that can only play notes with prime number frequencies, to produced “optimally dissonant” sounds. (4) Space Vibrator - a “plinky sort of instrument” (i.e. a funny string instrument) that turned out to be a really badly made spaceship."%}
 
-{% include single-image-research.html fileName="culture/Machine02.png" caption="From left to right: (1) Orchestra - the conductor interacting with a musician of the orchestra. In this artefact the instrument disappears (transparent mediation technology) and the ideas of communication and interplay are privileged. (2) CorpoSuono - An organ like instrument with tubes filtering the air and a stopper to close them. The artefact focuses on the notion of timbre manipulation."%}
+{% include single-image-include.html fileName="culture/Machine02.png" caption="From left to right: (1) Orchestra - the conductor interacting with a musician of the orchestra. In this artefact the instrument disappears (transparent mediation technology) and the ideas of communication and interplay are privileged. (2) CorpoSuono - An organ like instrument with tubes filtering the air and a stopper to close them. The artefact focuses on the notion of timbre manipulation."%}
 
 - G. Lepri and A. P. McPherson. [Making Up Instruments: Design Fiction for Value Discovery in Communities of Musical Practice.](http://instrumentslab.org/data/giacomo/2019DISFinal.pdf) Proc. ACM Designing Interactive Systems (DIS), San Diego, Californis, USA. 2019.
 
@@ -93,7 +93,7 @@ The piece aims to mirror this process: a typewriter is converted into an interac
 
 > ***Workshop Structure***
 
-{% include single-image-research.html fileName="culture/Machine03.png" %}
+{% include single-image-include.html fileName="culture/Machine03.png" %}
 
 ### Background
 
