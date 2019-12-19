@@ -12,7 +12,7 @@ published: true
 
 ***Artists, technologists and makers took part in a hackathon around the themes of absurd musical interfaces, questionable sonic interactions and unworkable music designs. On the wake of the [Stupid Hackathons](https://gist.github.com/cheeaun/c3fe6cbb11aef1e146a3474dccf63b87)***
 
-{% include three-image-research.html left_image="All01.png" middle_image="All02.png" right_image="All03.png" image_subfolder="absurd-music-design" %}
+{% include two-image-research.html left_image="All01.png" right_image="All03.png" image_subfolder="absurd-music-design" %}
 
 >** See the [Absurd Music Design Call](http://instrumentslab.org/news/events/2019/08/08/absurd-november-2019.html)
 
