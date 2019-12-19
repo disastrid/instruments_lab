@@ -45,5 +45,3 @@ Videos and images credits:
 <br>
 
 Inter/sections is supported by:
-
-{% include single-image-research.html fileName="absurd-music-design/LogosAll.png" %}
