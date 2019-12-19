@@ -11,13 +11,13 @@ para: Making absurd and silly musical interfaces
 
 ***Artists, technologists and makers took part in a hackathon around the themes of absurd musical interfaces, questionable sonic interactions and unworkable music designs.***
 
->**On the wake of the [Stupid Hackathons](https://gist.github.com/cheeaun/c3fe6cbb11aef1e146a3474dccf63b87)**<br>
->
->**See the [Absurd Music Design Call](http://instrumentslab.org/news/events/2019/08/08/absurd-november-2019.html)**<br>
+>**On the wake of the [Stupid Hackathons](https://gist.github.com/cheeaun/c3fe6cbb11aef1e146a3474dccf63b87), see the [Absurd Music Design Call](http://instrumentslab.org/news/events/2019/08/08/absurd-november-2019.html)**
 
 The event was part of [Inter/sections](https://intersections.io/) 2019 supported by the [Media and Arts Technology](http://www.mat.qmul.ac.uk/) (MAT) doctoral training centre - Queen Mary University of London.
 
-{% include three-image-include.html left_image="All01.png" middle_image="All02.png" right_image="All03.png" image_subfolder="research/absurd-music-design" %}
+<!-- {% include two-image-include.html left_image="All05.png" right_image="All04.png" image_subfolder="research/absurd-music-design" %} -->
+
+{% include three-image-include.html left_image="All05.png" middle_image="All04.png" right_image="All06.png" image_subfolder="research/absurd-music-design" %}
 
 ##### Featured Mentors
 
@@ -26,11 +26,13 @@ The event was part of [Inter/sections](https://intersections.io/) 2019 supported
 
 Hannah and John supported the hackthon in a sublime fashion. These guests have both significant experience in the fields of music technology, craft, research through design and DIY. They were on site for the all duration of the event, guiding and challenging participants from both technical and theoretical viewpoints.
 
+{% include two-image-include.html left_image="John.png" right_image="Hannah.png" image_subfolder="research/absurd-music-design" %}
+
 ___
 
 ##### Useless (but not worthless) music designs
 
-***Artists
+{% include youtube.html youtube="gUy3HX3mTlA" %}
 
 <br>
 <br>
