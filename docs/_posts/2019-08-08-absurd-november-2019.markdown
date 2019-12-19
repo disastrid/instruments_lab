@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Absurd Musical Interfaces Hackathon"
+title:  "Absurd Music Hackathon"
 categories: [news, events]
 images: /images/news/carelman-objet-introuvable.jpg
 front-image: /images/news/carelman-objet-introuvable.jpg
@@ -34,14 +34,12 @@ url: http://instrumentslab.org/research/absurd-music-design.html
 The event is part of Inter/sections 2019 and it will be held at Queen Mary University of London - [Mile End campus](https://www.qmul.ac.uk/about/howtofindus/mileend/), London.
 
 ___
-___
 
 ##### Featured Mentors
 
 - [John Bowers](https://www.ncl.ac.uk/sacs/staff/profile/johnbowers.html)
 - [Hannah Perner-Wilson](https://www.plusea.at)
 
-___
 ___
 
 ##### Silly, playful and subversive design
@@ -56,7 +54,6 @@ John Bowers and Owen Green instead exploited the notion of [hijacking](http://ww
 
 The workshop’s outcomes might illustrate future visions, uses of new materials, and potential ideas. The designed artefacts and the considerations around them might contribute to generate guidelines, methodological intuitions or provocative statements to be shared with broader design research communities. The project outcomes, ranging from methods and design processes, will be therefore disseminated through academic publications characterised by a strong multidisciplinary outreach.
 
-___
 ___
 
 ##### Go absurd
@@ -82,7 +79,6 @@ The following approaches are suggested (but not required) for the proposal of ab
 - musical interventions beyond realistic technological premises
 
 ___
-___
 
 ##### Mentors
 
@@ -97,7 +93,6 @@ In order to support participants two external mentors have been invited to join 
 
 [Hannah Perner-Wilson](https://www.plusea.at) (AT) explores the electrical properties of materials and traditional and contemporary craft techniques, developing new techniques for building electronics that emphasize materiality and process. She believes that this will allow us to build electronics that are more diverse, understandable and expressive than electronics currently are. She is part of the collective [KOBAKANT](https://www.kobakant.at/?category_name=work) which, amongst many commissions and art projects, published an online database [How To Get What You Want](https://www.kobakant.at/DIY/) for sharing DIY wearable technology approach.
 
-___
 ___
 
 ##### Workshop structure and resources
@@ -193,7 +188,6 @@ Images credits:
 
 - Jaques Carelman - Bicyclette-Harmonium
 - AuthorFilms - Reddit - ProgrammerHumor - Advanced Volume Control
-- Bruce Gray - Jimi's Nightmare - Distorted Electric Guitar Sculpture
 
 <br>
 <br>
