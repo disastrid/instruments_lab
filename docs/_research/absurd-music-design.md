@@ -3,7 +3,7 @@ layout: research
 title:  "Unuseless Music Designs"
 tag: "Workshop"
 tagline: A Seriously Absurd Event
-thumb: absurd-music-design/guitardistort.jpg
+thumb: /images/research/absurd-music-design/guitardistort.jpg
 authors: "Giacomo Lepri"
 main-image: /images/research/absurd-music-design/Blackmidi03.jpg
 para: An Absurd Music Hackathon
