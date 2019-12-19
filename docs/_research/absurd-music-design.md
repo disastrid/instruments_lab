@@ -2,12 +2,11 @@
 layout: research
 title:  "Unuseless Music Designs"
 tag: "Workshop"
-tagline: A Seriously Absurd Event
+tagline: A Seriously Absurd Hackathon
 thumb: absurd-music-design/guitardistort.jpg
 authors: "Giacomo Lepri"
 main-image: /images/research/absurd-music-design/Blackmidi03.jpg
-para: An Absurd Music Hackathon
-published: true
+para: Making absurd and silly musical interfaces
 ---
 
 ***Artists, technologists and makers took part in a hackathon around the themes of absurd musical interfaces, questionable sonic interactions and unworkable music designs.***
