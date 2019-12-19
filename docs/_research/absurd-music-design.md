@@ -10,9 +10,10 @@ para: An Absurd Music Hackathon
 published: true
 ---
 
-***Artists, technologists and makers took part in a hackathon around the themes of absurd musical interfaces, questionable sonic interactions and unworkable music designs. On the wake of the [Stupid Hackathons](https://gist.github.com/cheeaun/c3fe6cbb11aef1e146a3474dccf63b87)***
+***Artists, technologists and makers took part in a hackathon around the themes of absurd musical interfaces, questionable sonic interactions and unworkable music designs.***
 
->** See the [Absurd Music Design Call](http://instrumentslab.org/news/events/2019/08/08/absurd-november-2019.html)
+>** On the wake of the [Stupid Hackathons](https://gist.github.com/cheeaun/c3fe6cbb11aef1e146a3474dccf63b87)..
+>** ..see the [Absurd Music Design Call](http://instrumentslab.org/news/events/2019/08/08/absurd-november-2019.html)
 
 The event was part of [Inter/sections](https://intersections.io/) 2019 supported by the [Media and Arts Technology](http://www.mat.qmul.ac.uk/) (MAT) doctoral training centre - Queen Mary University of London.
 
