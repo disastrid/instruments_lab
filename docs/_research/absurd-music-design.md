@@ -12,7 +12,7 @@ published: true
 
 ***Artists, technologists and makers took part in a hackathon around the themes of absurd musical interfaces, questionable sonic interactions and unworkable music designs. On the wake of the [Stupid Hackathons](https://gist.github.com/cheeaun/c3fe6cbb11aef1e146a3474dccf63b87)***
 
-{% include three-image-include.html left_image="All01.png" middle_image="All02.png" right_image="All03.png" image_subfolder="absurd-music-design" %}
+<!--{% include three-image-include.html left_image="All01.png" middle_image="All02.png" right_image="All03.png" image_subfolder="absurd-music-design" %}-->
 
 >** See the [Absurd Music Design Call](http://instrumentslab.org/news/events/2019/08/08/absurd-november-2019.html)
 
@@ -25,7 +25,7 @@ The event was part of [Inter/sections](https://intersections.io/) 2019 supported
 
 Hannah and John supported the hackthon in a sublime fashion. These guests have both significant experience in the fields of music technology, craft, research through design and DIY. They were on site for the all duration of the event, guiding and challenging participants from both technical and theoretical viewpoints.
 
-{% include two-image-include.html left_image="John.png" right_image="Hannah.png" image_subfolder="absurd-music-design" %}
+<!--{% include two-image-include.html left_image="John.png" right_image="Hannah.png" image_subfolder="absurd-music-design" %}-->
 ___
 
 ##### Useless (but not worthless) music designs
@@ -49,4 +49,4 @@ Videos and images credits:
 
 Inter/sections is supported by:
 
-{% include single-image-include.html fileName="absurd-music-design/LogosAll.png" %}
+<!--{% include single-image-include.html fileName="absurd-music-design/LogosAll.png" %}-->
