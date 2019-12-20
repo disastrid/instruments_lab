@@ -15,9 +15,13 @@ para: Making absurd musical interfaces
 
 The event was part of [Inter/sections](https://intersections.io/) 2019 supported by the [Media and Arts Technology](http://www.mat.qmul.ac.uk/) (MAT) doctoral training centre - Queen Mary University of London.
 
-{% include two-image-include.html left_image="All05.png" right_image="All06.png" image_subfolder="research/absurd-music-design" %}
+<!-- {% include single-image-research.html fileName="absurd-music-design/All05.png"%} -->
 
-<!-- {% include three-image-include.html left_image="All05.png" middle_image="All04.png" right_image="All06.png" image_subfolder="research/absurd-music-design" %} -->
+<!-- {% include two-image-include.html left_image="All05.png" right_image="All06.png" image_subfolder="research/absurd-music-design" %} -->
+
+{% include three-image-include.html left_image="All05.png" middle_image="All04.png" right_image="All06.png" image_subfolder="research/absurd-music-design" %}
+
+___
 
 <br>
 
@@ -76,11 +80,10 @@ ___
 
 Videos and images credits:
 
-- Pete Bennett ((hackathon pics and videos)
-- Andrew McPherson (hackathon pics and videos)
-- Alessia Milo (hackathon pics and videos)
-- Antonella Nonnis (hackathon pics and videos)
-- Jaques Carelman - Bicyclette-Harmonium
+- Pete Bennett
+- Andrew McPherson
+- Alessia Milo
+- Antonella Nonnis
 - Bruce Gray - Jimi's Nightmare - Distorted Electric Guitar Sculpture
 
 <br>
