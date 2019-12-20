@@ -2,7 +2,7 @@
 layout: post
 title:  "Augmented Instruments Laboratory Concert"
 categories: [news, events]
-images: /images/news/Kuljit.jpeg
+images: /images/news/AILconcertNovember2019small.jpeg
 front-image: /images/news/Kuljit.jpeg
 event_date: November 27, 2019
 excerpt: Music & installations from the augmented instruments laboratory
