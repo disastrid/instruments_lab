@@ -17,9 +17,9 @@ The event was part of [Inter/sections](https://intersections.io/) 2019 supported
 
 <!-- {% include single-image-research.html fileName="absurd-music-design/All05.png"%} -->
 
-<!-- {% include two-image-include.html left_image="All05.png" right_image="All06.png" image_subfolder="research/absurd-music-design" %} -->
+{% include two-image-include.html left_image="All07.png" right_image="All08.png" image_subfolder="research/absurd-music-design" %}
 
-{% include three-image-include.html left_image="All05.png" middle_image="All04.png" right_image="All06.png" image_subfolder="research/absurd-music-design" %}
+<!-- {% include three-image-include.html left_image="All05.png" middle_image="All04.png" right_image="All06.png" image_subfolder="research/absurd-music-design" %} -->
 
 ___
 
