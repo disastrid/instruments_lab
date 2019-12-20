@@ -6,18 +6,20 @@ tagline: A Seriously Absurd Hackathon
 thumb: absurd-music-design/guitardistort.jpg
 authors: "Giacomo Lepri"
 main-image: /images/research/absurd-music-design/Blackmidi03.jpg
-para: Making absurd and silly musical interfaces
+para: Making absurd musical interfaces
 ---
 
 ***Artists, technologists and makers took part in a hackathon around the themes of absurd musical interfaces, questionable sonic interactions and unworkable music designs.***
 
->**On the wake of the [Stupid Hackathons](https://gist.github.com/cheeaun/c3fe6cbb11aef1e146a3474dccf63b87), see the [Absurd Music Design Call](http://instrumentslab.org/news/events/2019/08/08/absurd-november-2019.html)**
+>**On the wake of the [Stupid Hackathons](https://gist.github.com/cheeaun/c3fe6cbb11aef1e146a3474dccf63b87), see the [Absurd Music Hackathon Call](http://instrumentslab.org/news/events/2019/08/08/absurd-november-2019.html)**
 
 The event was part of [Inter/sections](https://intersections.io/) 2019 supported by the [Media and Arts Technology](http://www.mat.qmul.ac.uk/) (MAT) doctoral training centre - Queen Mary University of London.
 
-{% include two-image-include.html left_image="All05.png" right_image="All04.png" image_subfolder="research/absurd-music-design" %}
+{% include two-image-include.html left_image="All05.png" right_image="All06.png" image_subfolder="research/absurd-music-design" %}
 
 <!-- {% include three-image-include.html left_image="All05.png" middle_image="All04.png" right_image="All06.png" image_subfolder="research/absurd-music-design" %} -->
+
+<br>
 
 ##### Featured Mentors
 
@@ -36,7 +38,7 @@ ___
 
 ##### Useless (but not worthless) music designs
 
-{% include youtube.html youtube="gUy3HX3mTlA" %}
+<!-- {% include youtube.html youtube="gUy3HX3mTlA" %}
 
 {% include youtube.html youtube="gUy3HX3mTlA" %}
 
@@ -68,9 +70,8 @@ ___
 
 {% include youtube.html youtube="gUy3HX3mTlA" %}
 
-{% include youtube.html youtube="gUy3HX3mTlA" %}
+{% include youtube.html youtube="gUy3HX3mTlA" %} -->
 
-<br>
 <br>
 
 Videos and images credits:
