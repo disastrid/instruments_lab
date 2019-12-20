@@ -2,9 +2,9 @@
 layout: post
 title:  "Augmented Instruments Laboratory Concert"
 categories: [news, events]
-images: /images/news/AIL_concert_nov2019.jpg
+images: /images/news/Kuljit.jpeg
 front-image: /images/news/Kuljit.jpeg
-event_date: June 14, 2019
+event_date: November 27, 2019
 excerpt: Music & installations from the augmented instruments laboratory
 url: https://iklectikartlab.com/music-installations-from-the-augmented-instruments-laboratory/
 ---
@@ -16,6 +16,8 @@ The concert programme featured two special guests:
 ***[Kuljit Bhamra](https://en.wikipedia.org/wiki/Kuljit_Bhamra) - composer and musician currently collaborating with some of Lab members.***
 
 ***[Jonathan Reus](https://jonathanreus.com/) - artist in residence at the Lab working on an augmented banjo based on the [most recent technologies](http://instrumentslab.org/news/2019/09/16/trill-kickstarter-september-2019.html) developed at the Lab.***
+
+{% include single-image.html fileName="news/AIL_concert_nov2019.jpg" %}
 
 More details [here](https://iklectikartlab.com/music-installations-from-the-augmented-instruments-laboratory/) !!
 
