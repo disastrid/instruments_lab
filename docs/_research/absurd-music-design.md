@@ -40,6 +40,8 @@ ___
 {% include single-image-research.html fileName="absurd-music-design/John.png"%}
 ___
 
+<br>
+
 ##### Useless (but not worthless) music designs
 
 **Andrea Urist**
@@ -47,13 +49,15 @@ ___
 {% include youtube.html youtube="RFh54LfF6TY" %}
 
 Andrea worked out a beautiful overly complicated sonic machine: grab this stuffed fluffy thing to get a sound back! Repurposing a vintage toy crane motor in a silly sonic experience. This unsuseless design plays with arcade games esthetic and expectations: here it is almost impossible not to win!
+
 ___
 
 **Maria Svahn, Josefine Holling & Annie Tadne**
 
-{% include youtube.html youtube="LICKTXX09E" %}
+{% include youtube.html youtube="_LICKTXX09E" %}
 
 Introducing the Bug Orchestra. A fully equipped facility to elicit animals' musical creativity (including red carpet, dance floor and rave area). An artistic residency in which a small ensemble of robotic bugs compose and and perform new music out of quite unpredictable endeavors.
+
 ___
 
 **Simon Duck**
@@ -61,6 +65,7 @@ ___
 {% include youtube.html youtube="vE5gyNw_wok" %}
 
 How to design a keyboard that minimises performance anxiety? Simon came out with the MIDI uncontroller idea: a MIDI keyboard that decide everything for you. Exploiting randomness for almost all the keyboard parameters, the machine takes control away from the musician that can finally stop to care about stressful questions such as "what to play next?" or "how to play this?".
+
 ___
 
 **Antonella Nonnis & Mei Zhang**
@@ -68,6 +73,7 @@ ___
 {% include youtube.html youtube="pKxsuP9u6pg" %}
 
 The Patroniser is a wearable interface exploring troublesonic interactions. The goal is to put in an uncomfortable situation the performers that have to interact with the artefact. The e-textile design is made of a scrubbable and squeezable bra and a hat that can be played by patting on it.
+
 ___
 
 **Andrew McPherson & Jacob Harrison**
@@ -75,32 +81,67 @@ ___
 {% include youtube.html youtube="MdphBOpZQMI" %}
 
 Everyone Can Make Music condenses in one instrument all the most advanced music tech innovations that will ultimately democratise music practice. Finally now everyone can play music! It's easy, friendly and intuitive. Thanks to this instrument you will make outstanding music in five different styles!
+
 ___
 
 **Juan Martinez Avila**
 
-% include youtube.html youtube="PmX6MoUvGNE" %}
+{% include youtube.html youtube="PmX6MoUvGNE" %}
 
 A seriously silly guitar strap: augmenting guitar using e-textile technique. A stretchable strap controlling the sound produced by the instrument. Subverting the ways we think about instruments and their attachments. When absurdity reveals the future of music technology.
+
 ___
 
 **Alice Haynes**
 
 {% include youtube.html youtube="VFug6PlRFX4" %}
 
-Building music tech to be used in the depth of the ocean inspired by Narwhal whales. A sonic interface to be used in the depth of the ocean to communicate with friends and neighbors. When there is no light and no vision, a glimpse of uselessness might help us underwater..
+A sonic interface inspired by Narwhal whales. If you were in the depth of the ocean, where there is no light and no vision, how you might explore your surroundings? How to communicate with friends and neighbors? A glimpse of sonic uselessness might help you underwater..
+
+___
+
+**Pete Bennett**
+
+{% include youtube.html youtube="p9_V0XHbbV0" %}
+
+Pete produced a great number of useless things. These includes an advanced AI technology converting the sound of a kazoo into text. To be more appealing for the market the "banana feature" was introduced. As side projects, Pete also developed a disguise shaker, a Ten oh Ten synth, a pool noodles dance generator and something else we probably missed. Ah.. Through a successful collaboration with Alice, Pete also focused on an ambisonic chamber based on pool noodle technology.
+
+___
+
+**Sam Topley**
+
+{% include youtube.html youtube="QJxjfve1qeU" %}
+
+An instrument made of pompoms or knitted balls.. To be positioned in awkward places and played through non-conventional gestures - for
+example, forward rolling, head butting. A full body flailing experience.
+
+___
+
+**Lia Mice & Tijs Ham**
+
+{% include youtube.html youtube="JymU1ZWZwpY" %}
+
+It's time to magnify standard music controllers. How music production and performance would change if we use 1.5 meter long slider and knobs with 1 meter of radius? The latest frontiers in high definition technology, ridiculously giant controllers and unpredictable sonic engines.
+
+___
+
+**Dominique Baron-Bonarjee**
+
+{% include youtube.html youtube="gUy3HX3mTlA" %}
+
+Questioning body movements, dance, meditation and relaxation as non-productive activities. How does "non-doing" sound like? Dominique is interested in exploring the idea of "non-expressing" while making art. Dancing with jelly might be a good starting point.
+
+___
+
+**Sasha de Koninck**
+
+{% include youtube.html youtube="KFHPjPtY94g" %}
+
+Sasha's ongoing project on seventeenth century embellishment textile techniques. An artistic research that will culminates with a final act in which e-textiles connected to audio circuits are disassembled after many hours of labour. A musical interface that vanishes while the performance takes place.
+
+___
 
 <!-- {% include youtube.html youtube="gUy3HX3mTlA" %}
-
-{% include youtube.html youtube="gUy3HX3mTlA" %}
-
-{% include youtube.html youtube="gUy3HX3mTlA" %}
-
-{% include youtube.html youtube="gUy3HX3mTlA" %}
-
-{% include youtube.html youtube="gUy3HX3mTlA" %}
-
-{% include youtube.html youtube="gUy3HX3mTlA" %}
 
 {% include youtube.html youtube="gUy3HX3mTlA" %}
 
