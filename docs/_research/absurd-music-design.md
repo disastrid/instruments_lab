@@ -44,6 +44,22 @@ ___
 
 ##### Useless (but not worthless) music designs
 
+**Juan Martinez Avila**
+
+{% include youtube.html youtube="PmX6MoUvGNE" %}
+
+A seriously silly guitar strap: augmenting guitar using e-textile technique. A stretchable strap controlling the sound produced by the instrument. Subverting the ways we think about instruments and their attachments. When absurdity reveals the future of music technology.
+
+___
+
+**Lia Mice & Tijs Ham**
+
+{% include youtube.html youtube="JymU1ZWZwpY" %}
+
+It's time to magnify standard music controllers. How music production and performance would change if we use 1.5 meter long slider and knobs with 1 meter of radius? The latest frontiers in high definition technology, ridiculously giant controllers and unpredictable sonic engines.
+
+___
+
 **Andrea Urist**
 
 {% include youtube.html youtube="RFh54LfF6TY" %}
@@ -84,14 +100,6 @@ Everyone Can Make Music condenses in one instrument all the most advanced music 
 
 ___
 
-**Juan Martinez Avila**
-
-{% include youtube.html youtube="PmX6MoUvGNE" %}
-
-A seriously silly guitar strap: augmenting guitar using e-textile technique. A stretchable strap controlling the sound produced by the instrument. Subverting the ways we think about instruments and their attachments. When absurdity reveals the future of music technology.
-
-___
-
 **Alice Haynes**
 
 {% include youtube.html youtube="VFug6PlRFX4" %}
@@ -117,14 +125,6 @@ example, forward rolling, head butting. A full body flailing experience.
 
 ___
 
-**Lia Mice & Tijs Ham**
-
-{% include youtube.html youtube="JymU1ZWZwpY" %}
-
-It's time to magnify standard music controllers. How music production and performance would change if we use 1.5 meter long slider and knobs with 1 meter of radius? The latest frontiers in high definition technology, ridiculously giant controllers and unpredictable sonic engines.
-
-___
-
 **Dominique Baron-Bonarjee**
 
 {% include youtube.html youtube="gUy3HX3mTlA" %}
@@ -141,15 +141,57 @@ Sasha's ongoing project on seventeenth century embellishment textile techniques.
 
 ___
 
-<!-- {% include youtube.html youtube="gUy3HX3mTlA" %}
+**Marco Martinez**
 
-{% include youtube.html youtube="gUy3HX3mTlA" %}
+{% include youtube.html youtube="2auI4EANieo" %}
 
-{% include youtube.html youtube="gUy3HX3mTlA" %}
+As simple as a machine that creates silence. Actually, this interface is designed to play a very loud silences. You only need: (i) noise cancelling ears plugs and headphones, (ii) a e-textile pressure sensor and (iii) a low pass over some awfully distorted noise.
 
-{% include youtube.html youtube="gUy3HX3mTlA" %}
+___
 
-{% include youtube.html youtube="gUy3HX3mTlA" %} -->
+**Giorgia Petri & Laura Migliano**
+
+{% include youtube.html youtube="T9_K-KwF6hU" %}
+
+Giorgia and Laura engaged with some pretty cool e-textile materials exploration. Inspired by the art of Origami they assembled a wearable sensors to control sound synthesis. The interface will detect joints such as wrist and elbow articulations. A possible outcome might an interactive musical system in which, like puppets and marionettes, the performer can be moved / played by someone else.
+
+___
+
+**Antonio Nicoletti, Kevin Patton, Lorenzo Minneci & Yusuf Ghani**
+
+{% include youtube.html youtube="gZ5GfErIW4c" %}
+
+The Waternet is based on a stretch sensor matrix. A proper collaborative bubbling experience.
+
+___
+
+**Rafaele	Andrade**
+
+{% include youtube.html youtube="2mSQx2ULwKs" %}
+
+During the Hackathon Rafaele focused on her re-programmable electroacoustic cello: a long run project combining instrument design, live coding, music performance and composition. This was banans.
+
+___
+
+**Yusuf	Ghani**
+
+{% include youtube.html youtube="eTxzU-d-HX4" %}
+
+An instrument that works against gravity. This means that the musician will be able to listen to what they is doing when both their feet goes against gravity. Questioning music performance, gravity and the human body in a single shot.
+
+___
+
+**John Bowers**
+
+{% include youtube.html youtube="zDlJxEdK790" %}
+
+After introducing some of his works (e.g. the Ohm My God synth) John supported the attendees with many suggestions and reflections throughout the overall Hackathon. Besides mentoring, John also found the time develop his own absurd musical interface: he tried very hard to screw a MIDI controller. We believe he succeeded.
+
+___
+
+<br>
+
+>**A special thanks to the wonderful team that made this event possible: Jonathan Winfield, Sophie Skach, Charlotte Nordmoen, Andrea Guidi, Jacob Harrison, Robert Jack, Andrew McPherson, Antonella Nonnis, Lia Mice.**
 
 <br>
 
