@@ -9,6 +9,10 @@ main-image: /images/research/absurd-music-design/Blackmidi03.jpg
 para: Making absurd musical interfaces
 ---
 
+{% include two-image-include.html left_image="All07.png" right_image="All08.png" image_subfolder="research/absurd-music-design" %}
+
+<br>
+
 ***Artists, technologists and makers took part in a hackathon around the themes of absurd musical interfaces, questionable sonic interactions and unworkable music designs.***
 
 ___
@@ -16,10 +20,6 @@ ___
 >***Absurd Music Hackathon [Call for Participation](http://instrumentslab.org/news/events/2019/08/08/absurd-november-2019.html)***
 
 ___
-
-<!-- {% include single-image-research.html fileName="absurd-music-design/All05.png"%} -->
-
-{% include two-image-include.html left_image="All07.png" right_image="All08.png" image_subfolder="research/absurd-music-design" %}
 
 {% include youtube.html youtube="DaIhdtrdO6w" %}
 
@@ -29,10 +29,11 @@ A special thank goes to the wonderful team that made this event possible: Jonath
 
 The event was supported by the [Media and Arts Technology](http://www.mat.qmul.ac.uk/) (MAT) doctoral training centre as part of [Inter/sections](https://intersections.io/) 2019.
 
+<!-- {% include single-image-research.html fileName="absurd-music-design/All05.png"%} -->
+
 <!-- {% include three-image-include.html left_image="All05.png" middle_image="All04.png" right_image="All06.png" image_subfolder="research/absurd-music-design" %} -->
 
 ___
-
 
 <br>
 
@@ -234,7 +235,6 @@ After introducing some of his works (e.g. the Ohm My God synth) John supported t
 
 ___
 
-
 Videos and images credits:
 
 - Pete Bennett
@@ -243,7 +243,8 @@ Videos and images credits:
 - Antonella Nonnis
 - Bruce Gray - Jimi's Nightmare - Distorted Electric Guitar Sculpture
 
-<br>
+___
+
 <br>
 
 Inter/sections is supported by:
