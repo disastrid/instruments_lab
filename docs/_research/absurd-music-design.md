@@ -25,11 +25,11 @@ ___
 
 ___
 
-A special thank goes to the wonderful team that made this event possible: Jonathan Winfield, Sophie Skach, Charlotte Nordmoen, Andrea Guidi, Jacob Harrison, Robert Jack, Andrew McPherson, Antonella Nonnis, Lia Mice.
+A special thank goes to the wonderful team that made this event possible: Jonathan Winfield, Sophie Skach, Charlotte Nordmoen, Andrea Guidi, Jacob Harrison, Robert Jack, Andrew McPherson, Antonella Nonnis, Lia Mice, Nick Bryan-Kinns.
 
 <!-- On the wake of the [Stupid Hackathons](https://gist.github.com/cheeaun/c3fe6cbb11aef1e146a3474dccf63b87) -->
 
-The event was supported by the [Media and Arts Technology](http://www.mat.qmul.ac.uk/) (MAT) doctoral training centre as part of [Inter/sections](https://intersections.io/) 2019.
+The Hackathon was supported by the [Media and Arts Technology](http://www.mat.qmul.ac.uk/) (MAT) doctoral training centre as part of [Inter/sections](https://intersections.io/) 2019.
 
 <!-- {% include single-image-research.html fileName="absurd-music-design/All05.png"%} -->
 
@@ -82,7 +82,7 @@ ___
 
 {% include youtube.html youtube="RFh54LfF6TY" %}
 
-Andrea worked out a beautiful overly complicated sonic machine: grab this stuffed fluffy thing to get a sound back! Repurposing a vintage toy crane motor in a silly sonic experience. This unsuseless design plays with arcade games esthetic and expectations: here it is almost impossible not to win!
+Andrea worked out a beautiful overly complicated sonic machine: grab this stuffed fluffy thing to get a sound back! Repurposing a vintage toy crane motor in a silly sonic experience. This unuseless design plays with arcade games esthetic and expectations: here it is almost impossible not to win!
 
 ___
 
@@ -213,7 +213,7 @@ ___
 
 {% include youtube.html youtube="2mSQx2ULwKs" %}
 
-During the Hackathon Rafaele focused on her re-programmable electroacoustic cello: a long run project combining instrument design, live coding, music performance and composition. This was banans.
+During the Hackathon Rafaele focused on her re-programmable electroacoustic cello: a long run project combining instrument design, live coding, music performance and composition. This was bananas.
 
 ___
 
@@ -233,7 +233,7 @@ ___
 
 {% include youtube.html youtube="zDlJxEdK790" %}
 
-After introducing some of his works (e.g. the Ohm My God synth) John supported the attendees with many suggestions and reflections throughout the overall Hackathon. Besides mentoring, John also found the time develop his own absurd musical interface: he tried very hard to screw a MIDI controller. We believe he succeeded.
+After introducing some of his works (e.g. the Ohm My God synth) John supported the attendees with many suggestions and reflections throughout the overall Hackathon. Besides mentoring, John also found the time develop his own absurd musical interface: he tried very hard to screw up a MIDI controller. We believe he succeeded.
 
 ___
 
