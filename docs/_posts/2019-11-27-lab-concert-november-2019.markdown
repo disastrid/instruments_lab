@@ -15,7 +15,7 @@ The concert programme featured two special guests:
 
 ***[Kuljit Bhamra](https://en.wikipedia.org/wiki/Kuljit_Bhamra) - composer and musician currently collaborating with some of Lab members.***
 
-***[Jonathan Reus](https://jonathanreus.com/) - artist in residence at the Lab working on an augmented banjo based on the [most recent technologies](http://instrumentslab.org/news/2019/09/16/trill-kickstarter-september-2019.html) developed at the Lab.***
+***[Jonathan Reus](https://jonathanreus.com/) - artist in residence at the Lab working on an augmented banjo based on some of the most recent technologies developed at the Lab.***
 
 {% include single-image.html fileName="news/AIL_concert_nov2019.jpg" %}
 
