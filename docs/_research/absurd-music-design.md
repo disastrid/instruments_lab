@@ -17,6 +17,10 @@ ___
 
 ___
 
+<!-- {% include single-image-research.html fileName="absurd-music-design/All05.png"%} -->
+
+{% include two-image-include.html left_image="All07.png" right_image="All08.png" image_subfolder="research/absurd-music-design" %}
+
 {% include youtube.html youtube="DaIhdtrdO6w" %}
 
 A special thank goes to the wonderful team that made this event possible: Jonathan Winfield, Sophie Skach, Charlotte Nordmoen, Andrea Guidi, Jacob Harrison, Robert Jack, Andrew McPherson, Antonella Nonnis, Lia Mice.
@@ -25,13 +29,8 @@ A special thank goes to the wonderful team that made this event possible: Jonath
 
 The event was supported by the [Media and Arts Technology](http://www.mat.qmul.ac.uk/) (MAT) doctoral training centre as part of [Inter/sections](https://intersections.io/) 2019.
 
-<!-- {% include single-image-research.html fileName="absurd-music-design/All05.png"%} -->
-
-{% include two-image-include.html left_image="All07.png" right_image="All08.png" image_subfolder="research/absurd-music-design" %}
-
 <!-- {% include three-image-include.html left_image="All05.png" middle_image="All04.png" right_image="All06.png" image_subfolder="research/absurd-music-design" %} -->
 
-___
 ___
 
 
