@@ -17,6 +17,8 @@ ___
 
 ___
 
+{% include youtube.html youtube="DaIhdtrdO6w" %}
+
 A special thank goes to the wonderful team that made this event possible: Jonathan Winfield, Sophie Skach, Charlotte Nordmoen, Andrea Guidi, Jacob Harrison, Robert Jack, Andrew McPherson, Antonella Nonnis, Lia Mice.
 
 <!-- On the wake of the [Stupid Hackathons](https://gist.github.com/cheeaun/c3fe6cbb11aef1e146a3474dccf63b87) -->
