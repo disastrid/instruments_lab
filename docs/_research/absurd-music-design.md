@@ -11,11 +11,13 @@ para: Making absurd musical interfaces
 
 ***Artists, technologists and makers took part in a hackathon around the themes of absurd musical interfaces, questionable sonic interactions and unworkable music designs.***
 
+___
+
 >***Have a look to the [Absurd Music Hackathon Call](http://instrumentslab.org/news/events/2019/08/08/absurd-november-2019.html)***
 
-<br>
+___
 
->**A special thank goes to the wonderful team that made this event possible: Jonathan Winfield, Sophie Skach, Charlotte Nordmoen, Andrea Guidi, Jacob Harrison, Robert Jack, Andrew McPherson, Antonella Nonnis, Lia Mice.**
+A special thank goes to the wonderful team that made this event possible: Jonathan Winfield, Sophie Skach, Charlotte Nordmoen, Andrea Guidi, Jacob Harrison, Robert Jack, Andrew McPherson, Antonella Nonnis, Lia Mice.
 
 <br>
 
@@ -30,6 +32,8 @@ The event was supported by the [Media and Arts Technology](http://www.mat.qmul.a
 <!-- {% include three-image-include.html left_image="All05.png" middle_image="All04.png" right_image="All06.png" image_subfolder="research/absurd-music-design" %} -->
 
 ___
+___
+
 
 <br>
 
