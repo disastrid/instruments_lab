@@ -13,13 +13,11 @@ para: Making absurd musical interfaces
 
 ___
 
->***Have a look to the [Absurd Music Hackathon Call](http://instrumentslab.org/news/events/2019/08/08/absurd-november-2019.html)***
+>***Absurd Music Hackathon [Call for Participation](http://instrumentslab.org/news/events/2019/08/08/absurd-november-2019.html)***
 
 ___
 
 A special thank goes to the wonderful team that made this event possible: Jonathan Winfield, Sophie Skach, Charlotte Nordmoen, Andrea Guidi, Jacob Harrison, Robert Jack, Andrew McPherson, Antonella Nonnis, Lia Mice.
-
-<br>
 
 <!-- On the wake of the [Stupid Hackathons](https://gist.github.com/cheeaun/c3fe6cbb11aef1e146a3474dccf63b87) -->
 
@@ -248,3 +246,5 @@ Videos and images credits:
 <br>
 
 Inter/sections is supported by:
+
+{% include single-image-research.html fileName="absurd-music-design/LogosAll.png" %}
