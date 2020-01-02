@@ -19,7 +19,7 @@ The concert programme featured two special guests:
 
 {% include single-image.html fileName="news/AIL_concert_nov2019.jpg" %}
 
-More details [here](https://iklectikartlab.com/music-installations-from-the-augmented-instruments-laboratory/) !!
+***More details [here](https://iklectikartlab.com/music-installations-from-the-augmented-instruments-laboratory/) !!***
 
 ---------------------
 

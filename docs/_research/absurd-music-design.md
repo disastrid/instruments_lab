@@ -11,11 +11,17 @@ para: Making absurd musical interfaces
 
 ***Artists, technologists and makers took part in a hackathon around the themes of absurd musical interfaces, questionable sonic interactions and unworkable music designs.***
 
->** Have a look to the [Absurd Music Hackathon Call](http://instrumentslab.org/news/events/2019/08/08/absurd-november-2019.html)**
+>***Have a look to the [Absurd Music Hackathon Call](http://instrumentslab.org/news/events/2019/08/08/absurd-november-2019.html)***
+
+<br>
+
+>**A special thank goes to the wonderful team that made this event possible: Jonathan Winfield, Sophie Skach, Charlotte Nordmoen, Andrea Guidi, Jacob Harrison, Robert Jack, Andrew McPherson, Antonella Nonnis, Lia Mice.**
+
+<br>
 
 <!-- On the wake of the [Stupid Hackathons](https://gist.github.com/cheeaun/c3fe6cbb11aef1e146a3474dccf63b87) -->
 
-The event was supported by the [Media and Arts Technology](http://www.mat.qmul.ac.uk/) (MAT) doctoral training centre, as part of [Inter/sections](https://intersections.io/) 2019.
+The event was supported by the [Media and Arts Technology](http://www.mat.qmul.ac.uk/) (MAT) doctoral training centre as part of [Inter/sections](https://intersections.io/) 2019.
 
 <!-- {% include single-image-research.html fileName="absurd-music-design/All05.png"%} -->
 
@@ -46,7 +52,7 @@ ___
 
 ##### Useless (but not worthless) music designs
 
-**Juan Martinez Avila**
+>**Juan Martinez Avila**
 
 {% include youtube.html youtube="PmX6MoUvGNE" %}
 
@@ -54,7 +60,9 @@ A seriously silly guitar strap: augmenting guitar using e-textile technique. A s
 
 ___
 
-**Lia Mice & Tijs Ham**
+<br>
+
+>**Lia Mice & Tijs Ham**
 
 {% include youtube.html youtube="JymU1ZWZwpY" %}
 
@@ -62,7 +70,9 @@ It's time to magnify standard music controllers. How music production and perfor
 
 ___
 
-**Andrea Urist**
+<br>
+
+>**Andrea Urist**
 
 {% include youtube.html youtube="RFh54LfF6TY" %}
 
@@ -70,7 +80,9 @@ Andrea worked out a beautiful overly complicated sonic machine: grab this stuffe
 
 ___
 
-**Maria Svahn, Josefine Holling & Annie Tadne**
+<br>
+
+>**Maria Svahn, Josefine Holling & Annie Tadne**
 
 {% include youtube.html youtube="_LICKTXX09E" %}
 
@@ -78,7 +90,9 @@ Introducing the Bug Orchestra. A fully equipped facility to elicit animals' musi
 
 ___
 
-**Simon Duck**
+<br>
+
+>**Simon Duck**
 
 {% include youtube.html youtube="vE5gyNw_wok" %}
 
@@ -86,7 +100,9 @@ How to design a keyboard that minimises performance anxiety? Simon came out with
 
 ___
 
-**Antonella Nonnis & Mei Zhang**
+<br>
+
+>**Antonella Nonnis & Mei Zhang**
 
 {% include youtube.html youtube="pKxsuP9u6pg" %}
 
@@ -94,7 +110,9 @@ The Patroniser is a wearable interface exploring troublesonic interactions. The 
 
 ___
 
-**Andrew McPherson & Jacob Harrison**
+<br>
+
+>**Andrew McPherson & Jacob Harrison**
 
 {% include youtube.html youtube="MdphBOpZQMI" %}
 
@@ -102,7 +120,9 @@ Everyone Can Make Music condenses in one instrument all the most advanced music 
 
 ___
 
-**Alice Haynes**
+<br>
+
+>**Alice Haynes**
 
 {% include youtube.html youtube="VFug6PlRFX4" %}
 
@@ -110,7 +130,9 @@ A sonic interface inspired by Narwhal whales. If you were in the depth of the oc
 
 ___
 
-**Pete Bennett**
+<br>
+
+>**Pete Bennett**
 
 {% include youtube.html youtube="p9_V0XHbbV0" %}
 
@@ -118,7 +140,9 @@ Pete produced a great number of useless things. These includes an advanced AI te
 
 ___
 
-**Sam Topley**
+<br>
+
+>**Sam Topley**
 
 {% include youtube.html youtube="QJxjfve1qeU" %}
 
@@ -127,7 +151,9 @@ example, forward rolling, head butting. A full body flailing experience.
 
 ___
 
-**Dominique Baron-Bonarjee**
+<br>
+
+>**Dominique Baron-Bonarjee**
 
 {% include youtube.html youtube="gUy3HX3mTlA" %}
 
@@ -135,7 +161,9 @@ Questioning body movements, dance, meditation and relaxation as non-productive a
 
 ___
 
-**Sasha de Koninck**
+<br>
+
+>**Sasha de Koninck**
 
 {% include youtube.html youtube="KFHPjPtY94g" %}
 
@@ -143,7 +171,9 @@ Sasha's ongoing project on seventeenth century embellishment textile techniques.
 
 ___
 
-**Marco Martinez**
+<br>
+
+>**Marco Martinez**
 
 {% include youtube.html youtube="2auI4EANieo" %}
 
@@ -151,7 +181,9 @@ As simple as a machine that creates silence. Actually, this interface is designe
 
 ___
 
-**Giorgia Petri & Laura Migliano**
+<br>
+
+>**Giorgia Petri & Laura Migliano**
 
 {% include youtube.html youtube="T9_K-KwF6hU" %}
 
@@ -159,7 +191,9 @@ Giorgia and Laura engaged with some pretty cool e-textile materials exploration.
 
 ___
 
-**Antonio Nicoletti, Kevin Patton, Lorenzo Minneci & Yusuf Ghani**
+<br>
+
+>**Antonio Nicoletti, Kevin Patton, Lorenzo Minneci & Yusuf Ghani**
 
 {% include youtube.html youtube="gZ5GfErIW4c" %}
 
@@ -167,7 +201,9 @@ The Waternet is based on a stretch sensor matrix. A proper collaborative bubblin
 
 ___
 
-**Rafaele	Andrade**
+<br>
+
+>**Rafaele	Andrade**
 
 {% include youtube.html youtube="2mSQx2ULwKs" %}
 
@@ -175,7 +211,9 @@ During the Hackathon Rafaele focused on her re-programmable electroacoustic cell
 
 ___
 
-**Yusuf	Ghani**
+<br>
+
+>**Yusuf	Ghani**
 
 {% include youtube.html youtube="eTxzU-d-HX4" %}
 
@@ -183,7 +221,9 @@ An instrument that works against gravity. This means that the musician will be a
 
 ___
 
-**John Bowers**
+<br>
+
+>**John Bowers**
 
 {% include youtube.html youtube="zDlJxEdK790" %}
 
@@ -191,11 +231,6 @@ After introducing some of his works (e.g. the Ohm My God synth) John supported t
 
 ___
 
-<br>
-
->**A special thanks to the wonderful team that made this event possible: Jonathan Winfield, Sophie Skach, Charlotte Nordmoen, Andrea Guidi, Jacob Harrison, Robert Jack, Andrew McPherson, Antonella Nonnis, Lia Mice.**
-
-<br>
 
 Videos and images credits:
 
