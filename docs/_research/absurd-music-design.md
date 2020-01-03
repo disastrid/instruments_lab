@@ -26,6 +26,7 @@ ___
 ___
 
 A special thank goes to the wonderful team that, in one way or another, made this event possible: Jonathan Winfield, Angela McArthur, Sophie Skach, Charlotte Nordmoen, Andrea Guidi, Jacob Harrison, Robert Jack, Andrew McPherson, Antonella Nonnis, Lia Mice and Nick Bryan-Kinns.
+
 The Hackathon was supported by the [Media and Arts Technology](http://www.mat.qmul.ac.uk/) (MAT) doctoral training centre as part of [Inter/sections](https://intersections.io/) 2019.
 
 <!-- On the wake of the [Stupid Hackathons](https://gist.github.com/cheeaun/c3fe6cbb11aef1e146a3474dccf63b87) -->
