@@ -71,7 +71,7 @@ The magnetic fields and their interactions are revealed through nuanced tones, a
 
 The Chowndolo is a tribute to John Chowning, a pioneer in the field of Computer Music mostly known for his electroacoustic compositions, the discovery of FM synthesis and research on voice and instrument synthesis. During the development of the Chowndolo, we were lucky enough to welcome John Chowning to our lab and show him the project. He provided precious comments for the improvement of both the sensing technique and the FM synthesis implementation.
 
-{% include youtube.html youtube="fb4VA-j8y0Q" %}
+{% include vimeo.html vimeo="325707625" %}
 
 ___
 
