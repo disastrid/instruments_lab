@@ -81,7 +81,7 @@ Cembalo Scrivano: an interactive audio-visual installation based on an augmented
 
 The piece aims to mirror this process: a typewriter is converted into an interactive art installation (from typewriting to art technology). Oscillating between two domains (musical and literary), the same technology travels across history, carrying knowledge, behaviours and meanings. In media theory, the practice to understand new and emerging technologies by taking into account the history and evolution of past new media often relate to media archaeology studies. These cultural studies focus on the critical scrutiny of forgotten technologies, observing that new media often renovate old interactive paradigms and communication techniques. Media Archaeology is also a methodology for contemporary artistic practice introducing the concept of 'zombie media': a media that is not only out of use, but resurrected to new uses, contexts and adaptations.
 
-{% include youtube.html youtube="o9BE7N6ER5w" %}
+{% include vimeo.html vimeo="193263988" %}
 
 -  G. Lepri and A. P. McPherson. [First-person Research in the Arts: Exploring the Values Behind New Music Technology.](http://instrumentslab.org/data/giacomo/lepri_updated2.pdf) Proc. ACM Designing Interactive Systems (DIS), San Diego, Californis, USA. 2019.
 
