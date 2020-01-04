@@ -4,7 +4,7 @@ This is the how-to for the Augmented Instruments Lab site. This document details
 
 ## People
 
-In the folder `_data` there are three files where bios can be added: `members.yml`, and `alumni.yml` (`collaborators.yml` is in there as well but that's for organisations). 
+In the folder `_data` there are three files where bios can be added: `members.yml`, and `alumni.yml` (`collaborators.yml` is in there as well but that's for organisations).
 
 Here's the data you need to add to list yourself:
 
@@ -32,11 +32,11 @@ To add a link in your description, just use HTML tags - the text is inserted int
 
 ### Your photo
 
-All member photos should be *250x250px*. Please upload to `images/people`. 
+All member photos should be *250x250px*. Please upload to `images/people`.
 
 ## How to add to the Publications page
 
-All data files that feed into the Publications are stored in _data/publications and are ordered by date: _2017.yml, _2016.yml, and so on (the underscore is because data file names that start with a number are invalid). 
+All data files that feed into the Publications are stored in _data/publications and are ordered by date: _2017.yml, _2016.yml, and so on (the underscore is because data file names that start with a number are invalid).
 
 An entry in these files starts with a dash. All subsequent fields are indented by *two spaces* in order to be included in that entry. If your indenting etc isn't right, the system will break,
 
@@ -56,13 +56,13 @@ Here's an example:
 
 The following fields are *required*: title, authors, venue, year.
 
-Everything else is optional, so leave it out if it doesn't apply and the system will handle the data as it appears. 
+Everything else is optional, so leave it out if it doesn't apply and the system will handle the data as it appears.
 
-The PDF link is meant to be a direct download. "link" appears as the text Project page, so we can link the papers to specific pages in the Research section. 
+The PDF link is meant to be a direct download. "link" appears as the text Project page, so we can link the papers to specific pages in the Research section.
 
 ## News and events
 
-News and events are markdown posts, located in the `_posts` file. 
+News and events are markdown posts, located in the `_posts` file.
 
 The news frontmatter looks like this:
 
@@ -81,9 +81,9 @@ url: www.nime2017.org
 
 This example post would be cartegorised under news, which means it will appear in the news feed, as well as events. See below for info on both.
 
-### News 
+### News
 
-News posts will appear on the front page of the site, as well as on the news page, in descending order. 
+News posts will appear on the front page of the site, as well as on the news page, in descending order.
 
 Each news post requires an image. This is non-negotiable - posting news without a picture is pointless on a website, and so the layout has not been designed to ingest photoless posts. Find a picture and add it to the directory `images/news/`, so we keep all our images tidy.
 
@@ -135,7 +135,7 @@ If you need changes, please create an issue.
 
 ### title
 
-This is the text that will appear at the top of the page, on top of the main image. 
+This is the text that will appear at the top of the page, on top of the main image.
 
 ### tagline
 
@@ -143,16 +143,16 @@ The tagline will appear beneath the title on top of the main image. It will also
 
 ### main-image
 
-This is the image that will appear at the top of the page. 
+This is the image that will appear at the top of the page.
 
-Two things to keep in mind: 
+Two things to keep in mind:
 - 1200x800 is a good rule of thumb for size, but make sure the resolution is good (on big displays it will be blown up really big, so the bigger the better).
 - The overlaying text is white, so make sure you choose an image that will support a light text overlay.
 - Put your image in `images/research`, and specify the file name and extension.
 
 ### tag
 
-Categorise your post with an available tag. If you want to see/edit avaialble tags, they're served from `_data/research-catgeories.yml`. Currently only one tag per post is supported. 
+Categorise your post with an available tag. If you want to see/edit avaialble tags, they're served from `_data/research-catgeories.yml`. Currently only one tag per post is supported.
 
 ### thumb
 
@@ -187,6 +187,10 @@ Copy the front matter above, and fill in your own stuff. Then, write your post i
 You can also include youtube videos, using the `youtube.html` include:
 
 `{% include youtube.html youtube="youtube-ref-here" %}`
+
+This works with vimeo videos too, using the `vimeo.html` include:
+
+`{% include vimeo.html vimeo="vimeo-ref-here" %}`
 
 ### Including images
 
@@ -248,7 +252,7 @@ In your project post frontmatter there is the following line:
 
 `tag: "categories-go-here"`
 
-This is where you assign your post to an existing category filter. 
+This is where you assign your post to an existing category filter.
 
 Add the categories separated by spaces in quotes. This is because this whole line is imported and assigned to a CSS class attribute, and the classes have to be valid. For example, `class="augmented-instruments, studies"` isn't a valid listing of multiple classes, while `class="augmented-instruments studies" is.
 
@@ -281,5 +285,3 @@ para: "Design for virtuosity: How we design for people who are really really goo
 ... then you should enter it in the `_data/research.yml` file like this:
 
 `- project-name: "Design for Virtuosity"`
-
-
