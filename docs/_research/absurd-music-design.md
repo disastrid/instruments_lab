@@ -9,7 +9,7 @@ main-image: /images/research/absurd-music-design/Blackmidi03.jpg
 para: Making absurd musical interfaces
 ---
 
-{% include youtube.html youtube="DaIhdtrdO6w" %}
+{% include vimeo.html vimeo="382760134" %}
 
 ***Artists, technologists and makers took part in a hackathon around the themes of absurd musical interfaces, questionable sonic interactions and unworkable music designs.***
 
