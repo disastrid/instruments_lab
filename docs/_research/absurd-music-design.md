@@ -159,6 +159,16 @@ ___
 
 <br>
 
+>**Yusuf	Ghani**
+
+{% include youtube.html youtube="q5e1qZe8TwE" %}
+
+An instrument that only works against gravity. This means that the musician will only be able to listen to what s/he is doing when both feet go above the ground level. As time flows, the invisible interface travels around the performance space, and eventually, it becomes almost unreachable.
+
+___
+
+<br>
+
 >**Dominique Baron-Bonarjee**
 
 {% include youtube.html youtube="gUy3HX3mTlA" %}
@@ -166,6 +176,7 @@ ___
 Questioning body movements, dance, meditation and relaxation as non-productive activities. How does "non-doing" sound like? Dominique is interested in exploring the idea of "non-expressing" while making art. Dancing with jelly might be a good starting point.
 
 ___
+
 
 <br>
 
@@ -176,6 +187,7 @@ ___
 Sasha's ongoing project on seventeenth century embellishment textile techniques. An artistic research that will culminates with a final act in which e-textiles connected to audio circuits are disassembled after many hours of labour. A musical interface that vanishes while the performance takes place.
 
 ___
+
 
 <br>
 
@@ -214,16 +226,6 @@ ___
 {% include youtube.html youtube="2mSQx2ULwKs" %}
 
 During the Hackathon Rafaele focused on her re-programmable electroacoustic cello: a long run project combining instrument design, live coding, music performance and composition. This was bananas.
-
-___
-
-<br>
-
->**Yusuf	Ghani**
-
-{% include youtube.html youtube="eTxzU-d-HX4" %}
-
-An instrument that works against gravity. This means that the musician will be able to listen to what they is doing when both their feet goes against gravity. Questioning music performance, gravity and the human body in a single shot.
 
 ___
 
