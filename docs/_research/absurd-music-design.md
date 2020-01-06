@@ -142,7 +142,7 @@ ___
 
 {% include youtube.html youtube="p9_V0XHbbV0" %}
 
-Pete produced a great number of useless things. These includes an advanced AI technology converting the sound of a kazoo into text. To be more appealing for the market the "banana feature" was introduced. As side projects, Pete also developed a disguise shaker, a Ten oh Ten synth, a pool noodles dance generator and something else we probably missed. Ah.. Through a successful collaboration with Alice, Pete also focused on an ambisonic chamber based on pool noodle technology.
+Pete produced a great number of useless things. These includes an advanced AI technology converting the sound of a kazoo into text. To be more appealing for the market the "banana feature" was introduced. As side projects, Pete also developed a disguise shaker, a Ten oh Ten synth, a pool noodles dance generator and an [absurd instrument ideas generator](http://www.peteinfo.com/idea/absurd/) <-- please try it! Ah.. Through a successful collaboration with Alice, Pete also focused on an ambisonic chamber based on pool noodle technology. Have a look to [Pete's website](http://www.peteinfo.com/portfolio/absurd-instruments/) to discover all the absurdities he managed to explore during the hacathon!.
 
 ___
 
