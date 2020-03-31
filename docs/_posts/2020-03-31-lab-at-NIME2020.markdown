@@ -1,0 +1,92 @@
+---
+layout: post
+title:  "Augmented Instruments Laboratory @ NIME 2020"
+categories: [news, events]
+images: /images/news/NIME2020.png
+front-image: /images/news/NIME2020.png
+event_date: July 21-25, 2020
+excerpt: The Augmented Instruments Laboratory at NIME 2020
+url: https://nime2020.bcu.ac.uk/
+---
+
+Our lab is doing pretty well: many interesting projects combining art practices, tech development and interaction design research!
+
+This here we got a great number of accepted submissions at NIME 2020! Have a look below to know more about our latests work.  
+
+***Andrea Guidi, Fabio Morreale and Andrew McPherson.***
+
+>***Design for auditory imagery: altering instruments to explore performer fluency.***
+
+In NIME design, thorough attention has been devoted to feedback modalities, including auditory, visual and haptic feedback. How the performer executes the gestures to achieve a sound on an instrument, by contrast, appears to be less examined. Previous research showed that auditory imagery, or the ability to hear or recreate sounds in the mind even when no audible sound is present, is essential to the sensorimotor control involved in playing an instrument. In this paper, we enquire whether auditory imagery can also help to support skill transfer between musical instruments resulting in possible implications for new instrument design. To answer this question, we performed two experimental studies on pitch accuracy and fluency where professional violinists were asked to play a modified violin. Results showed altered or even possibly irrelevant auditory feedback on a modified violin does not appear to be a significant impediment to performance. However, performers need to have coherent imagery of what they want to do, and the sonic outcome needs to be coupled to the motor program to achieve it. This finding shows that the design lens should be shifted from a direct feedback model of instrumental playing toward a model where imagery guides the playing process. This result is in agreement with recent research on skilled sensorimotor control that highlights the value of feedforward anticipation in embodied musical performance. It is also of primary importance for the design of new instruments: new sounds that cannot easily be imagined and that are not coupled to a motor program are not likely to be easily performed on the instrument.
+
+---------------------
+
+***Robert Jack, Jacob Harrison and Andrew McPherson.***
+
+>***Digital Musical Instruments as Research Products.***
+
+In the field of human computer interaction (HCI) the limitations of prototypes as the primary artefact used in research are being realised. Prototypes often remain open in their design, are partially-finished, and have a focus on a specific aspect of interaction. Previous authors have proposed `research products' as a specific category of artefact distinct from both research prototypes and commercial products. The characteristics of research products are their holistic completeness as a design artefact, their situatedness in a specific cultural context, and the fact that they are evaluated for what they are, not what they will become. This paper discusses the ways in which many instruments created within the context of New Interfaces for Musical Expression (NIME), including those that are used in performances, often fall into the category of prototype. We shall discuss why research products might be a useful framing for NIME research. Research products shall be weighed up against some of the main themes of NIME research: technological innovation; musical expression; instrumentality. We conclude this paper with a case study of Strummi, a digital musical instrument which we frame as research product.
+
+---------------------
+
+***Andrea Martelloni, Andrew McPherson and Mathieu Barthet.***
+
+>***Percussive Fingerstyle Guitar through the Lens of NIME: an Interview Study***
+
+Percussive fingerstyle is a playing technique adopted by many contemporary acoustic guitarists, and it has grown substantially in popularity over the last decade. Its foundations lie in the use of the guitar's body for percussive lines, and in the extended range given by the novel use of altered tunings. There are very few formal accounts of percussive fingerstyle, therefore, we devised an interview study to investigate its approach to composition, performance and musical experimentation. Our aim was to gain insight into the technique from a gesture-based point of view, observe whether modern fingerstyle shares similarities to the approaches in NIME practice and investigate possible avenues for guitar augmentations inspired by the percussive technique. We conducted an inductive thematic analysis on the transcribed interviews: our findings highlight the participants' material-based approach to musical interaction and we present a three-zone model of the most common percussive gestures on the guitar's body. Furthermore, we examine current trends in Digital Musical Instruments, especially in guitar augmentation, and we discuss possible future directions in augmented guitars in light of the interviewees' perspectives.
+
+---------------------
+
+***Andrew McPherson and Giacomo Lepri.***
+
+>***Beholden to our tools: negotiating with technology while sketching digital instruments.***
+
+Digital musical instrument design is often presented as an open-ended creative process in which technology is adopted and adapted to serve the musical will of the designer. The real-time music programming languages powering many new instruments often provide access to audio manipulation at a low level, theoretically allowing the creation of any sonic structure from primitive operations. As a result, designers may assume that these seemingly omnipotent tools are pliable vehicles for the expression of musical ideas. We present the outcomes of a compositional game in which sound designers were invited to create simple instruments using common sensors and the Pure Data programming language. We report on the patterns and structures that often emerged during the exercise, arguing that designers respond strongly to suggestions offered by the tools they use. We discuss the idea that current music programming languages may be as culturally loaded as the communities of practice that produce and use them. Instrument making is then best viewed as a protracted negotiation between designer and tools.
+
+---------------------
+
+***Lia Mice and Andrew McPherson.***
+
+>***From miming to NIMEing: the development of idiomatic gestural language on large scale DMIs.***
+
+When performing with new instruments, musicians often develop new performative gestures and playing techniques. Music performance studies on new instruments often consider interfaces that features a spectrum of gestures similar to already existing sound production techniques. This paper considers the choices performers make when creating an idiomatic gestural language for an entirely unfamiliar instrument. We designed a musical interface with a unique large-scale layout to encourage new performers to create fully original instrument-body interactions. We conducted a study where trained musicians were invited to perform two versions of the same instrument, each physically identical but with a different tone mapping. The study results reveal insights into how musicians develop novel performance gestures when encountering a new instrument characterised by an unfamiliar shape and size. Our discussion highlights the impact of an instrument’s scale and layout on the emergence of new gestural vocabularies and on the qualities of the music performed.
+
+---------------------
+
+***Giulio Moro and Andrew McPherson.***
+
+>***A platform for low-latency continuous keyboard sensing and sound generation.***
+
+On several acoustic and electromechanical keyboard instruments, the produced sound is not always strictly dependent exclusively on a discrete key velocity parameter, and minute gesture details can affect the final sonic result. By contrast, subtle variations in articulation have a relatively limited effect on the sound generation when the keyboard controller uses the MIDI standard, which is used in the vast majority of digital keyboards. In this paper we present an embedded platform that can generate sound in response to a controller capable of sensing the continuous position of keys on a keyboard. This platform enables the creation of keyboard-based DMIs which allow for a richer set of interaction gestures than would be possible through a MIDI keyboard, which we demonstrate through two example instruments. First, in a Hammond organ emulator, the sensing device allows to recreate the nuances of the interaction with the original instrument in a way a velocity-based MIDI controller could not. Second, a nonlinear waveguide flute is shown as an example of the expressive capabilities that a continuous-keyboard controller opens up in the creation of new keyboard-based DMIs.
+
+---------------------
+
+***Fabio Morreale, S. M. Astrid Bin, Andrew McPherson, Paul Stapleton and Marcelo Wanderley.***
+
+>***A NIME Of The Times: Developing an Outward-Looking Political Agenda For This Community.***
+
+So far, NIME research has been mostly inward-looking, dedicated to divulging and studying our own work and having limited engagement with trends outside our community. Though musical instruments as cultural artefacts are inherently political, we have so far not sufficiently engaged with confronting these themes in our own research. In this paper, we explore the recent trend in music technology of ``democratising music'', which carries implicit political ideologies grounded in techno-solutionism. We argue that we should consider how our work is also political, and begin to develop a clear political agenda that includes social, ethical, and cultural considerations through which to consider not only our own musical instruments, but also those not created by us. Failing to do so would result in an unintentional but tacit acceptance and support of such ideologies. We conclude with a number of recommendations for stimulating community-wide discussion on these themes in the hope that this leads to the development of an outward-facing perspective that fully engages with political topics.
+
+---------------------
+
+***Courtney Reed and Andrew McPherson.***
+
+>***Surface Electromyography for Direct Vocal Control.***
+
+This paper introduces a new method for direct control using the voice via measurement of vocal muscular activation with surface electromyography (sEMG). Digital musical interfaces based on the voice have typically used indirect control, in which features extracted from audio signals control the parameters of sound generation, for example in audio to MIDI controllers. By contrast, focusing on the musculature of the singing voice allows direct muscular control, or alternatively, combined direct and indirect control in an augmented vocal instrument. In this way we aim to both preserve the intimate relationship a vocalist has with their instrument and key timbral and stylistic characteristics of the voice while expanding its sonic capabilities. This paper discusses other digital instruments which effectively utilise a combination of indirect and direct control as well as a history of controllers involving the voice. Subsequently, a new method of direct control from physiological aspects of singing through sEMG and its capabilities are discussed. Future developments of the system are further outlined along with usage in performance studies, interactive live vocal performance, and educational and practice tools.
+
+---------------------
+
+***Juan Martinez Avila, Vasiliki Tsaknaki, Pavel Karpashevich, Charles Windlin, Niklas Valenti, Kristina Höök, Andrew McPherson and Steve Benford.***
+
+>***Soma Design for NIME.***
+
+Previous research on musical embodiment has reported that expert performers often regard their instruments as an extension of their body. Not every digital musical instrument seeks to create a close relationship between body and instrument, but even for the many that do, the design process often focuses heavily on technical and sonic factors, with relatively less attention to the bodily experience of the performer. In this paper we propose Somaesthetic design as an alternative to explore this space. The Soma method aims to attune the sensibilities of designers, as well as their experience of their body, and make use of these notions as a resource for creative design. We then report on a series of workshops exploring the relationship between the body and the guitar with a Soma design approach. The workshops resulted on a series of guitar-related artefacts and NIMEs that emerged from the somatic exploration of balance and tension during guitar performance. Lastly we present lessons learned from our research that could inform future Soma-based musical instrument design, and how NIME research may also inform Soma design.
+
+---------------------
+
+***Giovanni Maria Troiano, Alberto Boem, Victor Zappi, Giacomo Lepri.***
+
+>***Non-Rigid Musical Interfaces:Exploring Practices, Takes, and Future Perspective***
+
+Non-rigid interfaces allow for exploring new interactive paradigms that rely on deformable input and shape change, and whose possible applications span several branches of human-computer interaction (HCI). While  extensively explored as deformable game controllers, bendable smartphones, and shape-changing displays, non-rigid interfaces are rarely framed in a musical context, and their use for composition and performance is rather sparse and unsystematic. With this work, we start a systematic exploration of this relatively uncharted research area, by means of (1) briefly reviewing existing musical interfaces that capitalize on deformable input, and (2) surveying 11 among experts and pioneers in the field about their experience with and vision on non-rigid musical interfaces. Based on experts' input, we suggest possible next steps of musical appropriation with deformable and shape-changing technologies. We conclude by discussing how cross-overs between NIME and HCI research will benefit non-rigid interfaces.
