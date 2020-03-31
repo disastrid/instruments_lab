@@ -9,9 +9,7 @@ excerpt: Augmented Instruments Laboratory @ NIME 2020
 url: https://nime2020.bcu.ac.uk/
 ---
 
-Our lab is doing pretty well: many interesting projects combining art practices, tech development and interaction design research!
-
-This here we got a great number of accepted submissions at NIME 2020! Have a look below to know more about our latests work.  
+Our lab is doing pretty well: many interesting projects combining art practices, tech development and interaction design research! This year we got a great number of accepted submissions at NIME 2020! Have a look below to know more about our latests work.
 
 ***Andrea Guidi, Fabio Morreale and Andrew McPherson.***
 
