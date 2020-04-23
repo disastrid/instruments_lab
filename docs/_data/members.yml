@@ -14,7 +14,6 @@
       icon: link
   education: S.B. Music, S.B. Electrical Engineering, MIT; M.Eng. Electrical Engineering, MIT; Ph.D. Music Composition, U. Penn. 2009; Postdoc Drexel University MET-lab 2009-2011
   desc: Composition, actuated instruments, viola, piano, embedded audio systems
-
 - avatar: ../images/people/laurel.jpg
   name: Dr Laurel Pardue
   position: Postdoctoral Research Assistant
@@ -23,7 +22,6 @@
   socials:
     - link: https://scholar.google.com/citations?user=UXWpcQ4AAAAJ
       icon: graduation-cap
-
 - avatar: ../images/people/robert.jpg
   name: Dr Robert Jack
   position: Postdoctoral Research Assistant
@@ -36,14 +34,12 @@
     - link: http://www.robertjack.org
       icon: link
   desc: Touch and musical instrument design, cross-modal perception, non-visual interfaces, sensorimotor feedback, haptics, percussion, strings and live electronics.
-
 - avatar: ../images/people/giulio.jpeg
   name: Giulio Moro
   education: Bachelors in sound recording (Conservatory of Padua), MSc in Digital Music Processing (QMUL)
   position: PhD student (2015-present, co-supervised with Mark Sandler), Research Assistant (2017)
   socials:
   desc: Touch on keyboard instruments, low latency audio and sensors, embedded devices, why-do-people-think-analog-is-better
-
 - avatar: ../images/people/jack.jpg
   name: Jack Armitage
   position: PhD student (2016-present)
@@ -57,7 +53,6 @@
       icon: github
   desc:
     Musical instruments, composition systems, cognitive science, (post) human-computer interaction
-
 - avatar: ../images/people/jacob.jpg
   name: Jacob Harrison
   position: PhD student (2016-present)
@@ -67,7 +62,6 @@
       icon: twitter
   desc:
     Interface and instrument design, accessible music technology
-
 - avatar: ../images/people/giacomo.jpg
   name: Giacomo Lepri
   position: PhD student (2017-present)
@@ -85,7 +79,6 @@
       icon: linkedin
   desc:
     Instruments design, media archaeology, cultural factors in music technology development, audio-visual interactive installtions, electroacoustic composition and improvisation
-
 - avatar: ../images/people/LiaMice.jpg
   name: Lia Mice
   position: PhD student (2018-present)
@@ -97,7 +90,6 @@
       icon: twitter
   desc:
     large instruments, instruments design, live performance and composition with digital musical instruments
-
 - avatar: ../images/people/andrea.jpg
   name: Andrea Guidi
   position: PhD student (2018-present)
@@ -107,7 +99,6 @@
       icon: twitter
   desc:
    new interfaces for musical expression, interactive art, augmented instruments
-
 - avatar: ../images/people/charlotte.jpg
   name: Charlotte Nordmoen
   position: PhD student (2018-present)
@@ -116,7 +107,6 @@
     - link: http://www.cnordmoen.com
       icon: link
   desc: materiality, tacit knowledge, embodiment, digital fabrication, craft practice
-
 - avatar: ../images/people/courtney.jpg
   name: Courtney Nicole Reed
   position: PhD student (2019-present)
@@ -129,14 +119,13 @@
       icon: linkedin
   education: BMus Electronic Production & Design, Berklee College of Music; MSc Computer Science, Queen Mary University of London
   desc: Musical expression, singing voice and voice physiology, music cognition, music education, expressive interfaces
-
-  - avatar: ../images/people/nicole.jpg
-    name: Nicole Suzanne Robson
-    position: PhD student (2019-present)
-    socials:
-      - link: https://nicolerobson.com/
+- avatar: ../images/people/nicole.jpg
+  name: Nicole Suzanne Robson
+  position: PhD student (2019-present)
+  socials:
+    - link: https://nicolerobson.com/
         icon: link
-      - link: https://twitter.com/nicolesrobson
+    - link: https://twitter.com/nicolesrobson
         icon: twitter
-    education: BMus Music, Kings College London, MMus Sonic Arts, Goldsmiths University of London
-    desc: Sound art, aural architecture, perception, engagement, composition
+  education: BMus Music, King's College London, MMus Sonic Arts, Goldsmiths University of London
+  desc: Sound art, aural architecture, perception, engagement, composition
