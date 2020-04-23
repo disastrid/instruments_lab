@@ -129,3 +129,14 @@
       icon: linkedin
   education: BMus Electronic Production & Design, Berklee College of Music; MSc Computer Science, Queen Mary University of London
   desc: Musical expression, singing voice and voice physiology, music cognition, music education, expressive interfaces
+
+  - avatar: ../images/people/Nicole.JPG
+    name: Nicole Suzanne Robson
+    position: PhD student (2019-present)
+    socials:
+      - link: https://nicolerobson.com/
+        icon: link
+      - link: https://twitter.com/nicolesrobson
+        icon: twitter
+    education: BMus Music, King's College London; MMus Sonic Arts, Goldsmiths University of London
+    desc: Sound art, aural architecture, perception, engagement, composition
