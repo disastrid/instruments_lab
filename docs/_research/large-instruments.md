@@ -30,7 +30,7 @@ The findings revealed that large instruments are not just scaled-up versions of 
 
 ___
 
-{% include single-image-research.html fileName="large-instruments/LargeInstrument.jpg" caption="The development of idiomatic gestural languages on large DMIs" %}
+{% include single-image-research.html fileName="large-instruments/PhotoOfTheInstrument.jpg" caption="The development of idiomatic gestural languages on large DMIs" %}
 
 ## The development of idiomatic gestural languages on large DMIs
 
