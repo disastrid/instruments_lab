@@ -1,7 +1,7 @@
 ---
 layout: research
 title:  "Instrument Design as Cultural Negotiation"
-tag: "Musician Studies"
+tag: "musician-studies"
 tagline: PhD research Giacomo Lepri
 thumb: culture/music-instruments02.png
 authors: "Giacomo Lepri"
@@ -19,7 +19,6 @@ The notion of Remediation has been sketched by McLuhan in his theory of Media an
 
 Considering the genesis of new musical instruments through the perspective of mediation it is possible to argue that new design often remediate physical properties and cultural paradigms already associated to existing devices. Magnusson argues that "what new instruments translate from earlier technologies are not simply the simulation of an interface, but a whole constellation of embodied contexts". Within this constellation we include the values, imaginaries and concerns inherited from communities of practice.
 
-___
 ___
 
 ##### On the influences of communities and musical backgrounds
@@ -59,7 +58,7 @@ Overall, our participants were rather successful in guessing the genre/style of 
 - G. Lepri and A. P. McPherson. [Fictional Instruments, Real Values: Discovering Musical Backgrounds with Non-Functional Prototypes.](http://www.nime.org/proceedings/2019/nime2019_024.pdf) Proc. New Interfaces for Musical Expression, Porto Alegre, Rio Grande do Sul, Brazil. 2019.
 
 ___
-___
+
 
 ##### A practice based account
 
