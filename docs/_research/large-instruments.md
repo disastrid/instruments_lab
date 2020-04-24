@@ -5,7 +5,7 @@ tag: "new-interfaces"
 tagline:  PhD Research Lia Mice
 thumb: large-instruments/LargeInstrument.jpg
 authors: "Lia Mice"
-main-image: /images/research/large-instruments/PhotoOfTheInstrument.jpg
+main-image: /images/research/large-instruments/PhotoOfTheInstrumentMini.jpg
 para:  Large Digital Musical Instrument Design
 links: ["http://www.liamice.com"]
 link-names: ["Personal website"]
@@ -15,7 +15,7 @@ With the advancements in digital audio technology, digital musical instruments (
 
 The motivation of this research is to understand the influence that a DMI’s physical size and layout has on the performances and compositions created on DMIs, so as to discover ways that DMI designers might make dedicated choices to either support or suppress specific influences in future DMI design.
 
-{% include single-image-research.html fileName="large-instruments/PhotoOfTheInstrument2.jpg" caption="Large DMIs inspired by this research performed live at Islington Assembly Hall September 2019" %}
+{% include single-image-research.html fileName="large-instruments/LargeInstrument2.jpg" caption="Large DMIs inspired by this research performed live at Islington Assembly Hall September 2019" %}
 ___
 
 ## Large Acoustic Instrument Performers Study
