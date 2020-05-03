@@ -3,13 +3,13 @@ layout: research
 title:  "Play Make Believe: Exploring Design Fiction and Absurd Making"
 tag: "musician-studies"
 tagline: NIME 2020 Workshop
-thumb: 10000-instruments/abstract-clari.jpg
+thumb: 10000-instruments/abstract-clari.png
 authors: "Giacomo Lepri"
-main-image: /images/research/10000-instruments/score02.jpg
+main-image: /images/research/10000-instruments/score02.png
 para: 10.000 Musical Instruments for a Semi-connected World
 ---
 
-{% include single-image-research.html fileName="10000-instruments/abstract-clari.jpg"%}
+{% include single-image-research.html fileName="10000-instruments/abstract-clari.png"%}
 
 ___
 
@@ -35,7 +35,7 @@ ___
 
 ___
 
-{% include single-image-research.html fileName="10000-instruments/evolution.jpg"%}
+{% include single-image-research.html fileName="10000-instruments/evolution.png"%}
 
 ___
 
@@ -43,4 +43,4 @@ ___
 
 ___
 
-{% include single-image-research.html fileName="10000-instruments/hanger.jpg"%}
+{% include single-image-research.html fileName="10000-instruments/hanger.png"%}
