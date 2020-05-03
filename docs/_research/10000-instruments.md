@@ -5,7 +5,7 @@ tag: "musician-studies"
 tagline: NIME 2020 Workshop
 thumb: 10000-instruments/abstract-clari.png
 authors: "Giacomo Lepri"
-main-image: /images/research/10000-instruments/score02.png
+main-image: /images/research/10000-instruments/score.png
 para: 10.000 Musical Instruments for a Semi-connected World
 ---
 
