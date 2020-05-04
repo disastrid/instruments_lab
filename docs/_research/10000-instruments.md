@@ -11,24 +11,20 @@ para: Design Fiction and Absurd Making as Critical Practices
 
 ##### DATE AND TIME: 21 July - time tbc
 
-##### SUBMISSION DEADLINE*** : 10 July
+##### SUBMISSION DEADLINE : 10 July
 
 ___
 
-***To apply, please send an email to g.lepri[at]qmul.ac.uk***
+>***To apply send an email to g.lepri[at]qmul.ac.uk***
 ___
 
 {% include single-image-research.html fileName="10000-instruments/abstractclari.png"%}
 
 ___
 
->***The 10.000 Instruments workshop aims to cheer up social distancing through some playful interactions. We invite the NIME community to dive in an online gathering to collaborativelly sketch as many instrument ideas as possible.***
+>***The 10.000 Instruments workshop aims to cheer up social distancing through some playful interactions. We invite the NIME community to dive in an online gathering to collaborativelly sketch as many instrument ideas as possible. A lighthearted activity that might ease for a couple of hours the challenging situations we are all experiencing.***
 
->***A lighthearted activity that might ease for a couple of hours the challenging situations we are all experiencing.***
-
->***An opportunity to experiment with alternative ways to generate interface ideas and speculate on music tech through open-ended artefacts and playful design explorations.***
-
->***An original and unconventional workshop to advance the debate around the complex, interdisciplinary and multifaceted nature of contemporary musical instruments.***
+>***An opportunity to experiment with alternative ways to generate interface ideas and speculate on music tech through open-ended artefacts and playful design explorations. An unconventional workshop to advance the debate around the complex, interdisciplinary and multifaceted nature of contemporary musical instruments.***
 
 ___
 
@@ -40,6 +36,10 @@ ___
 
 This speculative virtual workshop attempts to engage with critical NIME discourse through creative and collaborative design explorations. The workshop draws on a small but growing body of work that challenges technology ideation and development through absurd, speculative and playful artefacts. These include the work of Kristina Andersen on the Magic Machine workshops and John Bowers and Owen Green which exploited the notion of hijacking as a way to question existing music technologies. Another example is of such approach is the Absurd Music Hackathon held at Queen Mary University in which the making of intentionally silly, absurd and provocative instruments allowed participants to generate a critique of current technology and illustrate future musical visions.
 
+##### Critical Discourse & NIME Design
+
+The workshop aims to generate critical discussions on new musical interfaces through playful devices such as absurdity, magic and make-believe. The activity will be an opportunity to create reflections that would be difficult to earn with more traditional methods, while avoiding overly theoretical and formal discussions. By moving away from classical design methods and looking at more subversive approaches we hope to question both our own practice and the routines we sometimes encounter in academic and research areas. The aim is to question the role of technology in creative practice through make-believe, fragile and contradictory artefacts and playful design explorations. By making and sharing imaginary musical instruments we aim to expand on how can absurdity and humour be helpful to stretch and critique conventional ideas of what is useful, appropriate and sensible in (music) technology research and development.
+
 ___
 
 {% include single-image-research.html fileName="10000-instruments/evolution.png"%}
@@ -47,17 +47,7 @@ ___
 ___
 
 
-##### Critical Discourse & NIME Design
-
-The workshop aims to generate critical discussions on new musical interfaces through playful devices such as absurdity, magic and make-believe. The activity will be an opportunity to create reflections that would be difficult to earn with more traditional methods, while avoiding overly theoretical and formal discussions. By moving away from classical design methods and looking at more subversive approaches we hope to question both our own practice and the routines we sometimes encounter in academic and research areas. The aim is to question the role of technology in creative practice through make-believe, fragile and contradictory artefacts and playful design explorations. By making and sharing imaginary musical instruments we aim to expand on how can absurdity and humour be helpful to stretch and critique conventional ideas of what is useful, appropriate and sensible in (music) technology research and development.
-
-___
-
-{% include single-image-research.html fileName="10000-instruments/materials.png"%}
-
-___
-
-#####10.000 Instruments
+##### 10.000 Instruments
 
 The workshop features a set of permissive workspaces where it is possible to collaborate on a variety of projects - including seriously silly concepts and unworkable designs. Participants are encouraged to come and go, diverge from assumptions, follow their intuitions and play with both humour and risky ideas.
 
@@ -90,7 +80,7 @@ Ingredients (just enough):
 
 ___
 
-{% include single-image-research.html fileName="10000-instruments/hanger.png"%}
+{% include single-image-research.html fileName="10000-instruments/materials.png"%}
 
 ___
 
@@ -106,6 +96,10 @@ ___
 - [Antonella Nonnis](http://antonellanonnis.com/) - Centre for Digital Music – Queen Mary University of London, London, UK
 - [Paul Stapleton](http://www.paulstapleton.net/) - Sonic Arts Research Centre, Queen’s University, Belfast, UK
 - [Sam Topley](http://www.samantha-topley.co.uk/) - Music, Technology and Innovation - Institute for Sonic Creativity (MTI2), De Montfort University, Leicester, UK
+
+___
+
+{% include single-image-research.html fileName="10000-instruments/hanger.png"%}
 
 ___
 
