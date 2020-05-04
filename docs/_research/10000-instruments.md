@@ -5,7 +5,7 @@ tag: "musician-studies"
 tagline: NIME 2020 Workshop
 thumb: 10000-instruments/abstract-clari.png
 authors: "Giacomo Lepri"
-main-image: /images/research/10000-instruments/collage02.png
+main-image: /images/research/10000-instruments/score03.jpg
 para: Exploring Design Fiction and Absurd Making
 ---
 
