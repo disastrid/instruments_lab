@@ -11,7 +11,7 @@ para: Design Fiction and Absurd Making as NIME Practices
 
 ##### DATE AND TIME: 21 July - time tbc
 
-##### SUBMISSION DEADLINE : 10 July
+##### SUBMISSION DEADLINE : 28 June
 
 ___
 
@@ -25,7 +25,7 @@ ___
 
 ___
 
-{% include single-image-research.html fileName="10000-instruments/collage02.png"%}
+{% include single-image-research.html fileName="10000-instruments/collage03.png"%}
 
 ___
 
@@ -56,16 +56,14 @@ The workshop outcome will be a shared online document, as a roughly organised co
 
 Interested participants should send an email to ***g.lepri[at]qmul.ac.uk*** with an idea for an absurd or not-yet-existing musical instrument. These ideas will be used to feed a random generator of absurd instruments to be used during the workshop.
 
-Workshop date and time: 21 July 2020, time tbc based on participants availabilities.
-
-Workshop duration: 2h (with breaks).
-
+Workshop date is 21 July 2020, ***time tbc based on participants availabilities***.
+Workshop duration will be 2h (with breaks).
 Workspaces:
 
 - Video-chat platform (tbc)
 - Web-based presentation platform (tbc)
 
-Key words:
+***Key words:***
 
 - Light Touch
 - Collective Exploration
@@ -119,4 +117,4 @@ In Contemporary Music Review 2013.
 
 ##### Images credits
 
-- Excerpt from "Extention No. 1" by William R. Maginnis Jr - Notations - John Cage - 1970 
+- Excerpt from "Extention No. 1" by William R. Maginnis Jr - Notations - John Cage - 1970
