@@ -6,10 +6,8 @@ tagline: NIME 2020, 21-25 July, Royal Birmingham Conservatoire
 thumb: 10000-instruments/abstract-clari.png
 authors: "Giacomo Lepri"
 main-image: /images/research/10000-instruments/score03.jpg
-para: Design Fiction and Absurd Making as Critical Practices
+para: Design Fiction and Absurd Making as NIME Practices
 ---
-
->***To apply send an email to g.lepri[at]qmul.ac.uk***
 
 ##### DATE AND TIME: 21 July - time tbc
 
@@ -48,43 +46,46 @@ ___
 
 ##### 10.000 Instruments
 
-The workshop features a set of permissive workspaces where it is possible to collaborate on a variety of projects - including seriously silly concepts and unworkable designs. Participants are encouraged to come and go, diverge from assumptions, follow their intuitions and play with both humour and risky ideas.
+Have a look to the original [workshop proposal](http://instrumentslab.org/data/giacomo/NIME2020Workshop.pdf).
 
-Given the constraints/opportunities of this NIME edition we have to make available communication technologies part of the game. Rather than look for the most efficient tool, we would embrace the glitches and limitations of current remote and collaborative technologies. Latency, jitter, feedback, half-duplex might then become an absurd source of inspiration. By relaying ideas through different, partially broken, modes of communication, we thus allow the network to have some agency in how exquisite musical ideas play out.
+The 10.000 Instrument workshop will feature a permissive and open-ended online workspace where participants can collaborate to sketch new interface ideas, including seriously silly concepts, not-yet-existing designs and variations of existing instruments. The instruments will be collected on a shared workspace (e.g. goggle slides) and made available for collective explorations. Participants are then invited to share, come and go, further develop others' ideas, follow intuitions and play with both humour and risky ideas (always in respectful and kind fashion).
 
-One of the workshop’s outcome will be a public document which collects participants’ contributions, impressions and takes based on their annotations, sketches, pictures and videos. These materials might than contribute to the debate around critical instrument design practices as a shared archival knowledge available to future NIME communities.
+Attendees are encouraged to use the tools and materials they prefer to sketch their ideas, as far as the results can be documented and shared online. These might include text descriptions, hyperlinks, recycled and found materials (see picture below), mock-ups and fictional artefacts, hand drawing, 2D and 3D rendering, collages, pictures, videos, painting, etc.
 
-Let’s make some soup
+The workshop outcome will be a shared online document, as a roughly organised collection of artefacts, concerns and conversations emerged during workshop. This collection (e.g. annotations, pictures and videos) will be afterwards made public by the organisers in a webzine-like format. This on-line pamphlet will then gather resources and materials to stimulate future debates around NIME critical practices including alternative methods and their expected outcomes.
 
-Serves: 25ish?
-Time: 2h?
-Tools:
+Interested participants should send an email to ***g.lepri[at]qmul.ac.uk*** with an idea for an absurd or not-yet-existing musical instrument. These ideas will be used to feed a random generator of absurd instruments to be used during the workshop.
 
--        Workspace 1 – here is where we collect instruments concepts and ideas as plain text and hyperlinks
--        Workspace 2 – we gather here instruments mock-ups and craft interactions as audio, videos and images
--        Workspace 3 – a place for sharing some unworkable code
--        Workspace 4 – overall documentation?
+Workshop date and time: 21 July 2020, time tbc based on participants availabilities.
 
-Ingredients (just enough):
+Workshop duration: 2h (with breaks).
 
--        Found materials[i]
--        Light Touch
--        Collective Exploration
--        Come and Go
--        Trust and Intuition
--        Humour and Risk
--        Multiplicity and Divergence
--        No need for closure
--        Yes, and …
+Workspaces:
+
+- Video-chat platform (tbc)
+- Web-based presentation platform (tbc)
+
+Key words:
+
+- Light Touch
+- Collective Exploration
+- Come and Go
+- Trust and Intuition
+- Humour and Risk
+- Multiplicity and Divergence
+- No need for closure
+- Yes, and …
+
+Finally, as NIME 2020 will be an [online conference](https://nime2020.bcu.ac.uk/#nime2020update), the 10.000 Instruments workshop will be hosted virtually. Given the constraints/opportunities of this NIME edition we have to make available communication technologies part of the game. Rather than look for the most efficient tool, we would embrace the glitches and limitations of current remote and collaborative technologies. Latency, jitter, feedback, half-duplex might then become an absurd source of inspiration. By relaying ideas through different, partially broken, modes of communication, we thus allow the network to have some agency in how exquisite musical ideas play out.
 
 ___
 
-{% include single-image-research.html fileName="10000-instruments/materials.png"%}
+{% include single-image-research.html fileName="10000-instruments/materials.png" caption="A suggestion of mundane tools and materials participants might use to build instruments mock-ups: cardboard, disposable cups, paper plates, masking tape, a roll of twine, scissors, wire cutter, paper clips and pins, a roll of metal wire, plastic ball, elastic bands, straws and toothpick."%}
 
 ___
 
 
-##### Workshop Co-organisers
+##### Workshop Organisers
 
 - [Kristina Andersen](http://tinything.com/) - Future Everyday - Eindhoven University of Technology, Eindhoven, The Netherlands
 - [Pete Bennett]() - University of Bristol, Bristol, UK
@@ -102,7 +103,7 @@ ___
 
 ___
 
-##### Reference
+##### References
 
 - Andersen, K., & Wakkary, R. The Magic Machine Workshops: Making Personal Design Knowledge. In CHI 2019.
 - Bowers, J. et al. One knob to rule them all: reductionist interfaces for expansionist research. NIME 2016.
@@ -114,3 +115,8 @@ ___
 - Mudd, T. Material-oriented musical interactions. In New Directions in Music and Human-Computer Interaction 2019.
 - Stapleton, P. Autobiography and invention: Towards a critical understanding of identity, dialogue and resistance in improvised musics.
 In Contemporary Music Review 2013.
+- Lepri G., McPherson, A & Bowers, J. Useless, not Worthless: Absurd Making as Critical Practice. In DIS 2020
+
+##### Images credits
+
+- Excerpt from "Extention No. 1" by William R. Maginnis Jr - Notations - John Cage - 1970 
