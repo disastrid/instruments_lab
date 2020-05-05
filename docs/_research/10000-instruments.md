@@ -48,7 +48,7 @@ ___
 
 Have a look to the [workshop proposal](http://instrumentslab.org/data/giacomo/NIME2020Workshop.pdf).
 
-The 10.000 Instrument workshop will feature a permissive and open-ended online workspace where participants can collaborate to sketch new interface ideas, including seriously silly concepts, not-yet-existing designs and variations of existing instruments. The instruments will be collected on a shared workspace (e.g. goggle slides) and made available for collective explorations. Participants are then invited to share, come and go, further develop others' ideas, follow intuitions and play with both humour and risky ideas (always in respectful and kind fashion).
+The 10.000 Instrument workshop will feature a permissive and open-ended online workspace where participants can collaborate to sketch new interface ideas, including seriously silly concepts, not-yet-existing designs and variations of existing instruments. The instruments will be collected on a shared workspace (e.g. Google slides) and made available for collective explorations. Participants are then invited to share, come and go, further develop others' ideas, follow intuitions and play with both humour and risky ideas (always in respectful and kind fashion).
 
 Attendees are encouraged to use the tools and materials they prefer to sketch their ideas, as far as the results can be documented and shared online. These might include text descriptions, hyperlinks, recycled and found materials (see picture below), mock-ups and fictional artefacts, hand drawing, 2D and 3D rendering, collages, pictures, videos, painting, etc.
 
@@ -56,8 +56,10 @@ The workshop outcome will be a shared online document, as a roughly organised co
 
 Interested participants should send an email to ***g.lepri[at]qmul.ac.uk*** with an idea for an absurd or not-yet-existing musical instrument. These ideas will be used to feed a random generator of absurd instruments to be used during the workshop.
 
-Workshop date is 21 July 2020, ***time tbc based on participants availabilities***.
-Workshop duration will be 2h (with breaks).
+Workshop date and time: 21 July 2020, ***time tbc based on participants availabilities***.
+
+Workshop duration: 2h (with breaks).
+
 Workspaces:
 
 - Video-chat platform (tbc)
@@ -118,3 +120,4 @@ In Contemporary Music Review 2013.
 ##### Images credits
 
 - Excerpt from "Extention No. 1" by William R. Maginnis Jr - Notations - John Cage - 1970
+- Visualfutureofmusic.blogspot.com
