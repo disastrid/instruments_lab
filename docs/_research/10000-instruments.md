@@ -46,7 +46,7 @@ ___
 
 ##### 10.000 Instruments
 
-Have a look to the original [workshop proposal](http://instrumentslab.org/data/giacomo/NIME2020Workshop.pdf).
+Have a look to the [workshop proposal](http://instrumentslab.org/data/giacomo/NIME2020Workshop.pdf).
 
 The 10.000 Instrument workshop will feature a permissive and open-ended online workspace where participants can collaborate to sketch new interface ideas, including seriously silly concepts, not-yet-existing designs and variations of existing instruments. The instruments will be collected on a shared workspace (e.g. goggle slides) and made available for collective explorations. Participants are then invited to share, come and go, further develop others' ideas, follow intuitions and play with both humour and risky ideas (always in respectful and kind fashion).
 
