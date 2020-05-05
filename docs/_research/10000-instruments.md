@@ -1,6 +1,6 @@
 ---
 layout: research
-title:  "10.000 Instruments for a Semi Connected World"
+title:  "10.000 Musical Instruments for a Semi-connected World"
 tag: "musician-studies"
 tagline: NIME 2020, 21-25 July, Royal Birmingham Conservatoire
 thumb: 10000-instruments/abstract-clari.png
@@ -9,13 +9,12 @@ main-image: /images/research/10000-instruments/score03.jpg
 para: Design Fiction and Absurd Making as Critical Practices
 ---
 
+>***To apply send an email to g.lepri[at]qmul.ac.uk***
+
 ##### DATE AND TIME: 21 July - time tbc
 
 ##### SUBMISSION DEADLINE : 10 July
 
-___
-
->***To apply send an email to g.lepri[at]qmul.ac.uk***
 ___
 
 {% include single-image-research.html fileName="10000-instruments/abstractclari.png"%}
@@ -105,8 +104,6 @@ ___
 
 ##### Reference
 
-- Akrich, M. The de-scription of technical objects. In Shaping Technology - Building Society: Studies in Sociotechnical Change. MIT Press,
-Cambridge, 1992.
 - Andersen, K., & Wakkary, R. The Magic Machine Workshops: Making Personal Design Knowledge. In CHI 2019.
 - Bowers, J. et al. One knob to rule them all: reductionist interfaces for expansionist research. NIME 2016.
 - Bowers, J. & Green, O. All the Noises: Hijacking Listening Machines for Performative Research. In NIME 2018.
