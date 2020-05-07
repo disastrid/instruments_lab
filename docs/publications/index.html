@@ -36,8 +36,7 @@ section_id: publications
         </li>
     {% endfor %}
 
-      <h3 id="2019" class="pub-year">2019 and forthcoming</h3>
-      <ol class="pubs-list" reversed>
+      <h3 id="2019" class="pub-year">2019</h3>
       {% for pub in site.data.publications._2019 %}
         <li>{{ pub.authors }}. {{ pub.title }}.
         {% if pub.city %}
