@@ -8,6 +8,34 @@ section_id: publications
       <h2>Publications</h2>
       <p>This page contains papers from the Augmented Instruments Laboratory, organised by date. Also see the latest <a href="/news/">news and events</a> and <a href="/press/">press articles</a>.</p>
 
+      <h3 id="2019" class="pub-year">2020 and forthcoming</h3>
+      <ol class="pubs-list" reversed>
+      {% for pub in site.data.publications._2020 %}
+        <li>{{ pub.authors }}. {{ pub.title }}.
+        {% if pub.city %}
+            {{ pub.venue }}, {{ pub.city }}.
+        {% else %}
+            {{ pub.venue }}.
+
+
+        {% if pub.vol %}
+            Vol. {{ pub.vol }},
+        {% endif}
+        {% if pub.issue %}
+            Issue {{ pub.issue }},
+        {% endif %}
+        {{ pub.year }}.
+
+        {% if pub.link %}
+            <br /><a href="{{ pub.link }}">More Info</a>
+        {% endif %}
+
+        {% if pub.pdf %}
+            <br /><a href="{{ pub.pdf }}">Download PDF</a>
+        {% endif %}
+        </li>
+    {% endfor %}
+
       <h3 id="2019" class="pub-year">2019 and forthcoming</h3>
       <ol class="pubs-list" reversed>
       {% for pub in site.data.publications._2019 %}
