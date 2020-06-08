@@ -56,7 +56,7 @@ The workshop outcome will be a shared online document, as a roughly organised co
 
 Interested participants should send an email to ***g.lepri[at]qmul.ac.uk*** with an idea for an absurd or not-yet-existing musical instrument. These ideas will be used to feed a random generator of absurd instruments to be used during the workshop.
 
-Workshop date and time: 21 July 2020, ***time tbc based on participants availabilities***.
+Workshop date and time: 21 July 2020, 2-4 pm (UK time).
 
 Workshop duration: 2h (with breaks).
 
