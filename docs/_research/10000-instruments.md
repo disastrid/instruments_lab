@@ -9,9 +9,9 @@ main-image: /images/research/10000-instruments/score03.jpg
 para: Design Fiction and Absurd Making as NIME Practices
 ---
 
-##### DATE AND TIME: 21 July - time tbc
+##### DATE AND TIME: 21 July - 2-4 pm (UK time)
 
-##### SUBMISSION DEADLINE : 28 June
+##### SUBMISSION DEADLINE : 12 July
 
 ___
 
