@@ -50,7 +50,7 @@ Have a look to the [workshop proposal](http://instrumentslab.org/data/giacomo/NI
 
 The 10.000 Instrument workshop will feature a permissive and open-ended online workspace where participants can collaborate to sketch new interface ideas, including seriously silly concepts, not-yet-existing designs and variations of existing instruments. The instruments will be collected on a shared workspace (e.g. Google slides) and made available for collective explorations. Participants are then invited to share, come and go, further develop others' ideas, follow intuitions and play with both humour and risky ideas (always in respectful and kind fashion).
 
-Attendees are encouraged to use the tools and materials they prefer to sketch their ideas, as far as the results can be documented and shared online. These might include text descriptions, hyperlinks, recycled and found materials (see picture below), mock-ups and fictional artefacts, hand drawing, 2D and 3D rendering, collages, pictures, videos, painting, etc.
+Attendees are encouraged to use the tools and materials they prefer to sketch their ideas, as far as the results can be documented and shared online. These might include text descriptions, hyperlinks, recycled and found materials (see picture below), mock-ups and fictional artefacts, hand drawing, 2D and 3D rendering, collages, pictures, videos, painting, etc. Please make sure to gather the materials and tools you would like to use during the workshop before the start of the event.
 
 The workshop outcome will be a shared online document, as a roughly organised collection of artefacts, concerns and conversations emerged during workshop. This collection (e.g. annotations, pictures and videos) will be afterwards made public by the organisers in a webzine-like format. This on-line pamphlet will then gather resources and materials to stimulate future debates around NIME critical practices including alternative methods and their expected outcomes.
 
@@ -88,13 +88,13 @@ ___
 ##### Workshop Organisers
 
 - [Kristina Andersen](http://tinything.com/) - Future Everyday - Eindhoven University of Technology, Eindhoven, The Netherlands
-- [Pete Bennett]() - University of Bristol, Bristol, UK
+- [Pete Bennett](www.peteinfo.com) - University of Bristol, Bristol, UK
 - [John Bowers](https://www.ncl.ac.uk/sacs/staff/profile/johnbowers.html) - Culture Lab, Newcastle University, Newcastle, UK
 - [Giacomo Lepri](http://www.giacomolepri.com/) - Centre for Digital Music – Queen Mary University of London, London, UK
 - [Andrew McPherson](http://instrumentslab.org/) - Centre for Digital Music – Queen Mary University of London, London, UK
 - [Tom Mudd](http://tommudd.co.uk/) - Edinburgh College of Art, University of Edinburgh, Edinburgh, UK
-- [Antonella Nonnis](http://antonellanonnis.com/) - Centre for Digital Music – Queen Mary University of London, London, UK
-- [Paul Stapleton](http://www.paulstapleton.net/) - Sonic Arts Research Centre, Queen’s University, Belfast, UK
+- [Antonella Nonnis](https://antonellanonnis.com/) - Centre for Digital Music – Queen Mary University of London, London, UK
+- [Paul Stapleton](http://www.paulstapleton.net/) - Sonic Arts Research Centre, Queen’s University Belfast, Belfast, UK
 - [Sam Topley](http://www.samantha-topley.co.uk/) - Music, Technology and Innovation - Institute for Sonic Creativity (MTI2), De Montfort University, Leicester, UK
 
 ___
