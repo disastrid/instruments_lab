@@ -13,6 +13,8 @@ para: Design Fiction and Absurd Making as NIME Practices
 
 ##### SUBMISSION DEADLINE : 12 July
 
+##### Important note: participants have to register for the NIME '20 Conference in order to attend the workshop!
+
 ___
 
 {% include single-image-research.html fileName="10000-instruments/abstractclari.png"%}
