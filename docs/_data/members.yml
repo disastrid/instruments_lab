@@ -14,14 +14,6 @@
       icon: link
   education: S.B. Music, S.B. Electrical Engineering, MIT; M.Eng. Electrical Engineering, MIT; Ph.D. Music Composition, U. Penn. 2009; Postdoc Drexel University MET-lab 2009-2011
   desc: Composition, actuated instruments, viola, piano, embedded audio systems
-- avatar: ../images/people/laurel.jpg
-  name: Dr Laurel Pardue
-  position: Postdoctoral Research Assistant
-  education: S.B. Music, S.B. Electrical Engineering, MIT; M.Eng. Electrical Engineering, MIT; M.Sc. Media Arts & Sciences, MIT 2011; PhD, QMUL Augmented Instruments Laboratory, 2017
-  desc: Interface & instrument design, prototyping, expressive performance, instrument learning, violin, viola, Balinese gamelan.
-  socials:
-    - link: https://scholar.google.com/citations?user=UXWpcQ4AAAAJ
-      icon: graduation-cap
 - avatar: ../images/people/robert.jpg
   name: Dr Robert Jack
   position: Postdoctoral Research Assistant

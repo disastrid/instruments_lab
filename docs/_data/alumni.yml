@@ -1,3 +1,11 @@
+- avatar: ../images/people/laurel.jpg
+  name: Dr Laurel Pardue
+  position: Postdoctoral Research Assistant
+  education: S.B. Music, S.B. Electrical Engineering, MIT; M.Eng. Electrical Engineering, MIT; M.Sc. Media Arts & Sciences, MIT 2011; PhD, QMUL Augmented Instruments Laboratory, 2017
+  desc: Interface & instrument design, prototyping, expressive performance, instrument learning, violin, viola, Balinese gamelan.
+  socials:
+    - link: https://scholar.google.com/citations?user=UXWpcQ4AAAAJ
+      icon: graduation-cap
 - avatar: ../images/stock/fabio.jpg
   name: Dr Fabio Morreale
   position: Postdoctoral Research Assistan 2015-2018
