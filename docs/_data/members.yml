@@ -27,11 +27,17 @@
       icon: link
   desc: Touch and musical instrument design, cross-modal perception, non-visual interfaces, sensorimotor feedback, haptics, percussion, strings and live electronics.
 - avatar: ../images/people/giulio.jpeg
-  name: Giulio Moro
-  education: Bachelors in sound recording (Conservatory of Padua), MSc in Digital Music Processing (QMUL)
-  position: PhD student (2015-present, co-supervised with Mark Sandler), Research Assistant (2017)
+  name: Dr Giulio Moro
+  education: Bachelors in sound recording (Conservatory of Padua), MSc in Digital Music Processing (QMUL), PhD in Electronic Engineering (QMUL)
+  position: PhD student (2015-2019, co-supervised with Mark Sandler), Research Assistant (2017, 2019-2020)
   socials:
-  desc: Touch on keyboard instruments, low latency audio and sensors, embedded devices, why-do-people-think-analog-is-better
+    - link: http://twitter.com/giu_lio_mo_ro
+      icon: twitter
+    - link: https://scholar.google.com/citations?user=1P92P3kAAAAJ&hl=en&oi=ao
+      icon: graduation-cap
+    - link: https://github.com/giuliomoro/
+      icon: link
+  desc: Touch on keyboard instruments, low latency audio and sensors, embedded devices, why-do-people-think-analog-is-better.
 - avatar: ../images/people/jack.jpg
   name: Jack Armitage
   position: PhD student (2016-present)
