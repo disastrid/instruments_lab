@@ -115,8 +115,10 @@
       icon: twitter
     - link: https://www.linkedin.com/in/courtneynreed
       icon: linkedin
+    - link: https://scholar.google.com/citations?user=iAtFS0wAAAAJ&hl=en
+      icon: graduation-cap
   education: BMus Electronic Production & Design, Berklee College of Music; MSc Computer Science, Queen Mary University of London
-  desc: Musical expression, singing voice and voice physiology, music cognition, music education, expressive interfaces
+  desc: Singing voice and vocal physiology, embodiment, intention and adaptation in performance, biosignals, expressive interfaces
 - avatar: ../images/people/Nicole_Thumbnail.JPG
   name: Nicole Suzanne Robson
   position: PhD student (2019-present)
