@@ -141,3 +141,13 @@
       icon: linkedin
   education: Telecommunications Engineer - MSc Radio Communications (University of Cantabria), MSc Sound and Music Computing (Queen Mary University of London)
   desc: instrument design, guitar making, end-to-end audio transformations, expressive control of sound synthesis, embedded audio
+- avatar: ../images/people/luis.jpg
+  name: Luis Zayas
+  position: PhD student (2020-present)
+  socials:
+    - link: https://luiszayas.com
+      icon: link
+    - link: https://twitter.com/_luiszayas
+      icon: twitter
+   education: BSc Engineering Product Design, London South Bank University
+   desc: disability, musical instrument design
