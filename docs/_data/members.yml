@@ -151,3 +151,13 @@
       icon: twitter
    education: BSc Engineering Product Design, London South Bank University
    desc: disability, musical instrument design
+- avatar: ../images/people/lew.jpg
+  name: Lewis Wolstanholme
+  position: PhD student (2020-present)
+  socials:
+    - link: https://lewiswolstanholme.co.uk
+      icon: link
+    - link: https://github.com/lewiswolf
+      icon: github
+   education: BMus Music, Goldsmiths University of London & MMus Composition Goldsmiths University of London
+   desc: Physical modelling synthesis & deep learning 
