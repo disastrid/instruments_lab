@@ -52,12 +52,16 @@
   desc:
     Musical instruments, composition systems, cognitive science, (post) human-computer interaction
 - avatar: ../images/people/jacob.jpg
-  name: Jacob Harrison
-  position: PhD student (2016-present)
-  education: BSc Music Technology, University of York; MSc by Research Electronic Engineering, University of York Audio Lab
+  name: Dr Jacob Harrison
+  position: Postdoctoral Research Assistant
+  education: BSc Music Technology, University of York; MSc by Research Electronic Engineering, University of York Audio Lab; PhD in Media and Arts Technology
   socials:
+    - link: http://jacobtfh.github.io
+      icon: link
     - link: http://twitter.com/Jcb_H
       icon: twitter
+    - link: http://github.com/JacobTFH
+      icon: github
   desc:
     Interface and instrument design, accessible music technology
 - avatar: ../images/people/giacomo.jpg
