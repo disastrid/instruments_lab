@@ -3,7 +3,7 @@ layout: research
 title:  "Imagined Singing: Sensing Musical Imagery and Intention in Vocalists"
 tag: "new-interfaces"
 tagline:  PhD Research, Courtney N. Reed
-thumb: electrodes-thumb.png
+thumb: imagined-singing/electrodes-thumb.png
 authors: "Courtney Reed"
 main-image: /images/research/imagined-singing/debussyvoxscore.png
 para:  Sensing Intention, Imagery, and Bodily Relationships with sEMG
@@ -37,9 +37,6 @@ For this, we propose the use of surface electromyography (sEMG) as a way of inte
 
 The design was driven through autobiographical design for both third- and first-person interaction perspectives. From a third-person point of view, we have found that sEMG is able to detect both vocalised and subvocalised singing during sung and imagined exercises, respectively. Third-person views of the vocal musculature allow for data to be collected about the activation patterns and tension during different exercises. We are currently exploring different filtering methods for the sEMG signal and working on detection of imagined versus executed action.
 
-- link to Git repo
-- photos from NIME paper
-
 -  Courtney N. Reed and Andrew P. McPherson. 2020. Surface Electromyography for Direct Vocal Control. Proc. New Interfaces for Musical Expression (NIME), Royal Birmingham Conservatoire, Birmingham, UK. <br><a href="http://instrumentslab.org/data/courtney/NIME2020_final.pdf">Download PDF</a>
 
 {% include single-image-research.html fileName="imagined-singing/v2.2-sch.png" caption="Circuit for sEMG signal acquisition and amplification." %}
@@ -54,5 +51,3 @@ From a first-person interaction perspective, the user is made aware of their own
 The use of sEMG thus provdes a foundation for creative interaction, where vocalists can use their pre-existing technique to control various aspects of performance. We use this signal in computer-music languages such as SuperCollider to map muscular activations to parameters of vocal processing. As well, because sEMG provides feedback for covert movements, we are keen to explore the applications of using sEMG as a teaching resource in vocal pedagogy and music education. Biofeedback in this sense can provide a better way for teachers and students to understand each other and help to reinforce healthy vocal practice.
 
 - Courtney N. Reed and Andrew P. McPherson. 2021. Surface Electromyography for Sensing Performance Intention and Musical Imagery in Vocalists. In Fifteenth International Conference on Tangible, Embedded, and Embodied Interaction (TEI ’21), February 14–17, 2021, Salzburg, Austria. ACM, New York, NY, USA, 11 pages. https://doi.org/10.1145/3430524.3440641 <br><a href="https://doi.org/10.1145/3430524.3440641">Download PDF</a> 
-
-- 
