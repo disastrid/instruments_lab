@@ -52,12 +52,16 @@
   desc:
     Musical instruments, composition systems, cognitive science, (post) human-computer interaction
 - avatar: ../images/people/jacob.jpg
-  name: Jacob Harrison
-  position: PhD student (2016-present)
-  education: BSc Music Technology, University of York; MSc by Research Electronic Engineering, University of York Audio Lab
+  name: Dr Jacob Harrison
+  position: Postdoctoral Research Assistant
+  education: BSc Music Technology, University of York; MSc by Research Electronic Engineering, University of York Audio Lab; PhD in Media and Arts Technology
   socials:
+    - link: http://jacobtfh.github.io
+      icon: link
     - link: http://twitter.com/Jcb_H
       icon: twitter
+    - link: http://github.com/JacobTFH
+      icon: github
   desc:
     Interface and instrument design, accessible music technology
 - avatar: ../images/people/giacomo.jpg
@@ -141,3 +145,23 @@
       icon: linkedin
   education: Telecommunications Engineer - MSc Radio Communications (University of Cantabria), MSc Sound and Music Computing (Queen Mary University of London)
   desc: instrument design, guitar making, end-to-end audio transformations, expressive control of sound synthesis, embedded audio
+- avatar: ../images/people/luis.jpg
+  name: Luis Zayas
+  position: PhD student (2020-present)
+  socials:
+    - link: https://luiszayas.com
+      icon: link
+    - link: https://twitter.com/_luiszayas
+      icon: twitter
+  education: BSc Engineering Product Design, London South Bank University
+  desc: disability, musical instrument design
+- avatar: ../images/people/lew.jpg
+  name: Lewis Wolstanholme
+  position: PhD student (2020-present)
+  socials:
+    - link: http://lewiswolstanholme.co.uk
+      icon: link
+    - link: https://github.com/lewiswolf
+      icon: github
+  education: BMus Music, Goldsmiths University of London & MMus Composition Goldsmiths University of London
+  desc: Physical modelling synthesis & deep learning 

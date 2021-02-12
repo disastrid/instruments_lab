@@ -11,6 +11,9 @@ main-image: /images/research/accessible/BBC-bass.jpg
 <!-- published: false -->
 ---
 
+*This PhD research project ran from 2015-2020 and was funded by the EPSRC and AHRC Centre for Doctoral Training in Media and Arts Technology (EP/L01632X/1). The full thesis document can be found [here](http://instrumentslab.org/data/jacob/jtfh-thesis.pdf).*
+
+
 The health, social and psychological benefits of music making have long been recognised, and well researched in the fields of music therapy, neuroscience, psychology, sociology and other disciplines.
 For disabled people, opportunities to partake in music-making activities can be impeded by social, attitudinal and physical barriers.
 The lack of instruments accessible to people with disabilities is one such barrier to access.
