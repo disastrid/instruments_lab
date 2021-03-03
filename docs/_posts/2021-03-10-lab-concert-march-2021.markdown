@@ -2,8 +2,8 @@
 layout: post
 title:  "Music from the Augmented Instruments Laboratory"
 categories: [news, events]
-images: /images/news/PosterMarchConcertMini.png
-front-image: /images/news/PosterMarchConcertMini.png
+images: /images/news/poster-march-concert-mini.png
+front-image: /images/news/poster-march-concert-mini.png
 event_date: March 10, 2021
 excerpt: Augmented Instruments Laboratory online concert
 url: https://www.youtube.com/channel/UCIQxQd3iJoCCzQow-4bon9Q/featured
@@ -23,7 +23,7 @@ We invite you to enjoy a marvelous livestream featuring musical works from speci
 
 - ColdSwim/Lily McGinn - A/V performance
 
-***[Kuljit Bhamra](https://en.wikipedia.org/wiki/Kuljit_Bhamra) - [Electronic tabla](https://keda.co.uk/electronic-tabla/)***
+- [Kuljit Bhamra](https://en.wikipedia.org/wiki/Kuljit_Bhamra) - [Electronic tabla](https://keda.co.uk/electronic-tabla/)***
 
 ---------------------
 
@@ -47,6 +47,6 @@ We invite you to enjoy a marvelous livestream featuring musical works from speci
 
 ---------------------
 
-{% include single-image.html fileName="news/PosterMarchConcert.png" %}
+{% include single-image.html fileName="news/poster-march-concert.png" %}
 
 Poster by Francis Devine
