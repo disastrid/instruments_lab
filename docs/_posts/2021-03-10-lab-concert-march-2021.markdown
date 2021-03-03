@@ -21,7 +21,7 @@ We invite you to enjoy a marvelous livestream featuring musical works from speci
 
 - Tara Pattenden ([Phantom Chips](https://www.phantomchips.com/)) - Tactile instruments
 
-- ColdSwim/Lily McGinn - A/V performance
+- [ColdSwim](https://eskertapes.bandcamp.com/album/entropy-esker02-2) & Lily McGinn - A/V performance
 
 - Kuljit Bhamra - [Electronic tabla](https://keda.co.uk/electronic-tabla/)
 
@@ -33,7 +33,7 @@ We invite you to enjoy a marvelous livestream featuring musical works from speci
 
 - Andrea Guidi & Giacomo Lepri - UVTOWER
 
-- Giacomo Lepri - Melotronica=
+- Giacomo Lepri - Melotronica
 
 - Julia Set - A/V performance
 
