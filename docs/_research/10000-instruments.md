@@ -5,7 +5,7 @@ tag: "musician-studies"
 tagline: NIME 2020, 21-25 July, Royal Birmingham Conservatoire
 thumb: 10000-instruments/abstract-clari.png
 authors: "Giacomo Lepri"
-main-image: /images/research/10000-instruments/score03blue01.jpg
+main-image: /images/research/10000-instruments/score03blue.jpg
 para: Design Fiction and Absurd Making as NIME Practices
 ---
 
@@ -13,7 +13,7 @@ para: Design Fiction and Absurd Making as NIME Practices
 
 ##### SUBMISSION DEADLINE : EXPIRED
 
-%##### Important note: participants have to register for the NIME '20 Conference in order to attend the workshop!
+<!-- ##### Important note: participants have to register for the NIME '20 Conference in order to attend the workshop! -->
 
 ___
 
