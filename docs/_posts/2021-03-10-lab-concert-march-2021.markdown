@@ -2,7 +2,7 @@
 layout: post
 title:  "Music from the Augmented Instruments Laboratory"
 categories: [news, events]
-images: /images/news/poster-march-concert-mini.png
+images: /images/news/LiaMice-PRISM_BELL.jpg
 front-image: /images/news/poster-march-concert-mini.png
 event_date: March 10, 2021
 excerpt: We are pleased to announce the first Augmented Instruments Laboratory online concert!
@@ -43,7 +43,7 @@ We invite you to enjoy a marvelous livestream featuring musical works from speci
 
 ---------------------
 
-##### Concert curated by Lia Mice
+**Concert curated by Lia Mice**
 
 ---------------------
 
