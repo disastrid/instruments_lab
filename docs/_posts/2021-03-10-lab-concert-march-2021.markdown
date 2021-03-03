@@ -17,13 +17,13 @@ We invite you to enjoy a marvelous livestream featuring musical works from speci
 
 ##### With guests:
 
-- [Kathy Hinde](http://kathyhinde.co.uk/) ([BEEF](http://www.beefbristol.org/) - Bristol Experimental Expanded Film) - 16mm film A/V composition
+- [Kathy Hinde](http://kathyhinde.co.uk/) (BEEF - [Bristol Experimental Expanded Film](http://www.beefbristol.org/)) - 16mm film A/V composition
 
 - Tara Pattenden ([Phantom Chips](https://www.phantomchips.com/)) - Tactile instruments
 
 - ColdSwim/Lily McGinn - A/V performance
 
-- [Kuljit Bhamra](https://en.wikipedia.org/wiki/Kuljit_Bhamra) - [Electronic tabla](https://keda.co.uk/electronic-tabla/)***
+- [Kuljit Bhamra](https://en.wikipedia.org/wiki/Kuljit_Bhamra) - [Electronic tabla](https://keda.co.uk/electronic-tabla/)
 
 ---------------------
 
