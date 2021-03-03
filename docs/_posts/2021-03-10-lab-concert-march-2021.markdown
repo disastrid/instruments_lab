@@ -23,7 +23,7 @@ We invite you to enjoy a marvelous livestream featuring musical works from speci
 
 - ColdSwim/Lily McGinn - A/V performance
 
-- [Kuljit Bhamra](https://en.wikipedia.org/wiki/Kuljit_Bhamra) - [Electronic tabla](https://keda.co.uk/electronic-tabla/)
+- Kuljit Bhamra - [Electronic tabla](https://keda.co.uk/electronic-tabla/)
 
 ---------------------
 
