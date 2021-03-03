@@ -31,13 +31,13 @@ We invite you to enjoy a marvelous livestream featuring musical works from speci
 
 - Nicole Robson - Halldorophone
 
-- Andrea Guidi & Giacomo Lepri – UVTOWER
+- Andrea Guidi & Giacomo Lepri - UVTOWER
 
-- Giacomo Lepri – Melotronica=
+- Giacomo Lepri - Melotronica=
 
-- Julia Set – A/V performance
+- Julia Set - A/V performance
 
-- Fabio Morreale – Algorithmic sound design
+- Fabio Morreale - Algorithmic sound design
 
 - Laurel S. Pardue & Jack Armitage - Live coded svampolin
 
