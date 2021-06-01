@@ -1,6 +1,6 @@
 - avatar: ../images/people/andrew.jpg
   name: Dr Andrew McPherson
-  position: Reader (Associate Professor) in Digital Media; EPSRC Early Career Fellow 2016-2020
+  position: Reader (Associate Professor) in Digital Media; Royal Academy of Engineering Senior Research Fellow 2021-26
   socials:
     - link: http://twitter.com/InstrumentsLab
       icon: twitter
@@ -14,43 +14,6 @@
       icon: link
   education: S.B. Music, S.B. Electrical Engineering, MIT; M.Eng. Electrical Engineering, MIT; Ph.D. Music Composition, U. Penn. 2009; Postdoc Drexel University MET-lab 2009-2011
   desc: Composition, actuated instruments, viola, piano, embedded audio systems
-- avatar: ../images/people/robert.jpg
-  name: Dr Robert Jack
-  position: Postdoctoral Research Assistant
-  education: M.A.(hons) Applied Mathematics and Music, University of Glasgow; MMus Studio Composition, Goldsmiths, University of London.
-  socials:
-    - link: http://twitter.com/rjack0101
-      icon: twitter
-    - link: https://scholar.google.co.uk/citations?user=4UnLTw0AAAAJ&hl=en&oi=sra
-      icon: graduation-cap
-    - link: http://www.robertjack.org
-      icon: link
-  desc: Touch and musical instrument design, cross-modal perception, non-visual interfaces, sensorimotor feedback, haptics, percussion, strings and live electronics.
-- avatar: ../images/people/giulio.jpeg
-  name: Dr Giulio Moro
-  education: Bachelors in sound recording (Conservatory of Padua), MSc in Digital Music Processing (QMUL), PhD in Electronic Engineering (QMUL)
-  position: PhD student (2015-2019, co-supervised with Mark Sandler), Research Assistant (2017, 2019-2020)
-  socials:
-    - link: http://twitter.com/giu_lio_mo_ro
-      icon: twitter
-    - link: https://scholar.google.com/citations?user=1P92P3kAAAAJ&hl=en&oi=ao
-      icon: graduation-cap
-    - link: https://github.com/giuliomoro/
-      icon: link
-  desc: Touch on keyboard instruments, low latency audio and sensors, embedded devices, why-do-people-think-analog-is-better.
-- avatar: ../images/people/jack.jpg
-  name: Jack Armitage
-  position: PhD student (2016-present)
-  education: BSc Music, Multimedia & Electronics, University of Leeds
-  socials:
-    - link: http://jackarmitage.com
-      icon: link
-    - link: http://scholar.google.com/citations?user=APvoBhUAAAAJ
-      icon: graduation-cap
-    - link: http://github.com/jarmitage
-      icon: github
-  desc:
-    Musical instruments, composition systems, cognitive science, (post) human-computer interaction
 - avatar: ../images/people/jacob.jpg
   name: Dr Jacob Harrison
   position: Postdoctoral Research Assistant
@@ -64,6 +27,19 @@
       icon: github
   desc:
     Interface and instrument design, accessible music technology
+- avatar: ../images/people/jack.jpg
+  name: Jack Armitage
+  position: PhD student (2016-present)
+  education: BSc Music, Multimedia & Electronics, University of Leeds
+  socials:
+    - link: http://jackarmitage.com
+      icon: link
+    - link: http://scholar.google.com/citations?user=APvoBhUAAAAJ
+      icon: graduation-cap
+    - link: http://github.com/jarmitage
+      icon: github
+  desc:
+    Musical instruments, composition systems, cognitive science, (post) human-computer interaction
 - avatar: ../images/people/giacomo.jpg
   name: Giacomo Lepri
   position: PhD student (2017-present)
@@ -141,6 +117,14 @@
       icon: linkedin
   education: Telecommunications Engineer - MSc Radio Communications (University of Cantabria), MSc Sound and Music Computing (Queen Mary University of London)
   desc: instrument design, guitar making, end-to-end audio transformations, expressive control of sound synthesis, embedded audio
+- avatar: ../images/people/andrea_m.jpg
+  name: Andrea Martelloni
+  position: PhD student (2019-present)
+  socials: 
+    - link: https://uk.linkedin.com/in/andrea-martelloni-7ab10a60
+      icon: linkedin
+  education: BSc Musical Informatics, University of Milan, MSc Sound and Vibration Studies, University of Southampton
+  desc: augmented guitars, augmented percussion, machine learning for real-time DSP, acoustic fingerstyle guitar, obscure jazz
 - avatar: ../images/people/luis.jpg
   name: Luis Zayas
   position: PhD student (2020-present)

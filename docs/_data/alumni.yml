@@ -1,3 +1,27 @@
+- avatar: ../images/people/robert.jpg
+  name: Dr Robert Jack
+  position: PhD student 2014-18, Postdoctoral Research Assistant 2019-20
+  education: M.A.(hons) Applied Mathematics and Music, University of Glasgow; MMus Studio Composition, Goldsmiths, University of London.
+  socials:
+    - link: http://twitter.com/rjack0101
+      icon: twitter
+    - link: https://scholar.google.co.uk/citations?user=4UnLTw0AAAAJ&hl=en&oi=sra
+      icon: graduation-cap
+    - link: http://www.robertjack.org
+      icon: link
+  desc: Touch and musical instrument design, cross-modal perception, non-visual interfaces, sensorimotor feedback, haptics, percussion, strings and live electronics.
+- avatar: ../images/people/giulio.jpeg
+  name: Dr Giulio Moro
+  education: Bachelors in sound recording (Conservatory of Padua), MSc in Digital Music Processing (QMUL), PhD in Electronic Engineering (QMUL)
+  position: PhD student (2015-2019, co-supervised with Mark Sandler), Research Assistant (2017, 2019-2020)
+  socials:
+    - link: http://twitter.com/giu_lio_mo_ro
+      icon: twitter
+    - link: https://scholar.google.com/citations?user=1P92P3kAAAAJ&hl=en&oi=ao
+      icon: graduation-cap
+    - link: https://github.com/giuliomoro/
+      icon: link
+  desc: Touch on keyboard instruments, low latency audio and sensors, embedded devices, why-do-people-think-analog-is-better.
 - avatar: ../images/people/laurel.jpg
   name: Dr Laurel Pardue
   position: Postdoctoral Research Assistant
@@ -8,7 +32,7 @@
       icon: graduation-cap
 - avatar: ../images/stock/fabio.jpg
   name: Dr Fabio Morreale
-  position: Postdoctoral Research Assistan 2015-2018
+  position: Postdoctoral Research Assistant 2015-2018
   socials:
     - link: https://twitter.com/fabiomorreale
       icon: twitter
