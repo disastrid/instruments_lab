@@ -90,7 +90,9 @@
   pdf:  http://instrumentslab.org/data/giacomo/DIS2020AbsurdMaking.pdf
 - title: 'Idiomatic Patterns and Aesthetic Influence in Computer Music Languages'
   authors: A. P. McPherson and K. Tahiroğlu
-  venue: Organised Sound - forthcoming
+  venue: Organised Sound
+  vol: 25
+  issue: 1
   year: 2020
   pdf:  http://instrumentslab.org/data/andrew/IdiomaticPatterns&Aesthetic.pdf
 - title: 'Instruments and Access: The Role of Instruments in Music and Disability (PhD Thesis)'
