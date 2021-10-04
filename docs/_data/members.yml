@@ -1,6 +1,6 @@
 - avatar: ../images/people/andrew.jpg
-  name: Dr Andrew McPherson
-  position: Reader (Associate Professor) in Digital Media; Royal Academy of Engineering Senior Research Fellow 2021-26
+  name: Prof Andrew McPherson
+  position: Professor of Musical Interaction; Royal Academy of Engineering Senior Research Fellow 2021-26
   socials:
     - link: http://twitter.com/InstrumentsLab
       icon: twitter
@@ -69,7 +69,7 @@
   position: PhD student (2018-present)
   education: BSc Science & Technology of Musical Communication, University of Milan - Milan; MMus Electronic Music & Sound Technology, G.Verdi Conservatory of Music - Milan
   socials:
-    - link: https://twitter.com/An_Hello_World
+    - link: https://twitter.com/AugmentedHello
       icon: twitter
   desc:
    new interfaces for musical expression, interactive art, augmented instruments
@@ -145,3 +145,21 @@
       icon: github
   education: BMus Music, Goldsmiths University of London & MMus Composition Goldsmiths University of London
   desc: Physical modelling synthesis & deep learning
+- avatar: ../images/people/teresa.jpg
+  name: Teresa Pelinski
+  position: PhD student (2021-present)
+  socials:
+    - link: https://github.com/pelinski
+      icon: github
+  education: BSc Physics, Universidad Autónoma de Madrid & MSc Sound and Music Computing, Pompeu Fabra University
+  desc: digital lutherie, expressive digital instruments, generative musical systems, deep learning
+- avatar: ../images/people/franco.jpg
+  name: Franco Caspe
+  position: PhD student (2021-present)
+  socials:
+    - link: https://fcaspe.github.io/
+      icon: link
+    - link: https://www.instagram.com/francocaspe/
+      icon: instagram
+  education: Electronic Engineering (UTN FRBB) - MsC Image Processing and Computer Vision (EMJMD IPCV)
+  desc: musical expression, augmented instruments, synthesis models, deep learning, real time systems, maker culture, analog photography

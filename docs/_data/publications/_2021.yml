@@ -1,12 +1,20 @@
+- title: 'A TMR angle sensor for gesture acquisition and disambiguation on the electric guitar'
+  authors: A. Benito Temprano and A. McPherson
+  venue: Audio Mostly
+  city: Trento, Italy
+  year: 2021
+  pdf: http://instrumentslab.org/data/andrew/benito_am2021.pdf
 - title: 'On mediating sound, space and experience: interviews with situated sound art practitioners'
   authors: N. Robson, N. Bryan-Kinns and A. McPherson
   venue: Organised Sound
   issue: forthcoming
   year: 2021
+  pdf: http://instrumentslab.org/data/andrew/robson_organised_sound.pdf
 - title: 'Performer experience on a continuous keyboard instrument'
   authors: G. Moro and A. McPherson
   venue: Computer Music Journal
-  issue: forthcoming
+  vol: 44
+  issue: 2
   year: 2021
   pdf: http://instrumentslab.org/data/giulio/giulio-moro-cmj-2020-v3.pdf
 - title: 'Guitar augmentation for Percussive Fingerstyle: Combining self-reflexive practice and user-centred design'

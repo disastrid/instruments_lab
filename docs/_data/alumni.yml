@@ -20,7 +20,7 @@
     - link: https://scholar.google.com/citations?user=1P92P3kAAAAJ&hl=en&oi=ao
       icon: graduation-cap
     - link: https://github.com/giuliomoro/
-      icon: link
+      icon: github
   desc: Touch on keyboard instruments, low latency audio and sensors, embedded devices, why-do-people-think-analog-is-better.
 - avatar: ../images/people/laurel.jpg
   name: Dr Laurel Pardue

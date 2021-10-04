@@ -875,7 +875,7 @@ ul.shortcode-list i {
 .contain-to-grid .title-area, .contain-to-grid .title-area li, .contain-to-grid .title-area a {
   height: 3em;
   line-height: 3em;
-  // ^ CHANGED THESE TO DEAL WITH SVG - AB
+  /* ^ CHANGED THESE TO DEAL WITH SVG - AB */
   -moz-transition-property: all;
   -o-transition-property: all;
   -webkit-transition-property: all;
@@ -887,7 +887,7 @@ ul.shortcode-list i {
 }
 .contain-to-grid .title-area img, .contain-to-grid .title-area li img, .contain-to-grid .title-area a img {
   max-width: 60%;
-  // ^ TURNED THIS OFF TO ALIGN SVG - AB
+  /* ^ TURNED THIS OFF TO ALIGN SVG - AB */
   -moz-transition-property: all;
   -o-transition-property: all;
   -webkit-transition-property: all;
@@ -929,8 +929,8 @@ ul.shortcode-list i {
   line-height: 2em;
 
 
-  // height: 60px;
-  // line-height: 60px;
+  /* height: 60px; */
+  /* line-height: 60px; */
 }
 .f-topbar-fixed.shrink .top-bar .title-area, .f-topbar-fixed.shrink .top-bar .title-area li, .f-topbar-fixed.shrink .top-bar .title-area a {
   height: 60px;
@@ -946,7 +946,7 @@ ul.shortcode-list i {
 
 
 .contain-to-grid.fullwidth .top-bar {
-  // max-width: 100%;
+  /* max-width: 100%; */
 }
 
 .contain-to-grid.alt .top-bar-section ul li > a {
@@ -1439,7 +1439,7 @@ form input.error, form textarea.error {
   background: #fff;
 }
 .modBlogPost .content {
-  // padding: 30px 20px;
+  /* padding: 30px 20px; */
 }
 .modBlogPost h4 a {
   color: #333;
@@ -1485,7 +1485,7 @@ form input.error, form textarea.error {
   width: 97%;
 }
 .modBlogPost.big .content {
-  // padding: 50px 40px;
+  /* padding: 50px 40px; */
 }
 .modBlogPost.big .info {
 }
