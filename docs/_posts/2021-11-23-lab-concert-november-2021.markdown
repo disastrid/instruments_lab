@@ -9,7 +9,7 @@ excerpt: The SECOND Augmented Instruments Laboratory online concert will take pl
 url: https://youtu.be/axn_wQM_I_c
 ---
 
-After the great success of its first edition, the Augmented Instruments Lab proudly invites you to attend the second (online) edition of Music from the Augmented Instruments Laboratory. On this occasion the concert will feature AV compositions, augmented instruments and voices, and large-scale instruments, as well as interviews conducted by members of our laboratory. 
+After the great success of its first edition, the Augmented Instruments Lab proudly invites you to attend the second (online) edition of **Music from the Augmented Instruments Laboratory**. On this occasion the concert will feature AV compositions, augmented instruments and voices, large-scale instruments, as well as interviews conducted by members of our laboratory. 
 
 **Save the date: Tuesday 23 November 2021, 7:00PM (GMT) - [Augmented Instruments Lab YouTube channel](https://youtu.be/axn_wQM_I_c)**
 
