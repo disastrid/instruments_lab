@@ -17,11 +17,11 @@ After the great success of its first edition, the Augmented Instruments Lab prou
 
 ##### Performances:
 
-- MrUnderwood - ams
+- [MrUnderwood](http://www.mrunderwood.co.uk/) - ams
 
 - [Julia Set](https://juliaset.bandcamp.com/) - AV performance
 
-- Courtney Reed & Andrea Martelloni – augmented acoustic guitar, voice augmented with EMG
+- [Courtney Reed](https://courtneynreed.wordpress.com/) & [Andrea Martelloni](https://www.linkedin.com/in/andrea-martelloni-7ab10a60/) – augmented acoustic guitar, voice augmented with EMG
 
 - [Lia Mice](https://www.liamice.com/)’s Chaos Bells performed by A’Bear, Andrew Booker, Angela Last, Blue Loop, Bubble People, Clive Thomas, Lizzie Wilson, nagasaki45, Phillip Raymond Goodman, PolyphonieFae Harmer. 
 
