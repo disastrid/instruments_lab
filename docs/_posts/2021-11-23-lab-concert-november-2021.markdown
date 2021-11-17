@@ -5,7 +5,7 @@ categories: [news, events]
 images: /image/news/online_concert_nov2021.png
 front-image: /images/news/online_concert_nov2021.png
 event_date: November 23, 2021
-excerpt: The SECOND Augmented Instruments Laboratory online concert will take place on Tuesday 23 November at 7 pm (GMT).
+excerpt: The SECOND Augmented Instruments Laboratory online concert will take place on Tuesday 23 November at 7pm (GMT).
 url: https://youtu.be/axn_wQM_I_c
 ---
 
@@ -32,10 +32,6 @@ After the great success of its first edition, the Augmented Instruments Lab prou
 - [Nwando Ebizie](https://www.nwandoebizie.com/) - Distorted Constellations & Solve et Coagula
 
 - [Sam Topley](https://www.samantha-topley.co.uk/) - Crafting e-Textile Musical Instruments
-
----------------------
-
-**Concert curated by Lia Mice**
 
 ---------------------
 
