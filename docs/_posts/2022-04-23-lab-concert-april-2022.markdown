@@ -16,7 +16,7 @@ UKRI Centre for Doctoral Training in Artificial Intelligence and Music presents:
 Saturday 23 April 2022 | 7:30pm – 11:30pm
 @ IKLECTIK, Old Paradise Yard, 20 Carlisle Lane, SE1 7LG
 
-## Tickets: £5 General Admission https://buytickets.at/iklectik/676185
+**Tickets: £5 General Admission https://buytickets.at/iklectik/676185**
 
 ##### Performances:
 
@@ -34,11 +34,9 @@ DJ: Lia Mice
 Augmented Instruments Laboratory, based out of the Centre for Digital Music (C4DM) at Queen Mary, focuses on developing new instruments and interfaces for musical expression. The concert will feature a programme of performances by the designers themselves plus special guests.
 http://instrumentslab.org/
 
----
+---------------------
 
 ##### Programme:
-
-Programme
 
 7:30: Lia Mice (DJ)
 8:15 Luis Zayas
@@ -48,7 +46,7 @@ Programme
 9:30 Courtney Reed
 9:45 Nwando Ebizie
 
----
+---------------------
 
 ##### About the performances:
 
