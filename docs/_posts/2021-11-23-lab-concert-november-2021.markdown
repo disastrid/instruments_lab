@@ -2,7 +2,7 @@
 layout: post
 title:  "Music from the Augmented Instruments Laboratory"
 categories: [news, events]
-images: /image/news/online_concert_nov2021.png
+images: /images/news/online_concert_nov2021.png
 front-image: /images/news/online_concert_nov2021.png
 event_date: November 23, 2021
 excerpt: The SECOND Augmented Instruments Laboratory online concert will take place on Tuesday 23 November at 7pm (GMT).

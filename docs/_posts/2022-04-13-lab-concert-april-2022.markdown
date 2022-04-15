@@ -2,7 +2,7 @@
 layout: post
 title: "Music from the Augmented Instruments Laboratory"
 categories: [news, events]
-images: /image/news/22-apr-concert_banner.png
+images: /images/news/22-apr-concert_banner.png
 front-image: /images/news/22-apr-concert_banner.png
 event_date: April 23, 2022
 excerpt: The UKRI Centre for Doctoral Training in Artificial Intelligence and Music presents the third edition of Music from the Augmented Instruments Lab.
