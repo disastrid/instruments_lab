@@ -6,32 +6,8 @@
       icon: link
     - link: https://twitter.com/belaplatform
       icon: twitter
-- avatar: ../images/collaborators/touchkeys.png
-  name: TouchKeys
-  position: 
-  socials:
-    - link: http://touchkeys.co.uk/
-      icon: link
-    - link: https://twitter.com/instrumentslab
-      icon: twitter
-- avatar: ../images/collaborators/CTFK.jpg
-  name: Creative Technologies, Kiel
-  position: 
-  socials:
-    - link: http://www.creative-technologies.de
-      icon: link
-    - link: https://www.facebook.com/groups/1424653351100753
-      icon: facebook
-- avatar: ../images/collaborators/conductive-music.jpg
-  name: Conductive Music
-  position: 
-  socials:
-    - link: http://www.conductivemusic.uk/
-      icon: link
-    - link: https://twitter.com/conductivemusic
-      icon: twitter
 - avatar: ../images/collaborators/ohmi-hand.jpg
-  name: OHMI Trust
+  name: The OHMI Trust
   position: 
   socials:
     - link: http://www.ohmi.org.uk/
@@ -46,6 +22,38 @@
       icon: link
     - link: http://twitter.com/drake_music
       icon: twitter
+- avatar: ../images/collaborators/beagle.jpg
+  name: BeagleBoard.org
+  position:
+  socials:
+    - link: https://beagleboard.org/
+      icon: link
+    - link: https://twitter.com/beagleboardorg
+      icon: twitter
+- avatar: ../images/collaborators/CTFK.jpg
+  name: Creative Technologies, Kiel
+  position: 
+  socials:
+    - link: http://www.creative-technologies.de
+      icon: link
+    - link: https://www.facebook.com/groups/1424653351100753
+      icon: facebook
+- avatar: ../images/collaborators/touchkeys.png
+  name: TouchKeys
+  position: 
+  socials:
+    - link: http://touchkeys.co.uk/
+      icon: link
+    - link: https://twitter.com/instrumentslab
+      icon: twitter
+- avatar: ../images/collaborators/conductive-music.jpg
+  name: Conductive Music
+  position: 
+  socials:
+    - link: http://www.conductivemusic.uk/
+      icon: link
+    - link: https://twitter.com/conductivemusic
+      icon: twitter
 - avatar: ../images/collaborators/music-hackspace.jpg
   name: Music Hackspace
   position: 
@@ -53,12 +61,4 @@
     - link: http://musichackspace.org/
       icon: link
     - link: http://twitter.com/musichackspace
-      icon: twitter	
-- avatar: ../images/collaborators/roli.jpg
-  name: ROLI
-  position: 
-  socials:
-    - link: http://roli.com
-      icon: link
-    - link: http://twitter.com/WeAreROLI
       icon: twitter
