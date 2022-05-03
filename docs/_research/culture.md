@@ -1,7 +1,7 @@
 ---
 layout: research
 title:  "Instrument Design as Socio-Technical Negotiation"
-tag: "musician-studies"
+tag: "New Interfaces"
 tagline: PhD research Giacomo Lepri
 thumb: culture/music-instruments02.png
 authors: "Giacomo Lepri"
@@ -13,7 +13,7 @@ link-names: ["Personal website"]
 ---
 <!--{% include single-image-research.html fileName="culture/music_research.jpg" %}-->
 
-*This PhD research project ran from 2017-2022 and was funded by the EPSRC and AHRC Centre for Doctoral Training in Media and Arts Technology at Queen Mary University of London (EP/L01632X/1).  The full thesis document can be found [here](http://instrumentslab.org/data/giacomo/GiacomoLepriPhDThesis.pdf).*
+*PhD project by [Giacomo Lepri](http://www.giacomolepri.com/), supervised by [Andrew McPherson](http://andrewmcpherson.org/). The research ran from 2017-2022 and was funded by the EPSRC and AHRC Centre for Doctoral Training in Media and Arts Technology at Queen Mary University of London (EP/L01632X/1).  The full thesis document can be found [here](http://instrumentslab.org/data/giacomo/GiacomoLepriPhDThesis.pdf).*
 
 Artists and technologists working with digital musical instruments (DMIs) draw influence from diverse disciplines, tools and perspectives. Musical artefacts are shaped by aesthetic values as much as research concerns and methods. These elements might vary considerably, depending on the specific community of practice and research context out of which a given music technology emerges. Digital tools themselves draw on technical knowledge which is built around cultural assumptions and musical expectations.
 

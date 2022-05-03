@@ -1,7 +1,7 @@
 ---
 layout: research
 title:  "Unuseless Music Designs"
-tag: "musician-studies"
+tag: "New Interfaces"
 tagline: A Seriously Absurd Hackathon
 thumb: absurd-music-design/guitardistort.jpg
 authors: "Giacomo Lepri"
