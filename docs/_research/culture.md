@@ -106,13 +106,13 @@ ___
 
 {% include vimeo.html vimeo="382760134" %}
 
+Artists, technologists and makers took part in a two days hackathon around the themes of absurd musical interfaces, questionable sonic interactions and unworkable music designs. At the core of the project was the intention to explore absurd making as a way to support critical and disruptive design practices. The event offered a valuable framework for discussions on the use and development of musical interfaces, interaction paradigms and design tools. In fact, many of the projects convey implicit criticisms towards existing technology. It is possible to find [here](http://instrumentslab.org/research/absurd-music-design.html) more info about the Unuseless Music Design hackathon.
+
 >***See the hackathon [call for participation](http://instrumentslab.org/news/events/2019/08/08/absurd-november-2019.html)***
 
 {% include two-image-include.html left_image="All07.png" right_image="All08.png" image_subfolder="research/absurd-music-design" %}
 
-<br>
-
-It is possible to find [here](http://instrumentslab.org/research/absurd-music-design.html) more info about the Unuseless Music Design hackathon, a project exploring absurd making as a way to support critical and disruptive design practices.
+- G. Lepri, A. P. McPherson and J. Bowers. [Useless, not Worthless: Absurd Making as Critical Practice](http://instrumentslab.org/data/giacomo/Sonification_as_Negotiation.pdf) Proc. of the Designing Interactive Systems Conference, Delft, The Netherlands - online - 2020.
 
 ___
 
@@ -124,71 +124,4 @@ The 10.000 Instruments workshop is a collaborative online format to generate unc
 
 >***See the workshop [call for participation](http://instrumentslab.org/research/10000-instruments.html)***
 
-- G. Lepri, A. P. McPherson and J. Bowers. [Useless, not Worthless: Absurd Making as Critical Practice](http://instrumentslab.org/data/giacomo/Sonification_as_Negotiation.pdf) Proc. of the Designing Interactive Systems Conference, Delft, The Netherlands - online - 2020.
 - G. Lepri, J. Bowers, S. Topley, P. Stapleton, P. Bennett, K. Andersen and A. P. McPherson. 'The 10,000 Instruments Workshop - (Im)practical Research for Critical Speculation' - Proc. of the International Conference on New Interfaces for Musical Expression. Auckland, New Zealand - online - Forthcoming.
-
-<!--
-
-##### A practice based account
-
-___
-
-***Cembalo Scrivano***
-
-Cembalo Scrivano: an interactive audio-visual installation based on an augmented typewriter. By detecting the user's typing activity, the CS1 generates in realtime audio and visual materials. The project is inspired by the writing machine created in 1855 by the Italian inventor Giuseppe Ravizza. Ravizza called his invention Cembalo Scrivano (Scribe Harpsichord) due to the usage of piano-keys. This invention reworks the harpsichord interface: an existing musical instrument was used as source of inspiration for the development of a new machine (from art technology to typewriting).
-
-The piece aims to mirror this process: a typewriter is converted into an interactive art installation (from typewriting to art technology). Oscillating between two domains (musical and literary), the same technology travels across history, carrying knowledge, behaviours and meanings. In media theory, the practice to understand new and emerging technologies by taking into account the history and evolution of past new media often relate to media archaeology studies. These cultural studies focus on the critical scrutiny of forgotten technologies, observing that new media often renovate old interactive paradigms and communication techniques. Media Archaeology is also a methodology for contemporary artistic practice introducing the concept of 'zombie media': a media that is not only out of use, but resurrected to new uses, contexts and adaptations.
-
-{% include vimeo.html vimeo="193263988" %}
-
--  G. Lepri and A. P. McPherson. [First-person Research in the Arts: Exploring the Values Behind New Music Technology.](http://instrumentslab.org/data/giacomo/lepri_updated2.pdf) Proc. ACM Designing Interactive Systems (DIS), San Diego, Californis, USA. 2019.
-
-- G. Lepri, A. P. McPherson. [Mirroring the past, from typewriting to interactive art: an approach to the re-design of a vintage technology.](http://www.nime.org/proceedings/2018/nime2018_paper0069.pdf). Proc. New Interfaces for Musical Expression, Blacksburg, Virginia, USA. 2018.
-
-___
-
-
-***Chowndolo***
-
-The Chowndolo is an instrument based on a magnetic pendulum whose trajectories are altered by magnets placed underneath the device. This creates unstable patterns of oscillation which are translated into synthesis parameters and sound. The Chowndolo was conceived as an interactive experience: the scuplture can be played like an instrument and audience participation is crucial. The magnets below the pendulum can be arranged to compose new shapes: different configurations will modify the pendulum oscillations and the generated sonorities. The unstable patterns produced by the pendulum oscillations are transformed into sound, articulating a music that evolves based on the pendulum’s motion.
-
-The magnetic fields and their interactions are revealed through nuanced tones, acting as counterpoint to the pendulum’s dance. The installation aims to make visible the invisible, letting us feel forces that we are not able to perceive. The sounds generated are entirely based on FM synthesis whose sound parameters are controlled by sensing the variations in the magnetic field. According to Faraday’s law of induction, a variation in the magnetic field generates an induced electromagnetic force. This force is then amplified by a custom-designed preamp and the resulting signal is sent to a Bela board where it is processed before the audio being sent to the output.
-
-The Chowndolo is a tribute to John Chowning, a pioneer in the field of Computer Music mostly known for his electroacoustic compositions, the discovery of FM synthesis and research on voice and instrument synthesis. During the development of the Chowndolo, we were lucky enough to welcome John Chowning to our lab and show him the project. He provided precious comments for the improvement of both the sensing technique and the FM synthesis implementation.
-
-{% include vimeo.html vimeo="325707625" %}
-
-___
-
-
-##### On our own influences: a first person account
-
-> ***Workshop Structure***
-
-{% include single-image-research.html fileName="culture/Machine03.png" %}
-
-### Background
-
-It is possible to argue that any musical technology embodied a set of pre-existing knowledge (e.g. technical expertise, musical notions and performative intentions). A luthier (instrument makers), while designing an instrument, transfers into the object specific cultural knowledges and musical meanings.
-
-Likewise, musicians can be considered influential vectors through witch musical values are conveyed within communities. The involvement into specific musical communities implies ways of learning - of both absorbing and being absorbed in - the culture of practice. The roles played by music practitioners active in particular contexts seems therefore crucial for the generation and reproduction of cultural values that influence the understanding and use of music technologies.
-
-### Aims
-
-This research aims to explore how diverse musical backgrounds related to communities of musical practice influence the foresee of music technology. Drawing on HCI approaches and methodologies such as Design Fiction, Value Sensitive Design and Participatory Design, we aim to develop a body of knowledge for the discovery of musical values related to specific musical communities.
-
-The exploration of the communities engaged with the invention and mediation of new musical instruments are also considered. We therefore aim to identify tacit assumptions on the ways designers use the available technologies while building new musical instruments. Furthermore, our goal is to elaborate on the question "Who controls who?". Thus, discussing the relations between tools, musical intentions and technical expertise within the instrument design tendencies situated in the NIME communities.
-
-The body of knowledge and skill acquired will hopefully converge in the design of instruments conceived for specific musical values. Thus addressing specific musicians active in diverse communities of musical practice.
-
-### Key concepts
-
-Notions such as corporeal intentionality and embodied interaction are considered as core aspects of musical expressiveness. From this viewpoint, designers of New Interface for Musical Expression inherit a centuries-old body of knowledges and practices. New instruments are often discussed in relation to traditional instruments. This suggests that historical and cultural practices are easily projected into the design of the new instruments.
-
-This research is grounded on the idea that new media re-mediates old media. The design of a novel instrument can be approached as a migration process in which features associated with existing musical technologies are integrated and negotiated into a new context. Thus we envision instrumented design cultures as sedimented and layered, a fold of time and materiality where the past might be suddenly discovered anew.
-
-#### Media Archaeology
-
-In media theory, the attempts to understand new and emerging technologies by taking into account the history and evolution of past new media is dened as media archaeology These cultural studies focus on the critical scrutiny of forgotten technologies, observing that new media often renovate old interactive paradigms and communication techniques. Media Archaeology is also a methodology for contemporary artistic practice introducing the concept of 'zombie media': a media that is not only out of use, but resurrected to new uses, contexts and adaptations.
-
--->
