@@ -17,11 +17,15 @@ link-names: ["Personal website"]
 
 Artists and technologists working with digital musical instruments (DMIs) draw influence from diverse disciplines, tools and perspectives. Musical artefacts are shaped by aesthetic values as much as research concerns and methods. These elements might vary considerably, depending on the specific community of practice and research context out of which a given music technology emerges. Digital tools themselves draw on technical knowledge which is built around cultural assumptions and musical expectations.
 
-{% include single-image-research.html fileName="culture/phdStructure.png" caption="Research structure: three empirical investigations are introduced. The first outlines a value discovery exercise exploring the breadth of perspectives musicians active in different contexts might have while speculating on the design of not-yet existing musical instruments. The second considers a selection of digital tools, examining the musical notions they promote and how these influence the composition of sonic interactions. The third reports a set of cheerful and open-ended design explorations conceived to elicit and make manifest highly personal design knowledge and visions." %}
+{% include single-image-research.html fileName="culture/phdStructure.png" %}
+
+The research structure: three empirical investigations. The first outlines a value discovery exercise exploring the breadth of perspectives musicians active in different contexts might have while speculating on the design of not-yet existing musical instruments. The second considers a selection of digital tools, examining the musical notions they promote and how these influence the composition of sonic interactions. The third reports a set of cheerful and open-ended design explorations conceived to elicit and make manifest highly personal design knowledge and visions.  
 
 The working hypothesis behind this project is that, while assembling an instrument, music makers are engaged in a complex negotiation comprising the values and representations inherited from particular socio-cultural environments and the patterns suggested by the digital tools and materials at hand. The research then explores some of the modalities through which musical ideas are inscribed in and mediated by musical interfaces.
 
-{% include single-image-research.html fileName="culture/keywords.png" caption="Research keywords" %}
+A few research keywords:
+
+{% include single-image-research.html fileName="culture/keywords.png" %}
 
 ___
 
@@ -79,9 +83,9 @@ To explore the aesthetic influence of specific music technologies, we created a 
 
 Our findings show a clustering of stylistic approaches and design patterns which relate to Pd workflow, sensor interpretation and sonorities produced by the instruments designed. Most notably, our musicians relied on a reduced selection of sound sources in Pd. Furthermore, they often designed direct and memoryless interactions and mappings between sounds and sensors.
 
-We could also appreciate different socio-cultural influences linked to makers’ techno-musical backgrounds. For instance, musicians active in different contexts and with different techno-musical skills offered almost opposite views on what is ``original and unconventional`` in digital instrument design.
+We could also appreciate different socio-cultural influences linked to makers’ techno-musical backgrounds. For instance, musicians active in different contexts and with different techno-musical skills offered almost opposite views on what is "original and unconventional" in digital instrument design.
 
-- G. Lepri and A. P. McPherson. ``Embrace the Weirdness: Negotiating Values Inscribed into Music Technology`` - Computer Music Journal. Forthcoming.
+- G. Lepri and A. P. McPherson. 'Embrace the Weirdness: Negotiating Values Inscribed into Music Technology' - Computer Music Journal. Forthcoming.
 
 ___
 
@@ -114,9 +118,8 @@ The 10.000 Instruments workshop is a collaborative online format to generate unc
 
 >***See the workshop [call for participation](http://instrumentslab.org/research/10000-instruments.html)***
 
-- G. Lepri, A. P. McPherson and J. Bowers. [Useless, not Worthless: Absurd Making as Critical Practice](http://instrumentslab.org/data/giacomo/Sonification_as_Negotiation.pdf) Proc. of the Designing
-Interactive Systems Conference, Delft, The Netherlands - online - 2020.
-- G. Lepri, J. Bowers, S. Topley, P. Stapleton, P. Bennett, K. Andersen and A. P. McPherson. ``The 10,000 Instruments Workshop - (Im)practical Research for Critical Speculation`` - Proc. of the International Conference on New Interfaces for Musical Expression. Auckland, New Zealand - online - Forthcoming.
+- G. Lepri, A. P. McPherson and J. Bowers. [Useless, not Worthless: Absurd Making as Critical Practice](http://instrumentslab.org/data/giacomo/Sonification_as_Negotiation.pdf) Proc. of the Designing Interactive Systems Conference, Delft, The Netherlands - online - 2020.
+- G. Lepri, J. Bowers, S. Topley, P. Stapleton, P. Bennett, K. Andersen and A. P. McPherson. 'The 10,000 Instruments Workshop - (Im)practical Research for Critical Speculation' - Proc. of the International Conference on New Interfaces for Musical Expression. Auckland, New Zealand - online - Forthcoming.
 
 <!--
 
@@ -138,6 +141,10 @@ The piece aims to mirror this process: a typewriter is converted into an interac
 
 ___
 
+-->
+
+<!--
+
 ***Chowndolo***
 
 The Chowndolo is an instrument based on a magnetic pendulum whose trajectories are altered by magnets placed underneath the device. This creates unstable patterns of oscillation which are translated into synthesis parameters and sound. The Chowndolo was conceived as an interactive experience: the scuplture can be played like an instrument and audience participation is crucial. The magnets below the pendulum can be arranged to compose new shapes: different configurations will modify the pendulum oscillations and the generated sonorities. The unstable patterns produced by the pendulum oscillations are transformed into sound, articulating a music that evolves based on the pendulum’s motion.
@@ -147,6 +154,10 @@ The magnetic fields and their interactions are revealed through nuanced tones, a
 The Chowndolo is a tribute to John Chowning, a pioneer in the field of Computer Music mostly known for his electroacoustic compositions, the discovery of FM synthesis and research on voice and instrument synthesis. During the development of the Chowndolo, we were lucky enough to welcome John Chowning to our lab and show him the project. He provided precious comments for the improvement of both the sensing technique and the FM synthesis implementation.
 
 {% include vimeo.html vimeo="325707625" %}
+
+-->
+
+___
 
 <!--
 
