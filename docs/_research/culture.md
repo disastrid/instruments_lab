@@ -112,6 +112,8 @@ Artists, technologists and makers took part in a two days hackathon around the t
 
 {% include two-image-include.html left_image="All07.png" right_image="All08.png" image_subfolder="research/absurd-music-design" %}
 
+<br>
+
 - G. Lepri, A. P. McPherson and J. Bowers. [Useless, not Worthless: Absurd Making as Critical Practice](http://instrumentslab.org/data/giacomo/Sonification_as_Negotiation.pdf) Proc. of the Designing Interactive Systems Conference, Delft, The Netherlands - online - 2020.
 
 ___

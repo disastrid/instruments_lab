@@ -40,19 +40,6 @@
       icon: github
   desc:
     Musical instruments, composition systems, cognitive science, (post) human-computer interaction
-- avatar: ../images/people/giacomo.jpg
-  name: Giacomo Lepri
-  position: PhD student (2017-present)
-  education: BMus Electronic Music, Conservatorio N. Paganini - Genoa; MMus by Research "Instruments & Interfaces", Institute of Sonology - STEIM (Royal Conservatoire in The Hague)
-  socials:
-    - link: http://www.giacomolepri.com/
-      icon: link
-    - link: https://www.youtube.com/channel/UC2YJEDkzCuZYZnUsQXpIg7w?view_as=subscriber
-      icon: youtube
-    - link: https://scholar.google.com/citations?user=gKocuOMAAAAJ&hl=it
-      icon: graduation-cap
-  desc:
-    Instruments design, media archaeology, cultural factors in music technology development, audio-visual interactive installtions, electroacoustic composition and improvisation
 - avatar: ../images/people/LiaMice.jpg
   name: Lia Mice
   position: PhD student (2018-present)
@@ -120,7 +107,7 @@
 - avatar: ../images/people/andrea_m.jpg
   name: Andrea Martelloni
   position: PhD student (2019-present)
-  socials: 
+  socials:
     - link: https://uk.linkedin.com/in/andrea-martelloni-7ab10a60
       icon: linkedin
   education: BSc Musical Informatics, University of Milan, MSc Sound and Vibration Studies, University of Southampton
