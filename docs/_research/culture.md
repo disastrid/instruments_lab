@@ -106,6 +106,7 @@ ___
 
 {% include two-image-include.html left_image="All07.png" right_image="All08.png" image_subfolder="research/absurd-music-design" %}
 
+
 >***See the hackathon [call for participation](http://instrumentslab.org/news/events/2019/08/08/absurd-november-2019.html)***
 
 Artists, technologists and makers took part in a two days hackathon around the themes of absurd musical interfaces, questionable sonic interactions and unworkable music designs. At the core of the project was the intention to explore absurd making as a way to support critical and disruptive design practices. The event offered a valuable framework for discussions on the use and development of musical interfaces, interaction paradigms and design tools. In fact, many of the projects convey implicit criticisms towards existing technology. It is possible to find [here](http://instrumentslab.org/research/absurd-music-design.html) more info about the Unuseless Music Design Hackathon.
