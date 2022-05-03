@@ -1,27 +1,31 @@
 ---
 layout: research
-title:  "Instrument Design as Cultural Negotiation"
+title:  "Instrument Design as Socio-Technical Negotiation"
 tag: "musician-studies"
 tagline: PhD research Giacomo Lepri
 thumb: culture/music-instruments02.png
 authors: "Giacomo Lepri"
 main-image: /images/research/culture/straw.jpg
 production-date: 2017 - present
-para: On the multiple origins of new musical instruments
+para: Discovering the musical values inscribed into digital instruments
 links: ["http://www.giacomolepri.com"]
 link-names: ["Personal website"]
 ---
 <!--{% include single-image-research.html fileName="culture/music_research.jpg" %}-->
 
-##### Remediation
+*This PhD research project ran from 2017-2022 and was funded by the EPSRC and AHRC Centre for Doctoral Training in Media and Arts Technology at Queen Mary University of London (EP/L01632X/1).  The full thesis document can be found [here](http://instrumentslab.org/data/giacomo/GiacomoLepriPhDThesis.pdf).*
 
-The notion of Remediation has been sketched by McLuhan in his theory of Media and further developed by Bolter & Grusin. Remediation can be defined as the formal logic by which new media refashion prior media forms. This implies that characteristics typical of an existing media are translated into the new designs. For instance, modular synths often remediate prior radio technology which remediate early electromagnetic measurement technology. The process of remediation does not only related to physical and material features but it also concern the transfer of more abstract knowledge and cultural notions. Within the context of music technology, Wester tuning is probably one of the most remediated musical notions. It indeed provided the basis for the development of the MIDI communication protocol.
+Artists and technologists working with digital musical instruments (DMIs) draw influence from diverse disciplines, tools and perspectives. Musical artefacts are shaped by aesthetic values as much as research concerns and methods. These elements might vary considerably, depending on the specific community of practice and research context out of which a given music technology emerges. Digital tools themselves draw on technical knowledge which is built around cultural assumptions and musical expectations.
 
-Considering the genesis of new musical instruments through the perspective of mediation it is possible to argue that new design often remediate physical properties and cultural paradigms already associated to existing devices. Magnusson argues that "what new instruments translate from earlier technologies are not simply the simulation of an interface, but a whole constellation of embodied contexts". Within this constellation we include the values, imaginaries and concerns inherited from communities of practice.
+{% include single-image-research.html fileName="culture/phdStructure.png" caption="Research structure: three empirical investigations are introduced. The first outlines a value discovery exercise exploring the breadth of perspectives musicians active in different contexts might have while speculating on the design of not-yet existing musical instruments. The second considers a selection of digital tools, examining the musical notions they promote and how these influence the composition of sonic interactions. The third reports a set of cheerful and open-ended design explorations conceived to elicit and make manifest highly personal design knowledge and visions." %}
+
+The working hypothesis behind this project is that, while assembling an instrument, music makers are engaged in a complex negotiation comprising the values and representations inherited from particular socio-cultural environments and the patterns suggested by the digital tools and materials at hand. The research then explores some of the modalities through which musical ideas are inscribed in and mediated by musical interfaces.
+
+{% include single-image-research.html fileName="culture/keywords.png" caption="Research keywords" %}
 
 ___
 
-##### On the influences of communities and musical backgrounds
+##### On musical cultures and communities of practice
 
 {% include single-image-research.html fileName="culture/WorkshopLab01.jpg" caption="Musicians making fictional musical instruments - As if by Magic workshop, Genoa, Italy, March 2018" %}
 
@@ -59,18 +63,64 @@ Overall, our participants were rather successful in guessing the genre/style of 
 
 ___
 
+##### On digital music tools and materials
+
+Digital music tools are often depicted as pliable vehicles which provide access to audio manipulation at various levels, from primitive operations to predefined musical abstractions, allowing musicians to create a great variety of sonic structures. In principle such openness of expression ought to lead to rapidly diversifying musical ideas. However, new digital musical interfaces and instruments often (dis)play similar aesthetics and interactions. For instance, attendees of NIME concerts will encounter a recognisable prevailing (though by no means universal) aesthetic, often including drones, textured noise or manipulated samples. Most of the music produced with popular digital audio workstations is instead based on wester tuning systems, fixed tempo and looping patterns (mainly 4/4). If technology opens up the possibility to produce any imaginable sonic interaction, what explains this clustering?
+
+The study closely examines the creative work of 16 music technologists to better understand the cultural dynamics (e.g. pedagogical habits and shared aesthetics) and technological trends (e.g. the spread of specific music tools) behind the standardisation of digital music production.
+
+___
+
+***Composing sensors with Pd***
+
+To explore the aesthetic influence of specific music technologies, we created a musical game based on the composition of simple DMIs. The activity is conceived as a playful hands-on exercise in which music technology practitioners are invited to design sonic interactions using the Pd language and a basic hardware interface.
+
+{% include single-image-research.html fileName="culture/Workstation.jpg" caption="Participants are provided with a breadboard containing three sensors commonly used in DMI design: a pushbutton, a potentiometer (with knob attached) and a FSR. Our compositional exercise requires two participants at a time. For each game, two instruments are designed and participants work on both instruments." %}
+
+Our findings show a clustering of stylistic approaches and design patterns which relate to Pd workflow, sensor interpretation and sonorities produced by the instruments designed. Most notably, our musicians relied on a reduced selection of sound sources in Pd. Furthermore, they often designed direct and memoryless interactions and mappings between sounds and sensors.
+
+We could also appreciate different socio-cultural influences linked to makers’ techno-musical backgrounds. For instance, musicians active in different contexts and with different techno-musical skills offered almost opposite views on what is ``original and unconventional`` in digital instrument design.
+
+- G. Lepri and A. P. McPherson. ``Embrace the Weirdness: Negotiating Values Inscribed into Music Technology`` - Computer Music Journal. Forthcoming.
+
+___
+
+##### On personal design knowledge
+
+The investigation focuses on the individual perspectives brought in by practitioners engaged in the design of digital musical instruments. We organised two activities organised around the themes of absurd musical
+interfaces, questionable sonic interactions and unworkable music designs. These research gave us the opportunity to explore a set of strategies to make manifest designer’s personal attitudes and views. As a result, we suggest absurd making as a playful, yet powerful, tools for the discovery of subjective techno-musical knowledge and visions.
+
+By framing their own notion of musical absurdity, musicians implicitly engaged in critical making process through which ideas and representations linked to cultural contexts, as well as previous experience with music technologies, are displayed and reassessed. Absurd making as a lighthearted approach to (un)veiling personal design perspectives and support critical making. This permissive and open-ended attitude allows for the emergence of creative obstructions which question technological assumptions, musical practices as well as the perception of the familiar and the domestic.
+
+___
+
+***Absurd Hackathon***
+
+{% include vimeo.html vimeo="382760134" %}
+
+>***See the hackathon [call for participation](http://instrumentslab.org/news/events/2019/08/08/absurd-november-2019.html)***
+
+{% include two-image-include.html left_image="All07.png" right_image="All08.png" image_subfolder="research/absurd-music-design" %}
+
+It is possible to find [here](http://instrumentslab.org/research/absurd-music-design.html) more info about the Unuseless Music Design hackathon, a project exploring absurd making as a way to support critical and disruptive design practices.
+
+___
+
+***10.000 Instruments workshop***
+
+{% include single-image-research.html fileName="10000-instruments/abstractGuitar.jpg"%}
+
+The 10.000 Instruments workshop is a collaborative online format to generate unconventional interface ideas and speculate on music technology through open-ended artefacts and playful design explorations. The make-believe, whimsical and troublemaking approach to instrument design adopted in the workshop is conceived to support individuals' creativity, unlock shared musical visions and reveal unconventional perspectives on music technology development. It is possible to find [here](https://docs.google.com/presentation/d/1qZ1ZkdUQJrjdCtH_rd_RLfeh36_qlhjoaOqVXmE2e98/edit#slide=id.p) all the impractical musical ideas gathered during the NIME 202 workshop.
+
+>***See the workshop [call for participation](http://instrumentslab.org/research/10000-instruments.html)***
+
+- G. Lepri, A. P. McPherson and J. Bowers. [Useless, not Worthless: Absurd Making as Critical Practice](http://instrumentslab.org/data/giacomo/Sonification_as_Negotiation.pdf) Proc. of the Designing
+Interactive Systems Conference, Delft, The Netherlands - online - 2020.
+- G. Lepri, J. Bowers, S. Topley, P. Stapleton, P. Bennett, K. Andersen and A. P. McPherson. ``The 10,000 Instruments Workshop - (Im)practical Research for Critical Speculation`` - Proc. of the International Conference on New Interfaces for Musical Expression. Auckland, New Zealand - online - Forthcoming.
+
+<!--
 
 ##### A practice based account
-
-***Chowndolo***
-
-The Chowndolo is an Interactive Sonic Sculpture based on a magnetic pendulum whose trajectories are altered by magnets placed underneath the device. This creates unstable patterns of oscillation which are translated into synthesis parameters and sound. The Chowndolo was conceived as an interactive experience: the scuplture can be played like an instrument and audience participation is crucial. The magnets below the pendulum can be arranged to compose new shapes: different configurations will modify the pendulum oscillations and the generated sonorities. The unstable patterns produced by the pendulum oscillations are transformed into sound, articulating a music that evolves based on the pendulum’s motion.
-
-The magnetic fields and their interactions are revealed through nuanced tones, acting as counterpoint to the pendulum’s dance. The installation aims to make visible the invisible, letting us feel forces that we are not able to perceive. The sounds generated are entirely based on FM synthesis whose sound parameters are controlled by sensing the variations in the magnetic field. According to Faraday’s law of induction, a variation in the magnetic field generates an induced electromagnetic force. This force is then amplified by a custom-designed preamp and the resulting signal is sent to a Bela board where it is processed before the audio being sent to the output.
-
-The Chowndolo is a tribute to John Chowning, a pioneer in the field of Computer Music mostly known for his electroacoustic compositions, the discovery of FM synthesis and research on voice and instrument synthesis. During the development of the Chowndolo, we were lucky enough to welcome John Chowning to our lab and show him the project. He provided precious comments for the improvement of both the sensing technique and the FM synthesis implementation.
-
-{% include vimeo.html vimeo="325707625" %}
 
 ___
 
@@ -85,6 +135,18 @@ The piece aims to mirror this process: a typewriter is converted into an interac
 -  G. Lepri and A. P. McPherson. [First-person Research in the Arts: Exploring the Values Behind New Music Technology.](http://instrumentslab.org/data/giacomo/lepri_updated2.pdf) Proc. ACM Designing Interactive Systems (DIS), San Diego, Californis, USA. 2019.
 
 - G. Lepri, A. P. McPherson. [Mirroring the past, from typewriting to interactive art: an approach to the re-design of a vintage technology.](http://www.nime.org/proceedings/2018/nime2018_paper0069.pdf). Proc. New Interfaces for Musical Expression, Blacksburg, Virginia, USA. 2018.
+
+___
+
+***Chowndolo***
+
+The Chowndolo is an instrument based on a magnetic pendulum whose trajectories are altered by magnets placed underneath the device. This creates unstable patterns of oscillation which are translated into synthesis parameters and sound. The Chowndolo was conceived as an interactive experience: the scuplture can be played like an instrument and audience participation is crucial. The magnets below the pendulum can be arranged to compose new shapes: different configurations will modify the pendulum oscillations and the generated sonorities. The unstable patterns produced by the pendulum oscillations are transformed into sound, articulating a music that evolves based on the pendulum’s motion.
+
+The magnetic fields and their interactions are revealed through nuanced tones, acting as counterpoint to the pendulum’s dance. The installation aims to make visible the invisible, letting us feel forces that we are not able to perceive. The sounds generated are entirely based on FM synthesis whose sound parameters are controlled by sensing the variations in the magnetic field. According to Faraday’s law of induction, a variation in the magnetic field generates an induced electromagnetic force. This force is then amplified by a custom-designed preamp and the resulting signal is sent to a Bela board where it is processed before the audio being sent to the output.
+
+The Chowndolo is a tribute to John Chowning, a pioneer in the field of Computer Music mostly known for his electroacoustic compositions, the discovery of FM synthesis and research on voice and instrument synthesis. During the development of the Chowndolo, we were lucky enough to welcome John Chowning to our lab and show him the project. He provided precious comments for the improvement of both the sensing technique and the FM synthesis implementation.
+
+{% include vimeo.html vimeo="325707625" %}
 
 <!--
 

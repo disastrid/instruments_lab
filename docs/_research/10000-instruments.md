@@ -17,7 +17,7 @@ para: Design Fiction and Absurd Making as NIME Practices
 
 ___
 
-{% include single-image-research.html fileName="10000-instruments/abstractclari.png"%}
+{% include single-image-research.html fileName="10000-instruments/abstractGuitar.jpg"%}
 
 ___
 
