@@ -1,7 +1,7 @@
 ---
 layout: research
 title:  "10.000 Musical Instruments for a Semi-connected World"
-tag: "New Interfaces"
+tag: "new-interfaces"
 tagline: NIME 2020, 21-25 July, Royal Birmingham Conservatoire
 thumb: 10000-instruments/abstract-clari.png
 authors: "Giacomo Lepri"

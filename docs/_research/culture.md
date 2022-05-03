@@ -1,19 +1,19 @@
 ---
 layout: research
 title:  "Instrument Design as Socio-Technical Negotiation"
-tag: "New Interfaces"
+tag: "new-interfaces"
 tagline: PhD research Giacomo Lepri
 thumb: culture/music-instruments02.png
 authors: "Giacomo Lepri"
 main-image: /images/research/culture/straw.jpg
-production-date: 2017 - present
+production-date: 2017 - 2022
 para: Discovering the musical values inscribed into digital instruments
 links: ["http://www.giacomolepri.com"]
 link-names: ["Personal website"]
 ---
 <!--{% include single-image-research.html fileName="culture/music_research.jpg" %}-->
 
-*PhD project by [Giacomo Lepri](http://www.giacomolepri.com/), supervised by [Andrew McPherson](http://andrewmcpherson.org/). The research ran from 2017-2022 and was funded by the EPSRC and AHRC Centre for Doctoral Training in Media and Arts Technology at Queen Mary University of London (EP/L01632X/1).  The full thesis document can be found [here](http://instrumentslab.org/data/giacomo/GiacomoLepriPhDThesis.pdf).*
+*PhD project by [Giacomo Lepri](http://www.giacomolepri.com/). The research was funded by the EPSRC and AHRC Centre for Doctoral Training in Media and Arts Technology at Queen Mary University of London (EP/L01632X/1).  The full thesis document can be found [here](http://instrumentslab.org/data/giacomo/GiacomoLepriPhDThesis.pdf).*
 
 Artists and technologists working with digital musical instruments (DMIs) draw influence from diverse disciplines, tools and perspectives. Musical artefacts are shaped by aesthetic values as much as research concerns and methods. These elements might vary considerably, depending on the specific community of practice and research context out of which a given music technology emerges. Digital tools themselves draw on technical knowledge which is built around cultural assumptions and musical expectations.
 
@@ -25,7 +25,7 @@ The research structure: three empirical investigations. The first outlines a val
 
 ___
 
-##### Keywords:
+##### Research Keywords:
 
 {% include single-image-research.html fileName="culture/keywords.png" %}
 
@@ -81,7 +81,9 @@ ___
 
 To explore the aesthetic influence of specific music technologies, we created a musical game based on the composition of simple DMIs. The activity is conceived as a playful hands-on exercise in which music technology practitioners are invited to design sonic interactions using the Pd language and a basic hardware interface.
 
-{% include single-image-research.html fileName="culture/Workstation.jpg" caption="Participants are provided with a breadboard containing three sensors commonly used in DMI design: a pushbutton, a potentiometer (with knob attached) and a FSR. Our compositional exercise requires two participants at a time. For each game, two instruments are designed and participants work on both instruments." %}
+{% include single-image-research.html fileName="culture/composingSensors.png" %}
+
+Participants were provided with a breadboard containing three sensors commonly used in DMI design: a pushbutton, a potentiometer (with knob attached) and a FSR. Our compositional exercise requires two participants at a time. For each game, two instruments are designed and participants work on both instruments.
 
 Our findings show a clustering of stylistic approaches and design patterns which relate to Pd workflow, sensor interpretation and sonorities produced by the instruments designed. Most notably, our musicians relied on a reduced selection of sound sources in Pd. Furthermore, they often designed direct and memoryless interactions and mappings between sounds and sensors.
 
@@ -107,6 +109,8 @@ ___
 >***See the hackathon [call for participation](http://instrumentslab.org/news/events/2019/08/08/absurd-november-2019.html)***
 
 {% include two-image-include.html left_image="All07.png" right_image="All08.png" image_subfolder="research/absurd-music-design" %}
+
+<br>
 
 It is possible to find [here](http://instrumentslab.org/research/absurd-music-design.html) more info about the Unuseless Music Design hackathon, a project exploring absurd making as a way to support critical and disruptive design practices.
 
@@ -143,9 +147,6 @@ The piece aims to mirror this process: a typewriter is converted into an interac
 
 ___
 
--->
-
-<!--
 
 ***Chowndolo***
 
@@ -157,11 +158,8 @@ The Chowndolo is a tribute to John Chowning, a pioneer in the field of Computer 
 
 {% include vimeo.html vimeo="325707625" %}
 
--->
-
 ___
 
-<!--
 
 ##### On our own influences: a first person account
 
