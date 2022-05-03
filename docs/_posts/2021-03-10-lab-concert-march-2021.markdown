@@ -9,7 +9,7 @@ excerpt: We are pleased to announce the first Augmented Instruments Laboratory o
 url: https://www.youtube.com/channel/UCIQxQd3iJoCCzQow-4bon9Q/featured
 ---
 
-We invite you to enjoy a marvelous livestream featuring musical works from special guests and lab members. An exciting concert that might cheer up social distancing through the performance of inspiring A/V compositions, terrific new instruments and algorithmic sound designs.
+We invite you to enjoy a marvelous livestream featuring musical works from special guests and lab members! An exciting concert that might cheer up social distancing through the performance of inspiring A/V compositions, terrific new instruments and algorithmic sound designs.
 
 **Save the date: 10 March 2021, 6:00PM (GMT) - [Augmented Instruments Lab YouTube channel](https://www.youtube.com/channel/UCIQxQd3iJoCCzQow-4bon9Q/featured)**
 
