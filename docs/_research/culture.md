@@ -23,6 +23,8 @@ The working hypothesis behind this project is that, while assembling an instrume
 
 The research structure: three empirical investigations. The first outlines a value discovery exercise exploring the breadth of perspectives musicians active in different contexts might have while speculating on the design of not-yet existing musical instruments. The second considers a selection of digital tools, examining the musical notions they promote and how these influence the composition of sonic interactions. The third reports a set of cheerful and open-ended design explorations conceived to elicit and make manifest highly personal design knowledge and visions.  
 
+___
+
 ##### Keywords:
 
 {% include single-image-research.html fileName="culture/keywords.png" %}
