@@ -102,10 +102,11 @@ By framing their own notion of musical absurdity, musicians implicitly engaged i
 
 ___
 
-***Absurd Hackathon***
+***An Absurd Hackathon***
 
 {% include two-image-include.html left_image="All07.png" right_image="All08.png" image_subfolder="research/absurd-music-design" %}
 
+___
 
 >***See the hackathon [call for participation](http://instrumentslab.org/news/events/2019/08/08/absurd-november-2019.html)***
 
@@ -115,12 +116,14 @@ Artists, technologists and makers took part in a two days hackathon around the t
 
 ___
 
-***10.000 Instruments workshop***
+***The 10.000 Instruments workshop***
 
 {% include single-image-research.html fileName="10000-instruments/abstractGuitar.jpg"%}
 
-The 10.000 Instruments workshop is a collaborative online format to generate unconventional interface ideas and speculate on music technology through open-ended artefacts and playful design explorations. The make-believe, whimsical and troublemaking approach to instrument design adopted in the workshop is conceived to support individuals' creativity, unlock shared musical visions and reveal unconventional perspectives on music technology development. It is possible to find [here](https://docs.google.com/presentation/d/1qZ1ZkdUQJrjdCtH_rd_RLfeh36_qlhjoaOqVXmE2e98/edit#slide=id.p) all the impractical musical ideas gathered during the NIME 202 workshop.
+___
 
 >***See the workshop [call for participation](http://instrumentslab.org/research/10000-instruments.html)***
+
+The 10.000 Instruments workshop is a collaborative online format to generate unconventional interface ideas and speculate on music technology through open-ended artefacts and playful design explorations. The make-believe, whimsical and troublemaking approach to instrument design adopted in the workshop is conceived to support individuals' creativity, unlock shared musical visions and reveal unconventional perspectives on music technology development. It is possible to find [here](https://docs.google.com/presentation/d/1qZ1ZkdUQJrjdCtH_rd_RLfeh36_qlhjoaOqVXmE2e98/edit#slide=id.p) all the impractical musical ideas gathered during the NIME 202 workshop.
 
 - G. Lepri, J. Bowers, S. Topley, P. Stapleton, P. Bennett, K. Andersen and A. P. McPherson. 'The 10,000 Instruments Workshop - (Im)practical Research for Critical Speculation' - Proc. of the International Conference on New Interfaces for Musical Expression. Auckland, New Zealand - online - Forthcoming.
