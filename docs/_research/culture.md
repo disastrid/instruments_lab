@@ -42,11 +42,13 @@ ___
 ***As If By Magic workshop***
 
 Our work builds on Kristina Andersen’s Magic Machines workshops in which the notion of Magical Unknown is exploited to free a participant’s imagination
-and generate manifestations of unknown technologies. Our workshop is therefore based on the idea that “embodied making processes facilitate a different form of thinking”. Through the act of building, narratives entailing the maker’s intentions, motivations and feelings can emerge. However, compared to the work of Andersen, our approach is more focused in the emergence of existing musical values and instrumental concerns rather then provoking new disruptive ideas and designs.
+and generate manifestations of unknown technologies. Our workshop is therefore based on the idea that “embodied making processes facilitate a different form of thinking”. Through the act of building, narratives entailing the maker’s intentions, motivations and feelings can emerge. However, compared to the work of Andersen, our approach is more focused in the emergence of existing musical values and instrumental concerns, rather then provoking new disruptive ideas and designs.
 
+<!---
 - **Write down a relevant aspect of your instrumental musical practice**
 - **Draw one sonic element of a music you particularly enjoy playing or listening to**
 - **Build the machine that addresses the sound you drew or the words you wrote**
+--->
 
 {% include two-image-include.html left_image="Machine01.png" right_image="Machine03.png" image_subfolder="research/culture" caption=" From left to right: (1) AntennaLele - an ukulele like instrument with a bendable neck. The designer focused on the alteration of a specific element (guitar neck) in order to accurately “shape harmonies and melodies”. (2) SonicAlarm - a wire based instrument with attachments to be loosely hooked to both upper and lower limbs. The artefacts emphasises the notions of low control and stochastic behaviour. (3) No name - A string instrument that can only play notes with prime number frequencies, to produced “optimally dissonant” sounds. (4) Space Vibrator - a “plinky sort of instrument” (i.e. a funny string instrument) that turned out to be a really badly made spaceship."%}
 
