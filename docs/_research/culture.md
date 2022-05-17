@@ -95,7 +95,7 @@ We could also appreciate different socio-cultural influences linked to makers’
 
 ___
 
-##### On personal design knowledge
+##### On personal design knowledge and absurd making
 
 The investigation focuses on the individual perspectives brought in by practitioners engaged in the design of digital musical instruments. We organised two activities organised around the themes of absurd musical
 interfaces, questionable sonic interactions and unworkable music designs. These research gave us the opportunity to explore a set of strategies to make manifest designer’s personal attitudes and views. As a result, we suggest absurd making as a playful, yet powerful, tools for the discovery of subjective techno-musical knowledge and visions.
@@ -128,4 +128,4 @@ ___
 
 The 10.000 Instruments workshop is a collaborative online format to generate unconventional interface ideas and speculate on music technology through open-ended artefacts and playful design explorations. The make-believe, whimsical and troublemaking approach to instrument design adopted in the workshop is conceived to support individuals' creativity, unlock shared musical visions and reveal unconventional perspectives on music technology development. It is possible to find [here](https://docs.google.com/presentation/d/1qZ1ZkdUQJrjdCtH_rd_RLfeh36_qlhjoaOqVXmE2e98/edit#slide=id.p) all the impractical musical ideas gathered during the NIME 202 workshop.
 
-- G. Lepri, J. Bowers, S. Topley, P. Stapleton, P. Bennett, K. Andersen and A. P. McPherson. 'The 10,000 Instruments Workshop - (Im)practical Research for Critical Speculation' - Proc. of the International Conference on New Interfaces for Musical Expression. Auckland, New Zealand - online - Forthcoming.
+- G. Lepri, J. Bowers, S. Topley, P. Stapleton, P. Bennett, K. Andersen and A. P. McPherson. 'The 10,000 Instruments Workshop - (Im)practical Research for Critical Speculation' - Proc. of the International Conference on New Interfaces for Musical Expression. Auckland, New Zealand - Forthcoming.
