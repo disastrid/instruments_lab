@@ -58,7 +58,7 @@ and generate manifestations of unknown technologies. Our workshop is therefore b
 
 ___
 
-***Fictional artefacts - real values***
+***Fictional artefacts - real values (A survey on magic machines)***
 
 We then ran an online survey targeting musicians and technologists with experience in musical interface design. We recruited the participants using academic mailing lists (NIME and SMC) and social networks. We aimed to see if respondents could discover musical values through the artefacts created during the various As If by Magic workshops and link them to specific aesthetics and communities. Survey participants reviewed an image of eachfictional instrument and a short description of it provided by its creator. The survey asked the following open questions:
 
