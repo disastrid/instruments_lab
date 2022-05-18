@@ -114,7 +114,7 @@ ___
 
 Artists, technologists and makers took part in a two days hackathon around the themes of absurd musical interfaces, questionable sonic interactions and unworkable music designs. At the core of the project was the intention to explore absurd making as a way to support critical and disruptive design practices. The event offered a valuable framework for discussions on the use and development of musical interfaces, interaction paradigms and design tools. In fact, many of the projects convey implicit criticisms towards existing technology. It is possible to find [here](http://instrumentslab.org/research/absurd-music-design.html) more info about the Unuseless Music Design Hackathon.
 
-- G. Lepri, A. P. McPherson and J. Bowers. [Useless, not Worthless: Absurd Making as Critical Practice](http://instrumentslab.org/data/giacomo/Sonification_as_Negotiation.pdf) Proc. of the Designing Interactive Systems Conference, Delft, The Netherlands - online - 2020.
+- G. Lepri, A. P. McPherson and J. Bowers. [Useless, not Worthless: Absurd Making as Critical Practice](http://instrumentslab.org/data/giacomo/DIS2020AbsurdMaking.pdf) Proc. of the Designing Interactive Systems Conference, Delft, The Netherlands - online - 2020.
 
 ___
 
