@@ -91,8 +91,8 @@ Our findings show a clustering of stylistic approaches and design patterns which
 
 We could also appreciate different socio-cultural influences linked to makers’ techno-musical backgrounds. For instance, musicians active in different contexts and with different techno-musical skills offered almost opposite views on what is "original and unconventional" in digital instrument design.
 
-- A. P. McPherson and G. Lepri. [Beholden to Our Tools: Negotiating with Technology while Sketching Digital Instruments.](http://instrumentslab.org/data/giacomo/BeholdenToOurTools.pdf) Proc. New Interfaces for Musical Expression, Royal Birmingham Conservatoire, Birmingham, UK. 2020.
-- G. Lepri. [Sonification as Negotiation - Learning from Translation Studies.](http://instrumentslab.org/data/giacomo/Sonification_as_Negotiation.pdf) Proc. Sound and Music Computing (SMC), University of Turin - Polytechnic School and Conservatorio di Musica G. Verdi, Turin, Italy. 2020.
+- A. P. McPherson and G. Lepri. [Beholden to Our Tools: Negotiating with Technology while Sketching Digital Instruments.](http://instrumentslab.org/data/giacomo/BeholdenToOurTools.pdf) Proc. of the New Interfaces for Musical Expression conference, Royal Birmingham Conservatoire, Birmingham, UK. 2020.
+- G. Lepri. [Sonification as Negotiation - Learning from Translation Studies.](http://instrumentslab.org/data/giacomo/Sonification_as_Negotiation.pdf) Proc. of the Sound and Music Computing conference, University of Turin - Polytechnic School and Conservatorio di Musica G. Verdi, Turin, Italy. 2020.
 - G. Lepri and A. P. McPherson. 'Embrace the Weirdness: Negotiating Values Inscribed into Music Technology' - Computer Music Journal. Forthcoming.
 
 ___
