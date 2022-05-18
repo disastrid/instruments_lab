@@ -67,7 +67,7 @@ We then ran an online survey targeting musicians and technologists with experien
 
 Overall, our participants were rather successful in guessing the genre/style of the artefacts' creators: 44% of answers were correct, and a further 27% partly correct. In particular we were impressed by the overall ability of the survey respondents to discover the multiplicity of cultural sources and musical practices in the designer's background. Besides technical expertise, the design of a music technology entails the materialisation of purposes, assumptions and values. These are situated factors, emerging from specific communities, contexts and cultures. This research provides us the possibility to engage with this type of knowledge: context-dependent values emerging from situated practices.
 
-- G. Lepri and A. P. McPherson. [Fictional Instruments, Real Values: Discovering Musical Backgrounds with Non-Functional Prototypes.](http://www.nime.org/proceedings/2019/nime2019_024.pdf) Proc. New Interfaces for Musical Expression, Porto Alegre, Rio Grande do Sul, Brazil. 2019.
+- G. Lepri and A. P. McPherson. [Fictional Instruments, Real Values: Discovering Musical Backgrounds with Non-Functional Prototypes.](http://instrumentslab.org/data/giacomo/2019NIMEFinal.pdf) Proc. New Interfaces for Musical Expression, Porto Alegre, Rio Grande do Sul, Brazil. 2019.
 
 ___
 
@@ -91,6 +91,8 @@ Our findings show a clustering of stylistic approaches and design patterns which
 
 We could also appreciate different socio-cultural influences linked to makers’ techno-musical backgrounds. For instance, musicians active in different contexts and with different techno-musical skills offered almost opposite views on what is "original and unconventional" in digital instrument design.
 
+- A. P. McPherson and G. Lepri. [Beholden to Our Tools: Negotiating with Technology while Sketching Digital Instruments.](http://instrumentslab.org/data/giacomo/BeholdenToOurTools.pdf) Proc. New Interfaces for Musical Expression, Royal Birmingham Conservatoire, Birmingham, UK. 2020.
+- G. Lepri. [Sonification as Negotiation - Learning from Translation Studies.](http://instrumentslab.org/data/giacomo/Sonification_as_Negotiation.pdf) Proc. Sound and Music Computing (SMC), University of Turin - Polytechnic School and Conservatorio di Musica G. Verdi, Turin, Italy. 2020.
 - G. Lepri and A. P. McPherson. 'Embrace the Weirdness: Negotiating Values Inscribed into Music Technology' - Computer Music Journal. Forthcoming.
 
 ___
