@@ -27,19 +27,6 @@
       icon: github
   desc:
     Interface and instrument design, accessible music technology
-- avatar: ../images/people/jack.jpg
-  name: Jack Armitage
-  position: PhD student (2016-present)
-  education: BSc Music, Multimedia & Electronics, University of Leeds
-  socials:
-    - link: http://jackarmitage.com
-      icon: link
-    - link: http://scholar.google.com/citations?user=APvoBhUAAAAJ
-      icon: graduation-cap
-    - link: http://github.com/jarmitage
-      icon: github
-  desc:
-    Musical instruments, composition systems, cognitive science, (post) human-computer interaction
 - avatar: ../images/people/LiaMice.jpg
   name: Lia Mice
   position: PhD student (2018-present)
@@ -112,13 +99,13 @@
       icon: linkedin
   education: BSc Musical Informatics, University of Milan, MSc Sound and Vibration Studies, University of Southampton
   desc: augmented guitars, augmented percussion, machine learning for real-time DSP, acoustic fingerstyle guitar, obscure jazz
-- avatar: ../images/people/luis.jpg
-  name: Luis Zayas
+- avatar: ../images/people/eevee.jpg
+  name: Eevee Zayas
   position: PhD student (2020-present)
   socials:
-    - link: https://luiszayas.com
+    - link: https://eeveezayas.com
       icon: link
-    - link: https://twitter.com/_luiszayas
+    - link: https://twitter.com/zayaseevee
       icon: twitter
   education: BSc Engineering Product Design, London South Bank University
   desc: disability, musical instrument design

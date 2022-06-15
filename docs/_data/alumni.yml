@@ -1,3 +1,16 @@
+- avatar: ../images/people/jack.jpg
+  name: Jack Armitage
+  position: PhD student (2016-2022)
+  education: BSc Music, Multimedia & Electronics, University of Leeds
+  socials:
+    - link: http://jackarmitage.com
+      icon: link
+    - link: http://scholar.google.com/citations?user=APvoBhUAAAAJ
+      icon: graduation-cap
+    - link: http://github.com/jarmitage
+      icon: github
+  desc:
+    Musical instruments, composition systems, cognitive science, (post) human-computer interaction
 - avatar: ../images/people/giacomo.jpg
   name: Dr Giacomo Lepri
   position: PhD student (2017-2022)
