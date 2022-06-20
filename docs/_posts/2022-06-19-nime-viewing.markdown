@@ -21,6 +21,6 @@ As a lab we are thrilled to be presenting 6 papers (all available [here](/public
 * The 10,000 Instruments Workshop - (Im)practical Research for Critical Speculation *(Giacomo Lepri, John Bowers, Samantha Topley, Paul Stapleton, Peter Bennett, Kristina Andersen and Andrew McPherson)*
 * Being With The Waves: An Ultrasonic Art Installation Enabling Rich Interaction Without Sensors *(Nicole Robson, Andrew McPherson and Nick Bryan-Kinns)*
 
-Lab member Teresa Peliski is leading the online workshop [Embedded AI for NIME: Challenges and Opportunities](https://embedded-ai-for-nime.github.io) which will be held on 28 June. *(Full organiser team: Teresa Pelinski, Victor Shepardson, Steve Symons, Franco S. Caspe, Adan L. Benito Temprano, Jack Armitage, Chris Kiefer, Rebecca Fiebrink, Thor Magnusson, and Andrew McPherson)*
+Lab member Teresa Pelinski is leading the online workshop [Embedded AI for NIME: Challenges and Opportunities](https://embedded-ai-for-nime.github.io) which will be held on 28 June. *(Full organiser team: Teresa Pelinski, Victor Shepardson, Steve Symons, Franco S. Caspe, Adan L. Benito Temprano, Jack Armitage, Chris Kiefer, Rebecca Fiebrink, Thor Magnusson, and Andrew McPherson)*
 
 We are looking forward to seeing friends and colleagues at NIME, either in person or online!
