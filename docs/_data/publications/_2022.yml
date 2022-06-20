@@ -8,40 +8,51 @@
   authors: G. Lepri, J. Bowers, S. Topley, P. Stapleton, P. Bennett, K. Andersen and A. McPherson
   venue: Proc. New Interfaces for Musical Expression (NIME)
   city: Auckland, New Zealand
+  link: https://nime.pubpub.org/pub/n6mw635p/draft?access=2voefn3z
   year: 2022
 - title: 'Exploring Experiences with New Musical Instruments through Micro-phenomenology'
   authors: C. N. Reed, C. Nordmoen, A. Martelloni, G. Lepri, N. Robson, E. Zayas-Garin, K. Cotton, L. Mice and A. McPherson
   venue: Proc. New Interfaces for Musical Expression (NIME)
   city: Auckland, New Zealand
+  link: https://nime.pubpub.org/pub/o7sza3sq/draft?access=irqfyrm3
   year: 2022
 - title: 'Dialogic Design of Accessible Digital Musical Instruments: Investigating Performer Experience'
   authors: E. Zayas-Garin and A. McPherson
   venue: Proc. New Interfaces for Musical Expression (NIME)
   city: Auckland, New Zealand
+  link: https://nime.pubpub.org/pub/dialogicadmis/draft?access=4tx8qjsk
   year: 2022
 - title: 'Quantitative evaluation of aspects of embodiment in new digital musical instruments'
   authors: A. Guidi and A. McPherson
   venue: Proc. New Interfaces for Musical Expression (NIME)
   city: Auckland, New Zealand
+  link: https://nime.pubpub.org/pub/aa39yd37/draft?access=61z03b9n
   year: 2022
 - title: 'The M in NIME: Motivic analysis and the case for a musicology of NIME performances'
   authors: L. Mice and A. McPherson
   venue: Proc. New Interfaces for Musical Expression (NIME)
   city: Auckland, New Zealand
+  link: https://nime.pubpub.org/pub/cwmcgn8y/draft?access=ozrqrp5i
   year: 2022
 - title: 'Being With The Waves: An Ultrasonic Art Installation Enabling Rich Interaction Without Sensors'
   authors: N. Robson, A. McPherson and N. Bryan-Kinns
   venue: Proc. New Interfaces for Musical Expression (NIME)
   city: Auckland, New Zealand
+  link: https://nime.pubpub.org/pub/wq2q8v0w/draft?access=c3k6dd70
   year: 2022
 - title: 'Super Size Me: Interface Size, Identity and Embodiment in Digital Musical Instrument Design'
   authors: L. Mice and A. McPherson
   venue: Proc. ACM SIGCHI Conference on Human Factors in Computing Systems (CHI)
   city: New Orleans, LA, USA
   year: 2022
-  link: https://dl.acm.org/doi/pdf/10.1145/3491102.3517626
+  pdf: http://instrumentslab.org/data/andrew/mice_chi2022.pdf
 - title: 'Making space for material entanglements: A diffractive analysis of woodwork and the practice of making an interactive system'
   authors: C. Nordmoen and A. McPherson
   venue: Proc. ACM Designing Interactive Systems Conference (DIS)
   year: 2022
   pdf: https://dl.acm.org/doi/10.1145/3532106.3533572
+- title: 'Singing Knit: Soft Knit Biosensing for Augmenting Vocal Performances'
+  authors: C. N. Reed, S. Skach, P. Strohmeier and A. P. McPherson
+  venue: Proc. Augmented Humans
+  year: 2022
+  link: https://dl.acm.org/doi/fullHtml/10.1145/3519391.3519412
