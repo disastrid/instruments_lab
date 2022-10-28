@@ -6,4 +6,5 @@ group :jekyll_plugins do
   gem "octopress-autoprefixer"
   gem "jekyll-redirect-from"
   gem "kramdown-parser-gfm"
+  gem "webrick"
 end

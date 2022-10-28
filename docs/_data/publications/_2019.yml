@@ -90,3 +90,15 @@
   venue: PhD Thesis, Queen Mary University of London, London, United Kingdom.
   year: 2019
   link: https://www.researchgate.net/publication/334250671_Tangibility_and_Richness_in_Digital_Musical_Instrument_Design
+- title: 'Bricolage in a hybrid digital lutherie context: a workshop study'
+  authors: J. Armitage and A. McPherson
+  venue: Proc. Audio Mostly Conference
+  city: Nottingham, UK
+  year: 2019
+  pdf: https://dl.acm.org/doi/pdf/10.1145/3356590.3356604
+- title: 'LiveCore: Increasing Liveness in a Low-Level Dataflow Programming Environment'
+  authors: D. Alexander and J. Armitage
+  venue: Proc. Audio Mostly Conference
+  city: Nottingham, UK
+  year: 2019
+  pdf: https://dl.acm.org/doi/pdf/10.1145/3356590.3356632

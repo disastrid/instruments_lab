@@ -1,15 +1,22 @@
+- title: 'Subtlety and detail in digital musical instrument design'
+  authors: J. Armitage
+  venue: PhD thesis, School of Electronic Engineering and Computer Science
+  city: Queen Mary University of London, UK
+  year: 2022
+  pdf:  http://instrumentslab.org/data/andrew/ArmitagePhDThesis.pdf
 - title: 'Embrace the weirdness: negotiating values inscribed into music technology'
   authors: G. Lepri and A. McPherson
   venue: Computer Music Journal
   vol: 45
   issue: 3
-  year: '2022 (in press)'
+  year: 2022
   pdf: http://instrumentslab.org/data/andrew/lepri_cmj2022.pdf
 - title: 'Sounds -> Object -> Gesture : Physical Affordances of Virtual Materials'
   authors: J. Pigrem and A. McPherson and N. Bryan-Kinns and R. Jack
   venue: Proc. Audio Mostly Conference
   city: St. Pölten, Austria
   year: 2022
+  pdf: http://instrumentslab.org/data/andrew/pigrem_am2022.pdf
 - title: 'Play-Make-Believe: Discovering the Musical Values Inscribed into Digital Instruments'
   authors: G. Lepri
   venue: PhD thesis, School of Electronic Engineering and Computer Science
