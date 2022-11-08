@@ -1,20 +1,10 @@
-- avatar: ../images/people/jack.jpg
-  name: Dr Jack Armitage
-  position: PhD student (2016-2022)
-  education: BSc Music, Multimedia & Electronics, University of Leeds
-  socials:
-    - link: http://jackarmitage.com
-      icon: link
-    - link: http://scholar.google.com/citations?user=APvoBhUAAAAJ
-      icon: graduation-cap
-    - link: http://github.com/jarmitage
-      icon: github
-  desc:
-    Musical instruments, composition systems, cognitive science, (post) human-computer interaction
 - avatar: ../images/people/giacomo.jpg
   name: Dr Giacomo Lepri
   position: PhD student (2017-2022)
   education: BMus Electronic Music, Conservatorio N. Paganini - Genoa; MMus by Research "Instruments & Interfaces", Institute of Sonology - STEIM (Royal Conservatoire in The Hague)
+  thesis:
+    - link: http://instrumentslab.org/data/giacomo/LepriPhDThesis.pdf
+      title: 'Play-Make-Believe: Discovering the Musical Values Inscribed into Digital Instruments'
   socials:
     - link: http://www.giacomolepri.com/
       icon: link
@@ -24,9 +14,43 @@
       icon: graduation-cap
   desc:
     Digital musical instruments, cultural factors in music technology, research through art and design, sound installtion, electroacoustic composition and improvisation.
+- avatar: ../images/people/jack.jpg
+  name: Dr Jack Armitage
+  position: PhD student (2016-2022)
+  education: BSc Music, Multimedia & Electronics, University of Leeds
+  thesis:
+    - link: http://instrumentslab.org/data/andrew/ArmitagePhDThesis.pdf
+      title: Subtlety and detail in digital musical instrument design
+  socials:
+    - link: http://jackarmitage.com
+      icon: link
+    - link: http://scholar.google.com/citations?user=APvoBhUAAAAJ
+      icon: graduation-cap
+    - link: http://github.com/jarmitage
+      icon: github
+  desc:
+    Musical instruments, composition systems, cognitive science, (post) human-computer interaction
+- avatar: ../images/people/giulio.jpeg
+  name: Dr Giulio Moro
+  education: Bachelors in sound recording (Conservatory of Padua), MSc in Digital Music Processing (QMUL), PhD in Electronic Engineering (QMUL)
+  position: PhD student (2015-2019, co-supervised with Mark Sandler), Research Assistant (2017, 2019-2020)
+  thesis:
+    - link: http://instrumentslab.org/data/giulio/giulioMoroThesis.pdf
+      title: 'Beyond key velocity: continuous sensing for expressive control on the Hammond organ and digital keyboards'
+  socials:
+    - link: http://twitter.com/giu_lio_mo_ro
+      icon: twitter
+    - link: https://scholar.google.com/citations?user=1P92P3kAAAAJ&hl=en&oi=ao
+      icon: graduation-cap
+    - link: https://github.com/giuliomoro/
+      icon: github
+  desc: Touch on keyboard instruments, low latency audio and sensors, embedded devices, why-do-people-think-analog-is-better.
 - avatar: ../images/people/robert.jpg
   name: Dr Robert Jack
-  position: PhD student 2014-18, Postdoctoral Research Assistant 2019-20
+  position: PhD student (2014-18), Postdoctoral Research Assistant 2019-20
+  thesis:
+    - link: https://www.researchgate.net/publication/334250671_Tangibility_and_Richness_in_Digital_Musical_Instrument_Design
+      title: Tangibility and Richness in the Design of Digital Musical Instruments
   education: M.A.(hons) Applied Mathematics and Music, University of Glasgow; MMus Studio Composition, Goldsmiths, University of London.
   socials:
     - link: http://twitter.com/rjack0101
@@ -36,78 +60,13 @@
     - link: http://www.robertjack.org
       icon: link
   desc: Touch and musical instrument design, cross-modal perception, non-visual interfaces, sensorimotor feedback, haptics, percussion, strings and live electronics.
-- avatar: ../images/people/giulio.jpeg
-  name: Dr Giulio Moro
-  education: Bachelors in sound recording (Conservatory of Padua), MSc in Digital Music Processing (QMUL), PhD in Electronic Engineering (QMUL)
-  position: PhD student (2015-2019, co-supervised with Mark Sandler), Research Assistant (2017, 2019-2020)
-  socials:
-    - link: http://twitter.com/giu_lio_mo_ro
-      icon: twitter
-    - link: https://scholar.google.com/citations?user=1P92P3kAAAAJ&hl=en&oi=ao
-      icon: graduation-cap
-    - link: https://github.com/giuliomoro/
-      icon: github
-  desc: Touch on keyboard instruments, low latency audio and sensors, embedded devices, why-do-people-think-analog-is-better.
-- avatar: ../images/people/laurel.jpg
-  name: Dr Laurel Pardue
-  position: Postdoctoral Research Assistant
-  education: S.B. Music, S.B. Electrical Engineering, MIT; M.Eng. Electrical Engineering, MIT; M.Sc. Media Arts & Sciences, MIT 2011; PhD, QMUL Augmented Instruments Laboratory, 2017
-  desc: Interface & instrument design, prototyping, expressive performance, instrument learning, violin, viola, Balinese gamelan.
-  socials:
-    - link: https://scholar.google.com/citations?user=UXWpcQ4AAAAJ
-      icon: graduation-cap
-- avatar: ../images/stock/fabio.jpg
-  name: Dr Fabio Morreale
-  position: Postdoctoral Research Assistant 2015-2018
-  socials:
-    - link: https://twitter.com/fabiomorreale
-      icon: twitter
-    - link: https://www.facebook.com/phbphd
-      icon: facebook
-    - link: https://scholar.google.it/citations?user=cMZilz4AAAAJ&hl=en
-      icon: graduation-cap
-  education: B.S. Computer Science, M.S. Computer Science, M.S. Biomedical Data Processing, University of Verona; Ph.D. Human-Computer Interaction, University of Trento 2015; Postdoc University of Trento 2015-2016
-  desc: Fabio was a postdoctoral research assistant focusing on musical interface design and evaluation within the scopes of generative art and philosophy of technology. Fabio is currently Lecturer and Coordinator of Music Technology at the School of Music of the University of Auckland.
-- avatar: ../images/people/kurijn.jpg
-  name: Dr Kurijn Buys
-  position: Postdoctoral Research Assistant 2016-2018
-  education: M.A. Audio Design, Utrecht School of Music and Technology, 2008; M.S. Science and Technology, Université Pierre et Marie Curie, 2010; PhD in Musical Acoustics, The Open University, 2017.
-  desc: Kurijn was a postdoctoral research assistant focusing on acoustic/electronic/digital instrument development, in particular he developed techniques for violin performace analysis based on sound source separation through electrodynamic pickups.
-  socials:
-    - link: http://twitter.com/KurijnBuys
-      icon: twitter
-    - link: http://facebook.com/kurijn
-      icon: facebook
-- avatar: ../images/people/victor.jpg
-  name: Dr Victor Zappi
-  position: Postdoctoral Researcher, 2013-14
-  socials:
-    - link: http://toomuchidle.com
-      icon: link
-  desc:
-    Victor was a postdoc on the Hackable Instruments project, 2013-14. He now holds a Marie Curie Fellowship at the Istituto Italiano di Tecnologia (Genova) and the University of British Columbia. Victor is the co-creator of the D-Box hackable instrument.
-- avatar: ../images/people/duncan.jpg
-  name: Dr Duncan Menzies
-  position: PhD student, 2011-15
-  socials:
-    - link: http://twitter.com/duncan_menzies
-      icon: twitter
-    - link: http://www.duncanmenzies.com/
-      icon: link
-  desc:
-    Duncan was a PhD student at the Augmented Instruments Lab between 2011-2015. During this time he developed a digital bagpipe chanter hardware and software system to assist in the process of teaching and learning the Great Highland Bagpipe.
-- avatar: ../images/people/chris.jpeg
-  name: Dr Chris Heinrichs
-  position: PhD student, 2012-17
-  socials:
-    - link: http://enzienaudio.com
-      icon: link
-  desc:
-    Chris was a PhD student at the Augmented Instruments Lab from 2012-2017. His research focused on procedural audio and digital foley. He is now working as a sound designer in Malta.
 - avatar: ../images/people/astrid.jpg
   name: Dr Astrid Bin
-  position: PhD student, 2014-2017
+  position: PhD student (2014-2017)
   education: AOCAD (Hons) in Sculpture/Installation, OCAD University, Toronto Canada, 2003; MA in Public Art, University of Ulster, Belfast UK, 2013; PhD in Media and Arts Technology, Queen Mary University of London, 2018; Postdoc, Georgia Tech, 2018-2019
+  thesis:
+    - link: https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/39185/Bin%2C%20S.%20M.%20Astrid.%202018_final.pdf?sequence=1&isAllowed=y
+      title: 'The Show Must Go Wrong: Towards an understanding of audience perception of error in digital musical instrument performance'
   socials:
     - link: http://twitter.com/disastrid
       icon: twitter
@@ -121,9 +80,77 @@
     Astrid was a PhD student in the Augmented Instruments Lab from 2014-17, where her research focused on the audience perception of error in DMI performance. After a postdoc in the Center for Music Technology and Expressive Machinery Lab at Georgia Tech she is now a Music Technology Researcher at Ableton in Berlin.
 - avatar: ../images/people/liam.jpg
   name: Dr Liam Donovan
-  position: PhD student 2013-18; RAEng Enterprise Fellow 2018-19
+  position: PhD student (2013-18); RAEng Enterprise Fellow 2018-19
+  thesis:
+    - link: https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/54052/DONOVAN_Liam_Final_PhD_141118.pdf?sequence=1&isAllowed=y
+      title: Travelling Wave Control of Stringed Musical Instruments
   socials:
     - link: http://www.liamdonovan.co.uk
       icon: link
   desc:
     Liam was a PhD student in the Augmented Instruments Lab from 2013-18, where he developed new techniques for vibration control of stringed musical instruments. During his PhD and a subsequent fellowship, he also contributed to the Bela low-latency audio platform.
+- avatar: ../images/people/chris.jpeg
+  name: Dr Chris Heinrichs
+  position: PhD student (2012-17)
+  thesis:
+    - link: https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/33924/HEINRICHS_C_PhD_MAT_final_300118.pdf?sequence=1
+      title: Human Expressivity in the Control and Integration of Computationally Generated Audio
+  socials:
+    - link: http://dca.mt
+      icon: link
+  desc:
+    Chris was a PhD student at the Augmented Instruments Lab from 2012-2017. His research focused on procedural audio and digital foley. He is now working as a sound designer in Malta.
+- avatar: ../images/people/laurel.jpg
+  name: Dr Laurel Pardue
+  position: PhD student (2012-16), Postdoctoral Research Assistant
+  thesis:
+    - link: https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/25934/PARDUE_Laurel_210617.pdf?sequence=1&isAllowed=y
+      title: Violin Augmentation Techniques for Learning Assistance
+  education: S.B. Music, S.B. Electrical Engineering, MIT; M.Eng. Electrical Engineering, MIT; M.Sc. Media Arts & Sciences, MIT 2011; PhD, QMUL Augmented Instruments Laboratory, 2017
+  desc: Interface & instrument design, prototyping, expressive performance, instrument learning, violin, viola, Balinese gamelan.
+  socials:
+    - link: https://scholar.google.com/citations?user=UXWpcQ4AAAAJ
+      icon: graduation-cap
+- avatar: ../images/people/duncan.jpg
+  name: Dr Duncan Menzies
+  position: PhD student (2011-15)
+  thesis:
+    - link: http://www.eecs.qmul.ac.uk/~andrewm/menzies_thesis.pdf
+      title: Technological support for Highland piping tuition and practice
+  socials:
+    - link: http://twitter.com/duncan_menzies
+      icon: twitter
+    - link: http://www.duncanmenzies.com/
+      icon: link
+  desc:
+    Duncan was a PhD student at the Augmented Instruments Lab between 2011-2015. During this time he developed a digital bagpipe chanter hardware and software system to assist in the process of teaching and learning the Great Highland Bagpipe.
+- avatar: ../images/stock/fabio.jpg
+  name: Dr Fabio Morreale
+  position: Postdoctoral Research Assistant (2015-2018)
+  socials:
+    - link: https://twitter.com/fabiomorreale
+      icon: twitter
+    - link: https://fabio.kiwi
+      icon: link
+    - link: https://scholar.google.it/citations?user=cMZilz4AAAAJ&hl=en
+      icon: graduation-cap
+  education: B.S. Computer Science, M.S. Computer Science, M.S. Biomedical Data Processing, University of Verona; Ph.D. Human-Computer Interaction, University of Trento 2015; Postdoc University of Trento 2015-2016
+  desc: Fabio was a postdoctoral research assistant focusing on musical interface design and evaluation within the scopes of generative art and philosophy of technology. Fabio is currently Lecturer and Coordinator of Music Technology at the School of Music of the University of Auckland.
+- avatar: ../images/people/kurijn.jpg
+  name: Dr Kurijn Buys
+  position: Postdoctoral Research Assistant (2016-2018)
+  education: M.A. Audio Design, Utrecht School of Music and Technology, 2008; M.S. Science and Technology, Université Pierre et Marie Curie, 2010; PhD in Musical Acoustics, The Open University, 2017.
+  desc: Kurijn was a postdoctoral research assistant focusing on acoustic/electronic/digital instrument development, in particular he developed techniques for violin performace analysis based on sound source separation through electrodynamic pickups.
+  socials:
+    - link: http://twitter.com/KurijnBuys
+      icon: twitter
+    - link: http://facebook.com/kurijn
+      icon: facebook
+- avatar: ../images/people/victor.jpg
+  name: Dr Victor Zappi
+  position: Postdoctoral Researcher (2013-14)
+  socials:
+    - link: http://toomuchidle.com
+      icon: link
+  desc:
+    Victor was a postdoc on the Hackable Instruments project, 2013-14. He went on to a Marie Curie Fellowship at the Istituto Italiano di Tecnologia (Genova) and the University of British Columbia, and is now Assistant Professor at Northeastern University (Boston, USA). Victor is the co-creator of the D-Box hackable instrument.

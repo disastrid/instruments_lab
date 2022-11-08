@@ -1,6 +1,8 @@
 - avatar: ../images/people/andrew.jpg
   name: Prof Andrew McPherson
-  position: Professor of Musical Interaction; Royal Academy of Engineering Senior Research Fellow 2021-26
+  position:
+    Chair in Design Engineering and Music, Imperial College London (from January 2023)<br>
+    Professor of Musical Interaction, Queen Mary University of London
   socials:
     - link: http://twitter.com/InstrumentsLab
       icon: twitter
@@ -137,3 +139,11 @@
       icon: instagram
   education: Electronic Engineering (UTN FRBB) - MsC Image Processing and Computer Vision (EMJMD IPCV)
   desc: musical expression, augmented instruments, synthesis models, deep learning, real time systems, maker culture, analog photography
+- avatar: ../images/people/jordie.jpg
+  name: Jordie Shier
+  position: PhD student (2022-present)
+  socials:
+    - link: https://jordieshier.com
+      icon: link
+  education: BSc Combined Computer Science and Music, University of Victoria; MSc Interdisciplinary Computer Science and Music, University of Victoria
+  desc: Audio synthesis, novel interfaces for synthesizers, deep learning for audio

@@ -14,13 +14,13 @@
       icon: link
     - link: http://twitter.com/TheOHMITrust
       icon: twitter
-- avatar: ../images/collaborators/drake.jpg
-  name: Drake Music
-  position: Group leader
+- avatar: ../images/collaborators/ableton.png
+  name: Ableton AG
+  position: 
   socials:
-    - link: http://drakemusic.org
+    - link: http://ableton.com
       icon: link
-    - link: http://twitter.com/drake_music
+    - link: https://twitter.com/Ableton
       icon: twitter
 - avatar: ../images/collaborators/beagle.jpg
   name: BeagleBoard.org
@@ -29,6 +29,14 @@
     - link: https://beagleboard.org/
       icon: link
     - link: https://twitter.com/beagleboardorg
+      icon: twitter
+- avatar: ../images/collaborators/drake.jpg
+  name: Drake Music
+  position: Group leader
+  socials:
+    - link: http://drakemusic.org
+      icon: link
+    - link: http://twitter.com/drake_music
       icon: twitter
 - avatar: ../images/collaborators/CTFK.jpg
   name: Creative Technologies, Kiel
@@ -46,15 +54,7 @@
       icon: link
     - link: https://twitter.com/instrumentslab
       icon: twitter
-- avatar: ../images/collaborators/conductive-music.jpg
-  name: Conductive Music
-  position: 
-  socials:
-    - link: http://www.conductivemusic.uk/
-      icon: link
-    - link: https://twitter.com/conductivemusic
-      icon: twitter
-- avatar: ../images/collaborators/music-hackspace.jpg
+- avatar: ../images/collaborators/music-hackspace.png
   name: Music Hackspace
   position: 
   socials:
