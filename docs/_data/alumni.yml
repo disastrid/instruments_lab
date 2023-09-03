@@ -1,3 +1,50 @@
+- avatar: ../images/people/jacob.jpg
+  name: Dr Jacob Harrison
+  position: PhD student (2015-2019), Postdoctoral Research Assistant (2020-2023)
+  education: BSc Music Technology, University of York; MSc by Research Electronic Engineering, University of York Audio Lab; PhD in Media and Arts Technology
+  socials:
+    - link: http://jacobtfh.github.io
+      icon: link
+    - link: http://twitter.com/Jcb_H
+      icon: twitter
+    - link: http://github.com/JacobTFH
+      icon: github
+  desc:
+    Interface and instrument design, accessible music technology
+- avatar: ../images/people/LiaMice.jpg
+  name: Dr Lia Mice
+  position: PhD student (2018-2023)
+  education:  MMus in Creative Practice - Goldsmiths University of London
+  socials:
+    - link: http://www.liamice.com
+      icon: link
+    - link: http://www.twitter.com/lia_mice
+      icon: twitter
+  desc:
+    large instruments, instruments design, live performance and composition with digital musical instruments
+- avatar: ../images/people/andrea.jpg
+  name: Dr Andrea Guidi
+  position: PhD student (2018-2023)
+  education: BSc Science & Technology of Musical Communication, University of Milan - Milan; MMus Electronic Music & Sound Technology, G.Verdi Conservatory of Music - Milan
+  socials:
+    - link: https://twitter.com/AugmentedHello
+      icon: twitter
+  desc:
+   new interfaces for musical expression, interactive art, augmented instruments
+- avatar: ../images/people/courtney.jpg
+  name: Dr Courtney Nicole Reed
+  position: PhD student (2019-2023)
+  socials:
+    - link: https://courtneynreed.wordpress.com
+      icon: link
+    - link: https://twitter.com/courtneynreed1
+      icon: twitter
+    - link: https://www.linkedin.com/in/courtneynreed
+      icon: linkedin
+    - link: https://scholar.google.com/citations?user=iAtFS0wAAAAJ&hl=en
+      icon: graduation-cap
+  education: BMus Electronic Production & Design, Berklee College of Music; MSc Computer Science, Queen Mary University of London
+  desc: Singing voice and vocal physiology, embodiment, intention and adaptation in performance, biosignals, expressive interfaces
 - avatar: ../images/people/giacomo.jpg
   name: Dr Giacomo Lepri
   position: PhD student (2017-2022)
@@ -135,7 +182,7 @@
     - link: https://scholar.google.it/citations?user=cMZilz4AAAAJ&hl=en
       icon: graduation-cap
   education: B.S. Computer Science, M.S. Computer Science, M.S. Biomedical Data Processing, University of Verona; Ph.D. Human-Computer Interaction, University of Trento 2015; Postdoc University of Trento 2015-2016
-  desc: Fabio was a postdoctoral research assistant focusing on musical interface design and evaluation within the scopes of generative art and philosophy of technology. Fabio is currently Lecturer and Coordinator of Music Technology at the School of Music of the University of Auckland.
+  desc: Fabio was a postdoctoral research assistant focusing on musical interface design and evaluation within the scopes of generative art and philosophy of technology. Fabio is currently Senior Lecturer and Coordinator of Music Technology at the School of Music of the University of Auckland.
 - avatar: ../images/people/kurijn.jpg
   name: Dr Kurijn Buys
   position: Postdoctoral Research Assistant (2016-2018)

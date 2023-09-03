@@ -6,6 +6,8 @@
   socials:
     - link: http://twitter.com/InstrumentsLab
       icon: twitter
+    - link: https://hci.social/@amcpherson
+      icon: link
     - link: http://youtube.com/user/apm414/videos
       icon: youtube
     - link: http://scholar.google.co.uk/citations?user=9Je-3c4AAAAJ
@@ -15,40 +17,15 @@
     - link: http://andrewmcpherson.org
       icon: link
   education: S.B. Music, S.B. Electrical Engineering, MIT; M.Eng. Electrical Engineering, MIT; Ph.D. Music Composition, U. Penn. 2009; Postdoc Drexel University MET-lab 2009-2011
-  desc: Composition, actuated instruments, viola, piano, embedded audio systems
-- avatar: ../images/people/jacob.jpg
-  name: Dr Jacob Harrison
-  position: Postdoctoral Research Assistant
-  education: BSc Music Technology, University of York; MSc by Research Electronic Engineering, University of York Audio Lab; PhD in Media and Arts Technology
+  desc: Composition, viola, augmented instruments, embedded hardware, human-computer interaction, querying values and assumptions of digital technology
+- avatar: ../images/people/landon.jpg
+  name: Dr Landon Morrison
+  position: Research Associate in Digital Musical Instrument Design and Analysis
+  education:  B.A. Music, University of North Carolina at Asheville; M.M. Music Theory, M.M. Violin Performance, University of Colorado at Boulder; Ph.D. Music Theory, McGill University; Postdoctoral College Fellow and Lecturer, Harvard University
   socials:
-    - link: http://jacobtfh.github.io
+    - link: https://landonmorrison.com
       icon: link
-    - link: http://twitter.com/Jcb_H
-      icon: twitter
-    - link: http://github.com/JacobTFH
-      icon: github
-  desc:
-    Interface and instrument design, accessible music technology
-- avatar: ../images/people/LiaMice.jpg
-  name: Lia Mice
-  position: PhD student (2018-present)
-  education:  MMus in Creative Practice - Goldsmiths University of London
-  socials:
-    - link: http://www.liamice.com
-      icon: link
-    - link: http://www.twitter.com/lia_mice
-      icon: twitter
-  desc:
-    large instruments, instruments design, live performance and composition with digital musical instruments
-- avatar: ../images/people/andrea.jpg
-  name: Andrea Guidi
-  position: PhD student (2018-present)
-  education: BSc Science & Technology of Musical Communication, University of Milan - Milan; MMus Electronic Music & Sound Technology, G.Verdi Conservatory of Music - Milan
-  socials:
-    - link: https://twitter.com/AugmentedHello
-      icon: twitter
-  desc:
-   new interfaces for musical expression, interactive art, augmented instruments
+  desc: music/media theory; experimental and popular music cultures; critical organologies of sonic instruments, interfaces, and infrastructures
 - avatar: ../images/people/charlotte.jpg
   name: Charlotte Nordmoen
   position: PhD student (2018-present)
@@ -57,20 +34,6 @@
     - link: http://www.cnordmoen.com
       icon: link
   desc: materiality, tacit knowledge, embodiment, digital fabrication, craft practice
-- avatar: ../images/people/courtney.jpg
-  name: Courtney Nicole Reed
-  position: PhD student (2019-present)
-  socials:
-    - link: https://courtneynreed.wordpress.com
-      icon: link
-    - link: https://twitter.com/courtneynreed1
-      icon: twitter
-    - link: https://www.linkedin.com/in/courtneynreed
-      icon: linkedin
-    - link: https://scholar.google.com/citations?user=iAtFS0wAAAAJ&hl=en
-      icon: graduation-cap
-  education: BMus Electronic Production & Design, Berklee College of Music; MSc Computer Science, Queen Mary University of London
-  desc: Singing voice and vocal physiology, embodiment, intention and adaptation in performance, biosignals, expressive interfaces
 - avatar: ../images/people/Nicole_Thumbnail.JPG
   name: Nicole Suzanne Robson
   position: PhD student (2019-present)
@@ -99,6 +62,8 @@
   socials:
     - link: https://uk.linkedin.com/in/andrea-martelloni-7ab10a60
       icon: linkedin
+    - link: https://twitter.com/the_hitar
+      icon: twitter
   education: BSc Musical Informatics, University of Milan, MSc Sound and Vibration Studies, University of Southampton
   desc: augmented guitars, augmented percussion, machine learning for real-time DSP, acoustic fingerstyle guitar, obscure jazz
 - avatar: ../images/people/eevee.jpg
@@ -107,7 +72,7 @@
   socials:
     - link: https://eeveezayas.com
       icon: link
-    - link: https://twitter.com/zayaseevee
+    - link: https://twitter.com/eeveezayas
       icon: twitter
   education: BSc Engineering Product Design, London South Bank University
   desc: disability, musical instrument design
@@ -127,6 +92,10 @@
   socials:
     - link: https://github.com/pelinski
       icon: github
+    - link: https://twitter.com/t_pelinski
+      icon: twitter
+    - link: https://teresapelinski.com
+      icon: link
   education: BSc Physics, Universidad Autónoma de Madrid & MSc Sound and Music Computing, Pompeu Fabra University
   desc: digital lutherie, expressive digital instruments, generative musical systems, deep learning
 - avatar: ../images/people/franco.jpg
@@ -137,6 +106,8 @@
       icon: link
     - link: https://www.instagram.com/francocaspe/
       icon: instagram
+    - link: https://twitter.com/CaspeFranco
+      icon: twitter
   education: Electronic Engineering (UTN FRBB) - MsC Image Processing and Computer Vision (EMJMD IPCV)
   desc: musical expression, augmented instruments, synthesis models, deep learning, real time systems, maker culture, analog photography
 - avatar: ../images/people/jordie.jpg
@@ -145,5 +116,7 @@
   socials:
     - link: https://jordieshier.com
       icon: link
+    - link: https://twitter.com/jordieshier
+      icon: twitter
   education: BSc Combined Computer Science and Music, University of Victoria; MSc Interdisciplinary Computer Science and Music, University of Victoria
   desc: Audio synthesis, novel interfaces for synthesizers, deep learning for audio

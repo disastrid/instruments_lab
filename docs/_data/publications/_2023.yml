@@ -1,7 +1,35 @@
+- title: 'Instruments, Ecosystems and Access: ADMIs in the Wild'
+  authors: J. Harrison and A. McPherson
+  venue: Journal of New Music Research
+  year: 2023 (forthcoming)
+- title: 'FM tone transfer with envelope learning'
+  authors: F. Caspe, A. McPherson and M. Sandler
+  venue: Proc. Audio Mostly Conference
+  city: Edinburgh
+  year: 2023
+  pdf: http://instrumentslab.org/data/andrew/caspe_am2023.pdf
+- title: 'Hearing from within a sound: A series of techniques for deconstructing and spatialising timbre'
+  authors: L. Wolstanholme, C. Vahidi and A. McPherson
+  venue: Audio Engineering Society International Conference on Spatial Audio
+  city: Huddersfield, UK
+  year: 2023
+  pdf: http://instrumentslab.org/data/andrew/wolstanholme_aes2023.pdf 
+- title: 'Towards orchestrating physically modelled 2D percussion instruments'
+  authors: L. Wolstanholme and A. McPherson
+  venue: 10th Convention of the European Acoustics Association (Forum Acustium)
+  city: Turin, Italy
+  year: 2023
+  pdf: http://instrumentslab.org/data/andrew/wolstanholme_fa2023.pdf
+- title: 'Real-time Percussive Technique Recognition and Embedding Learning for the Acoustic Guitar'
+  authors: A. Martelloni, A. P. McPherson and M. Barthet
+  venue: Proc. International Society for Music Information Retrieval Conference (ISMIR)
+  city: Milan, Italy
+  year: 2023
+  pdf: https://arxiv.org/pdf/2307.07426.pdf
 - title: 'Exploring the Opportunities of Haptic Technology in the Practice of Visually Impaired and Blind Sound Creatives'
   authors: J. Harrison, A. Lucas, J. Cunningham, A. McPherson and F. Schroeder
   venue: Arts Journal
-  year: 2023 (forthcoming)
+  year: 2023
   pdf: http://instrumentslab.org/data/andrew/harrison_arts2023.pdf
 - title: 'Exploring the (un)ambiguous Guitar: A Qualitative Study on the use of Gesture Disambiguation in Augmented Instrument Design'
   authors: A. Benito, T. Dannemann and A. McPherson
