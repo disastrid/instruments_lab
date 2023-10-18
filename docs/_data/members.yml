@@ -66,6 +66,18 @@
       icon: twitter
   education: BSc Musical Informatics, University of Milan, MSc Sound and Vibration Studies, University of Southampton
   desc: augmented guitars, augmented percussion, machine learning for real-time DSP, acoustic fingerstyle guitar, obscure jazz
+- avatar: ../images/people/teo.jpg
+  name: Teodoro Dannemann
+  position: PhD student (2019-present)
+  socials:
+    - link: https://teodannemann.wordpress.com/
+      icon: link
+    - link: https://www.youtube.com/channel/UCIWu42ftAt55Kg2U9kTv6Rg
+      icon: youtube
+    - link: https://scholar.google.com/citations?hl=en&user=XfB8y0cAAAAJ
+      icon: graduation-cap
+  education: BSc Industrial Engineering, Pontificia Universidad Católica de Chile; MSc Physics, Universidad Nacional Autónoma de Mexico
+  desc: music improvisation, human-computer music interactions, sabotaging instruments
 - avatar: ../images/people/eevee.jpg
   name: Eevee Zayas
   position: PhD student (2020-present)
@@ -120,3 +132,17 @@
       icon: twitter
   education: BSc Combined Computer Science and Music, University of Victoria; MSc Interdisciplinary Computer Science and Music, University of Victoria
   desc: Audio synthesis, novel interfaces for synthesizers, deep learning for audio
+- avatar: ../images/people/matt.jpg
+  name: Matt Davison
+  position: PhD student (2023-present)
+  socials:
+    - link: https://mastodon.social/@mattdavison
+      icon: link
+    - link: https://twitter.com/MattDavison99
+      icon: twitter
+    - link: https://www.linkedin.com/in/matt-davison-14a786119
+      icon: linkedin
+    - link: https://github.com/davisonaudio
+      icon: github
+  education: BSc Music and Sound Recording (Tonmeister), University of Surrey
+  desc: haptic feedback, instrument design, embedded software, human-computer interaction, audio engineering
