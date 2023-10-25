@@ -25,12 +25,14 @@
 - avatar: ../images/people/andrea.jpg
   name: Dr Andrea Guidi
   position: PhD student (2018-2023)
-  education: BSc Science & Technology of Musical Communication, University of Milan - Milan; MMus Electronic Music & Sound Technology, G.Verdi Conservatory of Music - Milan
+  education: BSc Science & Technology of Musical Communication, University of Milan - Milan; MMus Electronic Music & Sound Technology, G.Verdi Conservatory of Music; 
   socials:
     - link: https://twitter.com/AugmentedHello
       icon: twitter
+    - link: https://scholar.google.it/citations?user=zY6H9gYAAAAJ&hl=en
+      icon: graduation-cap
   desc:
-   new interfaces for musical expression, interactive art, augmented instruments
+   seamless interactions with unfamiliar music technology, HCI, NIME, musical imagery
 - avatar: ../images/people/courtney.jpg
   name: Dr Courtney Nicole Reed
   position: PhD student (2019-2023)
