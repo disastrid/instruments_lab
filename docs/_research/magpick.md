@@ -71,5 +71,5 @@ The effect's volume is regulated through the integrator preamp, responding to th
 {% include single-image-research.html fileName="magpick/magpick-puredata.png" %}
 
 ## References
-F. Morreale, A. Guidi, and A. McPherson. [Magpick: an augmented guitar pick for nuanced control]. (https://www.nime.org/proceedings/2019/nime2019_paper013.pdf). Proc. New Interfaces for Musical Expression, Porto Alegre, Brazil, June 3-6, 2019.
-A. McPherson, F. Morreale and A. Guidi. [Designing Creative Tensions between Concept and Embodied Practice].(https://thingsofdesign.info/2019/mcpherson.pdf). CHI Workshop "Doing Things with Research through Design: With What, with Whom, and Towards What Ends?" Glasgow, UK, 2019.
+F. Morreale, A. Guidi, and A. McPherson. [Magpick: an augmented guitar pick for nuanced control](https://www.nime.org/proceedings/2019/nime2019_paper013.pdf). Proc. New Interfaces for Musical Expression, Porto Alegre, Brazil, June 3-6, 2019.
+A. McPherson, F. Morreale and A. Guidi. [Designing Creative Tensions between Concept and Embodied Practice](https://thingsofdesign.info/2019/mcpherson.pdf). CHI Workshop "Doing Things with Research through Design: With What, with Whom, and Towards What Ends?" Glasgow, UK, 2019.
