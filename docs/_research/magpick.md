@@ -5,7 +5,7 @@ tag: "augmented-instruments"
 tagline: An Augmented Guitar Pick for Nuanced Control
 thumb: magpick/magpick-thumb.jpg
 authors: "Fabio Morreale, Andrea Guidi, Andrew McPherson"
-main-image: /images/research/magpick/magpick-cover.jpg
+main-image: /images/research/magpick/magpick-cover_.jpg
 production-date: 2018 - present
 para: Magpick brings nuanced sound shaping to the electric guitar.
 ---
