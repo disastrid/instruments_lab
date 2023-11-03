@@ -12,7 +12,8 @@ url:
 We're excited to announce the third edition of our open seminar series, that will be live-streamed
 on our [YouTube Channel](https://youtube.com/live/koLgx59ukAE).
 
-For this seminar, Iran Sanadzadeh will be joining us from Monash University (Australia).
+For this seminar, Iran Sanadzadeh will be joining us from Monash University (Australia). Iran is a composer, performer and the designer of the Terpsichora pressure-sensitive Floors. She is the Convenor of Composition and Music Technology at Monash University. Her work focuses on new possibilities of expression that an extended relationship with newly designed instruments can offer. Iran performs primarily on her set of floors, developed initially from the study of the pioneering work of Australian dancer Philippa Cullen. She has been continuing the development of the Floors since 2015 in collaboration with composer Sebastian Collen. The Floors were a finalist in the 2023 Guthman Prize for Musical Instruments. Her music explores sculpting manifold parameters of sound with few levers of control. In slowly evolving music that marries synthesised round tones with manipulated sample control, her music shapes a textural evolution that invites deep listening to subtle sonic changes. Trade-offs made in performance with instruments, in negotiating limits of movement and materials shapes the slow evolution of soft sounds in Iran's work. 
+
 
 **Title**: Living with a Digital Musical Instrument: Interface - Instrument - Practice - Pathway\
 **Time**: 11am, Friday, November 17th\

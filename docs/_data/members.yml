@@ -21,7 +21,7 @@
 - avatar: ../images/people/landon.jpg
   name: Dr Landon Morrison
   position: Research Associate in Digital Musical Instrument Design and Analysis
-  education:  B.A. Music, University of North Carolina at Asheville; M.M. Music Theory, M.M. Violin Performance, University of Colorado at Boulder; Ph.D. Music Theory, McGill University; Postdoctoral College Fellow and Lecturer, Harvard University
+  education: B.A. Music, University of North Carolina at Asheville; M.M. Music Theory, M.M. Violin Performance, University of Colorado at Boulder; Ph.D. Music Theory, McGill University; Postdoctoral College Fellow and Lecturer, Harvard University
   socials:
     - link: https://landonmorrison.com
       icon: link
@@ -108,8 +108,8 @@
       icon: twitter
     - link: https://teresapelinski.com
       icon: link
-  education: BSc Physics, Universidad Autónoma de Madrid & MSc Sound and Music Computing, Pompeu Fabra University
-  desc: digital lutherie, expressive digital instruments, generative musical systems, deep learning
+  education: BSc Physics, Universidad Autónoma de Madrid; MSc Sound and Music Computing, Pompeu Fabra University
+  desc: digital tools for instrument design, embedded systems, deep learning, prototyping, practice research in technical work
 - avatar: ../images/people/franco.jpg
   name: Franco Caspe
   position: PhD student (2021-present)
