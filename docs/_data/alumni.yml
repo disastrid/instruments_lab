@@ -33,11 +33,14 @@
       icon: graduation-cap
   desc:
    seamless interactions with unfamiliar music technology, HCI, NIME, musical imagery
-- avatar: ../images/people/courtney.jpg
+- avatar: ../images/people/courtney.png
   name: Dr Courtney Nicole Reed
   position: PhD student (2019-2023)
+  thesis:
+    - link: http://instrumentslab.org/data/courtney/Reed_PhD_ImaginingSensing.pdf
+      title: 'Imagining & Sensing: Understanding and Extending the Vocalist-Voice Relationship Through Biosignal Feedback'
   socials:
-    - link: https://courtneynreed.wordpress.com
+    - link: www.courtneynreed.com
       icon: link
     - link: https://twitter.com/courtneynreed1
       icon: twitter
@@ -46,7 +49,7 @@
     - link: https://scholar.google.com/citations?user=iAtFS0wAAAAJ&hl=en
       icon: graduation-cap
   education: BMus Electronic Production & Design, Berklee College of Music; MSc Computer Science, Queen Mary University of London
-  desc: Singing voice and vocal physiology, embodiment, intention and adaptation in performance, biosignals, expressive interfaces
+  desc: Courtney was a PhD student in the Augmented Instruments Lab from 2019 - 23, where she focused on designing expressive vocal interfaces and the embodied relationship between vocalist and voice. After postdocs at the MPI for Informatics (Saarbrücken, DE) and King's College London, she now works as a Lecturer in Digital Technologies at Loughborough University London.
 - avatar: ../images/people/giacomo.jpg
   name: Dr Giacomo Lepri
   position: PhD student (2017-2022)
