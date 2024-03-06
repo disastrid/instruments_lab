@@ -1,7 +1,22 @@
-- title: 'Instruments, Ecosystems and Access: ADMIs in the Wild'
-  authors: J. Harrison and A. McPherson
-  venue: Journal of New Music Research
-  year: 2023 (forthcoming)
+- title: 'Chaos Bells: Instrument Size and Entangled Music Performance'
+  authors: L. Mice and A. McPherson
+  venue: Contemporary Music Review
+  year: 2023
+  pdf: https://www.tandfonline.com/doi/pdf/10.1080/07494467.2023.2277556
+- title: 'Differentiable modelling of percussive audio with transient and spectral synthesis'
+  authors: J. Shier, F. Caspe, A. Robertson, M. Sandler, C. Saitis and A. McPherson
+  venue: 10th Convention of the European Acoustics Association (Forum Acusticum)
+  year: 2023
+  pdf: https://arxiv.org/pdf/2309.06649.pdf 
+- title: 'What the Sensor Knows: More-Than-Human Knowledge Co-Production in Wood Carving'
+  authors: C. Nordmoen and A. McPherson
+  venue: Proc. ACM Designing Interactive Systems Conference (DIS)
+  year: 2023
+  pdf: http://instrumentslab.org/data/andrew/nordmoen_dis2023.pdf
+- title: 'When Materials Meet Sound: Discovering the Meaning of Deformable Materials in Musical Interaction'
+  authors: J. Zheng, A. McPherson and N. Bryan-Kinns
+  venue: Proc. ACM Designing Interactive Systems Conference (DIS)
+  year: 2023
 - title: 'Evaluating Embodiment in Musical Instrument Modification and Augmentation'
   authors: A. Guidi
   venue: PhD thesis, School of Electronic Engineering and Computer Science
