@@ -1,3 +1,21 @@
+- title: 'A self-sensing haptic actuator for tactile interaction with physical modelling synthesis'
+  authors: M. Davison, C. J. Webb, M. Ducceschi and A. P. McPherson
+  venue: Proc. International Conference on New Interfaces for Musical Expression (NIME)
+  city: Utrecht, Netherlands
+  year: 2024
+  pdf: http://instrumentslab.org/data/andrew/davison_nime2024.pdf
+- title: 'Real-time timbre remapping with differentiable DSP'
+  authors: J. Shier, C. Saitis, A. Robertson and A. McPherson
+  venue: Proc. International Conference on New Interfaces for Musical Expression (NIME)
+  city: Utrecht, Netherlands
+  year: 2024
+  pdf: http://instrumentslab.org/data/andrew/shier_nime2024.pdf
+- title: 'Agency and creativity in musical interaction for those living with dementia and cognitive decline'
+  authors: J. Pigrem, J. Christensen, A. McPherson, R. Timmers, L. de Witte and J. MacRitchie
+  venue: Proc. International Conference on New Interfaces for Musical Expression (NIME)
+  city: Utrecht, Netherlands
+  year: 2024
+  pdf: http://instrumentslab.org/data/andrew/pigrem_nime2024.pdf
 - title: 'Entangling Entanglement: A Diffractive Dialogue on HCI and Musical Interactions'
   authors: L. Morrison and A. McPherson
   venue: Proc. ACM SIGCHI Conference on Human Factors in Computing Systems (CHI)
