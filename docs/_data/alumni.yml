@@ -1,3 +1,19 @@
+- avatar: ../images/people/landon.jpg
+  name: Dr Landon Morrison
+  position: Research Associate in Digital Musical Instrument Design and Analysis (2023-24)
+  education: B.A. Music, University of North Carolina at Asheville; M.M. Music Theory, M.M. Violin Performance, University of Colorado at Boulder; Ph.D. Music Theory, McGill University; Postdoctoral College Fellow and Lecturer, Harvard University
+  socials:
+    - link: https://landonmorrison.com
+      icon: link
+  desc: music/media theory; experimental and popular music cultures; critical organologies of sonic instruments, interfaces, and infrastructures
+- avatar: ../images/people/charlotte.jpg
+  name: Dr Charlotte Nordmoen
+  position: PhD student (2018-2024)
+  education: Ba(Hons) Costume for the Performing Arts, London College of Fashion; MA Material Futures, Central Saint Martins
+  socials:
+    - link: http://www.cnordmoen.com
+      icon: link
+  desc: materiality, tacit knowledge, embodiment, digital fabrication, craft practice
 - avatar: ../images/people/jacob.jpg
   name: Dr Jacob Harrison
   position: PhD student (2015-2019), Postdoctoral Research Assistant (2020-2023)
