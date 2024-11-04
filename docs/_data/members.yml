@@ -162,3 +162,11 @@
       icon: linkedin
   education: SE Electrical Engineering + BSc Sound Engineering + MA Media Arts, University of Michigan
   desc: Feedback instruments, DIY haptics, crafting/making/lutherie, hardware design, robotics
+- avatar: ../images/people/brittney.jpg
+  name: Brittney Allen
+  position: PhD Student (2024-present)
+  socials:
+    - link: https://www.linkedin.com/in/brittney-allen-6b3a6329a/
+      icon: linkedin
+  education: B.M. Music Education + M.M Music Education, Howard University; M.S. Music Technology, Georgia Institute of Technology
+  desc: critical code studies, music performance and education, improvisation, culturally situated music instrument design, e-textiles, experimental turntablism
