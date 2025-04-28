@@ -18,7 +18,7 @@ Piehouse Coop,
 Railway Arches, 213-214 Edward St, London SE8 5HD
 Closest Station: New Cross, Deptford
 12 May, 19.00
-FREE
+Get your FREE ticket [here](https://www.outsavvy.com/event/27053/shifted-music-from-the-augmented-instruments-lab)
 
 if you have trouble finding the location DM us on Instagram [@augmentedinstrumentslab](https://www.instagram.com/augmentedinstrumentslab/) 📩
 
