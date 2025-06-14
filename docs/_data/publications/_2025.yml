@@ -1,3 +1,68 @@
+- title: 'pybela: a Python library to interface scientific and physical computing'
+  authors: T. Pelinski, G. Moro and A. McPherson
+  venue: Proc. International Conference on New Interfaces for Musical Expression (NIME)
+  city: Canberra, Australia
+  year: 2025
+  pdf: https://instrumentslab.org/data/andrew/pelinski_nime2025.pdf
+- title: 'Waveform Autoencoding at the Edge of Perceivable Latency'
+  authors: F. Caspe, A. McPherson and M. Sandler
+  venue: Proc. International Conference on New Interfaces for Musical Expression (NIME)
+  city: Canberra, Australia
+  year: 2025
+  pdf: https://instrumentslab.org/data/andrew/caspe_nime2025.pdf
+- title: 'Drum Modal Feedback: Concept Design of an Augmented Percussion Instrument'
+  authors: L. Wolstanholme, J. Shier, R. Constanzo and A. McPherson
+  venue: Proc. International Conference on New Interfaces for Musical Expression (NIME)
+  city: Canberra, Australia
+  year: 2025
+  pdf: https://instrumentslab.org/data/andrew/wolstanholme_nime2025.pdf
+- title: '(De)Constructing Timbre at NIME: Reflecting on Technology and Aesthetic Entanglements in Instrument Design'
+  authors: C. Saitis, C. N. Reed, A. Noel-Hirst, G. Lepri and A. McPherson
+  venue: Proc. International Conference on New Interfaces for Musical Expression (NIME)
+  city: Canberra, Australia
+  year: 2025
+  pdf: https://comma.eecs.qmul.ac.uk/assets/pdf/nime2025_75_camera_ready.pdf
+- title: 'Making the Immaterial Material: A Diffractive Approach Toward a Politics of Material Culture Within NIME'
+  authors: B. Allen, A. McPherson, A. Smith and J. Freeman
+  venue: Proc. International Conference on New Interfaces for Musical Expression (NIME)
+  city: Canberra, Australia
+  year: 2025
+  pdf: https://instrumentslab.org/data/andrew/allen_nime2025.pdf
+- title: 'The Sparksichord: Practical Implementation of a Lorentz Force Electromagnetic Actuation and Feedback System'
+  authors: A. Schmidt, J. Synder, G. T. Jacobs, J. Chen, J. Gascho and A. McPherson
+  venue: Proc. International Conference on New Interfaces for Musical Expression (NIME)
+  city: Canberra, Australia
+  year: 2025
+  pdf: https://instrumentslab.org/data/andrew/schmidt_nime2025.pdf
+- title: 'Augmentation of a Historical Harpsichord Keyboard Replica for Haptic-Enabled Interaction in Museum Exhibitions'
+  authors: M. Hamilton, M. Ducceschi, R. Livi, C. Vicens and A. McPherson
+  venue: Proc. International Conference on New Interfaces for Musical Expression (NIME)
+  city: Canberra, Australia
+  year: 2025
+  pdf: https://instrumentslab.org/data/andrew/hamilton_nime2025.pdf
+- title: 'Designing Percussive Timbre Remappings: Negotiating Audio Representations and Evolving Parameter Spaces'
+  authors: J. Shier, R. Constanzo, C. Saitis, A. Robertson and A. McPherson
+  venue: Proc. International Conference on New Interfaces for Musical Expression (NIME)
+  city: Canberra, Australia
+  year: 2025
+  pdf: https://instrumentslab.org/data/andrew/shier_nime2025.pdf
+- title: 'Negotiating Entanglements in the Composition and Curation of an Ultrasonic Art Installation'
+  authors: N. Robson, A. McPherson and N. Bryan-Kinns
+  venue: Proc. International Conference on New Interfaces for Musical Expression (NIME)
+  city: Canberra, Australia
+  year: 2025
+  pdf: https://instrumentslab.org/data/andrew/robson_nime2025.pdf
+- title: 'Listening Together-Apart: On the Social Mediation of Sound Installation Listening'
+  authors: N. Robson, A. McPherson and N. Bryan-Kinns
+  venue: Proc. Audio Mostly
+  city: Coimbra, Portugal
+  year: 2025
+  pdf: https://ualresearchonline.arts.ac.uk/id/eprint/24123/1/AM25___The_Social_Mediation_of_Installation_Listening__preprint_.pdf
+- title: 'Designing neural synthesizers for low-latency interaction'
+  authors: F. Caspe, J. Shier, M. Sandler, C. Saitis and A. McPherson
+  venue: Journal of the Audio Engineering Society
+  pdf: https://instrumentslab.org/data/andrew/caspe_jaes2025.pdf
+  year: 2025
 - title: 'On mapping as a technoscientific practice in digital musical instruments'
   authors: A. McPherson, L. Morrison, M. Davison and M. M. Wanderley
   venue: Journal of New Music Research
