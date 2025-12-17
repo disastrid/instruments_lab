@@ -20,8 +20,8 @@ The project was launched on the crowd-funding website [Kickstarter](https://www.
 
 **TouchKeys is no longer available for sale, but if you are an existing TouchKeys user you can find support for your kit here:**
 
-* TouchKeys software downloads: [binary releases](https://github.com/apmcpherson/touchkeys/releases/tag/release) (Mac/Windows/Linux), [source code](https://github.com/apmcpherson/touchkeys/), [software manual](https://code.soundsoftware.ac.uk/attachments/download/1579/touchkeys_manual_0.2.pdf)
-* Installation instructions: [written guide](http://www.eecs.qmul.ac.uk/~andrewm/touchkeys-installation.pdf), [tutorial video](https://vimeo.com/82399344)
+* TouchKeys software downloads: [binary releases](https://github.com/apmcpherson/touchkeys/releases/tag/release) (Mac/Windows/Linux), [source code](https://github.com/apmcpherson/touchkeys/), [software manual](https://instrumentslab.org/data/andrew/touchkeys_manual_0.2.pdf)
+* Installation instructions: [written guide](https://instrumentslab.org/data/andrew/touchkeys_installation.pdf), [tutorial video](https://vimeo.com/82399344)
 
 ## How it Works
 

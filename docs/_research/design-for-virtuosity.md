@@ -27,7 +27,7 @@ Secondly, the resulting models will inform the DMI creation process, taking a ho
 
 F. Morreale, J. Morreale and A. McPherson. [Effect of Instrument Structure Alterations on Violin Performance](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02436/full). Frontiers in Psychology 9 (2436), 2018.
 
-K. Buys and A. McPherson. [Real-time bowed string feature extraction for performance applications](http://www.eecs.qmul.ac.uk/~andrewm/buys_smc2018.pdf). Proc. Sound and Music Computing, Limassol, Cyprus, 2018.
+K. Buys and A. McPherson. [Real-time bowed string feature extraction for performance applications](https://instrumentslab.org/data/andrew/buys_smc2018.pdf). Proc. Sound and Music Computing, Limassol, Cyprus, 2018.
 
 
 <!---

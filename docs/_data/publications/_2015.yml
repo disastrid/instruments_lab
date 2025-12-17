@@ -3,7 +3,7 @@
   venue: Proc. Digital Audio Effects (DAFx)
   city: Trondheim, Norway
   year: 2015
-  pdf: http://isea2015.org/proceeding/submissions/ISEA2015_submission_209.pdf
+  pdf: https://instrumentslab.org/data/andrew/zappi_isea2015.pdf
 - title: A low-cost real-time tracking system for violin
   authors: L. Pardue, C. Harte and A. McPherson
   venue: Journal of New Music Research
@@ -16,19 +16,19 @@
   venue: Proc. Digital Audio Effects (DAFx)
   city: Trondheim, Norway
   year: 2015
-  pdf: http://www.eecs.qmul.ac.uk/~andrewm/moro_dafx2015.pdf
+  pdf: https://instrumentslab.org/data/andrew/moro_dafx2015.pdf
 - title: Technological support for Highland piping tuition and practice
   authors: D. W. H. Menzies
   venue: PhD Thesis, Queen Mary University of London
   city: London, United Kingdom
   year: 2015
-  pdf: http://www.eecs.qmul.ac.uk/~andrewm/menzies_thesis.pdf
+  pdf: https://instrumentslab.org/data/andrew/menzies_thesis.pdf
 - title: The design of tactile musical devices for the deaf
   authors: R. Jack, A. McPherson and T. Stockman
   venue: Proc. International Conference on the Multimodal Experience of Music
   city: Sheffield, United Kingdom
   year: 2015
-  pdf: http://www.eecs.qmul.ac.uk/~andrewm/jack_icmem15.pdf
+  pdf: https://www.dhi.ac.uk/books/icmem2015/tactile-musical-devices/
 - title: 'Buttons, handles, and keys: advances in continuous-control keyboard instruments'
   authors: A. McPherson
   venue: Computer Music Journal
@@ -48,13 +48,13 @@
   venue: Proc. New Interfaces for Musical Expression
   city: Baton Rouge, LA, USA
   year: 2015
-  pdf: https://nime2015.lsu.edu/proceedings/258/0258-paper.pdf
+  pdf: https://www.nime.org/proceedings/2015/nime2015_258.pdf
 - title: Highland piping ornament recognition using Dynamic Time Warping
   authors: D. W. H. Menzies and A. McPherson
   venue: Proc. New Interfaces for Musical Expression
   city: Baton Rouge, LA, USA
   year: 2015
-  pdf: https://nime2015.lsu.edu/proceedings/208/0208-paper.pdf
+  pdf: https://www.nime.org/proceedings/2015/nime2015_208.pdf
 - title: Active control of a string instrument bridge using the Posicast technique
   authors: L. Donovan and A. McPherson
   venue: Proc. AES 138th Convention
@@ -65,5 +65,5 @@
   venue: Proc. AES 138th Convention
   city: Warsaw, Poland
   year: 2015
-  pdf: http://www.eecs.qmul.ac.uk/~andrewm/mcpherson_aes2015.pdf
+  pdf: https://instrumentslab.org/data/andrew/mcpherson_aes2015.pdf
   

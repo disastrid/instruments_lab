@@ -35,8 +35,8 @@ This work is an example of a digital interface designed to connect to a long est
 
 D. W. H. Menzies and A. McPherson. [An electronic bagpipe chanter for automatic recognition of Highland piping ornamentation](http://www.eecs.umich.edu/nime2012/Proceedings/papers/200_Final_Manuscript.pdf). Proc. New Interfaces for Musical Expression, Ann Arbor, MI, USA, 2012.
 
-D. W. H. Menzies and A. McPherson. [A digital bagpipe chanter system to assist in one-to-one piping tuition](http://www.eecs.qmul.ac.uk/~andrewm/smc2013_menzies.pdf). Proc. Sound and Music Computing, Stockholm, Sweden 2013.
+D. W. H. Menzies and A. McPherson. [A digital bagpipe chanter system to assist in one-to-one piping tuition](https://instrumentslab.org/data/andrew/menzies_smc2013.pdf). Proc. Sound and Music Computing, Stockholm, Sweden 2013.
 
 D. W. H. Menzies and A. McPherson. [Highland piping ornament recognition using Dynamic Time Warping](http://www.nime.org/proceedings/2015/nime2015_208.pdf). Proc. New Interfaces for Musical Expression, Baton Rouge, LA, USA, 2015.
 
-D. W. H. Menzies. [Technological support for Highland piping tuition and practice](http://www.eecs.qmul.ac.uk/~andrewm/menzies_thesis.pdf). PhD Thesis, Queen Mary University of London, 2015.
+D. W. H. Menzies. [Technological support for Highland piping tuition and practice](https://instrumentslab.org/data/andrew/menzies_thesis.pdf). PhD Thesis, Queen Mary University of London, 2015.

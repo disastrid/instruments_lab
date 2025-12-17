@@ -86,7 +86,7 @@ J. Harrison, A. Chamberlain, A. P. McPherson. Accessible Instruments in the Wild
 [Download PDF](https://dl.acm.org/citation.cfm?id=3313037)
 
 J. Harrison, R. Jack, F. Morreale and A. McPherson. When is a Guitar not a Guitar? Cultural Form, Input Modality and Expertise. Proc. New Interfaces for Musical Expression, Blacksburg, Virginia, USA. 2018.
-[Download PDF](http://www.eecs.qmul.ac.uk/~andrewm/jharrison_nime2018.pdf)
+[Download PDF](https://www.nime.org/proceedings/2018/nime2018_paper0063.pdf)
 
 R. Jack, J.Harrison, F. Morreale and A. McPherson. Democratising DMIs: the relationship of expertise and control intimacy. Proc. New Interfaces for Musical Expression, Blacksburg, Virginia, USA. 2018.
 [Download PDF](https://www.researchgate.net/publication/324390561_Democratising_DMIs_the_relationship_of_expertise_and_control_intimacy)

@@ -66,7 +66,7 @@ A. McPherson. [Techniques and circuits for electromagnetic instrument actuation]
 
 Continuous control of every note is a primary goal of the MRP, whether it is used to subtly extend the sounds of the traditional piano or to create novel and unusual effects. MIDI keyboards represent notes solely by onset and release, and even where aftertouch is used, the degree of control is insufficient for the continuously-evolving MRP sounds. Instead, a custom optical scanner bar is placed on the piano keyboard which records the continuous angle of each key.
 
-Originally, a modified Moog Piano Bar was used for this purpose but a new dedicated solution has been developed, detailed in this [NIME 2013 paper](http://www.eecs.qmul.ac.uk/~andrewm/mcpherson_nime2013.pdf). The scanner uses optical reflectance sensing on each key:
+Originally, a modified Moog Piano Bar was used for this purpose but a new dedicated solution has been developed, detailed in this [NIME 2013 paper](https://nime.org/proceedings/2013/nime2013_240.pdf). The scanner uses optical reflectance sensing on each key:
 
 {% include single-image-research.html fileName="mrp/mrp-scanner.jpg" caption="Close-up of scanner on keyboard. Optical reflectance sensors use LED and phototransistor in a single package." %}
 
@@ -80,11 +80,11 @@ A computer maps key angle to actuator behaviour in a manner designed to be intui
 
 A. McPherson and Y. Kim. [Augmenting the acoustic piano with electromagnetic string actuation and continuous key position sensing](http://www.nime.org/proceedings/2010/nime2010_217.pdf). Proc. New Interfaces for Musical Expression, Sydney, Australia, 2010.
 
-A. McPherson and Y. Kim. [Multidimensional gesture sensing at the piano keyboard](http://www.eecs.qmul.ac.uk/~andrewm/mcpherson-cmj2012.pdf). Proc. ACM Conference on Human Factors in Computing Systems (CHI), Vancouver, BC, Canada, 2011.
+A. McPherson and Y. Kim. [Multidimensional gesture sensing at the piano keyboard](https://instrumentslab.org/data/andrew/mcpherson_chi2011.pdf). Proc. ACM Conference on Human Factors in Computing Systems (CHI), Vancouver, BC, Canada, 2011.
 
-A. McPherson and Y. Kim. [The problem of the second performer: building a community around an augmented piano](http://www.eecs.qmul.ac.uk/~andrewm/mcpherson-cmj2012.pdf). Computer Music Journal 2012, 36 (4), 10-27. (PDF &copy; 2013 Massachusetts Institute of Technology; archived with permission from [Computer Music Journal](http://www.mitpressjournals.org/cmj))
+A. McPherson and Y. Kim. [The problem of the second performer: building a community around an augmented piano](https://instrumentslab.org/data/andrew/mcpherson_cmj2012.pdf). Computer Music Journal 2012, 36 (4), 10-27. (PDF &copy; 2013 Massachusetts Institute of Technology; archived with permission from [Computer Music Journal](http://www.mitpressjournals.org/cmj))
 
-A. McPherson. [Portable measurement and mapping of continuous piano gesture](http://www.eecs.qmul.ac.uk/~andrewm/mcpherson_nime2013.pdf). Proc. New Interfaces for Musical Expression, Seoul, South Korea, 2013.
+A. McPherson. [Portable measurement and mapping of continuous piano gesture](https://nime.org/proceedings/2013/nime2013_240.pdf). Proc. New Interfaces for Musical Expression, Seoul, South Korea, 2013.
 
 A. McPherson. [Buttons, handles, and keys: advances in continuous-control keyboard instruments](http://www.mitpressjournals.org/doi/pdf/10.1162/COMJ_a_00297). Computer Music Journal 29(2), 2015.
 
@@ -93,7 +93,7 @@ A. McPherson. [Buttons, handles, and keys: advances in continuous-control keyboa
 
 The MRP has been used in new pieces and recordings by a growing number of composers and performers. Since it can be set up in any grand piano and fits in travel-sized cases, new pieces can be performed anywhere. Scores and recordings are available from the composers in most cases; [contact Andrew McPherson](mailto:a.mcpherson@qmul.ac.uk) if you are interested.
 
-The repertoire for the MRP has grown steadily since the instrument was first created in 2009. A 2011 collaboration with Philadelphia composers and performers is described in [this article](http://www.eecs.qmul.ac.uk/~andrewm/mcpherson-cmj2012.pdf) in Computer Music Journal. In 2013, the MRP has been featured by the [London Chamber Orchestra](http://www.lco.co.uk) as part of the project "LCO New: Inspired by Digital". Many other composers and pianists have since used it in projects including classical compositions, jazz and rock albums, film scores and free improvisations.
+The repertoire for the MRP has grown steadily since the instrument was first created in 2009. A 2011 collaboration with Philadelphia composers and performers is described in [this article](https://instrumentslab.org/data/andrew/mcpherson_cmj2012.pdf) in Computer Music Journal. In 2013, the MRP has been featured by the [London Chamber Orchestra](http://www.lco.co.uk) as part of the project "LCO New: Inspired by Digital". Many other composers and pianists have since used it in projects including classical compositions, jazz and rock albums, film scores and free improvisations.
 
 {% include youtube.html youtube="WDTaH_d8s8c" %}
 
@@ -138,7 +138,7 @@ The magnetic resonator piano is featured in the album [Field of Reeds](http://ww
 
 **References for Musician Collaboration**
 
-A. McPherson and Y. Kim. [The problem of the second performer: building a community around an augmented piano](http://www.eecs.qmul.ac.uk/~andrewm/mcpherson-cmj2012.pdf). Computer Music Journal 2012, 36 (4), 10-27. (PDF &copy; 2013 Massachusetts Institute of Technology; archived with permission from [Computer Music Journal](http://www.mitpressjournals.org/cmj))
+A. McPherson and Y. Kim. [The problem of the second performer: building a community around an augmented piano](https://instrumentslab.org/data/andrew/mcpherson_cmj2012.pdf). Computer Music Journal 2012, 36 (4), 10-27. (PDF &copy; 2013 Massachusetts Institute of Technology; archived with permission from [Computer Music Journal](http://www.mitpressjournals.org/cmj))
 
 E. I. Dolan. [Portrait: Andrew McPherson and the Magnetic Resonator Piano](https://scholar.harvard.edu/files/eidolan/files/kp8_-_dolan_-_portrait-_andrew_mcpherson_and_the_magnetic_resonator_piano.pdf). Keyboard Perspectives VIII, 2015.
 
@@ -148,13 +148,13 @@ A. McPherson. [The magnetic resonator piano: electronic augmentation of an acous
 
 A. McPherson and Y. Kim. [Augmenting the acoustic piano with electromagnetic string actuation and continuous key position sensing](http://www.nime.org/proceedings/2010/nime2010_217.pdf). Proc. New Interfaces for Musical Expression, Sydney, Australia, 2010.
 
-A. McPherson and Y. Kim. [Multidimensional gesture sensing at the piano keyboard](http://www.eecs.qmul.ac.uk/~andrewm/mcpherson-cmj2012.pdf). Proc. ACM Conference on Human Factors in Computing Systems (CHI), Vancouver, BC, Canada, 2011.
+A. McPherson and Y. Kim. [Multidimensional gesture sensing at the piano keyboard](https://instrumentslab.org/data/andrew/mcpherson_cmj2012.pdf). Proc. ACM Conference on Human Factors in Computing Systems (CHI), Vancouver, BC, Canada, 2011.
 
 A. McPherson. [Techniques and circuits for electromagnetic instrument actuation](http://www.eecs.umich.edu/nime2012/Proceedings/papers/117_Final_Manuscript.pdf). Proc. New Interfaces for Musical Expression, Ann Arbor, MI, USA, 2012. [Design Materials](http://c4dm.eecs.qmul.ac.uk/rdr/handle/123456789/25)
 
-A. McPherson and Y. Kim. [The problem of the second performer: building a community around an augmented piano](http://www.eecs.qmul.ac.uk/~andrewm/mcpherson-cmj2012.pdf). Computer Music Journal 2012, 36 (4), 10-27. (PDF &copy; 2013 Massachusetts Institute of Technology; archived with permission from [Computer Music Journal](http://www.mitpressjournals.org/cmj))
+A. McPherson and Y. Kim. [The problem of the second performer: building a community around an augmented piano](https://instrumentslab.org/data/andrew/mcpherson_cmj2012.pdf). Computer Music Journal 2012, 36 (4), 10-27. (PDF &copy; 2013 Massachusetts Institute of Technology; archived with permission from [Computer Music Journal](http://www.mitpressjournals.org/cmj))
 
-A. McPherson. [Portable measurement and mapping of continuous piano gesture](http://www.eecs.qmul.ac.uk/~andrewm/mcpherson_nime2013.pdf). Proc. New Interfaces for Musical Expression, Seoul, South Korea, 2013.
+A. McPherson. [Portable measurement and mapping of continuous piano gesture](https://nime.org/proceedings/2013/nime2013_240.pdf). Proc. New Interfaces for Musical Expression, Seoul, South Korea, 2013.
 
 A. McPherson. [Buttons, handles, and keys: advances in continuous-control keyboard instruments](http://www.mitpressjournals.org/doi/pdf/10.1162/COMJ_a_00297). Computer Music Journal 29(2), 2015.
 

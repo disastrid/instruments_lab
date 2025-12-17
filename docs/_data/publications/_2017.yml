@@ -49,12 +49,12 @@
   venue: Proc. New Instruments for Musical Expression
   city: Copenhagen, Denmark
   year: 2017
-  pdf: http://www.eecs.qmul.ac.uk/~andrewm/nimecraft_workshop2017.pdf
+  pdf: https://instrumentslab.org/data/andrew/nimecraft_workshop2017.pdf
 - title: 'Rich gesture, reduced control: the influence of constrained mappings on performance technique'
   authors: R. Jack and A. P. McPherson
   venue: 4th International Conference on Movement Computing
   city: London, United Kingdom
-  pdf: http://robertjack.org/publications/2017-MOCO-RHJack-rich-gesture-reduced.pdf
+  pdf: https://instrumentslab.org/data/andrew/jack_moco2017.pdf
   year: 2017
 - title: 'Building a maker community around an open hardware platform'
   authors: F. Morreale, G. Moro, A. Chamberlain, S. Benford and A. P. McPherson
@@ -67,7 +67,7 @@
   venue: ACM CHI Workshop on HCI.tools
   city: Denver, USA
   year: 2017
-  pdf: http://hci.tools/papers/HCITools2017_paper_5.pdf
+  pdf: https://instrumentslab.org/data/andrew/mcpherson_hcitools2017.pdf
 - title: 'Constraining control in mixed-initiative musical interfaces'
   authors: F. Morreale, R. Masu and A. P. McPherson
   venue: ACM CHI Workshop on Mixed-Initiative Creative Interfaces
@@ -78,7 +78,7 @@
   authors: S. M. A. Bin, N. Bryan-Kinns, A. P. McPherson
   venue: Proc. INTERACT
   city: Mumbai, India
-  pdf: https://qmro.qmul.ac.uk/xmlui/handle/123456789/28343
+  pdf: https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/28343/Bin%20In-the-moment%20and%20beyond%202017%20Accepted.pdf?sequence=1
   year: 2017
 - title: 'The Stenophone: Live coding on a chorded keyboard with continuous control'
   authors: J. Armitage and A. McPherson

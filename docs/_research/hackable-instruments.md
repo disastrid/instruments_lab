@@ -41,7 +41,7 @@ We gave the instruments to 10 musicians and asked them to prepare a performance,
 
 Our finding, though limited in size, suggests that adding more degrees of freedom does not necessarily improve the creative value of an instrument, and that in certain cases the opposite may be true.
 
-Read the paper:  V. Zappi and A. McPherson. [Dimensionality and appropriation in digital musical instrument design](http://www.eecs.qmul.ac.uk/~andrewm/zappi_nime2014.pdf). Proc. New Interfaces for Musical Expression, London, UK, 2014.
+Read the paper:  V. Zappi and A. McPherson. [Dimensionality and appropriation in digital musical instrument design](https://www.nime.org/proceedings/2014/nime2014_409.pdf). Proc. New Interfaces for Musical Expression, London, UK, 2014.
 
 ### Designing for Appropriation and Modification: the D-Box
 
@@ -55,9 +55,9 @@ By rewiring circuits on the breadboard, the performer can discover new and unusu
 
 The D-Box was used in a study with 10 performers examining how they played and modified the instrument. We found that performers discovered sounds and techniques that went beyond our original design, and that experienced circuit benders could deploy their skills on the instrument. 
 
-Read about the D-Box design and performance here: V. Zappi and A. McPherson. [Design and use of a hackable digital instrument](https://www.eecs.qmul.ac.uk/~andrewm/zappi_icli14.pdf). Proc. Live Interfaces, Lisbon, Portugal, 2014.
+Read about the D-Box design and performance here: V. Zappi and A. McPherson. [Design and use of a hackable digital instrument](https://instrumentslab.org/data/andrew/zappi_icli2014.pdf). Proc. Live Interfaces, Lisbon, Portugal, 2014.
 
-Read about using feedback between hardware and software as a musical design tool: A. McPherson and V. Zappi. [Exposing the scaffolding of digital instruments with hardware-software feedback loops](https://nime2015.lsu.edu/proceedings/258/0258-paper.pdf). Proc. New Interfaces for Musical Expression, Baton Rouge, LA, USA, 2015. 
+Read about using feedback between hardware and software as a musical design tool: A. McPherson and V. Zappi. [Exposing the scaffolding of digital instruments with hardware-software feedback loops](https://www.nime.org/proceedings/2015/nime2015_258.pdf). Proc. New Interfaces for Musical Expression, Baton Rouge, LA, USA, 2015. 
 
 We also used the D-Box in hacking workshops with the general public, where we observed patterns of exploration and playful interaction which differ from how people interact with software tools or other musical instruments. We examine the outcomes in the context of Gaver’s work on ludic design, and offer suggestions for interactive system designers.
 
@@ -73,22 +73,22 @@ The hardware and software behind the D-Box eventually developed into [Bela](bela
 
 Bela successfully launched on [Kickstarter](https://www.kickstarter.com/projects/423153472/bela-an-embedded-platform-for-low-latency-interact) in April 2016, drawing support from more than 500 backers. It is now [available for general purchase](https://shop.bela.io) and has a growing user and developer community. Read more about Bela on the [Bela research page](bela.html) and at [http://bela.io](http://bela.io).
 
-Read about the technical design and performance of Bela here: A. McPherson and V. Zappi. [An environment for submillisecond-latency audio and sensor processing on BeagleBone Black](http://www.eecs.qmul.ac.uk/~andrewm/mcpherson_aes2015.pdf). Proc. AES 138th Convention, Warsaw, Poland, 2015.
+Read about the technical design and performance of Bela here: A. McPherson and V. Zappi. [An environment for submillisecond-latency audio and sensor processing on BeagleBone Black](https://instrumentslab.org/data/andrew/mcpherson_aes2015.pdf). Proc. AES 138th Convention, Warsaw, Poland, 2015.
 
 
 ## References (collected)
 
 A. McPherson, A. Chamberlain, A. Hazzard, S. McGrath and S. Benford. [Designing for exploratory play with a hackable digital musical instrument](http://eprints.nottingham.ac.uk/33165/1/dbox_rev.pdf). Proc. DIS, Brisbane, Australia, 2016.
 
-A. McPherson and V. Zappi. [An environment for submillisecond-latency audio and sensor processing on BeagleBone Black](http://www.eecs.qmul.ac.uk/~andrewm/mcpherson_aes2015.pdf). Proc. AES 138th Convention, Warsaw, Poland, 2015.
+A. McPherson and V. Zappi. [An environment for submillisecond-latency audio and sensor processing on BeagleBone Black](https://instrumentslab.org/data/andrew/mcpherson_aes2015.pdf). Proc. AES 138th Convention, Warsaw, Poland, 2015.
 
-V. Zappi and A. McPherson. [The D-Box: how to rethink a digital musical instrument](http://isea2015.org/proceeding/submissions/ISEA2015_submission_209.pdf). Proc. ISEA, Vancouver, BC, Canada, 2015.
+V. Zappi and A. McPherson. [The D-Box: how to rethink a digital musical instrument](https://instrumentslab.org/data/andrew/zappi_isea2015.pdf). Proc. ISEA, Vancouver, BC, Canada, 2015.
 
-A. McPherson and V. Zappi. [Exposing the scaffolding of digital instruments with hardware-software feedback loops](https://nime2015.lsu.edu/proceedings/258/0258-paper.pdf). Proc. New Interfaces for Musical Expression, Baton Rouge, LA, USA, 2015. 
+A. McPherson and V. Zappi. [Exposing the scaffolding of digital instruments with hardware-software feedback loops](https://www.nime.org/proceedings/2015/nime2015_258.pdf). Proc. New Interfaces for Musical Expression, Baton Rouge, LA, USA, 2015. 
 
-V. Zappi and A. McPherson. [Design and use of a hackable digital instrument](https://www.eecs.qmul.ac.uk/~andrewm/zappi_icli14.pdf). Proc. Live Interfaces, Lisbon, Portugal, 2014.
+V. Zappi and A. McPherson. [Design and use of a hackable digital instrument](https://instrumentslab.org/data/andrew/zappi_icli2014.pdf). Proc. Live Interfaces, Lisbon, Portugal, 2014.
 
-V. Zappi and A. McPherson. [Dimensionality and appropriation in digital musical instrument design](http://www.eecs.qmul.ac.uk/~andrewm/zappi_nime2014.pdf). Proc. New Interfaces for Musical Expression, London, UK, 2014. 
+V. Zappi and A. McPherson. [Dimensionality and appropriation in digital musical instrument design](https://www.nime.org/proceedings/2014/nime2014_409.pdf). Proc. New Interfaces for Musical Expression, London, UK, 2014. 
 
-J. Topliss, V. Zappi and A. McPherson. [Latency performance for real-time audio on BeagleBone Black](http://www.eecs.qmul.ac.uk/~andrewm/lac2014.pdf). Linux Audio Conference, Karlsruhe, Germany, 2014.
+J. Topliss, V. Zappi and A. McPherson. [Latency performance for real-time audio on BeagleBone Black](https://instrumentslab.org/data/andrew/topliss_lac2014.pdf). Linux Audio Conference, Karlsruhe, Germany, 2014.
  
