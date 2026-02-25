@@ -2,8 +2,8 @@
 layout: post
 title:  "Let's Make a Band Workshop"
 categories: [news, events]
-images: /images/news/Moorman.jpg
-front-image: /images/news/Moorman.jpg
+images: /images/news/Moorman.png
+front-image: /images/news/Moorman.png
 event_date: April 21-22, 2026
 excerpt: Making instruments for imaginary bands.
 url: 
