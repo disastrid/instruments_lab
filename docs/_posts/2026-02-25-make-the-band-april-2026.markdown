@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Let's Make a Band Workshop"
+title:  "Making instruments for imaginary bands"
 categories: [news, events]
 images: /images/news/Moorman.png
 front-image: /images/news/Moorman.png
@@ -11,8 +11,6 @@ excerpt: Making instruments for imaginary bands
 #### 21-22 April 2026
 
 ***Artists, technologists and makers are invited to take part in a speculative workshop to dream fictional bands up, along with their musical imaginaries, and build the instruments they play.***
-
-{% include single-image-research.html fileName="make-the-band/Moorman01.jpg" %}
 
 >**Making inconceivable instruments for impossible bands.**<br>
 >**Speculating collectively to escape the music tools and procedures we've grown used to.**<br>
@@ -27,6 +25,12 @@ excerpt: Making instruments for imaginary bands
 ***[Let's Make a Band Application Form](https://www.giacomolepri.com/)***
 
 The workshop will be held at Imperial College London - [South Kensington campus](https://www.imperial.ac.uk/visit/campuses/south-kensington/), London.
+
+{% include single-image-research.html fileName="make-the-band/FluxusPiano01.jpg" %}
+
+<sup>
+Piano Activities, International Festival of the Newest Music at Weisbaden Festum Fluxorum, 1962
+</sup>
 
 ___
 
@@ -44,8 +48,6 @@ ___
 - [Augmented Instruments Lab](https://instrumentslab.org/)
 
 ___
-
-{% include single-image-research.html fileName="make-the-band/Moorman01.jpg" %}
 
 
 ##### Let's make a band
@@ -66,7 +68,8 @@ Preparation task: participants are asked to bring a prompt - an object, fabric, 
 
 ___
 
-Structure outline 
+{% include single-image-research.html fileName="absurd-music-design/Schedule.png" %}
+
 ___
 
 The tools and materials provided to the participants will include:
@@ -76,14 +79,9 @@ The tools and materials provided to the participants will include:
 - basic circuitry and sensors
 - Bela maker platform (to be returned at the end of the workshop)
 
-{% include single-image-research.html fileName="absurd-music-design/Schedule.png" %}
-
 If needed, participants are encouraged to bring any particular tool or material (subject to communication with the organising committee - see Application Form above) and use any open-source or free resource. We will not be able to reimburse any expanse (e.g. travel or accommodation) for accepted participants.
 
 From the initial gathering of ideas to the final presentation of artefacts, core elements of the event will be collaboration and mutual support. The organising committee will try its best to welcome and make everyone comfortable. Cordiality and sharing are therefore expected from all participants as well.
-
-{% include single-image-research.html fileName="make-the-band/FluxusPiano01.jpg" %}
-
 
 <!--
 
@@ -104,7 +102,10 @@ In order to support participants two external mentors have been invited to join 
 ___
 
 {% include single-image-research.html fileName="make-the-band/ChemistryOfMusic.jpg" %}
-
+<sup>
+George Brecht, Chemistry of Music, 1969 - fluxusisland.org
+</sup>
+___
 
 ##### Some Useful References & Links
 
@@ -119,14 +120,16 @@ ___
 <br>
 <br>
 
-Images credits:
+Front images credits:
+
+Charlotte Moorman performed John Cage’s “26′1.1499″ for a String Player” in Chicago in 1969.
 
 <br>
 <br>
 
-The workshop is supported by:
+The workshop is supported by the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 101150317 (“DECODMI”) hosted by the University of Genoa.
 
-{% include single-image-research.html fileName="make-the-band/ChemistryOfMusic.jpg" %}
+{% include single-image-research.html fileName="make-the-band/logo.jpg" %}
 
 <!--
 
