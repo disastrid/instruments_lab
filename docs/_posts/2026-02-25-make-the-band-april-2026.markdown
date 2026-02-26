@@ -131,7 +131,7 @@ ___
 <br>
 <br>
 
-The workshop is supported by the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 101150317 (“DECODMI”) hosted by the University of Genoa.
+The workshop is supported by the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 101150317 (“DECODMI”) hosted at the University of Genoa.
 
 {% include single-image-research.html fileName="make-the-band/logo.jpg" %}
 
