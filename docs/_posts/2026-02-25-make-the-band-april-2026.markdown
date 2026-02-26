@@ -5,7 +5,7 @@ categories: [news, events]
 images: /images/news/Moorman.png
 front-image: /images/news/Moorman.png
 event_date: April 21-22, 2026
-excerpt: Making instruments for imaginary bands
+excerpt: Imperial College London
 ---
 
 #### 21-22 April 2026
@@ -120,9 +120,13 @@ ___
 <br>
 <br>
 
+___
+
 Front images credits:
 
 Charlotte Moorman performed John Cage’s “26′1.1499″ for a String Player” in Chicago in 1969.
+
+___
 
 <br>
 <br>
