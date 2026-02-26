@@ -5,7 +5,7 @@ categories: [news, events]
 images: /images/news/Moorman.png
 front-image: /images/news/Moorman.png
 event_date: April 21-22, 2026
-excerpt: @ Imperial College London
+excerpt: Imperial College London
 ---
 
 #### 21-22 April 2026
