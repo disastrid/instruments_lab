@@ -26,9 +26,7 @@ The workshop will be held at Imperial College London - [South Kensington campus]
 
 ##### Application Deadline April 12
 
-***Please complete the form below to join the workshop - Places are limited to a maximum of 25 participants.***
-
-***[Let's Make a Band Application Form](https://www.giacomolepri.com/)***
+Please complete the form below to join the workshop - Places are limited to a maximum of 25 participants. ***[Let's Make a Band Application Form](https://www.giacomolepri.com/)***
 
 {% include single-image-research.html fileName="make-the-band/FluxusPiano01.jpg" %}
 
