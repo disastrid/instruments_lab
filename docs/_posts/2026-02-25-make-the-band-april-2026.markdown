@@ -12,9 +12,7 @@ excerpt: Imperial College London
 
 ***Artists, technologists and makers are invited to take part in a speculative workshop to dream fictional bands up, along with their musical imaginaries, and build the instruments they play.***
 
->**Making inconceivable instruments for impossible bands.**<br>
->**Speculating collectively to escape the music tools and procedures we've grown used to.**<br>
->**Subverting the ways we think of musical tools to reveal the influence of musical discourse and immaginaries.**<br>
+>**Making inconceivable instruments for impossible bands. Speculating collectively to escape the music tools and procedures we've grown used to. Subverting the ways we think of musical tools to reveal the influence of musical discourse and immaginaries.**<br>
 >
 >**Does this sound fun? Please, join us!**
 
@@ -38,9 +36,10 @@ ___
 
 - [Tove Grimstad Bang](https://www.linkedin.com/in/tove-grimstad-bang-ab6965a1/) - IRCAM
 - [Robert Jack](https://roberthjack.github.io/tag/instruments/) - Bela
-- [Giacomo Lepri](https://www.giacomolepri.com/) - University of Genoa
+<!-- - [Giacomo Lepri](https://www.giacomolepri.com/) - University of Genoa -->
 - [Andrew McPherson](https://andrewmcpherson.org/) - Imperial College London / Queen Mary University of London
 
+<!--
 ___
 
 ##### Organiser
@@ -49,6 +48,7 @@ ___
 
 ___
 
+-->
 
 ##### Let's make a band
 
@@ -64,7 +64,7 @@ ___
 
 ##### Workshop structure and resources
 
-Preparation task: participants are asked to bring a prompt - an object, fabric, sound recording, drawing, word, or any other small token - that resonates with the imaginary band they dream about. It should feel like a fragment of the world their band might belong to. The prompt serves as a starting point for collective imagination, a creative anchor that helps ground the speculation and open up the world of the band.
+***Preparation task:*** participants are asked to bring a prompt - an object, fabric, sound recording, drawing, word, or any other small token - that resonates with the imaginary band they dream about. It should feel like a fragment of the world their band might belong to. The prompt serves as a starting point for collective imagination, a creative anchor that helps ground the speculation and open up the world of the band.
 
 ___
 
