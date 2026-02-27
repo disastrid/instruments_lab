@@ -12,9 +12,15 @@ excerpt: Imperial College London
 
 ***Artists, technologists and makers are invited to take part in a speculative workshop to dream fictional bands up, along with their musical imaginaries, and build the instruments they play.***
 
->**Making inconceivable instruments for impossible bands. Speculating collectively to escape the music tools and procedures we've grown used to. Subverting the ways we think of musical tools to reveal the influence of musical discourse and immaginaries.**<br>
+>**Making inconceivable instruments for impossible bands.**<br>
 >
 >**Does this sound fun? Please, join us!**
+
+<!--
+Speculating collectively to escape the music tools and procedures we've grown used to. Subverting the ways we think of musical tools to reveal the influence of musical discourse and immaginaries.**<br>
+>
+>**Does this sound fun? Please, join us!**
+-->
 
 The workshop will be held at Imperial College London - [South Kensington campus](https://www.imperial.ac.uk/visit/campuses/south-kensington/), London.
 
@@ -34,13 +40,14 @@ ___
 
 ##### Featured Mentors
 
-- [Tove Grimstad Bang](https://www.linkedin.com/in/tove-grimstad-bang-ab6965a1/) - IRCAM
+- [Tove Grimstad Bang](https://tovebang.com/) - IRCAM
 - [Robert Jack](https://roberthjack.github.io/tag/instruments/) - Bela
-<!-- - [Giacomo Lepri](https://www.giacomolepri.com/) - University of Genoa -->
+- [Giacomo Lepri](https://www.giacomolepri.com/) - University of Genoa 
 - [Andrew McPherson](https://andrewmcpherson.org/) - Imperial College London / Queen Mary University of London
 
-<!--
 ___
+
+<!--
 
 ##### Organiser
 
@@ -52,9 +59,9 @@ ___
 
 ##### Let's make a band
 
-Let's Make a Band is a hands-on, playful and critical workshop exploring how music discourse and technology shape each other. Participants collaboratively invent fictional — possibly improbable — bands, complete with genre, aesthetic, member personas, and the cultural worlds they inhabit. From there, the focus shifts to the instruments: what would this band actually play, and how would sound, bodies, and technologies relate within their invented musical world?
+Let's Make a Band is a hands-on, playful and critical workshop exploring how music discourse and technology shape each other. Participants collaboratively invent fictional (possibly improbable) bands, complete with genre, aesthetic, member personas, and the cultural worlds they inhabit. From there, the focus gradually shifts to the instruments: what would this band actually play, and how would sound, bodies, and technologies relate within their invented musical world?
 
-The premise is simple but provocative: what happens when we invent a discourse that doesn't exist yet, and build instruments from that? By sidestepping familiar music-technology categories like controller, mapping, or sound generator, the workshop treats instrument design as something that emerges from social discourse rather than technical convention.
+The premise is simple but provocative: what happens when we invent a musical universe that doesn't exist, and build instruments for that universe? By sidestepping familiar music-technology categories like controller, mapping, or sound generator, the workshop treats instrument design as something that emerges from socio-cultural immaginaries rather than technical convention.
 
 The workshop draws on speculative and participative design, persona methodologies, and Dalcroze eurhythmics, and is conceived to foreground the situated knowledge and experiences participants bring into the room. Participants sketch, prototype, and perform - treating instruments as dynamic, interdependent matters rather than fixed objects - culminating in a short presentation showcasing newly built instruments.
 
@@ -67,6 +74,8 @@ ___
 ***Preparation task:*** participants are asked to bring a prompt - an object, fabric, sound recording, drawing, word, or any other small token - that resonates with the imaginary band they dream about. It should feel like a fragment of the world their band might belong to. The prompt serves as a starting point for collective imagination, a creative anchor that helps ground the speculation and open up the world of the band.
 
 ___
+
+The workshop is structured as a series of activities that alternate between doing and showing — short bursts of collective making followed by moments of reflection and presentation. Below, a rough outline.
 
 {% include single-image-research.html fileName="make-the-band/Schedule.png" %}
 
