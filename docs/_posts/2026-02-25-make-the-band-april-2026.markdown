@@ -17,7 +17,7 @@ excerpt: Imperial College London
 >**Does this sound fun? Please, join us!**
 
 <!--
-Speculating collectively to escape the music tools and procedures we've grown used to. Subverting the ways we think of musical tools to reveal the influence of musical discourse and immaginaries.**<br>
+Speculating collectively to escape the music tools and procedures we've grown used to. Subverting the ways we think of musical tools to reveal the influence of musical discourse and imaginaries.**<br>
 >
 >**Does this sound fun? Please, join us!**
 -->
@@ -57,13 +57,11 @@ ___
 
 ##### Let's make a band
 
-Let's Make a Band is a hands-on, playful and critical workshop exploring how music discourse and technology shape each other. Participants collaboratively invent fictional (possibly improbable) bands, complete with genre, aesthetic, member personas, and the cultural worlds they inhabit. From there, the focus gradually shifts to the instruments: what would this band actually play, and how would sound, bodies, and technologies relate within their invented musical world?
+Let's Make a Band is a hands-on, playful and critical workshop where music and technology get tangled up in unexpected ways. Together, participants invent fictional - possibly improbable - bands, complete with genre, look, member personas, and the universe they come from. From there, the focus shifts to the instruments: what would this band actually play, and how would sound, bodies, and technologies relate within their invented musical world?
 
-The premise is simple but provocative: what happens when we invent a musical universe that doesn't exist, and build instruments for that universe? By sidestepping familiar music-technology categories like controller, mapping, or sound generator, the workshop treats instrument design as something that emerges from socio-cultural immaginaries rather than technical convention.
+Participants will be introduced to unconventional design approaches like absurd making and bodystorming, and get hands-on experience with the Bela platform — a maker tool designed specifically for building interactive musical instruments. No prior experience with electronics or prototyping is needed. Participants collectively sketch, build, and play, culminating in a short gig where newly prototyped instruments are presented.
 
-The workshop draws on speculative and participative design, persona methodologies, and Dalcroze eurhythmics, and is conceived to foreground the situated knowledge and experiences participants bring into the room. Participants sketch, prototype, and perform - treating instruments as dynamic, interdependent matters rather than fixed objects - culminating in a short presentation showcasing newly built instruments.
-
-This event is part of DECODMI (Discovering Education in Communities of Digital Musical Instruments), an MSCA-funded research project. The designed artefacts and the reflections around them may contribute to generating methodological intuitions, heuristics or provocative statements to be shared with broader research communities. Outcomes, ranging from methods to design processes, will be disseminated through academic publications with a strong multidisciplinary outreach.
+Beyond making, the workshop is a chance to collaborate with musicians, artists, researchers, and makers, learn from a group of experienced mentors, and leave with new skills, new ideas, and — hopefully — a prototype to take home.
 
 ___
 
@@ -81,12 +79,12 @@ ___
 
 The tools and materials provided to the participants will include:
 
-- basic prototype materials (e.g. cardboard, cardboard, foam, cork, wire, tape, string, paper, plastic bottles, elastic bands, metal tins, balloons, hot glue, zip ties, velcro, binder clips, staples, aluminium foil, markers, stickers, buttons)
+- basic prototype materials (e.g. cardboard, foam, cork, wire, tape, string, paper, plastic bottles, elastic bands, metal tins, balloons, hot glue, zip ties, velcro, binder clips, staples, aluminium foil, markers, stickers, buttons)
 - textile materials (e.g. conductive wires, fabrics, leather)
 - basic circuitry and sensors
 - Bela maker platform (to be returned at the end of the workshop)
 
-If needed, participants are encouraged to bring any particular tool or material (subject to communication with the organising committee - see Application Form above) and use any open-source or free resource. We will not be able to reimburse any expanse (e.g. travel or accommodation) for accepted participants.
+If needed, participants are encouraged to bring any particular tool or material (subject to communication with the organising committee - see Application Form above) and use any open-source or free resource. We will not be able to reimburse any expense (e.g. travel or accommodation) for accepted participants.
 
 From the initial gathering of ideas to the final presentation of artefacts, core elements of the event will be collaboration and mutual support. The organising committee will try its best to welcome and make everyone comfortable. Cordiality and sharing are therefore expected from all participants as well.
 
@@ -114,7 +112,17 @@ George Brecht, Chemistry of Music, 1969 - fluxusisland.org
 </sup>
 ___
 
-##### Some Useful References & Links
+##### For the curious
+
+<!--
+The premise is simple but provocative: what happens when we invent a musical universe that doesn't exist, and build instruments for that universe? By sidestepping familiar music-technology categories like controller, mapping, or sound generator, the workshop treats instrument design as something that emerges from socio-cultural imaginaries rather than technical convention.
+-->
+
+The workshop is grounded in the idea that musical instruments are never just tools - they carry with them histories, assumptions, and ways of thinking about sound, bodies, and culture. So, what happens when we invent a musical universe that doesn't exist, and build instruments for that universe? By sidestepping familiar music-technology categories like controller, mapping, or sound generator, the workshop treats instrument design as something that emerges from socio-cultural imaginaries rather than technical convention.
+
+The workshop draws together different sources of inspiration: music practices such as Dalcroze eurhythmics, and critical, speculative and participative design methods, such as pastiche scenarios and ustopian design. It treats fictional bands not merely as characters but as whole worlds - with their own internal logic, cultural texture, and contradictions - from which instruments can emerge. It is conceived to foreground the situated knowledge and experiences participants bring into the room.
+
+This event is part of DECODMI (Discovering Education in Communities of Digital Musical Instruments), an MSCA-funded research project. The designed artefacts and the reflections around them may contribute to generating methodological intuitions, heuristics or provocative statements to be shared with broader research communities. Outcomes, ranging from methods to design processes, will be disseminated through academic publications with a strong multidisciplinary outreach.
 
 -   [Magic Machine Workshops](https://dl.acm.org/doi/10.1145/3290605.3300342)
 -	[Absurd Music Hackathon](https://instrumentslab.org/research/absurd-music-design.html)
