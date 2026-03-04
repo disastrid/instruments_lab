@@ -10,7 +10,7 @@ excerpt: Imperial College London
 
 #### 21-22 April 2026
 
-***Artists, technologists and makers are invited to take part in a speculative workshop to dream fictional bands up, along with their musical imaginaries, and build the instruments they play.***
+***Artists, technologists and makers are invited to take part in a speculative workshop to dream up fictional bands, along with their musical imaginaries, and build the instruments they play.***
 
 >**Making inconceivable instruments for impossible bands.**<br>
 >
@@ -24,7 +24,7 @@ Speculating collectively to escape the music tools and procedures we've grown us
 
 The workshop will be held at Imperial College London - [South Kensington campus](https://www.imperial.ac.uk/visit/campuses/south-kensington/), London.
 
-##### Application Deadline April 12
+##### Application Deadline April 3
 
 Please complete the form below to join the workshop - Places are limited to approximately 25 participants. 
 
@@ -52,7 +52,7 @@ Let's Make a Band is a hands-on, playful and critical workshop where music and t
 
 Participants will be introduced to unconventional design approaches like absurd making and bodystorming, and get hands-on experience with the Bela platform — a maker tool designed specifically for building interactive musical instruments. No prior experience with electronics or prototyping is needed. Participants collectively sketch, build, and play, culminating in a short gig where newly prototyped instruments are presented.
 
-Beyond making, the workshop is a chance to collaborate with musicians, artists, researchers, and makers, learn from a group of experienced mentors, and leave with new skills, new ideas, and — hopefully — a prototype to take home.
+Beyond making, the workshop is a chance to collaborate with musicians, artists, researchers, and makers, learn from a group of experienced mentors, and leave with new skills, new ideas, and new friends.
 
 ___
 
@@ -61,7 +61,7 @@ ___
 - [Tove Grimstad Bang](https://tovebang.com/) (IRCAM) Tove Grimstad Bang is a Postdoctoral researcher at Ircam, in the ISMM (Sound Music Movement Interaction) team. Working in Human–Computer Interaction, her research revolves around interactive technology in contexts of music and movement practice.
 - [Robert Jack](https://roberthjack.github.io/tag/instruments/) (Bela)
 - [Giacomo Lepri](https://www.giacomolepri.com/) (University of Genoa) is a musician and researcher whose work investigates the socio-cultural implications of digital instruments - combining sound art with critical/speculative design research. He is currently a MSCA Fellow examining digital lutherie practices in higher education.
-- [Andrew McPherson](https://andrewmcpherson.org/) (Imperial College London / Queen Mary University of London)
+- [Andrew McPherson](https://andrewmcpherson.org/) (Imperial College London) is a Professor in the Dyson School of Design Engineering where he leads the Augmented Instruments Laboratory. He brings a background as a composer, viola player, electronic engineer and HCI researcher to the design and critical study of new instruments.
 
 With support from [Augmented Instruments Lab](https://instrumentslab.org/)
 
@@ -73,7 +73,8 @@ ___
 
 ___
 
-The workshop's activities alternate between doing and showing — short bursts of collective making followed by moments of reflection and presentation. Below, a rough outline.
+The workshop's activities alternate between doing and showing — short bursts of collective making followed by moments of reflection and presentation. 
+Each day runs from 9:30 to 17:00 — though afternoons may linger.
 
 <div align="center">
 
