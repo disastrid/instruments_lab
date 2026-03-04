@@ -76,8 +76,6 @@ ___
 The workshop's activities alternate between doing and showing — short bursts of collective making followed by moments of reflection and presentation. 
 Each day runs from 9:30 to 17:00 — though afternoons may linger.
 
-<div align="center">
-
 | Day 1                                  | Day 2                    |
 |----------------------------------------|--------------------------|
 | Welcome (9–9.30am)                     | Thinking with the hands  |
@@ -87,7 +85,6 @@ Each day runs from 9:30 to 17:00 — though afternoons may linger.
 | Bela Snippet                           | Making                   |
 | The Choreography Around the Instrument | The Debut                |
 
-</div>
 
 <!--
 {% include single-image-research.html fileName="make-the-band/Schedule.png" %}
