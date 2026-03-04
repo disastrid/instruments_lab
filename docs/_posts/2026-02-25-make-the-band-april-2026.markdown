@@ -26,7 +26,7 @@ The workshop will be held at Imperial College London - [South Kensington campus]
 
 ##### Application Deadline April 12
 
-Please complete the form below to join the workshop - Places are limited to a maximum of 25 participants. ***[Let's Make a Band Application Form](https://forms.gle/Si3mKjVekRUEKSXUA)***
+Please complete the form below to join the workshop - Places are limited to approximately 25 participants. ***[Let's Make a Band Application Form](https://forms.gle/Si3mKjVekRUEKSXUA)***
 
 {% include single-image-research.html fileName="make-the-band/FluxusPiano01.jpg" %}
 
@@ -61,7 +61,8 @@ ___
 - [Giacomo Lepri](https://www.giacomolepri.com/) (University of Genoa) is a musician and researcher whose work investigates the socio-cultural implications of digital instruments - combining sound art with critical/speculative design research. He is currently a MSCA Fellow examining digital lutherie practices in higher education.
 - [Andrew McPherson](https://andrewmcpherson.org/) (Imperial College London / Queen Mary University of London)
 
-With support by [Augmented Instruments Lab](https://instrumentslab.org/)
+With support from [Augmented Instruments Lab](https://instrumentslab.org/)
+
 ___
 
 ##### Workshop structure and resources
@@ -70,10 +71,20 @@ ___
 
 ___
 
-The workshop is structured as a series of activities that alternate between doing and showing — short bursts of collective making followed by moments of reflection and presentation. Below, a rough outline.
+The workshop's activities alternate between doing and showing — short bursts of collective making followed by moments of reflection and presentation. Below, a rough outline.
 
+| Day 1                                  | Day 2                    |
+|----------------------------------------|--------------------------|
+| Welcome (9–9.30am)                     | Thinking with the hands  |
+| Dream the Band Up                      | Bela Snippet             |
+| Lunch                                  | Lunch                    |
+| Pretending Imaginary Sounds            | Making                   |
+| Bela Snippet                           | Making                   |
+| The Choreography Around the Instrument | The Debut                |
+
+<!--
 {% include single-image-research.html fileName="make-the-band/Schedule.png" %}
-
+-->
 ___
 
 The tools and materials provided to the participants will include:
@@ -83,7 +94,7 @@ The tools and materials provided to the participants will include:
 - basic circuitry and sensors
 - Bela maker platform (to be returned at the end of the workshop)
 
-If needed, participants are encouraged to bring any particular tool or material (subject to communication with the organising committee - see Application Form above) and use any open-source or free resource. We will not be able to reimburse any expense (e.g. travel or accommodation) for accepted participants.
+If needed, participants are encouraged to bring any particular tool or material (subject to communication with the organising committee - see Application Form above) and use any open-source or free resource. The workshop is free, but we are unable to reimburse any expenses (e.g. travel or accommodation) for accepted participants.
 
 From the initial gathering of ideas to the final presentation of artefacts, core elements of the event will be collaboration and mutual support. The organising committee will try its best to welcome and make everyone comfortable. Cordiality and sharing are therefore expected from all participants as well.
 
