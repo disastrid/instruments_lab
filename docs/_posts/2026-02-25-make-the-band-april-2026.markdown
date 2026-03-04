@@ -34,26 +34,15 @@ Please complete the form below to join the workshop - Places are limited to a ma
 Piano Activities, International Festival of the Newest Music at Weisbaden Festum Fluxorum, 1962
 </sup>
 
-___
-
-##### Featured Mentors
-
-- [Tove Grimstad Bang](https://tovebang.com/) - IRCAM
-- [Robert Jack](https://roberthjack.github.io/tag/instruments/) - Bela
-- [Giacomo Lepri](https://www.giacomolepri.com/) - University of Genoa 
-- [Andrew McPherson](https://andrewmcpherson.org/) - Imperial College London / Queen Mary University of London
-
-___
-
 <!--
 
 ##### Organiser
 
-- [Augmented Instruments Lab](https://instrumentslab.org/)
-
 ___
 
 -->
+
+___
 
 ##### Let's make a band
 
@@ -63,6 +52,16 @@ Participants will be introduced to unconventional design approaches like absurd 
 
 Beyond making, the workshop is a chance to collaborate with musicians, artists, researchers, and makers, learn from a group of experienced mentors, and leave with new skills, new ideas, and — hopefully — a prototype to take home.
 
+___
+
+##### Featured Mentors
+
+- [Tove Grimstad Bang](https://tovebang.com/) (IRCAM) Tove Grimstad Bang is a Postdoctoral researcher at Ircam, in the ISMM (Sound Music Movement Interaction) team. Working in Human–Computer Interaction, her research revolves around interactive technology in contexts of music and movement practice.
+- [Robert Jack](https://roberthjack.github.io/tag/instruments/) (Bela)
+- [Giacomo Lepri](https://www.giacomolepri.com/) (University of Genoa) is a musician and researcher whose work investigates the socio-cultural implications of digital instruments - combining sound art with critical/speculative design research. He is currently a MSCA Fellow examining digital lutherie practices in higher education.
+- [Andrew McPherson](https://andrewmcpherson.org/) (Imperial College London / Queen Mary University of London)
+
+With support by [Augmented Instruments Lab](https://instrumentslab.org/)
 ___
 
 ##### Workshop structure and resources
