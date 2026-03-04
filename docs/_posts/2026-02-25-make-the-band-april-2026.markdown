@@ -73,7 +73,7 @@ ___
 
 ___
 
-The workshop's activities alternate between doing and showing — short bursts of collective making followed by moments of reflection and presentation. 
+The workshop's activities alternate between doing and showing — short sessions of collective making followed by moments of reflection and presentation. 
 Each day runs from 9:30 to 17:00 — though afternoons may linger.
 
 | Day 1                                  | Day 2                    |
