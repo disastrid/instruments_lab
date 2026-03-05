@@ -58,8 +58,8 @@ ___
 
 ##### Featured Mentors
 
-- [Tove Grimstad Bang](https://tovebang.com/) Tove Grimstad Bang is a Postdoctoral researcher at Ircam, in the ISMM (Sound Music Movement Interaction) team. Working in Human–Computer Interaction, her research revolves around interactive technology in contexts of music and movement practice.
-- [Robert Jack](https://roberthjack.github.io/tag/instruments/) is co-founder and director of Bela, where he works on product design and development for a range of open hardware tools and electronic musical instruments. He completed his PhD on the sense of touch in digital musical instrument design at the Augmented Instruments Lab at Queen Mary University of London. He has taught at the Royal College of Art, Aalto University, and University of London. As a sound designer, his work has been presented across Europe, including at the Venice Biennale, Union Chapel, Cosmic House, and Kunsthalle Baden-Baden.
+- [Tove Grimstad Bang](http://tovebang.com/) Tove Grimstad Bang is a Postdoctoral researcher at Ircam, in the ISMM (Sound Music Movement Interaction) team. Working in Human–Computer Interaction, her research revolves around interactive technology in contexts of music and movement practice.
+- [Robert Jack](https://roberthjack.github.io/tag/instruments/) is co-founder and director of Bela, where he works on product design and development for a range of open hardware tools and electronic musical instruments. He completed his PhD on the sense of touch in digital musical instrument design at the Augmented Instruments Lab at Queen Mary University of London.
 - [Giacomo Lepri](https://www.giacomolepri.com/) is a musician and researcher whose work investigates the socio-cultural implications of digital instruments - combining sound art with critical/speculative design research. He is currently a MSCA Fellow at the University of Genoa, examining digital lutherie practices in higher education.
 - [Andrew McPherson](https://andrewmcpherson.org/) is a Professor in the Dyson School of Design Engineering at Imperial College London, where he leads the Augmented Instruments Laboratory. He brings a background as a composer, viola player, electronic engineer and HCI researcher to the design and critical study of new instruments.
 
@@ -78,7 +78,7 @@ Each day runs from 9:30 to 17:00 — though afternoons may linger.
 
 | Day 1                                  | Day 2                    |
 |----------------------------------------|--------------------------|
-| Welcome (9–am)                         | Thinking with the hands  |
+| Welcome (9am)                         | Thinking with the hands  |
 | Dream the Band Up                      | Bela Snippet             |
 | Lunch                                  | Lunch                    |
 | Pretending Imaginary Sounds            | Making                   |
