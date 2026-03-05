@@ -13,20 +13,16 @@ excerpt: Imperial College London
 ***Artists, technologists and makers are invited to take part in a speculative workshop to dream up fictional bands, along with their musical imaginaries, and build the instruments they play.***
 
 >**Making inconceivable instruments for impossible bands.**<br>
->
 >**Does this sound fun? Please, join us!**
 
 <!--
 Speculating collectively to escape the music tools and procedures we've grown used to. Subverting the ways we think of musical tools to reveal the influence of musical discourse and imaginaries.**<br>
->
 >**Does this sound fun? Please, join us!**
 -->
 
-The workshop will be held at Imperial College London - [South Kensington campus](https://www.imperial.ac.uk/visit/campuses/south-kensington/), London.
-
 ##### Application Deadline April 3
 
-Please complete the form below to join the workshop - Places are limited to approximately 25 participants. 
+Please complete the form below to join the workshop, places are limited to approximately 20 participants. 
 
 ***[Let's Make a Band Application Form](https://forms.gle/Si3mKjVekRUEKSXUA)***
 
@@ -36,21 +32,13 @@ Please complete the form below to join the workshop - Places are limited to appr
 Piano Activities, International Festival of the Newest Music at Weisbaden Festum Fluxorum, 1962
 </sup>
 
-<!--
-
-##### Organiser
-
-___
-
--->
-
 ___
 
 ##### Let's make a band
 
 Let's Make a Band is a hands-on, playful and critical workshop where music and technology get tangled up in unexpected ways. Together, participants invent fictional - possibly improbable - bands, complete with genre, look, member personas, and the universe they come from. From there, the focus shifts to the instruments: what would this band actually play, and how would sound, bodies, and technologies relate within their invented musical world?
 
-Participants will be introduced to unconventional design approaches like absurd making and bodystorming, and get hands-on experience with the [Bela platform](https://bela.io/) — a maker tool designed specifically for building interactive musical instruments. No prior experience with electronics or prototyping is needed. Participants collectively sketch, build, and play, culminating in a short gig where newly prototyped instruments are presented.
+Participants will be introduced to unconventional design approaches like absurd making and Dalcroze estrangement, and get hands-on experience with the [Bela platform](https://bela.io/) - a maker tool designed specifically for building interactive musical instruments. No prior experience with electronics or prototyping is needed. Participants collectively sketch, build, and play, culminating in a short gig where newly prototyped instruments are presented.
 
 Beyond making, the workshop is a chance to collaborate with musicians, artists, researchers, and makers, learn from a group of experienced mentors, and leave with new skills, new ideas, and new friends.
 
@@ -58,13 +46,12 @@ ___
 
 ##### Featured Mentors
 
-- [Tove Grimstad Bang](http://tovebang.com/) Tove Grimstad Bang is a Postdoctoral researcher at Ircam, in the ISMM (Sound Music Movement Interaction) team. Working in Human–Computer Interaction, her research revolves around interactive technology in contexts of music and movement practice.
-- [Robert Jack](https://roberthjack.github.io/tag/instruments/) is co-founder and director of Bela, where he works on product design and development for a range of open hardware tools and electronic musical instruments. He completed his PhD on the sense of touch in digital musical instrument design at the Augmented Instruments Lab at Queen Mary University of London.
+- [Tove Grimstad Bang](http://tovebang.com/) Tove Grimstad Bang is a Postdoctoral researcher at IRCAM, in the ISMM (Sound Music Movement Interaction) team. Working in Human–Computer Interaction, her research revolves around interactive technology in contexts of music and movement practice.
+- [Robert Jack](https://roberthjack.github.io/tag/instruments/) is co-founder and director of Bela, where he works on product design and development for a range of open hardware tools and electronic musical instruments. He completed his PhD on the sense of touch in digital musical instrument design at the Centre for Digital Music (QMUL).
 - [Giacomo Lepri](https://www.giacomolepri.com/) is a musician and researcher whose work investigates the socio-cultural implications of digital instruments - combining sound art with critical/speculative design research. He is currently a MSCA Fellow at the University of Genoa, examining digital lutherie practices in higher education.
 - [Andrew McPherson](https://andrewmcpherson.org/) is a Professor in the Dyson School of Design Engineering at Imperial College London, where he leads the Augmented Instruments Laboratory. He brings a background as a composer, viola player, electronic engineer and HCI researcher to the design and critical study of new instruments.
 
-With support from [Augmented Instruments Lab](https://instrumentslab.org/)
-
+Throughout the workshop, the fantastic members of the [Augmented Instruments Laboratory](https://instrumentslab.org/) will be on hand to support and collaborate with participants.
 ___
 
 ##### Workshop structure and resources
@@ -73,22 +60,21 @@ ___
 
 ___
 
-The workshop's activities alternate between doing and showing — short sessions of collective making followed by moments of reflection and presentation. 
-Each day runs from 9:30 to 17:00 — though afternoons may linger.
+The workshop's activities alternate between doing and showing: short sessions of collective making followed by moments of reflection and presentation. 
+Each day runs from 9:30 to 17:00 - though afternoons may linger.
 
 | Day 1                                  | Day 2                    |
 |----------------------------------------|--------------------------|
-| Welcome (9am)                         | Thinking with the hands  |
+| Welcome (9am)                          | Thinking with the hands  |
 | Dream the Band Up                      | Bela Snippet             |
 | Lunch                                  | Lunch                    |
 | Pretending Imaginary Sounds            | Making                   |
 | Bela Snippet                           | Making                   |
 | The Choreography Around the Instrument | The Debut                |
 
+The workshop will be held at Imperial College London - [South Kensington campus](https://www.imperial.ac.uk/visit/campuses/south-kensington/), London.
 
-<!--
-{% include single-image-research.html fileName="make-the-band/Schedule.png" %}
--->
+
 ___
 
 The tools and materials provided to the participants will include:
@@ -98,26 +84,10 @@ The tools and materials provided to the participants will include:
 - basic circuitry and sensors
 - Bela maker platform (to be returned at the end of the workshop)
 
-If needed, participants are encouraged to bring any particular tool or material (subject to communication with the organising committee - see Application Form above) and use any open-source or free resource. The workshop is free, but we are unable to reimburse any expenses (e.g. travel or accommodation) for accepted participants.
+If needed, participants are encouraged to bring any particular tool or material (subject to communication with the organising committee - see Application Form above) and use any open-source or free resource. The workshop is free and open to participants aged 18 and over. We are unable to reimburse any expenses (e.g. travel or accommodation) for accepted participants.
 
 From the initial gathering of ideas to the final presentation of artefacts, core elements of the event will be collaboration and mutual support. The organising committee will try its best to welcome and make everyone comfortable. Cordiality and sharing are therefore expected from all participants as well.
 
-<!--
-
-##### Mentors
-
-In order to support participants two external mentors have been invited to join the event. These guests have significant experience in the fileds of music technology, research through design, DIY, absurd making and other related fields. The mentors will be on site for the all duration of the workshop, guiding and challenging participants from both technical and theoretical viewpoints.
-
-***John Bowers***
-
-[John Bowers](https://www.ncl.ac.uk/sacs/staff/profile/johnbowers.html) (UK) works with modular synthesisers, home-brew electronics, reconstructions of antique image and sound-making devices, self-made software, field recordings and esoteric sensor systems. He makes performance environments which mix sound, image and gesture at a fundamental material level, sometimes accompanied by spoken text. Former researcher in the [Interaction Research Studio](https://www.gold.ac.uk/interaction/) - Goldsmiths University of London, he is currently Professor of Creative Digital Practice in Culture Lab and Fine Art, Newcastle University, and helps coordinate the label Onoma Research.
-
-
-***Hannah Perner-Wilson***
-
-[Hannah Perner-Wilson](https://www.plusea.at) (AT) explores the electrical properties of materials and traditional and contemporary craft techniques, developing new techniques for building electronics that emphasize materiality and process. She believes that this will allow us to build electronics that are more diverse, understandable and expressive than electronics currently are. She is part of the collective [KOBAKANT](https://www.kobakant.at/?category_name=work) which, amongst many commissions and art projects, published an online database [How To Get What You Want](https://www.kobakant.at/DIY/) for sharing DIY wearable technology approach.
-
--->
 ___
 
 {% include single-image-research.html fileName="make-the-band/ChemistryOfMusic.jpg" %}
@@ -128,10 +98,6 @@ George Brecht, Chemistry of Music, 1969 - fluxusisland.org
 ___
 
 ##### For the curious
-
-<!--
-The premise is simple but provocative: what happens when we invent a musical universe that doesn't exist, and build instruments for that universe? By sidestepping familiar music-technology categories like controller, mapping, or sound generator, the workshop treats instrument design as something that emerges from socio-cultural imaginaries rather than technical convention.
--->
 
 The workshop is grounded in the idea that musical instruments are never just tools - they carry with them histories, assumptions, and ways of thinking about sound, bodies, and culture. So, what happens when we invent a musical universe that doesn't exist, and build instruments for that universe? By sidestepping familiar music-technology categories like controller, mapping, or sound generator, the workshop treats instrument design as something that emerges from socio-cultural imaginaries rather than technical convention.
 
@@ -147,19 +113,12 @@ This event is part of DECODMI (Discovering Education in Communities of Digital M
 -   [Speculative Everything](https://readings.design/PDF/speculative-everything.pdf)
 -   [Dreamscapes of Modernity - Sociotechnical Imaginaries and the Fabrication of Power](https://press.uchicago.edu/ucp/books/book/chicago/D/bo20836025.html)
 
-<br>
-<br>
+___
+
+Front images credits: Charlotte Moorman performed John Cage’s “26′1.1499″ for a String Player” in Chicago in 1969.
 
 ___
 
-Front images credits:
-
-Charlotte Moorman performed John Cage’s “26′1.1499″ for a String Player” in Chicago in 1969.
-
-___
-
-<br>
-<br>
 
 The workshop is supported by the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 101150317 (“DECODMI”) hosted at the University of Genoa.
 
