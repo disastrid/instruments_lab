@@ -20,17 +20,17 @@ Speculating collectively to escape the music tools and procedures we've grown us
 >**Does this sound fun? Please, join us!**
 -->
 
-##### Application Deadline April 3
-
-Please complete the form below to join the workshop, places are limited to approximately 20 participants. 
-
-***[Let's Make a Band Application Form](https://forms.gle/Si3mKjVekRUEKSXUA)***
-
 {% include single-image-research.html fileName="make-the-band/FluxusPiano01.jpg" %}
 
 <sup>
 Piano Activities, International Festival of the Newest Music at Weisbaden Festum Fluxorum, 1962
 </sup>
+
+##### Application Deadline April 3
+
+Please complete the form below to join the workshop, places are limited to approximately 20 participants. 
+
+***[Let's Make a Band Application Form](https://forms.gle/Si3mKjVekRUEKSXUA)***
 
 ___
 
@@ -46,7 +46,7 @@ ___
 
 ##### Featured Mentors
 
-- [Tove Grimstad Bang](https://tovebang.com/) Tove Grimstad Bang is a Postdoctoral researcher at IRCAM, in the ISMM (Sound Music Movement Interaction) team. Working in Human–Computer Interaction, her research revolves around interactive technology in contexts of music and movement practice.
+- [Tove Grimstad Bang](https://tovebang.com/) is a Postdoctoral researcher at IRCAM, in the ISMM (Sound Music Movement Interaction) team. Working in Human–Computer Interaction, her research revolves around interactive technology in contexts of music and movement practice.
 - [Robert Jack](https://bela.io/) is co-founder and director of Bela, where he works on product design and development for a range of open hardware tools and electronic musical instruments. He completed his PhD on the sense of touch in digital musical instrument design at the Centre for Digital Music (QMUL).
 - [Giacomo Lepri](https://www.giacomolepri.com/) is a musician and researcher whose work investigates the socio-cultural implications of digital instruments - combining sound art with critical/speculative design research. He is currently a MSCA Fellow at the University of Genoa, examining digital lutherie practices in higher education.
 - [Andrew McPherson](https://andrewmcpherson.org/) is a Professor in the Dyson School of Design Engineering at Imperial College London, where he leads the Augmented Instruments Laboratory. He brings a background as a composer, viola player, electronic engineer and HCI researcher to the design and critical study of new instruments.
