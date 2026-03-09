@@ -26,7 +26,7 @@ Speculating collectively to escape the music tools and procedures we've grown us
 Piano Activities, International Festival of the Newest Music at Weisbaden Festum Fluxorum, 1962
 </sup>
 
-##### Application Deadline April 3
+##### Application Deadline April 5
 
 Please complete the form below to join the workshop, places are limited to approximately 20 participants. 
 
