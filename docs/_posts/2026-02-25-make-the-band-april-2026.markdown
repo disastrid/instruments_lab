@@ -116,7 +116,7 @@ This event is part of DECODMI (Discovering Education in Communities of Digital M
 
 ___
 
-Front images credits: Charlotte Moorman performed John Cage’s “26′1.1499″ for a String Player” in Chicago in 1969.
+Front images credits: Charlotte Moorman and Nam June Paik performing Art by Telephone - Museum of Contemporary Art Chicago (MCA) 1969.
 
 ___
 
