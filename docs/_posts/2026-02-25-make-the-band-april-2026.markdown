@@ -66,8 +66,8 @@ Each day runs from 9:30 to 17:00 - though afternoons may linger.
 
 | Day 1                                  | Day 2                    |
 |----------------------------------------|--------------------------|
-| Welcome (9:00 am)                      | Thinking with the hands  |
-| Dream the Band Up                      | Bela Snippet             |
+| Welcome (9:00 am)                      | Bela Snippet             |
+| Dream the Band Up                      | Making                   |
 | Lunch                                  | Lunch                    |
 | Pretending Imaginary Sounds            | Making                   |
 | Bela Snippet                           | Making                   |
